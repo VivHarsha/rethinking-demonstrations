@@ -1,0 +1,16 @@
+{"task": "lama-trex", "input": "Greece maintains diplomatic relations with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "The official language of Sweden is [MASK] .", "output": "Swedish", "options": []}
+{"task": "lama-trex", "input": "Malaysia maintains diplomatic relations with [MASK] .", "output": "Indonesia", "options": []}
+{"task": "lama-trex", "input": "Slovenia shares border with [MASK] .", "output": "Austria", "options": []}
+{"task": "lama-trex", "input": "Italy maintains diplomatic relations with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "Louis Lucien Bonaparte works in the field of [MASK] .", "output": "linguistics", "options": []}
+{"task": "lama-trex", "input": "Gujarat shares border with [MASK] .", "output": "Rajasthan", "options": []}
+{"task": "lama-trex", "input": "Namibia shares border with [MASK] .", "output": "Zambia", "options": []}
+{"task": "lama-trex", "input": "Democratic Russia is located in [MASK] .", "output": "Russia", "options": []}
+{"task": "lama-trex", "input": "United States of America maintains diplomatic relations with [MASK] .", "output": "Afghanistan", "options": []}
+{"task": "lama-trex", "input": "Hengistbury Head is located in [MASK] .", "output": "Dorset", "options": []}
+{"task": "lama-trex", "input": "Ireland maintains diplomatic relations with [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-trex", "input": "Ivory Coast shares border with [MASK] .", "output": "Liberia", "options": []}
+{"task": "lama-trex", "input": "Quito is the capital of [MASK] .", "output": "Ecuador", "options": []}
+{"task": "lama-trex", "input": "The capital of Bulgaria is [MASK] .", "output": "Sofia", "options": []}
+{"task": "lama-trex", "input": "Indonesia shares border with [MASK] .", "output": "Singapore", "options": []}

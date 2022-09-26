@@ -1,0 +1,8 @@
+{"task": "commonsense_qa", "input": "Bill sits down on a whoopee cushion, what sound does he make when he sits?", "output": "flatulence", "options": ["fall asleep", "flatulence", "sigh of relief", "medium", "comfort"]}
+{"task": "commonsense_qa", "input": "What is likely heard by those going to a party?", "output": "laughter", "options": ["smoking pot", "happiness", "laughter", "babies", "meet new people"]}
+{"task": "commonsense_qa", "input": "A handsome prince is a stock character common to what?", "output": "fairy tale", "options": ["england", "fairy tale", "castle", "palace", "court"]}
+{"task": "commonsense_qa", "input": "What covers the largest percentage of the pacific northwest?", "output": "united states", "options": ["united states", "united states", "washington", "oregon", "british columbia"]}
+{"task": "commonsense_qa", "input": "When black and white balls are kicked with feet what is being played?", "output": "soccer game", "options": ["sporting event", "gym", "toy store", "baseball", "soccer game"]}
+{"task": "commonsense_qa", "input": "A snake is not something you want to come across on a plane, but it's most likely to happen while out in mother what?", "output": "nature", "options": ["nature", "pet shop", "georgia", "tropical forest", "france"]}
+{"task": "commonsense_qa", "input": "If someone had been smoking, an easy way to tell would be if they were what?", "output": "coughing", "options": ["inhale", "unhealthy", "a chimney", "go outside", "coughing"]}
+{"task": "commonsense_qa", "input": "Billy was smart but inexperienced.  In many ways he was what?", "output": "ignorant", "options": ["garish", "bright", "ignorant", "make invisible", "backward"]}

@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "Something that might happen as a consequence of thinking is [MASK] a problem.", "output": "solving", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen when you walk is [MASK].", "output": "tripping", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find at a water fountain is [MASK] water.", "output": "drinking", "options": []}
+{"task": "lama-conceptnet", "input": "Sometimes eating causes [MASK].", "output": "obesity", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"The tent collapsed.\", it is important to know that people usually only use tents when they are camping for [MASK].", "output": "fun", "options": []}
+{"task": "lama-conceptnet", "input": "A moviegoer is a kind of [MASK].", "output": "person", "options": []}
+{"task": "lama-conceptnet", "input": "A person doesn't want to be [MASK].", "output": "hatet", "options": []}
+{"task": "lama-conceptnet", "input": "Firetrucks have [MASK].", "output": "siriens", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find at a [MASK] is pets.", "output": "park", "options": []}
+{"task": "lama-conceptnet", "input": "Communicating requires [MASK].", "output": "intelligence", "options": []}
+{"task": "lama-conceptnet", "input": "The statement \"An activity someone can do is crack their knuckles\" is true because humans have [MASK] which have knuckles which can occasionally become uncomfortable.", "output": "fingers", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Roger robbed a liquor store last night.\", it is [MASK] to know that liquor is not good for the health.", "output": "important", "options": []}
+{"task": "lama-conceptnet", "input": "Bank [MASK] in private trading banks in Western Australia formed a union in 1920.", "output": "officers", "options": []}
+{"task": "lama-conceptnet", "input": "The effect of fiddling is [MASK].", "output": "unpredictable", "options": []}
+{"task": "lama-conceptnet", "input": "Something you might do while writing is check the [MASK].", "output": "spelling", "options": []}
+{"task": "lama-conceptnet", "input": "Music is [MASK].", "output": "universal", "options": []}

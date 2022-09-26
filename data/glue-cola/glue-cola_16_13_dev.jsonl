@@ -1,0 +1,16 @@
+{"task": "glue-cola", "input": "Fred threw the ball behind the tree.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "John deposited some money in the checking account on Friday and Mary did the same thing.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Gwen exchanged the dress for Mary.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The scratches removed from the tabletop.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "She did away with her father.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "A medal was been given to the mayor by the sewer commissioner.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Emily caused Benjamin to see himself in the mirror.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Who gave what to whom?", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "He might maybe do that, mightn't he?", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The change pocketed.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "We persuaded them to examine them.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The president could not approve the bill, could he?", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Jessica loaded boxes onto the wagon.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "One of the problems was the robins.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Flo desperately wants, though she doesn't really expect, the Miami Dolphins to be in the play-offs.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The car honked down the road.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}

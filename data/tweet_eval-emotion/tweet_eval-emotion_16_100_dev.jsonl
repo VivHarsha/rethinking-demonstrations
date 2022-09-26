@@ -1,0 +1,16 @@
+{"task": "tweet_eval-emotion", "input": "Feels like I lost my best friend #lost #fml #missingyou", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user @user I dread to think!", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user @user what I miss? #outrage", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Unbelievable takes 10 minutes to get through to @user then there's a fault and the call hangs up  #treatcustomersfairly", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user Miss Cookie sends her thanks! She's not as spry as she used to be - like me! She doesn't have the adventures the young pups do!", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Unbelievable takes 10 minutes to get through to @user then there's a fault and the call hangs up #fuming #treatcustomersfairly", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Every time I hear @user organ kick in on the new @user I break into the goofiest smile.", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "I have a rage rage ep 2 coming out soon I'll keep you posted on it #YouTube #youtubegaming #rage", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Gosh #anxiety attacks turning into #Panic attacks are fucking ugly ....", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user @user they're both pretty awful when you look at them historically", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user @user @user not to worry, he'll flip Wisconsin", "output": "optimism", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Worst juror ever? Michelle. You were Nicole's biggest threat.  #bb18", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Turkish exhilaration: for a 30% shade off irruptive russian visitors this twelvemonth, gobbler is nephalism so...", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "I really want to go for fright night but I really don't \ud83d\ude01", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Romero, Rojo, Blind, Memphis, Rooney. This is nearly a starting line up I\u2019d wanna punch in the face rather than shake their hand.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Before the year ends I'll probably get master 12s or flu games, true blues, and space jams.", "output": "optimism", "options": ["anger", "joy", "optimism", "sadness"]}

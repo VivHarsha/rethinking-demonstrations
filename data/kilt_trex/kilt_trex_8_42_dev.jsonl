@@ -1,0 +1,8 @@
+{"task": "kilt_trex", "input": "Crime and Dissonance [SEP] performer", "output": "Ennio Morricone", "options": []}
+{"task": "kilt_trex", "input": "Pseudamara [SEP] taxon rank", "output": "genus", "options": []}
+{"task": "kilt_trex", "input": "Thysochromis [SEP] taxon rank", "output": "genus", "options": []}
+{"task": "kilt_trex", "input": "Mani di fata [SEP] genre", "output": "comedy film", "options": []}
+{"task": "kilt_trex", "input": "Boraras [SEP] taxon rank", "output": "genus", "options": []}
+{"task": "kilt_trex", "input": "Nawan Pind Jattan [SEP] instance of", "output": "village", "options": []}
+{"task": "kilt_trex", "input": "Table Mountain [SEP] located in the administrative territorial entity", "output": "Western Cape", "options": []}
+{"task": "kilt_trex", "input": "Geoffrey Nutter [SEP] occupation", "output": "poet", "options": []}

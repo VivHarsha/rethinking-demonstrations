@@ -1,0 +1,8 @@
+{"task": "lama-conceptnet", "input": "[MASK] is a type of hurricane.", "output": "Disaster", "options": []}
+{"task": "lama-conceptnet", "input": "Potatoes can be [MASK].", "output": "fried", "options": []}
+{"task": "lama-conceptnet", "input": "The story \"Praying\" has the step \"I ask Him to guide me to the path of righteousness and to help me to to grow in my [MASK] of Him.\".", "output": "faith", "options": []}
+{"task": "lama-conceptnet", "input": "Debbie has [MASK].", "output": "kids", "options": []}
+{"task": "lama-conceptnet", "input": "Exercise strenghtens the [MASK] against illness.", "output": "body", "options": []}
+{"task": "lama-conceptnet", "input": "A person doesn't want [MASK].", "output": "mistrust", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is fleet.", "output": "navy", "options": []}
+{"task": "lama-conceptnet", "input": "Many people find [MASK] words towards others to be funny.", "output": "hurtful", "options": []}

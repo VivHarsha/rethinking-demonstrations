@@ -1,0 +1,8 @@
+{"task": "freebase_qa", "input": "Who has presented Give Us A Clue, Child's Play, and Crackerjack?", "output": "michael aspel", "options": []}
+{"task": "freebase_qa", "input": "Nadgett, Elijah Pogram and Tom Pinch appear in which Dickens novel?", "output": "martin chuzzlewit", "options": []}
+{"task": "freebase_qa", "input": "Which of the Seven Wonders of the Ancient World stood at Ephesus?", "output": "temple of artemis", "options": []}
+{"task": "freebase_qa", "input": "Which university did Prince Charles attend?", "output": "cambridge", "options": []}
+{"task": "freebase_qa", "input": "What is the capital city of Estonia?", "output": "tallinn", "options": []}
+{"task": "freebase_qa", "input": "What was the nickname of Queen Mary I of England?", "output": "bloody mary", "options": []}
+{"task": "freebase_qa", "input": "As well as the `Stars and Stripes` what other name is given to the flag of the USA?", "output": "old glory", "options": []}
+{"task": "freebase_qa", "input": "Which Madonna song mentions Grace Kelly, Joe Dimaggio, and Rita Hayworth?", "output": "vogue", "options": []}

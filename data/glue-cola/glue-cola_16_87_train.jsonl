@@ -1,0 +1,16 @@
+{"task": "glue-cola", "input": "Mary is often running the marathon.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The man that arrived on the train was my brother.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Mr Knightley suggested that thieves would break into Hartfield.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "It is important for us to spend time with children.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Why don't you pick some review up of this article?", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Please make yourself comfortable and I'll wash the dishes.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Is likely to Jean dance.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I've got to try and I've got to find that screw.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I went to the store and I bought some whiskey.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The president that Fred voted for dislikes his opponents.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Jennifer craned his neck.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Each of the suggestions is acceptable.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The metal was hammered flat.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "People from Tucson think very highly of themselves.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Although Mr D'Arcy disliked Mrs Bennet he married Elizabeth.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Carrie touched the stick against the cat.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}

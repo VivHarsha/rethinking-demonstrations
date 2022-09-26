@@ -1,0 +1,8 @@
+{"task": "emotion", "input": "i feel jolly", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i will not feel so alone anymore", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i even feel that he is still feel gloomy and moody till now", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "once i was caught by thugs aged between", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel tortured when i hear them talk or sing or laugh or cry", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i had finally had enough of feeling defeated by myself", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel for the natives who welcomed me and others with open arms and hearts back then and wonder how they cope", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel like i am losing confidence but for now i feel calm", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}

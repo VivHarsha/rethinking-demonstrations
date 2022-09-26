@@ -1,0 +1,8 @@
+{"task": "commonsense_qa", "input": "Where would you find many products for sale?", "output": "market", "options": ["market", "cost one dollar", "shelf", "salon", "demonstration"]}
+{"task": "commonsense_qa", "input": "James is a gardener.  That is his profession.  He gardens.  What is one thing that he cannot do in his job?", "output": "pick flowers", "options": ["water plants", "burn plants", "pick berries", "pick flowers", "water garden"]}
+{"task": "commonsense_qa", "input": "Laura likes blue anemones, and John wants to give her something special for her birthday.  Where might John go to get an anemone for Laura?", "output": "flower shop", "options": ["flower pot", "joe mama's tea room", "flower shop", "tide pool", "seafood restaurant"]}
+{"task": "commonsense_qa", "input": "Where can you find  a pretty flower in the ground?", "output": "park", "options": ["shelf", "windowsill", "park", "in the snow", "vase"]}
+{"task": "commonsense_qa", "input": "If you are to play Monopoly it is over when one person has done what?", "output": "win game", "options": ["win game", "makes feel happy", "the timer stops", "have fun", "enjoy yourself"]}
+{"task": "commonsense_qa", "input": "Where would a beauty parlor be?", "output": "building", "options": ["georgian houses", "city", "building", "victorian house", "underwater"]}
+{"task": "commonsense_qa", "input": "Where are you likely to find a cubicle for many corporations?", "output": "office building", "options": ["office building", "work", "bank", "office work", "restroom"]}
+{"task": "commonsense_qa", "input": "Where are hot dogs are a commonly sold item away from a grocery store?", "output": "sporting event", "options": ["park", "disneyland", "churro stand", "bowling alley", "sporting event"]}

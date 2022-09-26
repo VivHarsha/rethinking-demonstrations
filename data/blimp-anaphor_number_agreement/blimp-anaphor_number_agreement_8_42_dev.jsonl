@@ -1,0 +1,8 @@
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: The guests know themselves. [SEP] sentence 2: The guests know itself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Those students complained about himself. [SEP] sentence 2: Those students complained about themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Tamara hasn't kissed herself. [SEP] sentence 2: Tamara hasn't kissed themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Roger kissed himself. [SEP] sentence 2: Roger kissed themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Most girls irritated itself. [SEP] sentence 2: Most girls irritated themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Many students aren't aggravating itself. [SEP] sentence 2: Many students aren't aggravating themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Some actors haven't aggravated themselves. [SEP] sentence 2: Some actors haven't aggravated itself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Some actors shock herself. [SEP] sentence 2: Some actors shock themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}

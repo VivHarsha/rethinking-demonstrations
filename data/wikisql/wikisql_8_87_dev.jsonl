@@ -1,0 +1,8 @@
+{"task": "wikisql", "input": "What was Australia's place?", "output": "SELECT Place FROM table WHERE Country = australia", "options": []}
+{"task": "wikisql", "input": "Which Programming has a Channel of 35.4?", "output": "SELECT Programming FROM table WHERE Channel = 35.4", "options": []}
+{"task": "wikisql", "input": "What is the lowest attendance with week 14?", "output": "SELECT MIN Attendance FROM table WHERE Week = 14", "options": []}
+{"task": "wikisql", "input": "In what year was there an award for TV Adicto Golden Awards and the category Female Revelation?", "output": "SELECT Year FROM table WHERE Award = tv adicto golden awards AND Category = female revelation", "options": []}
+{"task": "wikisql", "input": "What is the fewest losses that Ballarat FL of Lake Wendouree has when the wins are smaller than 9?", "output": "SELECT MIN Losses FROM table WHERE Ballarat FL = lake wendouree AND Wins < 9", "options": []}
+{"task": "wikisql", "input": "What is the lowest week number that had a game on December 3, 1967?", "output": "SELECT MIN Week FROM table WHERE Date = december 3, 1967", "options": []}
+{"task": "wikisql", "input": "Who did the Mariners play when their record was 26\u201332?", "output": "SELECT Opponent FROM table WHERE Record = 26\u201332", "options": []}
+{"task": "wikisql", "input": "Who was the Partner for Flavio Cipolla Simone Vagnozzi Opponents in the final?", "output": "SELECT Partner FROM table WHERE Opponents in the final = flavio cipolla simone vagnozzi", "options": []}

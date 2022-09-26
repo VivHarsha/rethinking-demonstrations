@@ -1,0 +1,16 @@
+{"task": "trec", "input": "What product did William Horlick discover and produce ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Name the only extant trilogy of classical Greek plays .", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "When was the slinky invented ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How fast can a Corvette go ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What capital is built around Monument Circle which contains soldiers and sailors monument ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What Mediterranean island is home to the first Club Med ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What Caribbean cult did Marcus Garvey originate ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How many people are taller than 7 feet ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who wrote The Red Badge of Courage ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What Morris West novel deals with Russian bishop who becomes Pope ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What racehorse won an Associated Press poll as the greatest horse of the 20th century ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who was Sherlock Holmes 's archenemy ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Aspartame is also known as what ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How many colors are there in the spectrum ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who portrayed Maggio in the film From Here to Eternity ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who is the superstar in rent-a-cars ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}

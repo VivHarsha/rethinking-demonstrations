@@ -1,0 +1,16 @@
+{"task": "lama-squad", "input": "Scientists think all of the plagues originated from [MASK].", "output": "China", "options": []}
+{"task": "lama-squad", "input": "The French ancestry of some South Africans is identified by [MASK].", "output": "names", "options": []}
+{"task": "lama-squad", "input": "The arket price of skill is reflected by [MASK].", "output": "wages", "options": []}
+{"task": "lama-squad", "input": "The top 400 richest Americans have more than half of the [MASK] of all Americans combined.", "output": "wealth", "options": []}
+{"task": "lama-squad", "input": "Kublai Khan was Ogedei Khan's [MASK].", "output": "nephew", "options": []}
+{"task": "lama-squad", "input": "Raghuram Rajan is an [MASK].", "output": "economist", "options": []}
+{"task": "lama-squad", "input": "The primary race of students attending Christian academies was [MASK].", "output": "white", "options": []}
+{"task": "lama-squad", "input": "The Normans combine with the [MASK] culture in Ireland.", "output": "Irish", "options": []}
+{"task": "lama-squad", "input": "Norman architecture has [MASK] arches.", "output": "rounded", "options": []}
+{"task": "lama-squad", "input": "The ad shown during the Super Bowl with the trailer of X-Men: Apocalypse was paid by [MASK].", "output": "Fox", "options": []}
+{"task": "lama-squad", "input": "Thousands of Huguenots were killed by [MASK].", "output": "Catholics", "options": []}
+{"task": "lama-squad", "input": "California Institute of Technology is a [MASK] university.", "output": "private", "options": []}
+{"task": "lama-squad", "input": "The long-term preservation of the V&A collections is due to [MASK].", "output": "Conservation", "options": []}
+{"task": "lama-squad", "input": "The economy of southern California is depedent on [MASK].", "output": "petroleum", "options": []}
+{"task": "lama-squad", "input": "The first US state to have compulsory education was [MASK].", "output": "Massachusetts", "options": []}
+{"task": "lama-squad", "input": "In later years Luther strike out against [MASK].", "output": "Jews", "options": []}

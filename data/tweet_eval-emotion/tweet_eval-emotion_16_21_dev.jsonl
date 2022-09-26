@@ -1,0 +1,16 @@
+{"task": "tweet_eval-emotion", "input": "Egyptian officials expressed frustration and outrage over the Obama/Hillary administration\u2019s support of the Muslim Brotherhood", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "LVG bribed all the refs against Utd for his own personal revenge. That was a foul you prick.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "A night where depression is winning... #depression #fml #help", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user I fear for the future of mankind", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "13 hour @user rides make me #angry #sorry", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "I hate freaking out and ruining things. #anxiety", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "These people irritate tf out of me I swear \ud83d\ude44 I'm goin to sleep \u270c\ud83c\udffe\ufe0f", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user this is so absurd I could laugh right now (if I also didn't feel like crying for the future of our country).  #wakeupcall", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "im so gloomy today", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "What a shamefull, unequal, dangerous and worrying world we live in nowadays!  #terrifying #Charlotte #terrorism #shitworldforourkids", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user #klitschko @user over fury any day #boxing", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "What a fucking muppet.  @user #fuming #stalker.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Texans played horrible.  Bad play calling, bad protection of the ball, bad coaching, bad defense, bad overall performance. #Texans #horrible", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user @user put so much artefact points into fury and cant raid... literally wasted 1 month of my life! Thanks blizzard", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "They're both awful in their own ways, but just saying. The way he treated Aniston alone makes him a nightmare male narcissist to be avoided.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user maybe he had constipation issues..? Not that I KNOW dates relieve such an affliction! No way jose!", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}

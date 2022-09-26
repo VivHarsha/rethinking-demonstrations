@@ -1,0 +1,16 @@
+{"task": "google_wellformed_query", "input": "What is the blob of the secret garden book ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Where is the chromatin material located ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How many breathes in one minutes ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Australian town that holds the hottest record ever ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is acetaminophen made out of ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is their house number ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How do you beat the Golden Habor on Skullduggery Island ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How do you have a big brest ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Synovial fluid plasma vs extracellular fluid ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Why were charles lindbergh and amelia earhart american heros ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Can you give 20 examples of non-locomotor dances with pictures ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What was the class of the victorian era ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Where terry fox grow up ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What money do people use in columbia ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is one capital of europe ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Where did Leonardo Da Vince spend his last years ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}

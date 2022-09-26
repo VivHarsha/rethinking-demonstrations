@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "The Great Waldo Pepper's cast included Susan Sarandon.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "South Korea's alphabet is known as a Korean word.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Massachusetts is in New England.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Kristen Bell was in Forgetting Sarah Marshall released in 2008.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Rope was directed by Elizabeth Warren.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Philip V of Spain failed to become a king.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Jean-Martin Charcot was born in November 1825.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Taraji P. Henson starred in a film.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

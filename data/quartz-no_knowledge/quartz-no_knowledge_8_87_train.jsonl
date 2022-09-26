@@ -1,0 +1,8 @@
+{"task": "quartz-no_knowledge", "input": "A thin wire will carry _____ current than a large piece of wire.", "output": "less", "options": ["more", "less"]}
+{"task": "quartz-no_knowledge", "input": "Robin has an old computer that runs slowly, and Bryan has a powerful new computer. When working on the same task, the computer that will finish the task first is", "output": "Bryan's", "options": ["Robin's", "Bryan's"]}
+{"task": "quartz-no_knowledge", "input": "As waves on the ocean grow in size and number they have.", "output": "more energy", "options": ["more energy", "less energy"]}
+{"task": "quartz-no_knowledge", "input": "Will weighs 180 pounds while Nat weights 120 pounds, who would accelerate more after the same force is applied?", "output": "Nat", "options": ["Will", "Nat"]}
+{"task": "quartz-no_knowledge", "input": "If Mona is performing a science experiment involving chemicals and she decreases the temperature in her lab, what will happen to the amount of chemical weathering she experiences?", "output": "decrease", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "If Mona lives in a city that begins producing a smaller amount of pollutants, what happens to the air quality in that city?", "output": "increases", "options": ["increases", "decreases"]}
+{"task": "quartz-no_knowledge", "input": "Polly was out in the sun. She has light skin. Her skin likely absorbs _____ vitamin D than a dark-skinned person.", "output": "more", "options": ["more", "less"]}
+{"task": "quartz-no_knowledge", "input": "A membrane with fewer folds will have _____ than one with more folds.", "output": "less ribosomes", "options": ["more", "less ribosomes"]}

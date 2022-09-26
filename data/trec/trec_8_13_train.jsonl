@@ -1,0 +1,8 @@
+{"task": "trec", "input": "What girl 's name is `` Teddy '' an affectionate form of ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What actor came to dinner in Guess Who 's Coming to Dinner ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Where does Mother Angelica live ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is narcolepsy ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the time it takes a typist to type a screenplay that is 100 pages long ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How many people in America snore ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the estimated total U.S. whitetail deer population ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Why do some people have two different color eyes ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}

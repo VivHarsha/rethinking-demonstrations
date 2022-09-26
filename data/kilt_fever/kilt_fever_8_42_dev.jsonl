@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "Tyrese Gibson is famous for his part in the Transformers film series.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Mariah Carey only has a style in which she sings one note per syllable.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "VHS was released in 1978 in the United States.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "World War II was fought between the Allies of World War II and the Axis powers.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Giacomo Casanova was from outside of the Republic of Venice.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Felicity Jones portrayed Jane Hawking.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Sharon Stone stars in The Muse.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "David Thewlis is an actor.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

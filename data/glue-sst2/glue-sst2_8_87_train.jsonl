@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: titular", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: 's hard to imagine any recent film , independent or otherwise , that makes as much of a mess as this one", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: amused and entertained by the unfolding of bielinsky 's", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a wonderful ensemble cast", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a treatise on spirituality as well as", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: like smoke signals , the film is also imbued with strong themes of familial ties and spirituality that are powerful and moving without stooping to base melodrama", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: powerful young actor", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: perfectly entertaining summer diversion", "output": "positive", "options": ["negative", "positive"]}

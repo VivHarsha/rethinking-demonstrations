@@ -1,0 +1,8 @@
+{"task": "emotion", "input": "ive made it through a week i just feel beaten down", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel this strategy is worthwhile", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel so worthless and weak what does he have to say that s what i want to find out", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel clever nov", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "im moved in ive been feeling kind of gloomy", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i allowed myself to feel the really shitty feelings while i was running because a the endorphins were flowing so it hurt less and b so i could pretend i was running away from them", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel confused too", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel like a crappy mummy if were stuck in but there are days where i really cant face much else then venturing out to the garden at pm", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}

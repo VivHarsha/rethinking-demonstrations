@@ -1,0 +1,8 @@
+{"task": "hate_speech18", "input": "Calman", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Kimora Lee Simmons", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Last week the crowd were chucking snowballs at Peter Shilton .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "There's no way to stop them from coming to Canada all that is needed is proof of ownership of a house in India , africa etc and they can enter in on a tourist visa .", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "http://www.azcentral.com/news/articl...glary1219.html = = = = = = = = = = = = About 10 p.m. Dec. 9 , police were called to Ed 's Fish and Chips , 306 N. Central Ave. , for a reported armed robbery , police said .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "YouTube - & #x202a ; Walmart Greeter Beatdown ( Caught on Tape ) & #x202c ; & rlm ;", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "It is a lovely town too .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "2056", "output": "noHate", "options": ["hate", "noHate"]}

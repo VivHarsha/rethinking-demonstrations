@@ -1,0 +1,8 @@
+{"task": "tweet_eval-irony", "input": "Yay for my family leaving & going to Seneca & leaving me to fend for myself.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user everyone just wants to be you your just sooooo cool", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A decent Christmas party for a change, and an added bonus of not missing the last train for a change!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user ha yeah which is your opinion, which like mine, means nothing ;) they're in.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I retweeted this so Chris Graham blocked me. |\ud83d\ude02", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user isnt it obvious #Sadhvi case and #Rape cases are 2 different things. You cannot co-relate both thngs to 1 sentence", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just love freezing rain.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#CDC:  #Enough #Patients #Getting #Flu #Shots #This #Year: (HealthDay News) \u2013 Fewer than half of Americans have...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

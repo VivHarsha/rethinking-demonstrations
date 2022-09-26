@@ -1,0 +1,8 @@
+{"task": "google_wellformed_query", "input": "How much does Jake T. Austin weigh ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Why were Socrates ' teaching revolutionary ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What did boxing day get its name ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What kind of things do judaism celebrate ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What are the three major classes of plasma proteins ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "A solution formed by sodium hydroxide is most likely to have a pH close to what ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What number was Elie engraved with at Auschwitz ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How many different varieties of trees ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}

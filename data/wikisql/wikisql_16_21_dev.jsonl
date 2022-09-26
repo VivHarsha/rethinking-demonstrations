@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "Which venue hosted a race in 1967?", "output": "SELECT Venue FROM table WHERE Year = 1967", "options": []}
+{"task": "wikisql", "input": "On what date does visiting team Minnesota score higher than 47 points?", "output": "SELECT Date FROM table WHERE Points > 47 AND Visitor = minnesota", "options": []}
+{"task": "wikisql", "input": "What college has Jojo Manalo?", "output": "SELECT College FROM table WHERE Player = jojo manalo", "options": []}
+{"task": "wikisql", "input": "What tyre had Sergio Mantovani as a driver?", "output": "SELECT Tyre FROM table WHERE Driver = sergio mantovani", "options": []}
+{"task": "wikisql", "input": "Which class has a Class Position of 6th?", "output": "SELECT Class FROM table WHERE Class Pos. = 6th", "options": []}
+{"task": "wikisql", "input": "What is the length of the UK remix version?", "output": "SELECT Length FROM table WHERE Version = uk remix", "options": []}
+{"task": "wikisql", "input": "what is the previous conference when the year joined is 1932 and the mascot is tigers?", "output": "SELECT Previous Conference FROM table WHERE Year Joined = 1932 AND Mascot = tigers", "options": []}
+{"task": "wikisql", "input": "How many Games have a Drawn larger than 0, and a Lost of 1?", "output": "SELECT COUNT Games FROM table WHERE Drawn > 0 AND Lost = 1", "options": []}
+{"task": "wikisql", "input": "Writer Max Ehrlich, what is the minimum series number?", "output": "SELECT MIN Series # FROM table WHERE Writer(s) = Max Ehrlich", "options": []}
+{"task": "wikisql", "input": "What is the Diameter (km) of the Valle with a Longitude of 152.5e named before 1997?", "output": "SELECT MAX Diameter (km) FROM table WHERE Longitude = 152.5e AND Year named < 1997", "options": []}
+{"task": "wikisql", "input": "What is the 1994 finish in the event that had a 1998 finish of 2R?", "output": "SELECT 1994 FROM table WHERE 1998 = 2r", "options": []}
+{"task": "wikisql", "input": "what is the date when the competition is 1998 asian games?", "output": "SELECT Date FROM table WHERE Competition = 1998 asian games", "options": []}
+{"task": "wikisql", "input": "How many positions have figueirense as the team, with a played greater than 38?", "output": "SELECT COUNT Position FROM table WHERE Team = figueirense AND Played > 38", "options": []}
+{"task": "wikisql", "input": "What is the highest PL GP for a round greater than 9?", "output": "SELECT MAX Pl GP FROM table WHERE Rd # > 9", "options": []}
+{"task": "wikisql", "input": "Which Saturday has a Thursday of \u6728\u66dc\u65e5 mokuy\u014dbi", "output": "SELECT Saturday FROM table WHERE Thursday = \u6728\u66dc\u65e5 mokuy\u014dbi", "options": []}
+{"task": "wikisql", "input": "What is the amount of snow where the sunshine is 1 633, and storms are lower than 29?", "output": "SELECT AVG Snow (days/year) FROM table WHERE Sunshine (hrs/year) = 1 633 AND Storms (days/year) < 29", "options": []}

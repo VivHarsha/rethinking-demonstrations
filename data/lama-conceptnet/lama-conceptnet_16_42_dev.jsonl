@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "The world is a [MASK].", "output": "biosphere", "options": []}
+{"task": "lama-conceptnet", "input": "Most people are [MASK].", "output": "biased", "options": []}
+{"task": "lama-conceptnet", "input": "A quasar is a distant energy source in [MASK] which gives off large amounts of radiation.", "output": "space", "options": []}
+{"task": "lama-conceptnet", "input": "Australia's Racial Discrimination Act forbids a person from doing any act involving a distinction, exclusion, [MASK] or preference based on race, colour, descent or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of any human right or fundamental freedom in the political, economic, social, cultural or any other field of public life.", "output": "restriction", "options": []}
+{"task": "lama-conceptnet", "input": "Punishing someone requires a [MASK].", "output": "corner", "options": []}
+{"task": "lama-conceptnet", "input": "Weeds are [MASK].", "output": "undesirable", "options": []}
+{"task": "lama-conceptnet", "input": "Objectivism is a [MASK] proposed by Ayn Rand.", "output": "theory", "options": []}
+{"task": "lama-conceptnet", "input": "George Gershwin wrote fantastic, [MASK] songs and concertos.", "output": "melodic", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find in a [MASK] is antique.", "output": "trunk", "options": []}
+{"task": "lama-conceptnet", "input": "You are likely to find a small dog in the [MASK].", "output": "pound", "options": []}
+{"task": "lama-conceptnet", "input": "Scarves are [MASK].", "output": "neckware", "options": []}
+{"task": "lama-conceptnet", "input": "A person doesn't want [MASK].", "output": "reptilians", "options": []}
+{"task": "lama-conceptnet", "input": "Ships have [MASK].", "output": "captains", "options": []}
+{"task": "lama-conceptnet", "input": "Estrogen is a [MASK].", "output": "steroid", "options": []}
+{"task": "lama-conceptnet", "input": "A stove can be found in a [MASK].", "output": "house", "options": []}
+{"task": "lama-conceptnet", "input": "Automatism is a [MASK].", "output": "defence", "options": []}

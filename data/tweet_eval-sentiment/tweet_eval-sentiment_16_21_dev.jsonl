@@ -1,0 +1,16 @@
+{"task": "tweet_eval-sentiment", "input": "\"No work for the rest of the week means Ant-Man tomorrow morning, followed by a trip to the comic shop, and much lazing about.\"", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Who tryna go to the Bernie Sanders rally on Sunday?", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"Jeremy Ausmus eliminated in 5th place ($2,155,313) after he gets it in on the turn w/ a straight draw to Sylvia's top pair and Sylvia holds\"", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "I don't like Kanye West because he doesn't smile. -8th grade girl", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"If John Kasich was frustrated by the medias momentary obsession with the billionaire real estate mogul Tuesday, he didnt show it\"", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Happy Friday.  Here's Joe Biden being creepy with anime characters.", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Nebraska placed a nation-leading nine players on the first-ever Senior Bowl watch list released Saturday...", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Josh Hamilton pinch hit single! Venable to 2nd! DeShields at the plate! No outs! Let's go Rangers!", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "In this video WWE RAW 7 September 2015-WWE RAW 7/9/2015 Ryback vs Seth Rollins one on one in the wwe...", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\". @user ha ha , good luck, tomorrow if IK says you Gay is islamic defend tht too &amp; worship him more .Ok\"", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "I just fucked yo bitch in sum Gucci flip-flops", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"new Iron Maiden single? well alright then, thank you Friday\"", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"Hope everyone's have a nice weekend. Here's the latest WWE Power Rankings: August 7, 2015  01 Seth Rollins 02...", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "TFI Friday and Chris Evans need to fuck off back to the 90s", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Tomorrow is going to be a fun-filled day of emailing people on how and what to do so I can come back to Murray in the spring. #stressful", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "@user aren't you that dentist from Seinfeld. Have you been in anything else I may have seen?", "output": "neutral", "options": ["negative", "neutral", "positive"]}

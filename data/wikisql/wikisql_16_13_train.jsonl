@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "How many innings for the player with an average of 30.03?", "output": "SELECT MIN Innings FROM table WHERE Average = 30.03", "options": []}
+{"task": "wikisql", "input": "What is the sum of the final for finland, who placed greater than 2 and had an all around larger than 18.9?", "output": "SELECT SUM Final FROM table WHERE Place > 2 AND Nation = finland AND All Around > 18.9", "options": []}
+{"task": "wikisql", "input": "What's the to par for Hale Irwin of the United States?", "output": "SELECT To par FROM table WHERE Country = united states AND Player = hale irwin", "options": []}
+{"task": "wikisql", "input": "what is the heat when the country is united kingdom and react is less than 0.232?", "output": "SELECT MAX Heat FROM table WHERE Country = united kingdom AND React < 0.232", "options": []}
+{"task": "wikisql", "input": "What are the alternative names of those satellites where the notes are: mission failed. guidance system failed. no orbit.", "output": "SELECT Alt. Name FROM table WHERE Notes = Mission failed. Guidance system failed. No orbit.", "options": []}
+{"task": "wikisql", "input": "The Significant Relationship of Parents belongs with what Virtue?", "output": "SELECT Virtues FROM table WHERE Significant Relationship = parents", "options": []}
+{"task": "wikisql", "input": "Name the least extra points", "output": "SELECT MIN Extra points FROM table", "options": []}
+{"task": "wikisql", "input": "What points for have 30 as the game, and 73 as the total points?", "output": "SELECT Points for FROM table WHERE Games = 30 AND Total points = 73", "options": []}
+{"task": "wikisql", "input": "Name the total number of production code for  episode by steve cohen & andrew dettman", "output": "SELECT COUNT Production code FROM table WHERE Written by = Steve Cohen & Andrew Dettman", "options": []}
+{"task": "wikisql", "input": "What was the result of the game held at the As-Salt venue?", "output": "SELECT Result FROM table WHERE Venue = as-salt", "options": []}
+{"task": "wikisql", "input": "What draft pick number attended syracuse and was drafted by the Carolina panthers?", "output": "SELECT SUM Pick # FROM table WHERE NFL team = carolina panthers AND College = syracuse", "options": []}
+{"task": "wikisql", "input": "Name the number of international frieghts for domestic mail of 260", "output": "SELECT COUNT International freight FROM table WHERE Domestic mail = 260", "options": []}
+{"task": "wikisql", "input": "what is the location where the record is 1-0", "output": "SELECT Ahli FROM table WHERE Ramtha = 1-0", "options": []}
+{"task": "wikisql", "input": "What is no-yds when no.-yds is 1-13?", "output": "SELECT No-Yds FROM table WHERE No.-Yds = 1-13", "options": []}
+{"task": "wikisql", "input": "What is the top goal for the result of 2\u20133?", "output": "SELECT MAX Goal FROM table WHERE Result = 2\u20133", "options": []}
+{"task": "wikisql", "input": "What is the date the high points was lamarcus aldridge (36)?", "output": "SELECT Date FROM table WHERE High points = LaMarcus Aldridge (36)", "options": []}

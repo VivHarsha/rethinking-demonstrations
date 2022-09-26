@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_hillary", "input": "What a huge win for America! Today is absolutely historic. #EqualityWins #SCOTUSMarriage #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user #Stephens begged for his life & @user @user is begging for ur vote #NotAChanceInHell #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "So @user I believe Andrew Fastow beat you to the \"we made mistakes, as many organizations of our size do\" excuse #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "RT @user One-percenter lied about being #DeadBroke No more lies. NO to #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Cruz-- Perry 2016 @user @user It's the only win-win choice #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Dick Morris: @user is \"fundamentally corrupt\". He should know! #copolitics  #wcs15 #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "I want America to great again #WhyImNotVotingForHillary", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user took me a minute to realize where this came from #SemST", "output": "none", "options": ["against", "favor", "none"]}

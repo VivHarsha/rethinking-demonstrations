@@ -1,0 +1,16 @@
+{"task": "kilt_fever", "input": "Shonen Jump is published by Viz Media.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Kaakha Kaakha was released in 2003.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "K-pop Star 2 is incapable of involving Park Jin-young.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Augusto Pinochet was a politician.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Strain is a series.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Ronald Reagan promoted economic policies.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Supernatural pilot was written by Eric Kripke.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Pi is a mathematical variable.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "During the Ottoman Empire Suleiman the Magnificent oversaw the \"Golden\" age.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Socrates was a classical Athenian philosopher.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Matthew McConaughey was in U-571.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Psychological horror is a subgenre of horror and psychological fiction, exhibiting components of both parent genres.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Broadcast News is only a television show.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Zooey Deschanel is a keyboardist.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Ten Commandments (1956 film) is a 1956 American biblical epic film in color.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Jane Eyre was written by Emily Bront\u00eb.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}

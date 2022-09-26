@@ -1,0 +1,8 @@
+{"task": "lama-squad", "input": "Cany Ash and Robert Sakula are both [MASK].", "output": "Architects", "options": []}
+{"task": "lama-squad", "input": "The wounds that killed Tangut general Ma Jianlong were inflicted by [MASK].", "output": "arrows", "options": []}
+{"task": "lama-squad", "input": "Luther started to pursue and immediately dropped the educational study of [MASK].", "output": "law", "options": []}
+{"task": "lama-squad", "input": "Luther thought the study of law meant [MASK].", "output": "uncertainty", "options": []}
+{"task": "lama-squad", "input": "The complexity class to characterize computational tasks and efficient algorithms is [MASK].", "output": "P", "options": []}
+{"task": "lama-squad", "input": "Hero of Alexandria's was [MASK].", "output": "Greek", "options": []}
+{"task": "lama-squad", "input": "[MASK] differs from other areas in the United Kingdom regarding education.", "output": "Wales", "options": []}
+{"task": "lama-squad", "input": "Victoria's largest non-Christian religion is [MASK].", "output": "Buddhism", "options": []}

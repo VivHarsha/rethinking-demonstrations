@@ -1,0 +1,8 @@
+{"task": "wikisql", "input": "What was the high assists on April 7?", "output": "SELECT High assists FROM table WHERE Date = April 7", "options": []}
+{"task": "wikisql", "input": "What is the total capacity for the stadium of pasquale ianniello?", "output": "SELECT SUM Capacity FROM table WHERE Stadium = pasquale ianniello", "options": []}
+{"task": "wikisql", "input": "What is the sum of losses when wins is more than 6, club is camperdown and against is more than 1238?", "output": "SELECT SUM Losses FROM table WHERE Wins > 6 AND Club = camperdown AND Against > 1238", "options": []}
+{"task": "wikisql", "input": "For how many years has the Mercury Prize been awarded?", "output": "SELECT COUNT Year FROM table WHERE Award = mercury prize", "options": []}
+{"task": "wikisql", "input": "Which 2005 has a Tournament of grand slam tournaments?", "output": "SELECT 2005 FROM table WHERE Tournament = grand slam tournaments", "options": []}
+{"task": "wikisql", "input": "What is the league goals when the league cup goals is less than 0 and 16 (1) league apps?", "output": "SELECT AVG League Goals FROM table WHERE League Apps = 16 (1) AND League Cup Goals < 0", "options": []}
+{"task": "wikisql", "input": "Name the nat for total apps for 27", "output": "SELECT Nat FROM table WHERE Total Apps = 27", "options": []}
+{"task": "wikisql", "input": "What was the name of the epiode written by Gary M. Goodrich?", "output": "SELECT Title FROM table WHERE Written by = Gary M. Goodrich", "options": []}

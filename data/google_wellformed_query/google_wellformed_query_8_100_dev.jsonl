@@ -1,0 +1,8 @@
+{"task": "google_wellformed_query", "input": "What is the name of transformers theme tune ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Who invented flag football ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How many nanometers are in 8.1 cm ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Where can you find a place with laser pointers ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "The reconciliation of faith and reason ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is tape non-porous surfaces ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How many cups ina pt ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How much money is a 1863 flying eagle cents penny worth ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}

@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "The Murder of Roger Ackroyd is first published in July 1926.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Angelina Jolie was in the 1999 film Girl, Interrupted.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Fifth Element was primarily set in the 23rd millennium.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Anschluss is a phrasing.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "John Lennon was posthumously inducted into the Rock and Roll Hall of Fame.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Bruce Willis sings.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Inhumans is an upcoming television series.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The United States Army participates in conflicts in Europe and Asia.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

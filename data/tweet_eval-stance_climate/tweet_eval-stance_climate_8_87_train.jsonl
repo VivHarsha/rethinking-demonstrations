@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "Second heatwave hits NA NW popping up everywhere, and floods too, record wildfires in canada, what a mess,  time up! #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Noted climatologist, marine biologist,& oceanographer Ted Danson told us 27 yrs ago that the oceans would be dead in 10 yrs. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user there has been a ton of lightning up there every other day for the past week! #lolz #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Feeling like #SCOTUS got it right, right, right ... then very wrong. Sigh. #Climatedenial #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Wearing a sweater at the end of June! #itfeelslikespring #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user Higher sea levels & temperature, glacial retreat, warmer oceans, extreme weather events. Plenty of evidence. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Seriously, how many times can #Republicans be wrong? #ACA #LGBTRights #GovernmentShutdown #AutoBailout #StimulusSpending #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#Mission:#Climate on the road > Give your car a break (by @user #Tip #SemST", "output": "favor", "options": ["against", "favor", "none"]}

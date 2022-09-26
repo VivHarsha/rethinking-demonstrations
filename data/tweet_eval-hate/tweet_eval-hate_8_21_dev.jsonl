@@ -1,0 +1,8 @@
+{"task": "tweet_eval-hate", "input": "Half of the voters clearly want to- accept Lisbon Treaty as the UK constitution- join the Euro- allow #EU to dictate how many migrants to take in- accept Napoleonic Law (EAW, Guilty until proven innocent)- EU army- EU tax- EU law dictates (already fact)- CU racketHmmmm", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user Do I have to fight another bitch ass looking cunt today?", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "\"EU foreign policy chief Federica Mogherini said she would be pushing for EU leaders to put more money into the Trust Fund for Africa to address some of the factors that drive migrants toward Europe.\"Finally someone said it!https://t.co/AkuP6sjzfK", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "Disgusting , and bitch you are NO ROCK STAR !! YOU are a no class skank\ud83e\udd21\ud83d\ude31\ud83d\udc0d\ud83d\ude48\ud83d\ude49\ud83d\ude4a\ud83d\udc41", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "The United States is a country founded by immigrants and dependent for its success on #immigration.", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user Hitem with your purse you pussy", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "Child Prostitution: Feds Break Up Mexico-to-Queens Sex Trafficking Ring via @user", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "I cant fucking believe yall call this rape bitch wtf", "output": "hate", "options": ["hate", "non-hate"]}

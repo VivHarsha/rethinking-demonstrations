@@ -1,0 +1,16 @@
+{"task": "lama-squad", "input": "The argricultural region known for [MASK].", "output": "cattle", "options": []}
+{"task": "lama-squad", "input": "Tesla considered a [MASK] shape of space as a \"false conception\".", "output": "curved", "options": []}
+{"task": "lama-squad", "input": "The ad shown during the Super Bowl for the next Jason Bourne movie was paid by [MASK].", "output": "Universal", "options": []}
+{"task": "lama-squad", "input": "Newton's gravitational laws were seemed to be bucked by [MASK].", "output": "Mercury", "options": []}
+{"task": "lama-squad", "input": "The best medical facilities in East-Central Europe are located in [MASK].", "output": "Warsaw", "options": []}
+{"task": "lama-squad", "input": "in the mid-1960s, ABC expanded into [MASK].", "output": "Beirut", "options": []}
+{"task": "lama-squad", "input": "The second largest contrubtor to Kenyas GDP is [MASK].", "output": "Agriculture", "options": []}
+{"task": "lama-squad", "input": "In Chinese secondary schools in Malaysia, the language used is [MASK].", "output": "English", "options": []}
+{"task": "lama-squad", "input": "Genghis Khan is viewed as a contemptible perpetrator of genocide in [MASK].", "output": "Iran", "options": []}
+{"task": "lama-squad", "input": "Another type of accountant other than a CPA is a [MASK].", "output": "Chartered", "options": []}
+{"task": "lama-squad", "input": "The organization that runs the satellite that measured dust that landed on the Amazon is [MASK] .", "output": "NASA", "options": []}
+{"task": "lama-squad", "input": "An example of a virus that uses antigenic variation is [MASK].", "output": "HIV", "options": []}
+{"task": "lama-squad", "input": "A teacher would help a student with their [MASK] disability.", "output": "learning", "options": []}
+{"task": "lama-squad", "input": "In later years Luther strike out against [MASK].", "output": "Jews", "options": []}
+{"task": "lama-squad", "input": "The Super Bowl sponsor was the [MASK] clothing company.", "output": "Gap", "options": []}
+{"task": "lama-squad", "input": "A group who call themselves Huguenots lives in [MASK].", "output": "Australia", "options": []}

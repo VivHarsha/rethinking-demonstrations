@@ -1,0 +1,8 @@
+{"task": "sms_spam", "input": "Can \u00fc send me a copy of da report?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Cant think of anyone with * spare room off * top of my head", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "how are you? I miss you!", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Do you know where my lab goggles went", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "COME BACK TO TAMPA FFFFUUUUUUU", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I place all ur points on e cultures module already.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Oh baby of the house. How come you dont have any new pictures on facebook", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Can... I'm free...", "output": "ham", "options": ["ham", "spam"]}

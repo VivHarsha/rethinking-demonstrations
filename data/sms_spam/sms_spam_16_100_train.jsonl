@@ -1,0 +1,16 @@
+{"task": "sms_spam", "input": "CALL 09090900040 & LISTEN TO EXTREME DIRTY LIVE CHAT GOING ON IN THE OFFICE RIGHT NOW TOTAL PRIVACY NO ONE KNOWS YOUR [sic] LISTENING 60P MIN 24/7MP 0870753331018+", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "What about this one then.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "\u00dc come lt 25 n pass to me lar", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Was gr8 to see that message. So when r u leaving? Congrats dear. What school and wat r ur plans.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "It could work, we'll reach a consensus at the next meeting", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Yes baby! We can study all the positions of the kama sutra ;)", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Dai i downloaded but there is only exe file which i can only run that exe after installing.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "For fear of fainting with the of all that housework you just did? Quick have a cuppa", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "There bold 2  &lt;#&gt; . Is that yours", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "That sucks. So what do you got planned for your yo valentine? I am your yo valentine aren't I?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Phony \u00a3350 award - Todays Voda numbers ending XXXX are selected to receive a \u00a3350 award. If you have a match please call 08712300220 quoting claim code 3100 standard rates app", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Customer service annoncement. You have a New Years delivery waiting for you. Please call 07046744435 now to arrange delivery", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "When're you guys getting back? G said you were thinking about not staying for mcr", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "You have 1 new message. Please call 08715205273", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "After completed degree. There is no use in joining finance.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Am in film ill call you later.", "output": "ham", "options": ["ham", "spam"]}

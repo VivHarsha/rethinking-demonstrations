@@ -1,0 +1,16 @@
+{"task": "rotten_tomatoes", "input": "it's a bad action movie because there's no rooting interest and the spectacle is grotesque and boring .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "on its own , it's not very interesting . as a remake , it's a pale imitation .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "efficient , suitably anonymous chiller .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "japan's premier stylist of sex and blood hits audiences with what may be his most demented film to date .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "murder by numbers just doesn't add up .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "smith is careful not to make fun of these curious owners of architectural oddities . instead , he shows them the respect they are due .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the action is reasonably well-done . . . yet story , character and comedy bits are too ragged to ever fit smoothly together .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "a series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the problem with movies about angels is they have a tendency to slip into hokum . a rumor of angels doesn't just slip -- it avalanches into forced fuzziness .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "worth seeing once , but its charm quickly fades .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "with we were soldiers , hollywood makes a valiant attempt to tell a story about the vietnam war before the pathology set in .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the funny thing is , i didn't mind all this contrived nonsense a bit .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "a clumsily manufactured exploitation flick , a style-free exercise in manipulation and mayhem .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "it was a dark and stormy night . . .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "leaping from one arresting image to another , songs from the second floor has all the enjoyable randomness of a very lively dream and so manages to be compelling , amusing and unsettling at the same time .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "epps has neither the charisma nor the natural affability that has made tucker a star .", "output": "negative", "options": ["negative", "positive"]}

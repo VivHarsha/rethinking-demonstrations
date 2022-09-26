@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "Pierre Cartellier was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Henry Arthur Bright was born in [MASK] .", "output": "Liverpool", "options": []}
+{"task": "lama-google_re", "input": "Richard Corbould was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Kev Moore was born in [MASK] .", "output": "Chesterfield", "options": []}
+{"task": "lama-google_re", "input": "Juan David Ochoa V\u00e1squez (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Bill Barminski was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Albert McElroy was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Odofredus died in [MASK] .", "output": "Bologna", "options": []}

@@ -1,0 +1,8 @@
+{"task": "kilt_trex", "input": "Allium roylei [SEP] parent taxon", "output": "Allium", "options": []}
+{"task": "kilt_trex", "input": "Haplopappus foliosus [SEP] taxon rank", "output": "species", "options": []}
+{"task": "kilt_trex", "input": "Wei\u00dfenborn [SEP] country", "output": "Germany", "options": []}
+{"task": "kilt_trex", "input": "Ridel High [SEP] genre", "output": "power pop", "options": []}
+{"task": "kilt_trex", "input": "Strahov Monastery [SEP] country", "output": "Czech Republic", "options": []}
+{"task": "kilt_trex", "input": "Anreep [SEP] country", "output": "Netherlands", "options": []}
+{"task": "kilt_trex", "input": "Jaws [SEP] instance of", "output": "video game", "options": []}
+{"task": "kilt_trex", "input": "Irene Shepard [SEP] occupation", "output": "politician", "options": []}

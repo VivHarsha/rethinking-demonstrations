@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "The Brazilians pumped the oil across the river.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "It is a wooden desk.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I have wanted to know for many years exactly what happened to Rosa.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The roof is leaks.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Ions struck the electrode.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "They elected Graham chairman.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I pushed the table.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "If he sees one; he'll bring me a hot dog.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}

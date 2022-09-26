@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "i'm 55 and i've believed for most of my life that God only created 1 race @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I can't wait to go to the post office to get bent over with $100 shipping fees to mail my folks' #Christmas gifts to Montana.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user lids sucks officially! Will not use again good", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I guess I'm dreaming. How else am I able to visit this site. Guess they won't let a prisoner have a phone right?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "it  just had to snow and cancel our Vball tournament today...\ud83d\udd2b\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21 #ball #is  #life", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I had the best New Years!!!! Spent it with the people I love & I fucking loved it! \ud83d\ude0d Such a happy camper right now! \ud83d\ude1d\ud83d\udc9a\u2764\ufe0f", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user  a#chance#till#January! #this is so good #you always make me#smile", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user oh yeah!!! 2nd :D #HoldTheApplause hahaha lol  <33", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yay for my family leaving & going to Seneca & leaving me to fend for myself.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user everyone just wants to be you your just sooooo cool", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A decent Christmas party for a change, and an added bonus of not missing the last train for a change!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user ha yeah which is your opinion, which like mine, means nothing ;) they're in.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I retweeted this so Chris Graham blocked me. |\ud83d\ude02", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user isnt it obvious #Sadhvi case and #Rape cases are 2 different things. You cannot co-relate both thngs to 1 sentence", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just love freezing rain.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#CDC:  #Enough #Patients #Getting #Flu #Shots #This #Year: (HealthDay News) \u2013 Fewer than half of Americans have...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

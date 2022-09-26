@@ -1,0 +1,8 @@
+{"task": "lama-conceptnet", "input": "If you want to have fun then you should enjoy [MASK].", "output": "life", "options": []}
+{"task": "lama-conceptnet", "input": "Razors are [MASK] and used for cutting hair.", "output": "sharp", "options": []}
+{"task": "lama-conceptnet", "input": "The effect of playing football is having [MASK].", "output": "fun", "options": []}
+{"task": "lama-conceptnet", "input": "Stealing is a [MASK] and can result in a trial.", "output": "crime", "options": []}
+{"task": "lama-conceptnet", "input": "The fact \"Something you find in a boat is a compas\" is illustrated with the story:1. Penelope was sailing on Lake [MASK].2. She sailed too far out and became lost.3. She went below deck and retrieved her compass in order to determine her location.", "output": "Michigan", "options": []}
+{"task": "lama-conceptnet", "input": "Sometimes kissing someone causes sexual [MASK].", "output": "excitement", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen while watching a tv show is you have [MASK].", "output": "fun", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Kathy was vacationing in Florida  She chartered a boat and went [MASK] sea fishing.\", it is important to know that The purpose of fishing is to catch live fish from the water.", "output": "deep", "options": []}

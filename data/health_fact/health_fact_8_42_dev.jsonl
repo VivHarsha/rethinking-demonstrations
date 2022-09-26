@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "Latest battle to wipe out polio begins with vast vaccine switch.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "List reproduces various statements made by Hillary Clinton.", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "23 states widen challenge to Trump administration car rules.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "To be clear, all my investments are in a trust that I don\u2019t control.", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Premier infuriated by Trump, says Canada helped US amid 9/11.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Austin public schools will force parents to allow the district to teach children \"\"how to have anal sex.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Officials: Norovirus contributed to restaurant patron death.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Cargill-led fund to pay U.S. farmers for carbon capture, exchange credits.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}

@@ -1,0 +1,8 @@
+{"task": "wino_grande", "input": "Angela ordered coffee at the cafe and Erin ordered some herbal tea. _ desired something that would calm her down.", "output": "Erin", "options": ["Angela", "Erin"]}
+{"task": "wino_grande", "input": "Justin wants to have a birthday party but Derrick does not care, as _ loves relaxing alone.", "output": "Derrick", "options": ["Justin", "Derrick"]}
+{"task": "wino_grande", "input": "James washed his hand inside the big bowl after eating and got the _ dirty.", "output": "bowl", "options": ["bowl", "hand"]}
+{"task": "wino_grande", "input": "Habits are a lot easier to enjoy than routines because the _ are usually more fun.", "output": "habits", "options": ["habits", "routines"]}
+{"task": "wino_grande", "input": "Patricia is a sous chef and Laura does not like to cook so _ doesn't do any of the cooking in the house.", "output": "Laura", "options": ["Patricia", "Laura"]}
+{"task": "wino_grande", "input": "Mary poured the entire bottle of cleaning soap into the sink until the _ was full.", "output": "sink", "options": ["bottle", "sink"]}
+{"task": "wino_grande", "input": "We removed the plants from the bathroom and added flowers, as the _ were making it smell worse.", "output": "plants", "options": ["plants", "flowers"]}
+{"task": "wino_grande", "input": "Joseph likes to loaf around in their spare time but Derrick prefers to volunteer. _ spent their day off chilling at the beach.", "output": "Joseph", "options": ["Joseph", "Derrick"]}

@@ -1,0 +1,8 @@
+{"task": "trec", "input": "Where is the Mayo Clinic ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What 's the American dollar equivalent for 8 pounds in the U.K. ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who was the only president to serve two nonconsecutive terms ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What European country abandoned postage stamps in 1923 because printing them cost more than their face value ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who is William Wordsworth ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What does a man suffering from diphallic terata have ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What two countries is Andorra nestled between ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What company named one of its pens `` The Banana '' ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}

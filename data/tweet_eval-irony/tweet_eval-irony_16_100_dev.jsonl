@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "Ok watching how hurt parents are when their kids decide to elope definitely makes me change my mind about it. Small cozy wedding it is", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "When someone tries to play you and you already know their game<<< #stepoff", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I guess I'll eat leftovers for breakfast AGAIN, while others get black bear.. #cuzididntwantgoodfood  #truth #hungry \ud83d\ude12\ud83d\udc4d", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user 's twitter game is perfect tonight! #amazingness", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Digital drumsticks, thanks Grandma and Grandpa", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "True", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Kohli showing all the guts of Scooby Doo. #CaptainCourageous", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user absolutely shocking that the lamestream media hasn't picked up on this  #mediabias @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "just like that", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Feeling the irony of using  to find people ironically using the work irony wrong. #metahipster", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Putting 123 between Muhammad and Ali? I find your own twitter ID quite blasphemic and offending", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#sundayfunday #mylove #mermaidlove #newyear2015 @ Rockefeller Center", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A deal was negotiated between @user & GTAA. That deal was is hidden & built into the pricing of #UPX tix. Why all the secrecy? #TOpoli", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I have to say that Misty with Johnny Mathis is one of my favourites", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "love being able to be comfortable in my own room\ud83d\ude03\ud83d\udc4d", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The worst is when they consider things like \"conservative tribune\" as a credible source of information. Totally not bias.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}

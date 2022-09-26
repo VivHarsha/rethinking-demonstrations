@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "Commission\u2019s order supports ban on marijuana vaping products.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\u2018Electronic Nose\u2019 Sniffs Out Asthma", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Anti-abortion Republican U.S. Rep. Scott DesJarlais testified that he encouraged some women to have abortions.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "IUD Proposed to Treat Uterine Cancer", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "The benefits of chocolate during pregnancy", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Brain Implant Restores Sense Of Touch To Paralyzed Man", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"One person, Kathleen Sebelius, was going to determine whether or not\"\" 10-year-old lung patient Sarah Murnaghan would live or die.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Prompt clot-grabbing treatment produces better stroke outcomes", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}

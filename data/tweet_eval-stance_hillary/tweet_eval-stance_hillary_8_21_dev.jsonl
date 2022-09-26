@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_hillary", "input": "I need @user & @user to stop emailing me. I love you, but I need my space. #stillvotingforyou #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user welcome little sister! Love you! #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user  A Rainbow logo? Did u know only 4% of the US is gay? (2010 Census). #WhyImNotVotingForHillary #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Chipotle employees shouldn't complain Hillary left nothing in the tip jar. They're lucky she didn't dip in and help herself #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Respect FOR the law and respect BY the law Yes, needed desperately.  #BaltimoreRiots", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user Thank you so much for the follow and the FAV, Jeane!!!  Gods' best to you! #WakeUpAmerica #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user @user Hillary's new Campaign Slogan:  HILLARY - NOTHING TO HIDE EXCEPT THE TRUTH !!!  #TCOT #CCOT #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "My mom just told me she and my aunt want to volunteer on @user campaign! I support it! #SemST", "output": "favor", "options": ["against", "favor", "none"]}

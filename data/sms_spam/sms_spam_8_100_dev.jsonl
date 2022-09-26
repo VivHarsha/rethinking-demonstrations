@@ -1,0 +1,8 @@
+{"task": "sms_spam", "input": "There bold 2  &lt;#&gt; . Is that yours", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "That sucks. So what do you got planned for your yo valentine? I am your yo valentine aren't I?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Phony \u00a3350 award - Todays Voda numbers ending XXXX are selected to receive a \u00a3350 award. If you have a match please call 08712300220 quoting claim code 3100 standard rates app", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Customer service annoncement. You have a New Years delivery waiting for you. Please call 07046744435 now to arrange delivery", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "When're you guys getting back? G said you were thinking about not staying for mcr", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "You have 1 new message. Please call 08715205273", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "After completed degree. There is no use in joining finance.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Am in film ill call you later.", "output": "ham", "options": ["ham", "spam"]}

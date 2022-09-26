@@ -1,0 +1,8 @@
+{"task": "commonsense_qa", "input": "What does an airplane do before takeoff?", "output": "accelerate", "options": ["crash", "accelerate", "turn around", "catch on fire", "carry freight"]}
+{"task": "commonsense_qa", "input": "John thought that it was relaxing to do what?", "output": "lie back", "options": ["feeling better", "lie back", "lower blood pressure", "feel happy", "fall asleep"]}
+{"task": "commonsense_qa", "input": "What is someone likely to experience when having fun?", "output": "enjoyment", "options": ["enjoyment", "euphoria", "excitement", "crying", "laughter"]}
+{"task": "commonsense_qa", "input": "The roadway passed a sign and gate house, what was behind the gatehouse?", "output": "subdivision", "options": ["city", "narnia", "subdivision", "neighborhood", "countryside"]}
+{"task": "commonsense_qa", "input": "Where does a cow live?", "output": "great outdoors", "options": ["zoo", "great outdoors", "story book", "stable", "toy store"]}
+{"task": "commonsense_qa", "input": "If your opponents in a marathon is very fast it is easy to fall what?", "output": "behind", "options": ["lightly", "behind", "train", "slowly", "sitfast"]}
+{"task": "commonsense_qa", "input": "Where would you find a waiting room with only some fathers?", "output": "maternity ward", "options": ["maternity ward", "dentist's office", "doctor's office", "clinic", "pediatrist's waiting room"]}
+{"task": "commonsense_qa", "input": "If I want to build a soccer field, but can't find space in a crowded city, where should I look?", "output": "countryside", "options": ["playground", "beach", "mexico", "countryside", "park"]}

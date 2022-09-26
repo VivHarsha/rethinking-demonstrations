@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "I take of the water of life freely -Rev. 22:17 #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "@user @user If hell existed, Bush would be first in line, \"Christian\" or not. Morality transcends religion. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "@user What is more likely to be real; Bigfoot, Loch Ness Monster or God ? #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Instead of : \"Let's have a quick word of prayer before we start.\" Try: \"Let's be quick to pray before we start.\" #undefeated #fca #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Wow, unsubstantiated claims about spooks. Remember whe I said there were gullible people? @user #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "@user Bless Almighty God, Almighty Holy Spirit and the Messiah. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "#Ibrahim Orders Not to Play #Suprabatha Loud #KukkeSubramanya Temple, how come he has not ordered any mosques keep thr rant Quite!! #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Never give up, you beautiful fuckers. #Optimism #MotivationalDemotivational #SemST", "output": "none", "options": ["against", "favor", "none"]}

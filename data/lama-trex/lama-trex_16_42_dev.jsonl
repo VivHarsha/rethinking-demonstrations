@@ -1,0 +1,16 @@
+{"task": "lama-trex", "input": "Slovenia shares border with [MASK] .", "output": "Croatia", "options": []}
+{"task": "lama-trex", "input": "The capital of Japan is [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-trex", "input": "Afghanistan shares border with [MASK] .", "output": "Pakistan", "options": []}
+{"task": "lama-trex", "input": "Zambia shares border with [MASK] .", "output": "Zimbabwe", "options": []}
+{"task": "lama-trex", "input": "Maryland shares border with [MASK] .", "output": "Virginia", "options": []}
+{"task": "lama-trex", "input": "The capital of Afghanistan is [MASK] .", "output": "Kabul", "options": []}
+{"task": "lama-trex", "input": "Austria maintains diplomatic relations with [MASK] .", "output": "Italy", "options": []}
+{"task": "lama-trex", "input": "The capital of France is [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-trex", "input": "Canada maintains diplomatic relations with [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-trex", "input": "The capital of New South Wales is [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-trex", "input": "Finland maintains diplomatic relations with [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-trex", "input": "Argentina shares border with [MASK] .", "output": "Bolivia", "options": []}
+{"task": "lama-trex", "input": "Cagliari is the capital of [MASK] .", "output": "Sardinia", "options": []}
+{"task": "lama-trex", "input": "Mary Wells is represented by music label [MASK] .", "output": "Motown", "options": []}
+{"task": "lama-trex", "input": "Germany maintains diplomatic relations with [MASK] .", "output": "Italy", "options": []}
+{"task": "lama-trex", "input": "The official language of Russian Empire is [MASK] .", "output": "Russian", "options": []}

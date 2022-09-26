@@ -1,0 +1,16 @@
+{"task": "tweet_eval-emotion", "input": "not near my kitchen so unfortunately I cannot do a cooking snap series \ud83c\udf73", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user Eric couldn't help but laugh, though that made him wince in pain. It hurt. A lot. He just wanted to sit down somewhere \u2014", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Bored rn leave Kik/Snapchat #kik #kikme #kikmessage #boredaf #bored #snapchatme #snapchat  #country #countrygirl", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Indian time it's already ur birthday @user Have a stupendous birthday. Wish you more success, laughter and lots of love. Hugs. x", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Been up since 4am. Too scared to go back to sleep #nightmare \u2014 feeling scared", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "I love my mother, but talking about the recent horrific murders with her is exhausting. Is this really how America feels?", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Dark, dense, and exhilarating come the finale, #HellOrHighWater is a gripping watch.", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "I saw someone discourage someone from following their dreams. Just because you want to live in mediocrity doesn't mean someone else should.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "I have a job interview with @user in Loughborough next month !!!", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Manchester United v Manchester City #happy days #EFL", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "im on holiday for the next round, fuming!", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Can we get a shot of Lingys face at 1/4 time ? Pretty sure it would be more red then his hair #fuming #pretendinghesok #ruok #AFLCatsSwans", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Why mfs so bitter", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "im so mad about power rangers. im incensed. im furious.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "i hope this comes back to haunt you, then maybe you would know just how it felt to be like me at my lowest", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user fuming ain't the word", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}

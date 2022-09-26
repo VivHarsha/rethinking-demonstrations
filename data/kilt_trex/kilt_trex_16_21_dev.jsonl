@@ -1,0 +1,16 @@
+{"task": "kilt_trex", "input": "Ethel Hall [SEP] occupation", "output": "actor", "options": []}
+{"task": "kilt_trex", "input": "Tanzania People's Defence Force [SEP] country", "output": "Tanzania", "options": []}
+{"task": "kilt_trex", "input": "Giorgos Theodotou [SEP] sport", "output": "association football", "options": []}
+{"task": "kilt_trex", "input": "Nicholas Murphy [SEP] place of birth", "output": "Carrigaline", "options": []}
+{"task": "kilt_trex", "input": "Golden Harvest [SEP] director", "output": "Ralph Murphy", "options": []}
+{"task": "kilt_trex", "input": "Kurbads [SEP] performer", "output": "Skyforger", "options": []}
+{"task": "kilt_trex", "input": "Langenhain [SEP] country", "output": "Germany", "options": []}
+{"task": "kilt_trex", "input": "Yancey's Fancy [SEP] country", "output": "United States of America", "options": []}
+{"task": "kilt_trex", "input": "Isole [SEP] country", "output": "France", "options": []}
+{"task": "kilt_trex", "input": "Union Township [SEP] located in the administrative territorial entity", "output": "Clermont County", "options": []}
+{"task": "kilt_trex", "input": "The Children's Doctor [SEP] original broadcaster", "output": "American Broadcasting Company", "options": []}
+{"task": "kilt_trex", "input": "Fredeburg [SEP] instance of", "output": "municipality of Germany", "options": []}
+{"task": "kilt_trex", "input": "Only Dreaming [SEP] performer", "output": "The Legendary Pink Dots", "options": []}
+{"task": "kilt_trex", "input": "Monastery of Saint John the Theologian [SEP] instance of", "output": "monastery", "options": []}
+{"task": "kilt_trex", "input": "Osvaldinho [SEP] member of sports team", "output": "Boavista F.C.", "options": []}
+{"task": "kilt_trex", "input": "Saint-Geoire-en-Valdaine [SEP] instance of", "output": "commune of France", "options": []}

@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "I went to the store and I bought some whiskey.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The president that Fred voted for dislikes his opponents.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Jennifer craned his neck.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Each of the suggestions is acceptable.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The metal was hammered flat.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "People from Tucson think very highly of themselves.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Although Mr D'Arcy disliked Mrs Bennet he married Elizabeth.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Carrie touched the stick against the cat.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}

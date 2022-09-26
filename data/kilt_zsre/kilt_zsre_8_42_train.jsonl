@@ -1,0 +1,8 @@
+{"task": "kilt_zsre", "input": "Henryk \u0141api\u0144ski [SEP] place of birth", "output": "Warsaw", "options": []}
+{"task": "kilt_zsre", "input": "Bl\u00e5 bl\u00e5 k\u00e4nslor [SEP] language of work or name", "output": "Swedish", "options": []}
+{"task": "kilt_zsre", "input": "G. David Gearhart [SEP] educated at", "output": "University of Arkansas", "options": []}
+{"task": "kilt_zsre", "input": "Ibn Faradi [SEP] date of death", "output": "1012", "options": []}
+{"task": "kilt_zsre", "input": "Crazy John's [SEP] inception", "output": "1991", "options": []}
+{"task": "kilt_zsre", "input": "Mireille Darc [SEP] native language", "output": "French", "options": []}
+{"task": "kilt_zsre", "input": "The Scientific Cardplayer [SEP] director", "output": "Luigi Comencini", "options": []}
+{"task": "kilt_zsre", "input": "Beaumont Newhall [SEP] place of death", "output": "Santa Fe", "options": []}

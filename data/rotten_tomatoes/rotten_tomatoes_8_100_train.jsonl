@@ -1,0 +1,8 @@
+{"task": "rotten_tomatoes", "input": "too silly to be frightening , too stolid to be funny , it projects the same lazy affability as its nominal star , david arquette .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "often hilarious , well-shot and , importantly , entertaining , hell house is a fascinating document of an event that has to be seen to be believed .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "it's pretentious in a way that verges on the amateurish .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "ana is a vivid , vibrant individual and the movie's focus upon her makes it successful and accessible .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "manages to be wholesome and subversive at the same time .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "clint eastwood's blood work is a lot like a well-made pb& j sandwich : familiar , fairly uneventful and boasting no real surprises \u0096 but still quite tasty and inviting all the same .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the elements were all there but lack of a pyschological center knocks it flat .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "family portrait of need , neurosis and nervy negativity is a rare treat that shows the promise of digital filmmaking .", "output": "positive", "options": ["negative", "positive"]}

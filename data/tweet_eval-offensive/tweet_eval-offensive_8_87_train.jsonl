@@ -1,0 +1,8 @@
+{"task": "tweet_eval-offensive", "input": "@user @user @user @user NICELY SAID MR.REDWOOD !!!", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user She is your sister!lol", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user Schiff- you are the SWAMP.", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user @user Thats correct!!! #MAGA", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user #Antifa loud mouth. #Democrat.", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user What the actual fuck. I hate that I've seen that with my eyes", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "#Health &amp; #Nature under threat from #UK #US @user", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user My pharmacist is a friend and he told me ALL about it last year!  THANK YOU for opening discussing how pharmacists are being held hostage rather than tell WE THE PEOPLE about the price fixes! #MAGA", "output": "non-offensive", "options": ["hate", "non-offensive"]}

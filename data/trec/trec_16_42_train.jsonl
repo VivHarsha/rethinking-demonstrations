@@ -1,0 +1,16 @@
+{"task": "trec", "input": "How long was the OJ Simpson trial ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who is the prime minister of Japan ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Who was the first Holy Roman Emperor ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is a drought ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What film featured a snarly character named Kid Shelleen ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Why do we call someone `` honey '' ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What city in Florida is Sea World in ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How do doctors diagnose bone cancer ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What Cruise Line does Kathie Lee Gifford advertise for ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the function of the appendix ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How do I find the balance of my social security account ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What diamond producer controls about 80% of the world 's diamonds ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is an aurora ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the lowest level of the American judiciary ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What Pope inaugurated Vatican International Radio ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What were the ceremony traditions like during the Elizabethian times ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}

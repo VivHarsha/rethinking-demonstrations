@@ -1,0 +1,8 @@
+{"task": "openbookqa", "input": "Which is likeliest to metamorphose?", "output": "a live insect", "options": ["a live insect", "a human", "a plant", "a dead butterfly"]}
+{"task": "openbookqa", "input": "Which animal is most likely to eat another living animal?", "output": "lion", "options": ["deer", "elephant", "worm", "lion"]}
+{"task": "openbookqa", "input": "If a see through thing is multifaceted, it is most likely", "output": "a quartz square", "options": ["a ball", "an apple", "a silver globe", "a quartz square"]}
+{"task": "openbookqa", "input": "Which two objects would electricity best flow through?", "output": "a steel beam and a soda can", "options": ["a tin can and a plastic fork", "a steel beam and a soda can", "an eraser and a wooden pencil", "human skin and rubber gloves"]}
+{"task": "openbookqa", "input": "When a wolf is buried what will happen to other wolves?", "output": "less of them", "options": ["small change", "learn to fly", "less of them", "more of them"]}
+{"task": "openbookqa", "input": "An animal that may like a banana peel is a", "output": "raccoon", "options": ["bear", "raccoon", "cat", "dog"]}
+{"task": "openbookqa", "input": "What is made of minerals?", "output": "Stonehenge", "options": ["Stonehenge", "car engines", "alcohol", "electricity"]}
+{"task": "openbookqa", "input": "If you find an animal that isnt breathing, it is safe to assume that thing", "output": "perished", "options": ["watched TV", "cried", "perished", "laughed"]}

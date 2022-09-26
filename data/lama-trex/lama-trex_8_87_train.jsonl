@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "Ukraine shares border with [MASK] .", "output": "Poland", "options": []}
+{"task": "lama-trex", "input": "1996 Summer Olympics is located in [MASK] .", "output": "Atlanta", "options": []}
+{"task": "lama-trex", "input": "Senegal shares border with [MASK] .", "output": "Mali", "options": []}
+{"task": "lama-trex", "input": "Jordan shares border with [MASK] .", "output": "Israel", "options": []}
+{"task": "lama-trex", "input": "Amsterdam is the capital of [MASK] .", "output": "Netherlands", "options": []}
+{"task": "lama-trex", "input": "The official language of Iran is [MASK] .", "output": "Persian", "options": []}
+{"task": "lama-trex", "input": "Amsterdam is the capital of [MASK] .", "output": "Netherlands", "options": []}
+{"task": "lama-trex", "input": "Hungary shares border with [MASK] .", "output": "Slovenia", "options": []}

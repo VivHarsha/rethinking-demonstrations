@@ -1,0 +1,8 @@
+{"task": "tweet_eval-irony", "input": "'All we do is eat, watch movies and kick the shit out of each other' \ud83d\ude02 #RelationshipGoalsAccomplished", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user You are not allowed to open that until Christmas day!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fear & Loathing in Las Ukras: #Politics #Russia #Ukraine", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Too late, thrown the #PS4 out of the window last night cus i couldn't play", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Always gonna be an uphill battle, sometimes I'm gonna have to lose.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user Fuck yeah! 600 more viewers!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Your not understanding something, does  make you an expert in the field.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user hahaha good 1, you might own a stadium then rather than the local council ;)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

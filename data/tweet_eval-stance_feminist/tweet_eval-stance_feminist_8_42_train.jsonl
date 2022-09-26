@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_feminist", "input": "feminist response people wearing meninist clothes-  mock them or call them derogatory names? NOT A HATE GROUP ??? #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "RT @user Let's demand less cat-calling and more cats! #ndsufeminist #Feminist #cats #DogsCanComeToo #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "A \"Strong Feminist\" on Twitter is measured by how much she can type without thinking first. (then delete) #GamerGate #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Want revenge for being a slut?  Cry rape.  Then lie to the world and carry a mattress with you.  #rape #UglyFeminist #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Wow @user  you are beautiful even make up free! #girlpower #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Some feminist's would shut down the entire global porn industry & put millions on benefits/welfare & not even care #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "#LikeAFeminist if you don't identify as a feminist, clearly you don't love yourself sweetie. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Just heard the most inspiring interview w one of my heroines @user on @user #women #islam  #revolution #SemST", "output": "favor", "options": ["against", "favor", "none"]}

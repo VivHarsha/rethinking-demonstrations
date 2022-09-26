@@ -1,0 +1,8 @@
+{"task": "sms_spam", "input": "Happy new year. Hope you are having a good semester", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Arms fine, how's Cardiff and uni?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "What's ur pin?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Filthy stories and GIRLS waiting for your", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "As usual u can call me ard 10 smth.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "How was txting and driving", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Hey leave it. not a big deal:-) take care.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Party's at my place at usf, no charge (but if you can contribute in any way it is greatly appreciated) and yeah, we got room for one more", "output": "ham", "options": ["ham", "spam"]}

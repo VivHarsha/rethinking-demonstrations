@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "[MASK] is a type of hurricane.", "output": "Disaster", "options": []}
+{"task": "lama-conceptnet", "input": "Potatoes can be [MASK].", "output": "fried", "options": []}
+{"task": "lama-conceptnet", "input": "The story \"Praying\" has the step \"I ask Him to guide me to the path of righteousness and to help me to to grow in my [MASK] of Him.\".", "output": "faith", "options": []}
+{"task": "lama-conceptnet", "input": "Debbie has [MASK].", "output": "kids", "options": []}
+{"task": "lama-conceptnet", "input": "Exercise strenghtens the [MASK] against illness.", "output": "body", "options": []}
+{"task": "lama-conceptnet", "input": "A person doesn't want [MASK].", "output": "mistrust", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is fleet.", "output": "navy", "options": []}
+{"task": "lama-conceptnet", "input": "Many people find [MASK] words towards others to be funny.", "output": "hurtful", "options": []}
+{"task": "lama-conceptnet", "input": "A nap is a [MASK] sleep during the day.", "output": "short", "options": []}
+{"task": "lama-conceptnet", "input": "Stock is [MASK].", "output": "risky", "options": []}
+{"task": "lama-conceptnet", "input": "Another way to say \"Menus have [MASK]\" is \"A menu is often more than one page long.\".", "output": "pages", "options": []}
+{"task": "lama-conceptnet", "input": "A tile can be [MASK].", "output": "cold", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find in [MASK] is prostitutes.", "output": "jail", "options": []}
+{"task": "lama-conceptnet", "input": "Something you might do while procreating is [MASK].", "output": "fuck", "options": []}
+{"task": "lama-conceptnet", "input": "Situation: I will [MASK] her a first edition for her birthday.", "output": "buy", "options": []}
+{"task": "lama-conceptnet", "input": "Lemonade  is made of [MASK] .", "output": "lemons", "options": []}

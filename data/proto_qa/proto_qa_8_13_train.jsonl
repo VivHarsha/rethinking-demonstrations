@@ -1,0 +1,8 @@
+{"task": "proto_qa", "input": "name a place where it's always sunny.", "output": "california", "options": []}
+{"task": "proto_qa", "input": "name a famous hotel in las vegas.", "output": "caesar's palace", "options": []}
+{"task": "proto_qa", "input": "name a hair color that isnt natural", "output": "green", "options": []}
+{"task": "proto_qa", "input": "name a professional who you hate to call because the bill is to expensive?", "output": "plumber", "options": []}
+{"task": "proto_qa", "input": "name something a kid might do that would get them kicked out of a public swimming pool", "output": "urinating", "options": []}
+{"task": "proto_qa", "input": "name a public place you might hear someone snoring.", "output": "bus/bus station", "options": []}
+{"task": "proto_qa", "input": "name a number you might lie to your date about.", "output": "age", "options": []}
+{"task": "proto_qa", "input": "name something a woman throws out the window when she finds out her boyfriend has cheated on her.", "output": "his clothes", "options": []}

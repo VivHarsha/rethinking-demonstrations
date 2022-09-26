@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "Australia maintains diplomatic relations with [MASK] .", "output": "Taiwan", "options": []}
+{"task": "lama-trex", "input": "The official language of Wales is [MASK] .", "output": "Welsh", "options": []}
+{"task": "lama-trex", "input": "France shares border with [MASK] .", "output": "Italy", "options": []}
+{"task": "lama-trex", "input": "Austria maintains diplomatic relations with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "Central African Republic shares border with [MASK] .", "output": "Sudan", "options": []}
+{"task": "lama-trex", "input": "Kenya maintains diplomatic relations with [MASK] .", "output": "Uganda", "options": []}
+{"task": "lama-trex", "input": "Andvord Bay is located in [MASK] .", "output": "Antarctica", "options": []}
+{"task": "lama-trex", "input": "Sydney Harbour Bridge is located in [MASK] .", "output": "Sydney", "options": []}

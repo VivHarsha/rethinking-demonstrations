@@ -1,0 +1,8 @@
+{"task": "google_wellformed_query", "input": "What branch of government was most vague ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What are the range of colors in the visible light spectrum ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What are the various types of perception ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How many calories in a mcdonalds mcrib ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is the difference between aerobic and anaerobic glycolysis ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Armoured briefcase mafia wars ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Where was maori greenstone found ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is spiders man real name ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}

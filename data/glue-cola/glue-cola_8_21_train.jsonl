@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "The man standing over there's hat impressed me greatly.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "John will have been eating cake enthusiastically.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "That cat touches easily.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The more books I ask to whom he will give, the more he reads.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "How certain that the Mets will win are you?", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Sarah sang an aria.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Jill offered the ball at Bob.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I broke twigs off of those branches.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}

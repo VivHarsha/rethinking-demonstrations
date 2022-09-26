@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: in his role of observer of the scene , lawrence sounds whiny and defensive , as if his life-altering experiences made him bitter and less mature .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: misfire that even tunney ca n't save", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is a goofball movie , in the way that malkovich was", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: solid pedigree", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: prostituted muse", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: encumbers itself", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: interesting character", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: murky", "output": "negative", "options": ["negative", "positive"]}

@@ -1,0 +1,16 @@
+{"task": "trec", "input": "What girl 's name is `` Teddy '' an affectionate form of ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What actor came to dinner in Guess Who 's Coming to Dinner ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Where does Mother Angelica live ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is narcolepsy ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the time it takes a typist to type a screenplay that is 100 pages long ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How many people in America snore ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the estimated total U.S. whitetail deer population ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Why do some people have two different color eyes ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What university football team did O.J. Simpson take to the Rose Bowl ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What are the five most expensive cities in the world ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What nationality is Pope John Paul II ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the meaning of `` subaru ? ''", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the only primate to lack pigment in the palms of its hands ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the abbreviated expression for the National Bureau of Investigation ?", "output": "ABBR", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is `` snoogans '' ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is the classic definition of tragic hero ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}

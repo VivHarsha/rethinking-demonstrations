@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name something you would pack for your stay at a hotel made of ice", "output": "coat", "options": []}
+{"task": "proto_qa", "input": "name a movie with more action than dialogue.", "output": "terminator", "options": []}
+{"task": "proto_qa", "input": "name a musical instrument played at weddings:", "output": "organ", "options": []}
+{"task": "proto_qa", "input": "name someone who wears white gloves", "output": "doctor", "options": []}
+{"task": "proto_qa", "input": "name something in his house a little kid might think a monster is hiding.", "output": "in the closet", "options": []}
+{"task": "proto_qa", "input": "name a reason why fathers want sons.", "output": "carry a family name", "options": []}
+{"task": "proto_qa", "input": "name an event on a cruise ship.", "output": "music", "options": []}
+{"task": "proto_qa", "input": "name something people drink a lot of in the summer", "output": "lemonade", "options": []}
+{"task": "proto_qa", "input": "while driving, name something you have to keep an eye on", "output": "road", "options": []}
+{"task": "proto_qa", "input": "name something in the home that every member of the family probably uses.", "output": "bathroom", "options": []}
+{"task": "proto_qa", "input": "name something that might be on a toothpick inside a fancy drink", "output": "olive", "options": []}
+{"task": "proto_qa", "input": "name something you can draw a picture with.", "output": "pencils", "options": []}
+{"task": "proto_qa", "input": "name something you sometimes forget to do before you hop into bed.", "output": "brush teeth/floss", "options": []}
+{"task": "proto_qa", "input": "name a form of transportation that makes very little noise.", "output": "bike", "options": []}
+{"task": "proto_qa", "input": "a man divorces after 25 years of marriage. name something that will be different about dating now.", "output": "expense", "options": []}
+{"task": "proto_qa", "input": "name something that shakes.", "output": "jello", "options": []}

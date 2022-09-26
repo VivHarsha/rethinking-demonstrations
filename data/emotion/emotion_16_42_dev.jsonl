@@ -1,0 +1,16 @@
+{"task": "emotion", "input": "i bet you are feeling really mad and hurt", "output": "anger", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel lucky on my birthday", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i blinded feelings i meant liked stupid i", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i am feeling so stunned and sad about the earthquake in christchurch new zealand yesterday", "output": "surprise", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i didnt feel she was being selfish and completely understood where she was coming from", "output": "anger", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i dare not say i feel ecstatic now but hey", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i just feel totally devastated", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel somewhat disheartened i guess having to submit something lacklustre in just to meet the deadline", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i thought he was going to say no but he just put on what i call his smacked puppy face and that always makes me feel rotten", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i know it seems very sudden to everyone but i am not sure how much i can communicate just how comfortable i feel with him how similarly we look at the world and how supportive and loving he has been towards me", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "im feeling generous heres a holiday classic for you iframe allowfullscreen frameborder height src http www", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "ill crawl into the kitchen feeling miserable and cook a fresh healthy meal", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i was feeling a bit jaded combination of mixed up feelings not enough sleep and too many big screen presentations i think", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel mellow content", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i do have a chinese mum a few chinese sisters spent two very important years of my life in china so when someone who knows all this has a conversation like the one below with me i feel pretty hopeless about the power of education", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel ok much better and stronger than i did a few weeks ago", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}

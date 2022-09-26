@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "\"In response to a \"\"no one should live in a closet\"\" tattoo tweet, JK Rowling responded, \"\"Yes they should.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Properties owned by Jared Kushner in the Baltimore area have accrued multiple building code violations for rodent infestation.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "UN chief: Use pandemic to \u2018rebuild our world for the better\u2019.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "1 in 5 children in America goes to sleep hungry at night.", "output": "unproven", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Energy drinks caused an expectant father to lose a large portion of his skull.", "output": "unproven", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "A woman was injured while trying to steal fireworks from Walmart by hiding them in her vagina.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "A man was hospitalized in December 2018 after an Apple Airpod exploded in his ear.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "New study shows supplementation of capsicum extract helps increase metabolic rate", "output": "false", "options": ["false", "mixture", "true", "unproven"]}

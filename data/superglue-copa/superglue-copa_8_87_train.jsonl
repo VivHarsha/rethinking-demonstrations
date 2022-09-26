@@ -1,0 +1,8 @@
+{"task": "superglue-copa", "input": "Cause: The cup of tea was scalding hot.", "output": "Effect: I blew on it.", "options": ["Effect: I blew on it.", "Effect: I poured it out."]}
+{"task": "superglue-copa", "input": "Cause: The girl found the missing puzzle piece.", "output": "Effect: She completed the puzzle.", "options": ["Effect: She completed the puzzle.", "Effect: She took apart the puzzle."]}
+{"task": "superglue-copa", "input": "Effect: The rocket flew up into the sky.", "output": "Cause: The girl launched it.", "options": ["Cause: The girl launched it.", "Cause: The girl designed it."]}
+{"task": "superglue-copa", "input": "Effect: The chandelier shattered on the floor.", "output": "Cause: The chandelier dropped from the ceiling.", "options": ["Cause: The chandelier dropped from the ceiling.", "Cause: The chandelier's lights flickered on and off."]}
+{"task": "superglue-copa", "input": "Effect: The police handcuffed the suspect.", "output": "Cause: The suspect resisted arrest.", "options": ["Cause: The police called for backup.", "Cause: The suspect resisted arrest."]}
+{"task": "superglue-copa", "input": "Cause: The woman and her boyfriend got into a fight.", "output": "Effect: They stopped seeing each other.", "options": ["Effect: They stopped seeing each other.", "Effect: They planned a vacation together."]}
+{"task": "superglue-copa", "input": "Effect: The mother suspected that her son was lying.", "output": "Cause: He avoided making eye contact with her.", "options": ["Cause: He refused to talk to her.", "Cause: He avoided making eye contact with her."]}
+{"task": "superglue-copa", "input": "Effect: The leader received praise.", "output": "Cause: He fought poverty.", "options": ["Cause: He fought poverty.", "Cause: He raised taxes."]}

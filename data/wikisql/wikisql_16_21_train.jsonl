@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "Who won the Women's doubles the year that there was no competition in both the Men's doubles and the Men's singles?", "output": "SELECT Women's doubles FROM table WHERE Men's doubles = no competition AND Men's singles = no competition", "options": []}
+{"task": "wikisql", "input": "What title has daffy (as duck dodgers) as the character?", "output": "SELECT Title FROM table WHERE Characters = daffy (as duck dodgers)", "options": []}
+{"task": "wikisql", "input": "what's the\u00a0thursday iuppiter (jupiter)\u00a0with\u00a0friday venus (venus)\u00a0being vendredi", "output": "SELECT Thursday Iuppiter (Jupiter) FROM table WHERE Friday Venus (Venus) = vendredi", "options": []}
+{"task": "wikisql", "input": "Who did the Blue Jays play against on April 24?", "output": "SELECT Opponent FROM table WHERE Date = april 24", "options": []}
+{"task": "wikisql", "input": "How many venues were used on 10 Mar 2007?", "output": "SELECT Venue FROM table WHERE Date = 10 Mar 2007", "options": []}
+{"task": "wikisql", "input": "What is the Winner's Prize at the 2009 Providence, RI Championship?", "output": "SELECT Winner's Prize FROM table WHERE Location = providence, ri AND Year = 2009", "options": []}
+{"task": "wikisql", "input": "What is the average attendance at week earlier than 6 on October 14, 2001?", "output": "SELECT AVG Attendance FROM table WHERE Week < 6 AND Date = october 14, 2001", "options": []}
+{"task": "wikisql", "input": "What is the format of catalog number 886973273913 (gowow012) in the United Kingdom?", "output": "SELECT Format FROM table WHERE Country = united kingdom AND Catalogue # = 886973273913 (gowow012)", "options": []}
+{"task": "wikisql", "input": "What is listed under L when the ends won is 21?", "output": "SELECT MAX L FROM table WHERE Ends Won = 21", "options": []}
+{"task": "wikisql", "input": "Who was the opponent before week 6 at cleveland municipal stadium?", "output": "SELECT Opponent FROM table WHERE Week < 6 AND Game site = cleveland municipal stadium", "options": []}
+{"task": "wikisql", "input": "How many teams won more than 2 silver medals and fewer than 2 Bronze medals?", "output": "SELECT COUNT Rank FROM table WHERE Silver > 2 AND Bronze < 2", "options": []}
+{"task": "wikisql", "input": "What is the largest number for earnings for tom watson when ranked more than 2?", "output": "SELECT MAX Earnings ( $ ) FROM table WHERE Player = tom watson AND Rank > 2", "options": []}
+{"task": "wikisql", "input": "Tell me the league for year of 1915/16", "output": "SELECT League FROM table WHERE Year = 1915/16", "options": []}
+{"task": "wikisql", "input": "Which city or state contains Calder Park Raceway?", "output": "SELECT City / State FROM table WHERE Circuit = calder park raceway", "options": []}
+{"task": "wikisql", "input": "When melbourne was the home team what was their score?", "output": "SELECT Home team score FROM table WHERE Home team = melbourne", "options": []}
+{"task": "wikisql", "input": "What country in Europe is ranked 4, with top goal scorer Karl-Heinz Rummenigge with 14 goals?", "output": "SELECT Europe FROM table WHERE Rank = 4 AND Top Goalscorer = karl-heinz rummenigge AND Goals = 14", "options": []}

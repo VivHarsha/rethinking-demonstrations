@@ -1,0 +1,16 @@
+{"task": "kilt_trex", "input": "Polonia Warsaw [SEP] country", "output": "Poland", "options": []}
+{"task": "kilt_trex", "input": "Tielman Susato [SEP] occupation", "output": "composer", "options": []}
+{"task": "kilt_trex", "input": "Riverview Historic District [SEP] country", "output": "United States of America", "options": []}
+{"task": "kilt_trex", "input": "23rd Infantry Brigade [SEP] instance of", "output": "brigade", "options": []}
+{"task": "kilt_trex", "input": "Kapakl\u0131 [SEP] country", "output": "Turkey", "options": []}
+{"task": "kilt_trex", "input": "The Lady in Ermine [SEP] director", "output": "James Flood", "options": []}
+{"task": "kilt_trex", "input": "Kluane Lake [SEP] country", "output": "Canada", "options": []}
+{"task": "kilt_trex", "input": "Pachyferonia [SEP] parent taxon", "output": "Carabidae", "options": []}
+{"task": "kilt_trex", "input": "Crime and Dissonance [SEP] performer", "output": "Ennio Morricone", "options": []}
+{"task": "kilt_trex", "input": "Pseudamara [SEP] taxon rank", "output": "genus", "options": []}
+{"task": "kilt_trex", "input": "Thysochromis [SEP] taxon rank", "output": "genus", "options": []}
+{"task": "kilt_trex", "input": "Mani di fata [SEP] genre", "output": "comedy film", "options": []}
+{"task": "kilt_trex", "input": "Boraras [SEP] taxon rank", "output": "genus", "options": []}
+{"task": "kilt_trex", "input": "Nawan Pind Jattan [SEP] instance of", "output": "village", "options": []}
+{"task": "kilt_trex", "input": "Table Mountain [SEP] located in the administrative territorial entity", "output": "Western Cape", "options": []}
+{"task": "kilt_trex", "input": "Geoffrey Nutter [SEP] occupation", "output": "poet", "options": []}

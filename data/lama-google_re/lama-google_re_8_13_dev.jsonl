@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "George Smith was born in [MASK] .", "output": "Chichester", "options": []}
+{"task": "lama-google_re", "input": "Miles Crowley was born in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Daniel Ermentrout died in [MASK] .", "output": "Reading", "options": []}
+{"task": "lama-google_re", "input": "Massimo Carello was born in [MASK] .", "output": "Turin", "options": []}
+{"task": "lama-google_re", "input": "Donald Wolcott (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "Hermann Collitz died in [MASK] .", "output": "Baltimore", "options": []}
+{"task": "lama-google_re", "input": "Rudolf K\u0159es\u0165an was born in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Tofig Zulfugarov (born [MASK]).", "output": "1959", "options": []}

@@ -1,0 +1,8 @@
+{"task": "tweet_eval-hate", "input": "\"Corey Lewandowski\"  I am sure Liberals wont be upset that these Illegals Killed U.S Citizens  Separatng their familes Illegal immigrant charged with killing two Miami women, dumping bodies on street #FoxNews", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user Please take it to the streets Alyssa! I\u2019d love to see you take action as opposed to running your skank D -List mouth!", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "It's not rape if women are considered objects! You can't rape an object! Islam is completely anti rape!", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "When someone takes a post too seriously and writes an essay in the comments", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "Ugly traitor, go to jail and do not pass GO @user @user #BuildTheWall #LockThemUp #EndDACA now !!!!!!!!!!!", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "Heavy snow in the Alps. Many turists have to wait and there are accidents. Illigal refugees which like to stroll over the Alps have heavy problems - nobody can rescue them.", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user @user Lol you sound like trump. 'Many people agree with me.' Hahahaha the irony is hysterical.", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "If she's over 18 and owns anything Hello Kitty.... Get that bitch in bed, she knows things that you didn't even know existed", "output": "hate", "options": ["hate", "non-hate"]}

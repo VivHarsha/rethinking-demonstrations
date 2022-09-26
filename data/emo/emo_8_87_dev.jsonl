@@ -1,0 +1,8 @@
+{"task": "emo", "input": "i am busy may friend another time tell you thanks you same always keeping busy what do you do that keeps you so busy i tell you in nights", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "csk  vs mi earlier match i am asking ahe dengau", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "iam coming online alrighty see you soon cool", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "boy what  i m boy", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "hehe such a sweet little girl and i'm happy that your happy that i'm happy c  facewithtearsofjoyfacewithtearsofjoyfacewithtearsofjoy", "output": "happy", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "nice player he's i know we love him  which team does he play for", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "all  good yep all well sweet", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "ohh thanks always welcome beautiful  am ugly dear", "output": "sad", "options": ["angry", "happy", "others", "sad"]}

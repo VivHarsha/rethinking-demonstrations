@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_abortion", "input": "@user don't need your input but thanks. #womanschoice #controlyourownbody #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "The answer to a #crisis #pregnancy is to eliminate the crisis not the #child.youthgen #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Life, what a beautiful choice. Adoption. Not abortion.", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "#SignsYoureInTheUSA Doc can pull baby 3/4 way out of the womb, stick a knife in its head 2 kill the child & @user says its OK #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "I am 1 in 3... I have had an abortion #AbortionOnDemand #MenstruationMatters #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user @user @user @user Hypocrisy: saying #LoveWins while supporting #QuitKillingGirls #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user duh.... Planned pregnancy around election date, new fad. Get with the times. #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "So happy that America is making it possible for ALL of its people to be married to the ones they love!  #MarriageEquaility #SemST", "output": "none", "options": ["against", "favor", "none"]}

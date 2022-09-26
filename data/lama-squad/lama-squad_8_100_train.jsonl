@@ -1,0 +1,8 @@
+{"task": "lama-squad", "input": "Newcastle has a proud history of [MASK].", "output": "theatre", "options": []}
+{"task": "lama-squad", "input": "Shark Tank debuted on [MASK].", "output": "Sundays", "options": []}
+{"task": "lama-squad", "input": "Luther was an [MASK] in other areas' churches.", "output": "adviser", "options": []}
+{"task": "lama-squad", "input": "Something that can concentrate wealth, pass environmental costs on to society and abuse both workers and consumers is [MASK].", "output": "markets", "options": []}
+{"task": "lama-squad", "input": "The theory of relativity was developed by [MASK].", "output": "Einstein", "options": []}
+{"task": "lama-squad", "input": "preparatory schools prepare British children to attend [MASK] schools.", "output": "public", "options": []}
+{"task": "lama-squad", "input": "The first major city in the stream of the Rhine is [MASK].", "output": "Basel", "options": []}
+{"task": "lama-squad", "input": "Aaron Spelling's drama [MASK] debuted on ABC in the 80s.", "output": "Dynasty", "options": []}

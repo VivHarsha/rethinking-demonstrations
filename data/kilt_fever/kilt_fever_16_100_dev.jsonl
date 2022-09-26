@@ -1,0 +1,16 @@
+{"task": "kilt_fever", "input": "Eddie Vedder was a vocalist.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Renaissance did not see social and political upheaval.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "On March 27, 1814, Charles Mackay was born.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Jerry Seinfeld specialized in dark comedy.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Boys from Brazil features Denholm Elliot.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Black Mirror is an English series created by Charlie Brooker.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Jim Parsons is a star of The Big Bang Theory.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The United Kingdom was the world's second-most power.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The top ten was where My Everything peaked.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Carolina Panthers host an annual training camp at Wofford College in Spartanburg, South Carolina.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Mirka Federer is from a place.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Joy is a film.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "On April 13, 1953, Brigitte Macron was born.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Cricket has two teams.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Alex Rodriguez has had a decades-long career.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Ryan Gosling starred in the 2010 film Blue Valentine.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

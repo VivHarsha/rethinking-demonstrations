@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: well worth revisiting as many times", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: feels like the work of someone who may indeed have finally aged past his prime ... and , perhaps more than he realizes ,", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: undistinguished", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: feels more like a quickie tv special than a feature film", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the cast ... keeps this pretty watchable , and casting mick jagger as director of the escort service was inspired .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: what ( denis ) accomplishes in his chilling , unnerving film is a double portrait of two young women whose lives were as claustrophic , suffocating and chilly as the attics to which they were inevitably consigned .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: hollywood trap", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: hip", "output": "positive", "options": ["negative", "positive"]}

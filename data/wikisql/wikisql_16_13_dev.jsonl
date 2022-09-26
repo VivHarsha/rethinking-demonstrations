@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "What is the Opponent from the final with a Partner named jorgelina cravero?", "output": "SELECT Opponent in the final FROM table WHERE Partner = jorgelina cravero", "options": []}
+{"task": "wikisql", "input": "Where is the headquarter of the conglomerate industry?", "output": "SELECT Headquarters FROM table WHERE Primary industry = conglomerate", "options": []}
+{"task": "wikisql", "input": "Which round has an H/A of H?", "output": "SELECT Round FROM table WHERE H / A = h", "options": []}
+{"task": "wikisql", "input": "How many totals have a rank greater than 4, czech Republic as the nation, and a bronze greater than 0?", "output": "SELECT SUM Total FROM table WHERE Rank > 4 AND Nation = czech republic AND Bronze > 0", "options": []}
+{"task": "wikisql", "input": "What was the attendance of the game that had a loss of Wolf (3-4)?", "output": "SELECT Attendance FROM table WHERE Loss = wolf (3-4)", "options": []}
+{"task": "wikisql", "input": "What was the attendance number for the Timberwolves game?", "output": "SELECT SUM Location Attendance FROM table WHERE Team = timberwolves", "options": []}
+{"task": "wikisql", "input": "what AAAAA class has the school year of 1990-91?", "output": "SELECT Class AAAAA FROM table WHERE School Year = 1990-91", "options": []}
+{"task": "wikisql", "input": "What is the run 2 of athlete Maria Orlova from Russia?", "output": "SELECT SUM Run 2 FROM table WHERE Country = russia AND Athlete = maria orlova", "options": []}
+{"task": "wikisql", "input": "How many millions of people in the US saw the episode titled \"Kandor\"?", "output": "SELECT U.S. viewers (million) FROM table WHERE Title = \"Kandor\"", "options": []}
+{"task": "wikisql", "input": "Which home has a Date of november 7?", "output": "SELECT Home FROM table WHERE Date = november 7", "options": []}
+{"task": "wikisql", "input": "What Northern Ireland Player has more than 36,000 Money with a To par of \u20137?", "output": "SELECT Player FROM table WHERE Money ( \u00a3 ) > 36,000 AND To par = \u20137 AND Country = northern ireland", "options": []}
+{"task": "wikisql", "input": "Tell me the surface for 16 april 2007", "output": "SELECT Surface FROM table WHERE Date = 16 april 2007", "options": []}
+{"task": "wikisql", "input": "Who wore the episode with the production code of 1apx11?", "output": "SELECT Written by FROM table WHERE Prod. code = 1APX11", "options": []}
+{"task": "wikisql", "input": "How many results have 14,381 as the attendance?", "output": "SELECT COUNT Result FROM table WHERE Attendance = 14,381", "options": []}
+{"task": "wikisql", "input": "When gaoliang \u9ad8\u6dbc is the commandery what is the commandery capital?", "output": "SELECT Commandery capital FROM table WHERE Commandery = Gaoliang \u9ad8\u6dbc", "options": []}
+{"task": "wikisql", "input": "Which Clock Multiplier has a Model Number of c7-m 764?", "output": "SELECT Clock Multiplier FROM table WHERE Model Number = c7-m 764", "options": []}

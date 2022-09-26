@@ -1,0 +1,8 @@
+{"task": "tweet_eval-sentiment", "input": "if twaimz vines himself dropping ass to the AHS freakshow song every Wednesday im content", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Saw Ant-Man on Tuesday. Great film. Much more character driven than the big epic MCU films.", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"May the blessings of Allah fill your life with happiness and open all the doors of success now and always. \"\" Eid...\"", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "On tomorrow's Current: Take the pain out of pedaling with these yoga poses.", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Happy Monday everyone ! Have a nice day with \"Stir It Up\" from Bob Marley #shopinsidermorning", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Have a great Thursday all of you  ONE SWEET DAY Mariah Carey &amp; Boyz II Men", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "#Astros Aplin steals third after knocking a big  RBI double down the right field line. We're tied at 1 in the 8th.", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "70000 tickets sold for the milan derby next Sunday", "output": "positive", "options": ["negative", "neutral", "positive"]}

@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "Another way to say \"In Japan, people speak Japanese\" is \"language names are taken from the [MASK]\".", "output": "country", "options": []}
+{"task": "lama-conceptnet", "input": "One of the things you do when you remember is [MASK].", "output": "reflect", "options": []}
+{"task": "lama-conceptnet", "input": "A stadium is for [MASK] .", "output": "running", "options": []}
+{"task": "lama-conceptnet", "input": "You would dance because you want to [MASK].", "output": "excercise", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find in the [MASK] is mold.", "output": "cellar", "options": []}
+{"task": "lama-conceptnet", "input": "An injury can be [MASK].", "output": "imagined", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen as a consequence of analysing something is to be [MASK].", "output": "enlightened", "options": []}
+{"task": "lama-conceptnet", "input": "Bedrooms can be [MASK].", "output": "square", "options": []}
+{"task": "lama-conceptnet", "input": "Anyone can be [MASK].", "output": "gay", "options": []}
+{"task": "lama-conceptnet", "input": "If you want to stay [MASK] then you should breathe.", "output": "alive", "options": []}
+{"task": "lama-conceptnet", "input": "A person can enjoy watching the product of others' [MASK].", "output": "creativity", "options": []}
+{"task": "lama-conceptnet", "input": "A faucet can [MASK].", "output": "break", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find downstairs is a [MASK] floor.", "output": "concrete", "options": []}
+{"task": "lama-conceptnet", "input": "15 is [MASK].", "output": "fifteen", "options": []}
+{"task": "lama-conceptnet", "input": "A person doesn't want [MASK].", "output": "bedbugs", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Leo was a large dog.  Tom hated it when Leo jumped on him.\", it is important to know that Leo was [MASK] when it jumped on Tom.", "output": "alive", "options": []}

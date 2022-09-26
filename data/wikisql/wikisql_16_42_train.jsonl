@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "What was the year when Ch\u016bnqi\u016b Ch\u00e1sh\u00ec (\u6625\u79cb\u8336\u5ba4) was submitted?", "output": "SELECT Year (Ceremony) FROM table WHERE Original title = Ch\u016bnqi\u016b ch\u00e1sh\u00ec (\u6625\u79cb\u8336\u5ba4)", "options": []}
+{"task": "wikisql", "input": "What is Name, when Builder is \"Kerr Stuart\"?", "output": "SELECT Name FROM table WHERE Builder = kerr stuart", "options": []}
+{"task": "wikisql", "input": "What series had more than 10 Podiums?", "output": "SELECT Series FROM table WHERE Podiums > 10", "options": []}
+{"task": "wikisql", "input": "For what ceremony was \"Fire Dancer\" not nominated?", "output": "SELECT Year (Ceremony) FROM table WHERE Original title = Fire Dancer", "options": []}
+{"task": "wikisql", "input": "How many people went to the game with Indiana visiting?", "output": "SELECT Attendance FROM table WHERE Visitor = indiana", "options": []}
+{"task": "wikisql", "input": "With a swim (1.5km) of 18:55 and a run (10km) of 32:37, what is the trans 2?", "output": "SELECT Trans 2 FROM table WHERE Swim (1.5km) = 18:55 AND Run (10km) = 32:37", "options": []}
+{"task": "wikisql", "input": "What is the region for Chep\u00e9n with 3 districts?", "output": "SELECT Region FROM table WHERE Districts = 3 AND Capital = chep\u00e9n", "options": []}
+{"task": "wikisql", "input": "What was the third place of the performance in 2006 with the host Japan?", "output": "SELECT Third place FROM table WHERE Host = japan AND Season < 2006", "options": []}
+{"task": "wikisql", "input": "What is the 1999-2000 team, when the Height (cm) is less than 187, and when the Birthplace is Cloquet, Minnesota?", "output": "SELECT 1999-2000 team FROM table WHERE Height (cm) < 187 AND Birthplace = cloquet, minnesota", "options": []}
+{"task": "wikisql", "input": "What is the highest Tournaments, when Pro Debut is \"July 2002\"?", "output": "SELECT MAX Tournaments FROM table WHERE Pro Debut = july 2002", "options": []}
+{"task": "wikisql", "input": "what is the total time in office when the assumed office is 1 november 1856?", "output": "SELECT TOTAL Time in Office: FROM table WHERE Assumed Office: = 1 november 1856", "options": []}
+{"task": "wikisql", "input": "When did the term end for the term that had government 27 and Minister Tzachi Hanegbi?", "output": "SELECT Term end FROM table WHERE Governments = 27 AND Minister = tzachi hanegbi", "options": []}
+{"task": "wikisql", "input": "What is the Outcome of the Doubles played on Carpet?", "output": "SELECT Outcome FROM table WHERE Surface = carpet", "options": []}
+{"task": "wikisql", "input": "Name the venue for geelong away team", "output": "SELECT Venue FROM table WHERE Away team = geelong", "options": []}
+{"task": "wikisql", "input": "What was the score for the final played on 2 July 2012?", "output": "SELECT Score FROM table WHERE Date = 2 july 2012", "options": []}
+{"task": "wikisql", "input": "Between November 25\u201330, 2008 the sellout rate was at 75%, indicating that the ration between shows to sellout was what?", "output": "SELECT Shows / Sellout FROM table WHERE Sellout (%) = 75%", "options": []}

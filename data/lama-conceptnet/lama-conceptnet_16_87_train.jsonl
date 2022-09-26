@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "If you want to have fun then you should enjoy [MASK].", "output": "life", "options": []}
+{"task": "lama-conceptnet", "input": "Razors are [MASK] and used for cutting hair.", "output": "sharp", "options": []}
+{"task": "lama-conceptnet", "input": "The effect of playing football is having [MASK].", "output": "fun", "options": []}
+{"task": "lama-conceptnet", "input": "Stealing is a [MASK] and can result in a trial.", "output": "crime", "options": []}
+{"task": "lama-conceptnet", "input": "The fact \"Something you find in a boat is a compas\" is illustrated with the story:1. Penelope was sailing on Lake [MASK].2. She sailed too far out and became lost.3. She went below deck and retrieved her compass in order to determine her location.", "output": "Michigan", "options": []}
+{"task": "lama-conceptnet", "input": "Sometimes kissing someone causes sexual [MASK].", "output": "excitement", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen while watching a tv show is you have [MASK].", "output": "fun", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Kathy was vacationing in Florida  She chartered a boat and went [MASK] sea fishing.\", it is important to know that The purpose of fishing is to catch live fish from the water.", "output": "deep", "options": []}
+{"task": "lama-conceptnet", "input": "A person wants [MASK].", "output": "excel", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"A ghost [MASK] the cat.\", it is important to know that Cats believe in ghosts.", "output": "scared", "options": []}
+{"task": "lama-conceptnet", "input": "Airplanes can [MASK].", "output": "accelerate", "options": []}
+{"task": "lama-conceptnet", "input": "Thanking someone requires [MASK].", "output": "empathy", "options": []}
+{"task": "lama-conceptnet", "input": "A john can pay a prostitute  to have [MASK] with him.", "output": "sex", "options": []}
+{"task": "lama-conceptnet", "input": "Picture description: man giving in to his lust as he extends to [MASK] a woman.", "output": "kiss", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is a loud noise made by lightning.", "output": "thunder", "options": []}
+{"task": "lama-conceptnet", "input": "You can use a cheque to [MASK] something.", "output": "buy", "options": []}

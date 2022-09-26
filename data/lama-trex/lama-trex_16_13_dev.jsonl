@@ -1,0 +1,16 @@
+{"task": "lama-trex", "input": "The official language of Hong Kong is [MASK] .", "output": "English", "options": []}
+{"task": "lama-trex", "input": "The capital of Kingdom of Scotland is [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-trex", "input": "Netherlands maintains diplomatic relations with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "The capital of Soviet Union is [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-trex", "input": "Italy maintains diplomatic relations with [MASK] .", "output": "Austria", "options": []}
+{"task": "lama-trex", "input": "Kenya maintains diplomatic relations with [MASK] .", "output": "Ethiopia", "options": []}
+{"task": "lama-trex", "input": "The official language of United States of America is [MASK] .", "output": "English", "options": []}
+{"task": "lama-trex", "input": "distributary is a subclass of [MASK] .", "output": "river", "options": []}
+{"task": "lama-trex", "input": "Kenya maintains diplomatic relations with [MASK] .", "output": "Ethiopia", "options": []}
+{"task": "lama-trex", "input": "Dido and Aeneas plays [MASK] music .", "output": "opera", "options": []}
+{"task": "lama-trex", "input": "The official language of Majorca is [MASK] .", "output": "Spanish", "options": []}
+{"task": "lama-trex", "input": "The capital of South Korea is [MASK] .", "output": "Seoul", "options": []}
+{"task": "lama-trex", "input": "Madrid is the capital of [MASK] .", "output": "Spain", "options": []}
+{"task": "lama-trex", "input": "Iowa shares border with [MASK] .", "output": "Minnesota", "options": []}
+{"task": "lama-trex", "input": "Tirana is the capital of [MASK] .", "output": "Albania", "options": []}
+{"task": "lama-trex", "input": "The capital of Queensland is [MASK] .", "output": "Brisbane", "options": []}

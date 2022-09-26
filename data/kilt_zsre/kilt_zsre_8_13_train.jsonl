@@ -1,0 +1,8 @@
+{"task": "kilt_zsre", "input": "\u00d8ivind Lorentzen [SEP] date of birth", "output": "14 October 1881", "options": []}
+{"task": "kilt_zsre", "input": "Machito [SEP] cause of death", "output": "stroke", "options": []}
+{"task": "kilt_zsre", "input": "Nicola Slater [SEP] place of birth", "output": "Ayr", "options": []}
+{"task": "kilt_zsre", "input": "Solar Quest [SEP] publisher", "output": "Cinematronics", "options": []}
+{"task": "kilt_zsre", "input": "HarmoKnight [SEP] publisher", "output": "Nintendo", "options": []}
+{"task": "kilt_zsre", "input": "Johan Robeck [SEP] manner of death", "output": "suicide", "options": []}
+{"task": "kilt_zsre", "input": "Proschistis [SEP] parent taxon", "output": "Tortricidae", "options": []}
+{"task": "kilt_zsre", "input": "Rida Pasha al-Rikabi [SEP] country of citizenship", "output": "Syria", "options": []}

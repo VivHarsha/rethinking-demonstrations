@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "Dysphonia can be characterized by harsh vocal qualities.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "George Foreman was ranked the eighth greatest heavyweight of all time.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "In Too Deep is a movie directed by Michael Rymer.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Womb (film) starred a French actress.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "To The Bone only included canine actors.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Dwayne Johnson was born on May 5, 1972.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Richard Nixon won.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Katrina Turquotte is the birth name of Katrina Kaif.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

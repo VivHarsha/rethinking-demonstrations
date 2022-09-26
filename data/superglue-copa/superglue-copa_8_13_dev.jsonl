@@ -1,0 +1,8 @@
+{"task": "superglue-copa", "input": "Effect: The glasses on the table spilled.", "output": "Cause: The child yanked the tablecloth.", "options": ["Cause: The child drew on the table.", "Cause: The child yanked the tablecloth."]}
+{"task": "superglue-copa", "input": "Effect: The student flaunted his test grade to his classmates.", "output": "Cause: He received a perfect score.", "options": ["Cause: He received a perfect score.", "Cause: He feigned interest in the class."]}
+{"task": "superglue-copa", "input": "Effect: The fans in the stadium cheered.", "output": "Cause: The player scored.", "options": ["Cause: The game ended in a tie.", "Cause: The player scored."]}
+{"task": "superglue-copa", "input": "Cause: The woman had an infection.", "output": "Effect: She took antibiotics.", "options": ["Effect: She took antibiotics.", "Effect: She washed her hands."]}
+{"task": "superglue-copa", "input": "Cause: I rubbed sandpaper on the wood.", "output": "Effect: The wood became smooth.", "options": ["Effect: The wood became smooth.", "Effect: The wood became sticky."]}
+{"task": "superglue-copa", "input": "Effect: The child became immune to the disease.", "output": "Cause: He received the vaccine for the disease.", "options": ["Cause: He avoided exposure to the disease.", "Cause: He received the vaccine for the disease."]}
+{"task": "superglue-copa", "input": "Effect: The egg splattered.", "output": "Cause: I dropped it.", "options": ["Cause: I dropped it.", "Cause: I boiled it."]}
+{"task": "superglue-copa", "input": "Cause: The man woke up with a toothache.", "output": "Effect: He made an appointment with the dentist.", "options": ["Effect: He missed an appointment with the dentist.", "Effect: He made an appointment with the dentist."]}

@@ -1,0 +1,8 @@
+{"task": "openbookqa", "input": "With the addition of thrusters your forward momentum will", "output": "increase", "options": ["stop", "increase", "decrease", "stall"]}
+{"task": "openbookqa", "input": "if something moves faster than before, it might have been affected by what?", "output": "the application of force", "options": ["the application of water", "the application of force", "the application of light", "none of these"]}
+{"task": "openbookqa", "input": "Who stalks dragonflies south?", "output": "kestrels", "options": ["clouds", "electricity", "kestrels", "polar bears"]}
+{"task": "openbookqa", "input": "This material was less of a thermal conductor", "output": "thermal underwear", "options": ["aluminum", "copper", "thermal underwear", "steel"]}
+{"task": "openbookqa", "input": "Which of the following has a population of zero?", "output": "Merriam's elk", "options": ["Merriam's elk", "bison", "llama", "whooping crane"]}
+{"task": "openbookqa", "input": "A person has a glass of water and a friend pranks them by making their water taste different. They prankster added", "output": "soda", "options": ["ice", "water", "soda", "air"]}
+{"task": "openbookqa", "input": "Heat causes you to sweat, so at which time of day will you sweat most?", "output": "high noon", "options": ["high noon", "night time", "early morning", "during a snowstorm"]}
+{"task": "openbookqa", "input": "If the world is shaking it will likely last for", "output": "less than a minute", "options": ["under five full seconds", "an hour and a half", "more than a day", "less than a minute"]}

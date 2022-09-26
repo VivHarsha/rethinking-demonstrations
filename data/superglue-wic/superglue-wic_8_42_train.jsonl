@@ -1,0 +1,8 @@
+{"task": "superglue-wic", "input": "word: tell [SEP] sentence 1: He could tell that she was unhappy. [SEP] sentence 2: She told him how he did it.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: coordinate [SEP] sentence 1: Coordinate our efforts. [SEP] sentence 2: Coordinate his actions with that of his colleagues.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: cut [SEP] sentence 1: That's our finest cut of meat. [SEP] sentence 2: His cut in the lining revealed the hidden jewels.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: come [SEP] sentence 1: Nothing good will come of this. [SEP] sentence 2: Come down here!", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: focus [SEP] sentence 1: If you're going to beat your competitors, you need to focus. [SEP] sentence 2: We focused on what he wanted.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: slack [SEP] sentence 1: Suddenly they were in a slack and the water was motionless. [SEP] sentence 2: A gradual slack in output.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: go [SEP] sentence 1: How fast does your new car go? [SEP] sentence 2: This door goes to the basement.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: rate [SEP] sentence 1: The rate of production at the factory is skyrocketing. [SEP] sentence 2: He works at a great rate.", "output": "true", "options": ["false", "true"]}

@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_feminist", "input": "And no femaskanks, your gender studies degree isn't as valuable as a S.T.E.M degree.... #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "feminists be like: don' judge a book by its cover! unless the cover is a straight white male. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Kristen Stewart: 'Hollywood is disgustingly sexist' #kristenstewart #cloudsofsilsmaria #culture #women #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "#HowToSpotAFeminist?->  10 Feminists struggle to control their lives and try to micromanage other women's lives.  #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Just watched Mad Max: Fury Road.  Amazing! Everything! And as a woman watching this film... Amazed. #MadMaxFuryRoad #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Sehri time seems to be turning into let's get my dad woke. #racepolitics #ableism #Ramadan #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "I am obsessed with becoming a woman comfortable in her skin.  Sandra Cisneros #latinx #woc #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "IF FEMINISTS WERE HONEST \"Be careful, don't say 3rd world women suffer more or I will say you are a rapist\" #GamerGate #SemST", "output": "against", "options": ["against", "favor", "none"]}

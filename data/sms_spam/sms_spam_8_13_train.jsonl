@@ -1,0 +1,8 @@
+{"task": "sms_spam", "input": "Want the latest Video handset? 750 anytime any network mins? Half price line rental? Reply or call 08000930705 for delivery tomorrow", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Hey you can pay. With salary de. Only  &lt;#&gt; .", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Hey i've booked the 2 lessons on sun liao...", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Wait that's still not all that clear, were you not sure about me being sarcastic or that that's why x doesn't want to live with us", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Isn't frnd a necesity in life? imagine urself witout a frnd.. hw'd u feel at ur colleg? wat'll u do wth ur cell? wat abt functions? thnk abt events espe'll cared, missed &amp; irritated u? 4wrd it to all those dear-loving frnds wthout whom u cant live.. I jst did it.. Takecare..:) GOODMORNING", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "\"NOT ENUFCREDEIT TOCALL.SHALL ILEAVE UNI AT 6 +GET A BUS TO YOR HOUSE?\"", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "December only! Had your mobile 11mths+? You are entitled to update to the latest colour camera mobile for Free! Call The Mobile Update Co FREE on 08002986906", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Wat time r \u00fc going to xin's hostel?", "output": "ham", "options": ["ham", "spam"]}

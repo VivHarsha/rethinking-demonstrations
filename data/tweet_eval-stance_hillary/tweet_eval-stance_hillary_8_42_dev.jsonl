@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_hillary", "input": "crazy to think next up for the Oval Office is either going to be Hillary or a Republican #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "My mom just told me she and my aunt want to volunteer on @user campaign! I support it! #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user I'm just hoping we don't have to resurrect the no H8 for Hillary's second term. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user hahaha. He is some kind of special..  this is why Hillary's going to win! Hahaha. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "It is offensive when the mexican flag flies on US soil. California state capital. #Lovewins #univision #foxnews #DonaldTrump #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user How could we support it if it was secret??? #NoHillary2016 #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "If you're not watching @user speech right now you're missing her drop tons of wisdom. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Low key it would be interesting to have a female president. #SemST", "output": "favor", "options": ["against", "favor", "none"]}

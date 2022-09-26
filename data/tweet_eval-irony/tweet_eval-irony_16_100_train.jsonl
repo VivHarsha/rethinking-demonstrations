@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": ".@NSRoadsPolicing @user oh look an Audi driver breaking the law...how strange", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I have such a loving family", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user funny joke there bae...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Good choice to stay up late, Lys.  #study #finalsweek #deathofme", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Dear Next Person that seeks to educate me on anything PLEASE be very educated themselves, which means knowing multiple points of view", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user The only place where you don't wanna sit on the seat that you earned. |#Dancing |#QuiksilverGoesSupersonic", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "While politicians are busy in scuffles #PakArmy is doing their job yet maligned  \"@peaceful_h:Salute 2 PAKARMY", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Stay tuned for drunk videos of my mom", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "yup, amazing how that is, isnt it? @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "By @user \"\ud83d\udd25\ud83d\udd25\ud83d\udd25@dipmag Gears up to release its next issue\ud83d\udd1c 'Wifey Series' with #covermodels...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "there is no such thing as \"racists\" because there's only ONE race, HUMAN @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user He's just trying to drive Suh's price up.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user You were my cup of tea, but you were a total ass so I switched to coffee.\u270c\ufe0f \ud83d\ude02\ud83d\ude4c", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh, joy! 'Tis the season for \"Christmas came early\" leads.  #DoBetter", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I forked node!  Get ready for the future.  (Where's my interviews)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I infer that you are besmirching coffee, but that can't be right", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

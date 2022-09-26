@@ -1,0 +1,8 @@
+{"task": "sms_spam", "input": "CALL 09090900040 & LISTEN TO EXTREME DIRTY LIVE CHAT GOING ON IN THE OFFICE RIGHT NOW TOTAL PRIVACY NO ONE KNOWS YOUR [sic] LISTENING 60P MIN 24/7MP 0870753331018+", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "What about this one then.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "\u00dc come lt 25 n pass to me lar", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Was gr8 to see that message. So when r u leaving? Congrats dear. What school and wat r ur plans.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "It could work, we'll reach a consensus at the next meeting", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Yes baby! We can study all the positions of the kama sutra ;)", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Dai i downloaded but there is only exe file which i can only run that exe after installing.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "For fear of fainting with the of all that housework you just did? Quick have a cuppa", "output": "ham", "options": ["ham", "spam"]}

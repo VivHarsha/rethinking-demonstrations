@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_feminist", "input": "If you're a feminist AND you hate men, please kill yourself. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user Family Court is not a court. It is INQUISITION. #FEMINAZIS #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "I'm honestly surprised that feminist extremists like @user aren't screaming \"sexist!!\" at gay men. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user What a load of crap. Dressing appropriately for the office is \"sexist\"? Grow up. #YesAllWomen #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user @user It's a sexist, misandrist whine-fest drenched in victimhood. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user you realise that you have just painted \"all\" men with the same brush. So \"wilfully ignorant\" could describe you! #fail #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "RT @user 'BAD BITCH' is not a compliment #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Umrao Jaan Ada- a story of not just a life or prostitute but of poise and poesy.  #WOMANPOWER #SemST", "output": "favor", "options": ["against", "favor", "none"]}

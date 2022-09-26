@@ -1,0 +1,8 @@
+{"task": "squad-no_context", "input": "question: Which team has the largest margin win?", "output": "Espanyol", "options": []}
+{"task": "squad-no_context", "input": "question: Did the French take St. John's?", "output": "they took St. John's", "options": []}
+{"task": "squad-no_context", "input": "question: Who did Burke say we look to with affection?", "output": "parliaments", "options": []}
+{"task": "squad-no_context", "input": "question: What was youtube's estimated ads revenue in 2013?", "output": "3.7 billion", "options": []}
+{"task": "squad-no_context", "input": "question: At the 1945 general election, The Times adopted a stance that was referred to by what name?", "output": "peculiarly detached", "options": []}
+{"task": "squad-no_context", "input": "question: How many terms does the mayor of the city serve?", "output": "two-year", "options": []}
+{"task": "squad-no_context", "input": "question: Since when had the Swiss viewed themselves as a different nation?", "output": "1648", "options": []}
+{"task": "squad-no_context", "input": "question: How many alleles do most eukaryotic organisms have for each trait?", "output": "two alleles for each trait", "options": []}

@@ -1,0 +1,8 @@
+{"task": "quarel", "input": "Would a small, lightweight car be able to pass another vehicle quicker on the highway or would a big, heavy SUV be able to do so faster?", "output": "the lightweight car", "options": ["the lightweight car", "the heavy SUV"]}
+{"task": "quarel", "input": "If a snail and rabbit were both traveling towards the nearby school, who would be closer after ten minutes", "output": "the rabbit", "options": ["the snail", "the rabbit"]}
+{"task": "quarel", "input": "Tony is pushing toy cars across the floor. The smaller one speeds up _____ than the larger one.", "output": "faster", "options": ["faster", "slower"]}
+{"task": "quarel", "input": "The little baby crawled quickly across the blanket, but went slowly through the grass because it had", "output": "more friction", "options": ["more friction", "less friction"]}
+{"task": "quarel", "input": "Ken is breaking things up to put in the trash. His next two items to break up are a pencil and a metal chair. Ken is best able to break", "output": "the pencil", "options": ["the metal chair", "the pencil"]}
+{"task": "quarel", "input": "The mammoth moved slowly through the watering hole, but ran on the hard dirt because the hard dirt had", "output": "less resistance", "options": ["less resistance", "more resistance"]}
+{"task": "quarel", "input": "A kitten crawled under a smooth wooden fence and a rough wire fence. The kitten's fur was much less warm after crawling under the", "output": "wooden fence", "options": ["wire fence", "wooden fence"]}
+{"task": "quarel", "input": "A car is faster than the average bicycle so which would go further in an hour?", "output": "Car", "options": ["Bicycle", "Car"]}

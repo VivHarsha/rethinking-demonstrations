@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "working a double on 2 hours of sleep here we go let's get it", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "well today is gonna be a great day \ud83d\udc4c", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Still can't believe my teammate is engaged! #Holymoly #RingBySpring #TurnUpppp @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user absolutely shocking that the lamestream media hasn't picked up on this  #mediabias @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "You're never too old for Footie Pajamas.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Believe In Boegarts. RT @user The Red Sox must really believe in Xander Boegarts as a SS if they're going with a GB theme.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Had to take a #PatioPics - snow falling still. This was totally clear when I went to sleep. #WCCO", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Company profile NOT TWINS VENTURES, LLC -   #TWINS #VENTURES, #LLC", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A great day is one in which it's pouring rain and you walk out of your apartment without your car or apartment keys.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user wish I was there. maybe next year. I'll be the one with the mad socks. no clothes. just socks.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Think i almost just died, or burned my face off! #hategasbbqs", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh how I missed middle school drama :~)", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user @user @user - Dutch+Northern theres combo  not speaking yr mind", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just love EU servers....", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "you are the one LYING @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Nice to see @user taking the time to visit a poorly fan (in hospital Phil Jones)   #Alwaysinjured #MUFC", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}

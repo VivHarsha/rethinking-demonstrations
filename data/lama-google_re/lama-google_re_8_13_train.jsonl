@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "George Hanlon died in [MASK] .", "output": "Geelong", "options": []}
+{"task": "lama-google_re", "input": "Konrad of Lichtenau died in [MASK] .", "output": "Bavaria", "options": []}
+{"task": "lama-google_re", "input": "Noah Creshevsky was born in [MASK] .", "output": "Rochester", "options": []}
+{"task": "lama-google_re", "input": "Graham Reilly was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Tara Brabazon was born in [MASK] .", "output": "Perth", "options": []}
+{"task": "lama-google_re", "input": "Shlomo Wolbe was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Tiberius Hemsterhuis died in [MASK] .", "output": "Leiden", "options": []}
+{"task": "lama-google_re", "input": "Sir James Grant, 8th Baronet was born in [MASK] .", "output": "Scotland", "options": []}

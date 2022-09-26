@@ -1,0 +1,8 @@
+{"task": "poem_sentiment", "input": "back to its mansion call the fleeting breath?", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "was she not somewhat that he could not rule", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "her eye proclaims her of the briton line:", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "ez though i wanted to enlist 'em,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "honour to the bugle-horn!", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "all foredoomed to melt away;", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "of the bivouac fire apart,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "when on the boughs the purple buds expand,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}

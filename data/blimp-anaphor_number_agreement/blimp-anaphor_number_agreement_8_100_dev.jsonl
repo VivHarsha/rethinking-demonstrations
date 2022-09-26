@@ -1,0 +1,8 @@
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Russell isn't questioning himself. [SEP] sentence 2: Russell isn't questioning themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Elizabeth respected themselves. [SEP] sentence 2: Elizabeth respected herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: A lot of waitresses astound themselves. [SEP] sentence 2: A lot of waitresses astound itself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: All dancers have aggravated themselves. [SEP] sentence 2: All dancers have aggravated himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: April attacked themselves. [SEP] sentence 2: April attacked herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: The Lutherans know themselves. [SEP] sentence 2: The Lutherans know himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Women concealed themselves. [SEP] sentence 2: Women concealed herself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Some students complain about himself. [SEP] sentence 2: Some students complain about themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}

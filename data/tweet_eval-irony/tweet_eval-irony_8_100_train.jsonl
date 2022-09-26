@@ -1,0 +1,8 @@
+{"task": "tweet_eval-irony", "input": ".@NSRoadsPolicing @user oh look an Audi driver breaking the law...how strange", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I have such a loving family", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user funny joke there bae...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Good choice to stay up late, Lys.  #study #finalsweek #deathofme", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Dear Next Person that seeks to educate me on anything PLEASE be very educated themselves, which means knowing multiple points of view", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user The only place where you don't wanna sit on the seat that you earned. |#Dancing |#QuiksilverGoesSupersonic", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "While politicians are busy in scuffles #PakArmy is doing their job yet maligned  \"@peaceful_h:Salute 2 PAKARMY", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Stay tuned for drunk videos of my mom", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

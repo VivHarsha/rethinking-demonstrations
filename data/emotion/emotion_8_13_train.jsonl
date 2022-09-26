@@ -1,0 +1,8 @@
+{"task": "emotion", "input": "i guess the finality of my decision and the financial repercussions have me feeling doubtful", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel like i did the last time i had to break up with a lousy boyfriend in so im out of practice like junk", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i could better understand and feel the desires of his most sweet heart", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel this place was tragic", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel respected something most girls cannot receive from their peers", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i am not feeling fabulous i can now speak", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i don t feel greedy of worldly things so it s not a big deal", "output": "anger", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i didnt want to hurt her feelings and am fond of avoiding conflict when these situations arise", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}

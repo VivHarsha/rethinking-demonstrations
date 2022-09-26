@@ -1,0 +1,16 @@
+{"task": "lama-google_re", "input": "John O'Conor was born in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Richard Bilby was born in [MASK] .", "output": "Tucson", "options": []}
+{"task": "lama-google_re", "input": "Steven Alexander was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Robert Plonsey (born [MASK]).", "output": "1924", "options": []}
+{"task": "lama-google_re", "input": "Alfred Allen (born [MASK]).", "output": "1888", "options": []}
+{"task": "lama-google_re", "input": "James Kinlay was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Douglas (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "Elsa Rastad Br\u00e5ten was born in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Antiguo Aut%C3%B3mata Mexicano (born [MASK]).", "output": "1971", "options": []}
+{"task": "lama-google_re", "input": "William Gordon Perrin (born [MASK]).", "output": "1874", "options": []}
+{"task": "lama-google_re", "input": "Jeremiah H. Pierson was born in [MASK] .", "output": "Newark", "options": []}
+{"task": "lama-google_re", "input": "Robert E. Hopkins was born in [MASK] .", "output": "Belmont", "options": []}
+{"task": "lama-google_re", "input": "John Bayard McPherson was born in [MASK] .", "output": "Harrisburg", "options": []}
+{"task": "lama-google_re", "input": "Albert Warren Ferris was born in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Nazik Saba Yared was born in [MASK] .", "output": "Jerusalem", "options": []}
+{"task": "lama-google_re", "input": "Martin Zobel was born in [MASK] .", "output": "Tallinn", "options": []}

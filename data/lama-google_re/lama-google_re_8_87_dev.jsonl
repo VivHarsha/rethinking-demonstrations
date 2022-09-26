@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "Nathaniel Johnson (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Rajko Ostoji\u0107 (born [MASK]).", "output": "1962", "options": []}
+{"task": "lama-google_re", "input": "Marian Porwit died in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Andrea Neil was born in [MASK] .", "output": "Vancouver", "options": []}
+{"task": "lama-google_re", "input": "Elizabeth Cooper was born in [MASK] .", "output": "Manila", "options": []}
+{"task": "lama-google_re", "input": "Francis Asbury Baker was born in [MASK] .", "output": "Baltimore", "options": []}
+{"task": "lama-google_re", "input": "Shoxrux (born [MASK]).", "output": "1986", "options": []}
+{"task": "lama-google_re", "input": "Paula Malai Ali was born in [MASK] .", "output": "Brunei", "options": []}

@@ -1,0 +1,16 @@
+{"task": "hate_speech18", "input": "You CANNOT teach people to be intelligent - we must start breaking students into groups of low , moderate and high intellectual ability and teach each group suitable material .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "The Belgian school was one hundred percent white .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Definitely would n't go to try to buy some of those useless weapons .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Stormfront .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I think you will find that this .org is one of the best on the web .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "All in all , it was a good day .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Waiting to buy a new product is almost always a good idea , let someone else experiment .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Although they do appear trashy and promote race mixing , the two head figures in the band are white , are married and do have a white child .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "That way I can make money , have friends for my child to play with , AND stay at home .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I would n't say I 'm looking at things too literally .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Back when I was a kid , even the black folks called them that .... `` Ooohhh I' z cai n't wait until Crimusz , I' z gonna get me sum of dem niggah-toes and oranguz fo ' Crimusz , an ' sum peppahmintz ; dey shoa iz gud ! ''", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "It's not WV .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I also have Google Chrome , IE , Opera .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "This is Hate !!", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "A happy St. David 's day to all of our Welsh compatriots !", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I agree with your post and this is a good way to be active .", "output": "noHate", "options": ["hate", "noHate"]}

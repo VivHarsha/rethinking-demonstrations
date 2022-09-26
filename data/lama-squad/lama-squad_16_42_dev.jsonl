@@ -1,0 +1,16 @@
+{"task": "lama-squad", "input": "The Media Day for Super Bowl 50 was held on [MASK].", "output": "Monday", "options": []}
+{"task": "lama-squad", "input": "After starting his company, Tesla first received [MASK].", "output": "patents", "options": []}
+{"task": "lama-squad", "input": "Tesla considered a [MASK] shape of space as a \"false conception\".", "output": "curved", "options": []}
+{"task": "lama-squad", "input": "Between 1979 and 1984, [MASK] schools were integrated into New Zealand public schools.", "output": "Catholic", "options": []}
+{"task": "lama-squad", "input": "Nikola Tesla was [MASK] by ethnicity.", "output": "Serbian", "options": []}
+{"task": "lama-squad", "input": "William Rankine's is [MASK] by nationality.", "output": "Scottish", "options": []}
+{"task": "lama-squad", "input": "The famous musician [MASK] starred in Stormy Monday.", "output": "Sting", "options": []}
+{"task": "lama-squad", "input": "Newton's gravitational laws were seemed to be bucked by [MASK].", "output": "Mercury", "options": []}
+{"task": "lama-squad", "input": "To emphasize the 50th anniversary of the Super Bowl the [MASK] color was used.", "output": "gold", "options": []}
+{"task": "lama-squad", "input": "When Sunday Night Football premiered, Monday Night Football moved to [MASK].", "output": "ESPN", "options": []}
+{"task": "lama-squad", "input": "Newton played as [MASK] during Super Bowl 50.", "output": "quarterback", "options": []}
+{"task": "lama-squad", "input": "Tesla's property was sent to [MASK].", "output": "Belgrade", "options": []}
+{"task": "lama-squad", "input": "The French ancestry of some South Africans is identified by [MASK].", "output": "names", "options": []}
+{"task": "lama-squad", "input": "According to Luther the faith's greatest enemy is [MASK].", "output": "reason", "options": []}
+{"task": "lama-squad", "input": "The theory of relativity was developed by [MASK].", "output": "Einstein", "options": []}
+{"task": "lama-squad", "input": "The primary race of students attending Christian academies was [MASK].", "output": "white", "options": []}

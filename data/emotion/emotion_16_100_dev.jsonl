@@ -1,0 +1,16 @@
+{"task": "emotion", "input": "i feel a discontent an almost constant pull to travel need for an adventure to find my purpose and loneliness", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "im still feeling all wimpy it may be another skip around", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel joyful and not feeble", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i was alone in a cottage i often stay in i was woken up by a rustling sound in the middle of the night", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel ashamed because i was doing the very thing that the bible taught against", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i would want to welcome into my home if i end up feeling my mommyhood threatened by my inability to breastfeed my baby", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel he is talented and good", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i wasnt feeling that hot prior to vineman but with a little racin and a lot of self talk im now in a better spot mentally and physically", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i have to admit i feel shaken up", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i am feeling mega pathetic and clingy todayyy", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "im under a lot of stress and feeling overwhelmed", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i started the third block feeling hot and cold and tingly all at the same time knowing that i still had five hours of examination ahead of me having no idea if any of it would do any good", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i want to share my feelings but don t want to feel humiliated", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i could spend hours on a set and feel amazing", "output": "surprise", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i still need to feel listened to even if iam idiotic and naive in relation", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "im doing things that make me feel brave and strong i have a a href http derfwadmanor", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}

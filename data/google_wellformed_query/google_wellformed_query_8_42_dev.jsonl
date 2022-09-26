@@ -1,0 +1,8 @@
+{"task": "google_wellformed_query", "input": "What is the magnitude for horizontal force ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is the smallest plate tecktonic ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Who inventd the cassette tape ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What is the true and complete name of obama presidend ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Can women become pregnant if she smooches the penis ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Why microbes are important in pharmaceutical industry ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What kind of area does mobility map have ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "When was a church in medievel society ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}

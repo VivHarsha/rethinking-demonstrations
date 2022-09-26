@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "Fred E. Stewart died in [MASK] .", "output": "Oakland", "options": []}
+{"task": "lama-google_re", "input": "Francis Johnson died in [MASK] .", "output": "Amsterdam", "options": []}
+{"task": "lama-google_re", "input": "Frederick Hickford was born in [MASK] .", "output": "Brunswick", "options": []}
+{"task": "lama-google_re", "input": "Thomas Harrison Hair (born [MASK]).", "output": "1810", "options": []}
+{"task": "lama-google_re", "input": "Eve Adler died in [MASK] .", "output": "Russia", "options": []}
+{"task": "lama-google_re", "input": "Mohan Chopra (born [MASK]).", "output": "1921", "options": []}
+{"task": "lama-google_re", "input": "John Chorlton was born in [MASK] .", "output": "Salford", "options": []}
+{"task": "lama-google_re", "input": "Joe Long was born in [MASK] .", "output": "Elizabeth", "options": []}

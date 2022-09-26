@@ -1,0 +1,8 @@
+{"task": "trec", "input": "When was the USSR dissolved ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "In what U.S. state was the first woman governor elected ?", "output": "LOC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How did the war of 1812 affect Delaware ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "Woodrow Wilson served as president of what university ?", "output": "HUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How fast do cheetahs run ?", "output": "NUM", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What is diabetes ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "How do you exterminate bees that are in the walls of your home ? Will bee eggs remain over winter ?", "output": "DESC", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}
+{"task": "trec", "input": "What color of Monopoly properties are landed on most often ?", "output": "ENTY", "options": ["ABBR", "DESC", "ENTY", "HUM", "LOC", "NUM"]}

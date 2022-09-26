@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "Lil Wayne has released albums.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Eric Clapton was in Blind Faith.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Donald Sutherland is in A Time to Kill as an actor.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Michael J. Fox had perfect health.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Caitlyn Jenner is a human.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Hotel Hell airs.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Pregnancy symptoms include various ailments.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Elizabeth II refused to conduct a state visit to the Republic of Ireland.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}

@@ -1,0 +1,8 @@
+{"task": "kilt_zsre", "input": "Amiot Islands [SEP] continent", "output": "Antarctica", "options": []}
+{"task": "kilt_zsre", "input": "Hannah Duston [SEP] residence", "output": "Massachusetts", "options": []}
+{"task": "kilt_zsre", "input": "Satu M\u00e4kel\u00e4-Nummela [SEP] sex or gender", "output": "female", "options": []}
+{"task": "kilt_zsre", "input": "Arturo Montiel [SEP] occupation", "output": "politician", "options": []}
+{"task": "kilt_zsre", "input": "Jabari Price [SEP] member of sports team", "output": "Minnesota Vikings", "options": []}
+{"task": "kilt_zsre", "input": "Attack the Gas Station [SEP] director", "output": "Kim Sang-jin", "options": []}
+{"task": "kilt_zsre", "input": "Jos\u00e9 Antonio Pikabea [SEP] position played on team / speciality", "output": "defender", "options": []}
+{"task": "kilt_zsre", "input": "Nadine Krause [SEP] place of birth", "output": "Waiblingen", "options": []}

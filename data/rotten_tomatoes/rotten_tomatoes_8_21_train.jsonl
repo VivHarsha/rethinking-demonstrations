@@ -1,0 +1,8 @@
+{"task": "rotten_tomatoes", "input": "overall , the film misses the brilliance of jelinek's novel by some way . it settles for being merely grim .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "nervy and sensitive , it taps into genuine artistic befuddlement , and at the same time presents a scathing indictment of what drives hollywood .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "it sends you away a believer again and quite cheered at just that .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "noyce films it more as a shocking history lesson than as drama .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "a graceless , witless attempt at mating some like it hot with the wwii espionage thriller .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "they takes a long time to get to its gasp-inducing ending .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "it's like a drive-by . you can drive right by it without noticing anything special , save for a few comic turns , intended and otherwise .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "an intelligently made ( and beautifully edited ) picture that at the very least has a spark of life to it -- more than you can say for plenty of movies that flow through the hollywood pipeline without a hitch .", "output": "positive", "options": ["negative", "positive"]}

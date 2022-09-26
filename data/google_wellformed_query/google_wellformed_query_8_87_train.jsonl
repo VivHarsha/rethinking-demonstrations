@@ -1,0 +1,8 @@
+{"task": "google_wellformed_query", "input": "Ibuprofen and acetaminophen mixed what happens ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Can you die from paranoid schizophrenia ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Postesuperior boundary of the oral cavity ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What color hair did henry ford 's hair ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "What are Ecuadors relgions ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Where is the air filter on 98 VW beetle ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "Bernis madoff net worth ?", "output": "not well-formed", "options": ["not well-formed", "well-formed"]}
+{"task": "google_wellformed_query", "input": "How is the day celebrated on Diwali ?", "output": "well-formed", "options": ["not well-formed", "well-formed"]}

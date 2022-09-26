@@ -1,0 +1,16 @@
+{"task": "sms_spam", "input": "Did you try making another butt.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Ok ill tell the company", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Dear are you angry i was busy dear", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "That would be great. We'll be at the Guild. Could meet on Bristol road or somewhere - will get in touch over weekend. Our plans take flight! Have a good week", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Then mum's repent how?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "What's your room number again? Wanna make sure I'm knocking on the right door", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Fine am simply sitting.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Think ur smart ? Win \u00a3200 this week in our weekly quiz, text PLAY to 85222 now!T&Cs WinnersClub PO BOX 84, M26 3UZ. 16+. GBP1.50/week", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "He said i look pretty wif long hair wat. But i thk he's cutting quite short 4 me leh.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Today my system sh get ready.all is well and i am also in the deep well", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Leave it wif me lar... \u00dc wan to carry meh so heavy... Is da num 98321561 familiar to \u00fc?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Talk With Yourself Atleast Once In A Day...!!! Otherwise You Will Miss Your Best FRIEND In This WORLD...!!! -Shakespeare- SHESIL  &lt;#&gt;", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I will spoil you in bed as well :)", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Are you angry with me. What happen dear", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Wait.i will come out.. &lt;#&gt;  min:)", "output": "ham", "options": ["ham", "spam"]}

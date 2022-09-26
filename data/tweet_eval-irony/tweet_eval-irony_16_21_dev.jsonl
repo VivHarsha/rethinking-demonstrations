@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "The #blackbrunchnyc hashtag got the racists goin up on a Sunday...\ud83d\ude12", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Girls who dip>>>", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Gripping new ebook not for the fainthearted or politically correct. Please visit site", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "That was a very rememberable new years kiss \ud83d\ude02\ud83d\udc8b\u2764\ufe0f #lovemyrelationship", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Library computer has frozen again #shocker", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Working hard right now", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Writing an article on mood enhancing foods. Telling people what to eat to be happy", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just bartered for a bottle of rum in best one, and got it down from \u00a318 to \u00a314. Happy Fucking New Year to me!!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user so basically the only storyline for Caroline Forbes in this season is called \"Stefan\", great!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I don't believe you!!!!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Not felt this I'll since I was in kos! Eugh a great end to a great week......  #beenshite #killme", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "EBOLA|BUT GREED AKA BADMIND KILLS EASILY AND QUICKQUICK", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love waking up out of a dead sleep to two firetrucks blaring past my window  \ud83d\ude34\ud83d\ude92\ud83d\ude91", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I can sign you in as my guest....", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "save your work folks. i'm offically cntrl-alt-deleting this week.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user it was an In progress list of \"MN of the year\"", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

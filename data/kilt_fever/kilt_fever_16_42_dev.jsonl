@@ -1,0 +1,16 @@
+{"task": "kilt_fever", "input": "Jacqueline Kennedy Onassis was named one of the Most Admired Men and Women in 20th-century America by Gallup.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Keanu Reeves was in the movie Dangerous Liaisons in 2010.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Tall Story is a North American film.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Her stars English actress Olivia Wilde.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Vampire Diaries' pilot attracted a large audience.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Marie Curie was a person.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Lee Min-ho secured the Best New Actor award.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Elisabeth Sladen semi-retired to bring up a family.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "George Lucas founded a company.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Big Boi is a musician.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Luke Wilson stars in The Royal Tenenbaums.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Felix Arvid Ulf Kjellberg is better recognized at PewDiePie.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Wiz Khalifa is a person who acts.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Patch Adams (film) is a 1998 television show.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Patty Hearst was kidnapped by the Symbionese Liberation Army in 1974.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Giancarlo Stanton graduated from high school.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

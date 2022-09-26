@@ -1,0 +1,8 @@
+{"task": "tweet_eval-emotion", "input": "@user @user imagine being this stupid for trying to chirp because of some racist prick.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "My 2 teens sons just left in the car to get haircuts. I'm praying up a storm that they make it home safely!!  #TerenceCrutcher", "output": "optimism", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Watch this amazing live.ly broadcast by @user #lively #musically", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "I was literally shaking getting the EKG done lol \ud83d\ude44", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "My @user literally cracks me up when I see posts from 2 years ago and later \ud83d\ude02", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "US you need to band together not apart #nevertrump he promotes hatred and fuels #fear", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user #CharlotteProtest do u #wait 4 the facts #video or do u #hate now ask questions later #sad #protest #PoliceShootings #suggestions", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Bloody parking ticket \ud83d\ude12\ud83d\udcb8 #fuming", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}

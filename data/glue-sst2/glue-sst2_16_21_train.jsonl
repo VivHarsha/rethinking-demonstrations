@@ -1,0 +1,16 @@
+{"task": "glue-sst2", "input": "sentence: in his role of observer of the scene , lawrence sounds whiny and defensive , as if his life-altering experiences made him bitter and less mature .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: misfire that even tunney ca n't save", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is a goofball movie , in the way that malkovich was", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: solid pedigree", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: prostituted muse", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: encumbers itself", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: interesting character", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: murky", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: of a-list brit actors", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the dangerous lives of altar boys ' take on adolescence feels painfully true .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: if you , like me , think an action film disguised as a war tribute is disgusting to begin with , then you 're in for a painful ride .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: as dumb and cheesy", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: applies more detail to the film 's music than to the story line", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: devos and cassel have tremendous chemistry --", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is the kathie lee gifford of film directors", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: show us a good time", "output": "positive", "options": ["negative", "positive"]}

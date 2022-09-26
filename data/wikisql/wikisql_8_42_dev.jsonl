@@ -1,0 +1,8 @@
+{"task": "wikisql", "input": "What is the 1999-2000 team, when the Height (cm) is less than 187, and when the Birthplace is Cloquet, Minnesota?", "output": "SELECT 1999-2000 team FROM table WHERE Height (cm) < 187 AND Birthplace = cloquet, minnesota", "options": []}
+{"task": "wikisql", "input": "What is the highest Tournaments, when Pro Debut is \"July 2002\"?", "output": "SELECT MAX Tournaments FROM table WHERE Pro Debut = july 2002", "options": []}
+{"task": "wikisql", "input": "what is the total time in office when the assumed office is 1 november 1856?", "output": "SELECT TOTAL Time in Office: FROM table WHERE Assumed Office: = 1 november 1856", "options": []}
+{"task": "wikisql", "input": "When did the term end for the term that had government 27 and Minister Tzachi Hanegbi?", "output": "SELECT Term end FROM table WHERE Governments = 27 AND Minister = tzachi hanegbi", "options": []}
+{"task": "wikisql", "input": "What is the Outcome of the Doubles played on Carpet?", "output": "SELECT Outcome FROM table WHERE Surface = carpet", "options": []}
+{"task": "wikisql", "input": "Name the venue for geelong away team", "output": "SELECT Venue FROM table WHERE Away team = geelong", "options": []}
+{"task": "wikisql", "input": "What was the score for the final played on 2 July 2012?", "output": "SELECT Score FROM table WHERE Date = 2 july 2012", "options": []}
+{"task": "wikisql", "input": "Between November 25\u201330, 2008 the sellout rate was at 75%, indicating that the ration between shows to sellout was what?", "output": "SELECT Shows / Sellout FROM table WHERE Sellout (%) = 75%", "options": []}

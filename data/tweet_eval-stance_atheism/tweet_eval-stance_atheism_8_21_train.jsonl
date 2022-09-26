@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "you're doing the work of ending domination.\" (Bell Hooks) (2/2) #feminism  #civilrights #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "...because #god made it that way is literally not ever the answer. Keep curiosity alive. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "RT @user Too much #MinorityAppeasement in India. No room for #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Humanist Canada stands by the US Supreme Court ruling in favor of marriage equality! #LoveWins #LoveIsLove #MarriageEquaility #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Don't allow life to \"potter\" you. #iamtheclay #IAMisthepotter #god #belief #christianity #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "@user or just Alittle cup of #YouGotIt #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Hallelujah! You have overcome! You have overcome! Jesus has overcome the world! @user had 'Victor' in my heart all day!  #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I will not allow the enemy to control my appetite, but I yield my appetite to the control of the Holy Spirit. #SemST", "output": "against", "options": ["against", "favor", "none"]}

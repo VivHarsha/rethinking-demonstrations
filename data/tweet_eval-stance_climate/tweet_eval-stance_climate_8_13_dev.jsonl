@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "@user suggests we should have schools for politicians to educate them on critical issues #WithCompassion #HHDL80 #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "When your wearing sweaters in the summer #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The last thing #Australia or the world needs are 2 more vast earth destroying #coal mines! Let's get real and fight  #auspol #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "That awkward moment when a pro-coal PR campaign has over 100K more followers than you do: @user #greenwashing #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#MainauDeclaration2015 60 years later..#LiNo15 Laureates and young scientists say it is time to act #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Rosalind Peterson addressing UN on how aerosol spraying (Chemtrails) is affecting agriculture. #NotADebate #Geoengineering #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user @user Some people r so guilt free #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user Those items need to come back.  #SemST", "output": "none", "options": ["against", "favor", "none"]}

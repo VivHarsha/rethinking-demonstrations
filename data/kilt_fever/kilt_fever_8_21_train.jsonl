@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "The Dakota is only a public pool in New Brunswick.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Cher is a singer.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Bronson (film) was directed by a Danish film director.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Serena Williams has a sister.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Rhode Island ratified the Articles of Confederation in 1779.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Vikram appeared in a film.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Detroit is a village.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Iraq's fifth president was a person.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

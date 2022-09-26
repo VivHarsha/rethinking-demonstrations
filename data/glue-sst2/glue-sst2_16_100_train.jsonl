@@ -1,0 +1,16 @@
+{"task": "glue-sst2", "input": "sentence: the stars may be college kids , but the subject matter is as adult as you can get :", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: in the power of the huston performance , which seems so larger than life and yet so fragile", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: short of wonderful with its ten-year-old female protagonist and its steadfast refusal to set up a dualistic battle between good and evil", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the problem with the bread , my sweet is that it 's far too sentimental .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a blast", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: nothing delivered by the former mr. drew barrymore", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: at the diverse , marvelously twisted shapes history has taken", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: superb production values & christian bale 's charisma make up for a derivative plot .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: proves she has the stuff to stand tall with pryor , carlin and murphy", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: 's mildly interesting to ponder the peculiar american style of justice that plays out here", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: time literally stops on a dime in the tries-so-hard-to-be-cool `` clockstoppers , '' but that does n't mean it still wo n't feel like the longest 90 minutes of your movie-going life", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: growing up that we do n't see often enough these days", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: monumental", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: low , very low", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: storytelling prowess", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the movie keeps coming back to the achingly unfunny phonce and his several silly subplots .", "output": "negative", "options": ["negative", "positive"]}

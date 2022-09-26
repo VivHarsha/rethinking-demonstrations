@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "France maintains diplomatic relations with [MASK] .", "output": "Austria", "options": []}
+{"task": "lama-trex", "input": "Dominican Republic shares border with [MASK] .", "output": "Haiti", "options": []}
+{"task": "lama-trex", "input": "Vilnius is the capital of [MASK] .", "output": "Lithuania", "options": []}
+{"task": "lama-trex", "input": "United States of America shares border with [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-trex", "input": "Rhode Island shares border with [MASK] .", "output": "Massachusetts", "options": []}
+{"task": "lama-trex", "input": "The official language of Ibiza is [MASK] .", "output": "Catalan", "options": []}
+{"task": "lama-trex", "input": "Yerevan is the capital of [MASK] .", "output": "Armenia", "options": []}
+{"task": "lama-trex", "input": "Namibia shares border with [MASK] .", "output": "Zambia", "options": []}

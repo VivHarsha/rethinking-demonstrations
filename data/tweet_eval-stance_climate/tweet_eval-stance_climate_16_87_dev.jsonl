@@ -1,0 +1,16 @@
+{"task": "tweet_eval-stance_climate", "input": "I can literally sense the global warming NOW.  #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Isn't CO2 impact on warming logarithmic, and at current levels, 390 ppm, incremental impact negligible? #NDP #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Thx @user @user had fun in my home county, will be back later this summer with @user up 4 #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The facts are in. It is clear as our numbered days. Climate change is humanity's fault. And we are facing extinction. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Let's all stop saying people don't \"believe\" in Climate Change. It's not a matter of faith. They don't UNDERSTAND #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The carbon clock is ticking @user #SurplusGas #carbon #gas #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user @user We need degrowth - stop destroying our planet, BP. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": ".@quinn43 Thanks for the follow. Check out CCL for solutions. #solutions #citizensclimatelobby2015 #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "In the U.S. coal is dead Al Gore @user #CannesLions #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "I'm in hell. I feel the fiery tips of insidious flames swiftly sauntering into my room. Or maybe I don't have AC #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#AskRobertRedford Beyond the national level, what can be done on the individual level to mitigate the effects of #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Just read Scalia's idiotic opinion overturning the EPA's carbon emissions limits. Planning to spend day in a seething rage. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Attenborough: 'The real problem is global' i.e. not just me, or you, but us #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user He hit the nail on the head. We're (hopefully) on the edge of a paradigm shift on #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#Mission:#Climate @ home > Reduce . Reuse . Recycle . Replenish . Restore  (by @user #Tip #EarthRightNow #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "We Aren't The Dinosaurs, We're The Asteroid. #earth #extinction #SemST", "output": "favor", "options": ["against", "favor", "none"]}

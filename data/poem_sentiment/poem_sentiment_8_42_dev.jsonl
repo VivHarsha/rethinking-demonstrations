@@ -1,0 +1,8 @@
+{"task": "poem_sentiment", "input": "upon whose boughs were wicker cages hung,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "fifty times the brahmins' offer deluged all the floor.", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "far, far away, o ye", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "deaf, and dumb, and blind, and cold,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "so thick, she cannot see her lover hiding,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the sundown's golden trail?", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "\u201ci\u2019m going to put you on the farm next to it.\u201d", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the visual nerve is withered to the root,", "output": "negative", "options": ["negative", "no_impact", "positive"]}

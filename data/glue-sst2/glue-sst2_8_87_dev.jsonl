@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: exploitation film", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: might be distracted by the movie 's quick movements and", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: unfunny", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: unaware", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: ... a light , yet engrossing piece .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: it 's exactly the kind of movie toback 's detractors always accuse him of making .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: relaxed in its perfect quiet pace and", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is off .", "output": "negative", "options": ["negative", "positive"]}

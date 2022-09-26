@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "@user I'll bomb anything I can get my hands on, especially if THEY aren't christian. #graham2016 #GOP #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user Weather patterns evolving very differently over the last few years..  #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The ruling by @user is a major setback for @user & the environment.  #dirtycoal #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user RT @user #ClimateFact India may stand to lose 1.8% of its annual GDP by 2050 due to #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "I love this Pope. I don't care what religion you are, this guy is awesome. #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#MainauDeclaration2015 watch out guys.. This is HUGE!! #LindauNobel #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#MainauDeclaration2015.....lets push the Agenga worldwide without any fear #climatejustice2015 #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#Technology is a sign of how far we have come! The #ideology of #capitalism is a sign of how far we have to go! #Methodology #SemST", "output": "none", "options": ["against", "favor", "none"]}

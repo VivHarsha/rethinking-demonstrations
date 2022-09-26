@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "Just watched how Pretzels were made. #interesinglife  #whatamidoingwithmylife #longesthashtagnotneededbutYOLO", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Didnt have no time to wake and bake this mornin  winnin \ud83d\ude21\ud83d\ude45", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love being on hold. Especially when the music is so great.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "But it's time to face the truth... I will never be with you", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#almajmoua participating in the 4th #CSR forum #lebanon #togetherwegrow -for-profit #microfinance #supporting...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#UKPLUS= Consists of Free Lebara2Lebara 3000MINs and 3000SMS UNLIMITED. #NO UNLIMITED SMS TO OTHER NETWORK Only consists of 1000SMS", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm so glad I'm sick today. | #bullcrap", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My son is so thoughtful he loves taking snacks for the class.# always thinking of others #raising him right  selfish", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "'All we do is eat, watch movies and kick the shit out of each other' \ud83d\ude02 #RelationshipGoalsAccomplished", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user You are not allowed to open that until Christmas day!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fear & Loathing in Las Ukras: #Politics #Russia #Ukraine", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Too late, thrown the #PS4 out of the window last night cus i couldn't play", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Always gonna be an uphill battle, sometimes I'm gonna have to lose.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user Fuck yeah! 600 more viewers!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Your not understanding something, does  make you an expert in the field.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user hahaha good 1, you might own a stadium then rather than the local council ;)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

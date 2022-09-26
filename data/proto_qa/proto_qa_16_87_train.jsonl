@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "what kind of nut butter could you use if you were allergic to peanuts?", "output": "almond", "options": []}
+{"task": "proto_qa", "input": "name something you do at home, but not while staying in a hotel.", "output": "cook", "options": []}
+{"task": "proto_qa", "input": "name something people enjoy doing under a tree", "output": "picnic", "options": []}
+{"task": "proto_qa", "input": "name an occasion where you'd see people dancing.", "output": "wedding", "options": []}
+{"task": "proto_qa", "input": "name something that love gets compared to in pop songs.", "output": "flower", "options": []}
+{"task": "proto_qa", "input": "name something you might surprise your significant other with.", "output": "flowers", "options": []}
+{"task": "proto_qa", "input": "name something in your office that's covered in germs.", "output": "telephone", "options": []}
+{"task": "proto_qa", "input": "name something people do that ticks off animal activists", "output": "wear fur", "options": []}
+{"task": "proto_qa", "input": "name a type of sandwich you'd expect to see in new york city.", "output": "hoagie", "options": []}
+{"task": "proto_qa", "input": "name a place it would be strange to go if you didnt have kids", "output": "park/playground", "options": []}
+{"task": "proto_qa", "input": "name a country where they seem to hate americans.", "output": "iraq", "options": []}
+{"task": "proto_qa", "input": "name a beverage you get re-filled for free at many restaurants", "output": "soda", "options": []}
+{"task": "proto_qa", "input": "name a place you go where you don't want to sit behind someone with a big head.", "output": "movie theater", "options": []}
+{"task": "proto_qa", "input": "name something womens magazines give advice on", "output": "intimacy", "options": []}
+{"task": "proto_qa", "input": "name something that's supposed to be funny, but rarely is.", "output": "jokes", "options": []}
+{"task": "proto_qa", "input": "name a school subject most parents couldn't help their kid do.", "output": "math", "options": []}

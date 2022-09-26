@@ -1,0 +1,16 @@
+{"task": "tweet_eval-stance_feminist", "input": "*sigh* One small step back for women, one giant leap forward for lonely perverts. #ChrissyTeigen #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "If feminists are ugly then what are the people calling them ugly must be vile #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "they opened a blenders in the vhs GIRLS bathroom today! #TheMoreYouKnow #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "I need feminism because broken idealogies need defending just as much as functioning ones. #cryingalready #DeathNote #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user @user Agree 100 %! She radiates beauty from the inside out. Such a role model for all  #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "No. Feminists are not ugly. The fact that there isn't equal rights for both men and women is. #FeministsAreBeautiful #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Because all human beings are created equally by nature. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Because young girls are told not to be raped instead of telling boys not to rape #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Now Harry is arguing with Dead Girl's father about whose job it is to kill the RapeMurdering villain. #Horns #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user @user how about \"Maura & Tucker in the morning\" #equality #seniority #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Old, insecure females forcing hatred of men on a younger generation of women #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user True, but it's in quotes, and I had to take the opportunity to promote #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user @user @user that is true I can't compete with you #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "RT @user My dream in life is to fuck a Canadian slut in her eye-socket.  #YesAllWomen #ThisFuckingGuy #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Because heckling #YesAllWomen & screaming \"LOOK AT ME!\" all day is an excellent way to show us you are a serious individual  #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "I don't buy a dress that I can't completely zip up and fasten on my own. #SemST", "output": "none", "options": ["against", "favor", "none"]}

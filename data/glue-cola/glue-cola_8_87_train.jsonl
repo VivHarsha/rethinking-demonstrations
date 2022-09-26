@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "Mary is often running the marathon.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The man that arrived on the train was my brother.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Mr Knightley suggested that thieves would break into Hartfield.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "It is important for us to spend time with children.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Why don't you pick some review up of this article?", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Please make yourself comfortable and I'll wash the dishes.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Is likely to Jean dance.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I've got to try and I've got to find that screw.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}

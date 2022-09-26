@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: proves she has the stuff to stand tall with pryor , carlin and murphy", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: 's mildly interesting to ponder the peculiar american style of justice that plays out here", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: time literally stops on a dime in the tries-so-hard-to-be-cool `` clockstoppers , '' but that does n't mean it still wo n't feel like the longest 90 minutes of your movie-going life", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: growing up that we do n't see often enough these days", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: monumental", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: low , very low", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: storytelling prowess", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the movie keeps coming back to the achingly unfunny phonce and his several silly subplots .", "output": "negative", "options": ["negative", "positive"]}

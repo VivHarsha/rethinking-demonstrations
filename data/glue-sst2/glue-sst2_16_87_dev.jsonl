@@ -1,0 +1,16 @@
+{"task": "glue-sst2", "input": "sentence: she has the stuff to stand tall with pryor , carlin and murphy", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: has a fluid , no-nonsense authority", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a slam-bang extravaganza that", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: unlaughable", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is tepid and tedious .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the exclamation point seems to be the only bit of glee you 'll find in this dreary mess .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: always keeping the balance between the fantastic and the believable", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: well-made pizza", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: inspires more than an interested detachment", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: engages us in constant fits of laughter , until we find ourselves surprised at how much we care about the story , and end up walking out not only satisfied but also somewhat touched", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: magnificent landscape to create a feature film that is wickedly fun to watch", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: , it actually hurts to watch .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: sustain its initial promise with a jarring , new-agey tone creeping into the second half", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: danis", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: seldom hammy ,", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: work that lacks both a purpose and a strong pulse", "output": "negative", "options": ["negative", "positive"]}

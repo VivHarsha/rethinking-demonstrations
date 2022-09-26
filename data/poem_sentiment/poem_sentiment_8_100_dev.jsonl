@@ -1,0 +1,8 @@
+{"task": "poem_sentiment", "input": "to match your wit against the maker's will,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "you turn, o jeanne, on our mystery", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "augmented, sweet, a hundred fold", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "flood his black hearthstone till its flames expire,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "envy and calumny and hate and pain,", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "whose anvil's even din", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "whose potent unity and concentric force", "output": "positive", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "take the warm welcome of new friends with thee,", "output": "positive", "options": ["negative", "no_impact", "positive"]}

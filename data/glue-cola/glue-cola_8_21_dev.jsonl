@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "He got what he wanted.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "What causes students to select particular majors?", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The dentist is likely to examine Pat.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "She always wore.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Whenever Bill smokes, Susan hates him a lot more.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Carla hit Bill's back.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "John is prouder of having gone than than John expected me to believe not all.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "John deposited some money in the bank.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}

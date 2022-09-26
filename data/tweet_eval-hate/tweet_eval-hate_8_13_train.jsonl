@@ -1,0 +1,8 @@
+{"task": "tweet_eval-hate", "input": "@user IT'S 'NICE' OF 'YOU' TO 'ADMIT' THAT '#Labour VOTERS' DO NOT HAVE ANY 'ID'I 'WONDER' WHY 'THAT' COULD 'BE'#refugeesNOTwelcome #Brexit #IllegalImmigration", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user Maybe this is what you wanted: \u201cWhat a gross skank! Ever hear of a pocket?\u201d Better? \ud83d\ude18", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "Dehumanising language to describe migrants. Anyone NOT doing this nowadays? It\u2019s all a load of bollocks btw.", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user Madman why did'nt u raise these issues before ur corrupt Babu was picked up for serious charges", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user The whore bitch spoke! STFU Melania, Melanie , whatever your name is", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "Mass immigration is invasion \u00e2\u009d\u2014\u00e2\u009d\u2014", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "so my Chloe don't want to see me win she unfollowed because I made a post i HIT 100 FOLLOWERS and then she unfollowed me bitch fuck u whore", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "Dominican Immigrant Sexually Assaulted Multiple Girls In New York via @user Diversity update...", "output": "non-hate", "options": ["hate", "non-hate"]}

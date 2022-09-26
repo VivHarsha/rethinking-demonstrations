@@ -1,0 +1,8 @@
+{"task": "lama-squad", "input": "Genghis Khan is viewed as a contemptible perpetrator of genocide in [MASK].", "output": "Iran", "options": []}
+{"task": "lama-squad", "input": "Another type of accountant other than a CPA is a [MASK].", "output": "Chartered", "options": []}
+{"task": "lama-squad", "input": "The organization that runs the satellite that measured dust that landed on the Amazon is [MASK] .", "output": "NASA", "options": []}
+{"task": "lama-squad", "input": "An example of a virus that uses antigenic variation is [MASK].", "output": "HIV", "options": []}
+{"task": "lama-squad", "input": "A teacher would help a student with their [MASK] disability.", "output": "learning", "options": []}
+{"task": "lama-squad", "input": "In later years Luther strike out against [MASK].", "output": "Jews", "options": []}
+{"task": "lama-squad", "input": "The Super Bowl sponsor was the [MASK] clothing company.", "output": "Gap", "options": []}
+{"task": "lama-squad", "input": "A group who call themselves Huguenots lives in [MASK].", "output": "Australia", "options": []}

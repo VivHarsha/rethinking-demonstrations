@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name something talk show hosts do during a commerical break.", "output": "use bathroom", "options": []}
+{"task": "proto_qa", "input": "name a food or beverage you wouldn't consume after it'd been sitting out in hot weather", "output": "milk", "options": []}
+{"task": "proto_qa", "input": "give me a word or phrase containing the word \"chip\":", "output": "chocolate chip", "options": []}
+{"task": "proto_qa", "input": "name a game you might play in a casino.", "output": "blackjack", "options": []}
+{"task": "proto_qa", "input": "name a gift that you'd never buy for your workplace secret santa exchange.", "output": "underwear", "options": []}
+{"task": "proto_qa", "input": "name something specific that takes longer to dry than to wash", "output": "hair", "options": []}
+{"task": "proto_qa", "input": "name something a man might still do for a woman when they go out on a date.", "output": "open doors", "options": []}
+{"task": "proto_qa", "input": "name an invention that has brought people closer together.", "output": "phone", "options": []}
+{"task": "proto_qa", "input": "name something you accumulate through life.", "output": "wisdom", "options": []}
+{"task": "proto_qa", "input": "name something you'd need in order to play a game of basketball", "output": "basketball", "options": []}
+{"task": "proto_qa", "input": "if you loan a car to a friend name something you hope they dont do", "output": "wreck it", "options": []}
+{"task": "proto_qa", "input": "tell me a popular type of homemade candy served during the holidays", "output": "fudge", "options": []}
+{"task": "proto_qa", "input": "name one of the specific times when you usually look your worst.", "output": "morning", "options": []}
+{"task": "proto_qa", "input": "name something you might do on father's day.", "output": "cook nice meals", "options": []}
+{"task": "proto_qa", "input": "name something parents tell their kids not to waste.", "output": "food", "options": []}
+{"task": "proto_qa", "input": "which president's daughter do you think appeared nude in playboy?", "output": "bill clinton", "options": []}

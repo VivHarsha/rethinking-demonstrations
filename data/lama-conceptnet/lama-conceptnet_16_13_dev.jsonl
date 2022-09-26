@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "The statement \"Lettuce is a leafy vegetable that is good in salads\" is true because Salads are [MASK] that is usually made of lots of vegetables.", "output": "food", "options": []}
+{"task": "lama-conceptnet", "input": "Squash is a [MASK].", "output": "sport", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Mike is a stagehand.  Mike moves scenery.\", it is important to know that Mikes works in [MASK].", "output": "theater", "options": []}
+{"task": "lama-conceptnet", "input": "Tricycles have [MASK].", "output": "pedals", "options": []}
+{"task": "lama-conceptnet", "input": "Geometry is a [MASK] studied in school.", "output": "subject", "options": []}
+{"task": "lama-conceptnet", "input": "A landmark is for people to read and [MASK] about an historical event.", "output": "learn", "options": []}
+{"task": "lama-conceptnet", "input": "The statement \"Sometimes [MASK] a book causes eye strain\" is true because a persons eyes get tired after looking at words for a long time.", "output": "reading", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen when you live is [MASK].", "output": "susprise", "options": []}
+{"task": "lama-conceptnet", "input": "People often keep fish in a tank as [MASK].", "output": "pets", "options": []}
+{"task": "lama-conceptnet", "input": "Grebe is a [MASK].", "output": "bird", "options": []}
+{"task": "lama-conceptnet", "input": "Bacteria is [MASK].", "output": "alive", "options": []}
+{"task": "lama-conceptnet", "input": "A car is an [MASK] that needs to be replaced occasionally.", "output": "item", "options": []}
+{"task": "lama-conceptnet", "input": "Sometimes forgiving someone causes [MASK] .", "output": "reconcilliation", "options": []}
+{"task": "lama-conceptnet", "input": "You are likely to find a koala in [MASK].", "output": "stew", "options": []}
+{"task": "lama-conceptnet", "input": "Idiots can be [MASK].", "output": "slapped", "options": []}
+{"task": "lama-conceptnet", "input": "The statement \"Something you find at a party is alchohol.\" is true because People go to parties to have [MASK] and relax.  Alcohol lowers inhibitions and lets people releax.", "output": "fun", "options": []}

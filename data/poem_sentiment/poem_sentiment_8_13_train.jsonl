@@ -1,0 +1,8 @@
+{"task": "poem_sentiment", "input": "now, if thou art a poet, tell me not", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "obliterate the etchings", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "that passed with you and me.--", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "and when they reached the house,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "less often man--the harder of the two.", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the eyes beside had wrung them dry,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "pilgrim and soldier, saint and sage,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "whose instinct was to listen and obey.", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}

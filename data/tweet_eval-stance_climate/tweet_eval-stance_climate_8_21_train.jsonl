@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "Scary stat of the day: 7% of the area of urban greenspace in England has been lost since 2001 @user #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Need to separate natural disasters from man made disasters, emphasise polluter pays,and need for loss and damage. #TuvaluPM  #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The best call still and will always be Matt in Cleveland. #KirstieAllie #ValKilmer #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "At what point do we rename summer \"The Rainy Season\"? #Cdnpoli #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "After the Millennials come the Apocalypticals. Thanks, breeders. #overpopulation #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "BREAKING: This just in, an ocean wave just broke an inch further on the beach than normal! #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Yo if you live in the United States right now, and do not believe in Global Climate Change, you're a fucking idiot. #fact #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user - feel! I'll bin this one & upload a newer mix in a few days see which version you like better, re's D #peace #SemST", "output": "none", "options": ["against", "favor", "none"]}

@@ -1,0 +1,16 @@
+{"task": "lama-trex", "input": "Ukraine shares border with [MASK] .", "output": "Poland", "options": []}
+{"task": "lama-trex", "input": "1996 Summer Olympics is located in [MASK] .", "output": "Atlanta", "options": []}
+{"task": "lama-trex", "input": "Senegal shares border with [MASK] .", "output": "Mali", "options": []}
+{"task": "lama-trex", "input": "Jordan shares border with [MASK] .", "output": "Israel", "options": []}
+{"task": "lama-trex", "input": "Amsterdam is the capital of [MASK] .", "output": "Netherlands", "options": []}
+{"task": "lama-trex", "input": "The official language of Iran is [MASK] .", "output": "Persian", "options": []}
+{"task": "lama-trex", "input": "Amsterdam is the capital of [MASK] .", "output": "Netherlands", "options": []}
+{"task": "lama-trex", "input": "Hungary shares border with [MASK] .", "output": "Slovenia", "options": []}
+{"task": "lama-trex", "input": "United States of America shares border with [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-trex", "input": "The official language of Bangladesh is [MASK] .", "output": "Bengali", "options": []}
+{"task": "lama-trex", "input": "county of England is part of [MASK] .", "output": "England", "options": []}
+{"task": "lama-trex", "input": "Japan is located in [MASK] .", "output": "Asia", "options": []}
+{"task": "lama-trex", "input": "Netherlands maintains diplomatic relations with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "One Day International is a subclass of [MASK] .", "output": "cricket", "options": []}
+{"task": "lama-trex", "input": "Luxembourg shares border with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "The capital of People's Republic of China is [MASK] .", "output": "Beijing", "options": []}

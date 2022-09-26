@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "Ink can be any [MASK].", "output": "colour", "options": []}
+{"task": "lama-conceptnet", "input": "A person doesn't want [MASK].", "output": "anxiety", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find at at [MASK] is a porter.", "output": "hotel", "options": []}
+{"task": "lama-conceptnet", "input": "Jimmy is [MASK].", "output": "nuts", "options": []}
+{"task": "lama-conceptnet", "input": "Guns can [MASK].", "output": "jam", "options": []}
+{"task": "lama-conceptnet", "input": "A duplex is used for housing two [MASK].", "output": "families", "options": []}
+{"task": "lama-conceptnet", "input": "If you want to go to sleep then you should turn down your [MASK].", "output": "bed", "options": []}
+{"task": "lama-conceptnet", "input": "A person wants [MASK].", "output": "consistency", "options": []}
+{"task": "lama-conceptnet", "input": "Kissing is [MASK].", "output": "enjoyable", "options": []}
+{"task": "lama-conceptnet", "input": "A discothque is used for dancing and [MASK].", "output": "socializing", "options": []}
+{"task": "lama-conceptnet", "input": "Tack is a type of [MASK] object.", "output": "sharp", "options": []}
+{"task": "lama-conceptnet", "input": "If adults are responsible for the care of a child or children and they [MASK] to leave home to see a movie, it is necessary for them to arrange for a babysitter to come into the home to look after the child while they are away.", "output": "wish", "options": []}
+{"task": "lama-conceptnet", "input": "Some features are [MASK].", "output": "complex", "options": []}
+{"task": "lama-conceptnet", "input": "Birth, sickness, old age and death are [MASK].", "output": "suffering", "options": []}
+{"task": "lama-conceptnet", "input": "A brook is used for [MASK].", "output": "life", "options": []}
+{"task": "lama-conceptnet", "input": "Reproducing requires [MASK].", "output": "fertility", "options": []}

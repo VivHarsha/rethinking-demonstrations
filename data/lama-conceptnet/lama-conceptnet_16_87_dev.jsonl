@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "A chapel is for [MASK].", "output": "worshipping", "options": []}
+{"task": "lama-conceptnet", "input": "If you want to socialize then you should [MASK].", "output": "mix", "options": []}
+{"task": "lama-conceptnet", "input": "Silk is a type of [MASK] as.", "output": "soft", "options": []}
+{"task": "lama-conceptnet", "input": "The effect of working the box office is [MASK].", "output": "boredom", "options": []}
+{"task": "lama-conceptnet", "input": "Person does not want [MASK].", "output": "complacency", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find on the [MASK] is shigles.", "output": "roof", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen as a consequence of exercising is [MASK] youre health.", "output": "improve", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen when you spit is you [MASK].", "output": "drool", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Joe was thirsty  Joe [MASK] some water\", it is important to know that Joe was a man.", "output": "drank", "options": []}
+{"task": "lama-conceptnet", "input": "The effect of exercising is [MASK].", "output": "exhaustion", "options": []}
+{"task": "lama-conceptnet", "input": "Masturbation is [MASK].", "output": "enjoyable", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is a type of round dial.", "output": "Clock", "options": []}
+{"task": "lama-conceptnet", "input": "You are likely to find a cat in a [MASK].", "output": "microwave", "options": []}
+{"task": "lama-conceptnet", "input": "Chutneys are usually made of [MASK], onions, and raisins simmered with vinegar, brown sugar and spices.", "output": "fruit", "options": []}
+{"task": "lama-conceptnet", "input": "Something that might happen when you [MASK] at somebody is you start a fight.", "output": "shout", "options": []}
+{"task": "lama-conceptnet", "input": "Shock is [MASK] surprise.", "output": "unpleasant", "options": []}

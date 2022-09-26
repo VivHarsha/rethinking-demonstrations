@@ -1,0 +1,8 @@
+{"task": "wino_grande", "input": "Mark didn't like leaving his dog on a leash outside and preferred the cage because the _ was dangerous.", "output": "leash", "options": ["cage", "leash"]}
+{"task": "wino_grande", "input": "Elena went to Mexico on vacation and brought back a poncho for Sarah. _ was thankful.", "output": "Sarah", "options": ["Elena", "Sarah"]}
+{"task": "wino_grande", "input": "It is easier to start playing a flute than a violin because the _ is a lot easier to tune.", "output": "flute", "options": ["violin", "flute"]}
+{"task": "wino_grande", "input": "Jennifer had larger feet than Emily so _ always had a harder time finding high heeled shoes.", "output": "Jennifer", "options": ["Jennifer", "Emily"]}
+{"task": "wino_grande", "input": "Elena wanted to friend Maria on Facebook, but she didn't have an account. _ helped her set one up.", "output": "Elena", "options": ["Elena", "Maria"]}
+{"task": "wino_grande", "input": "After the awful car accident Christopher begged Kevin for forgiveness about the car, because _ felt responsible.", "output": "Christopher", "options": ["Christopher", "Kevin"]}
+{"task": "wino_grande", "input": "The windows of Brad's home need replacing, while the doors are fine. So, the _ are likely newer.", "output": "doors", "options": ["windows", "doors"]}
+{"task": "wino_grande", "input": "Jake chose chemotherapy for his cancer instead of pills because the doctor said the _ was less effective.", "output": "pills", "options": ["pills", "chemotherapy"]}

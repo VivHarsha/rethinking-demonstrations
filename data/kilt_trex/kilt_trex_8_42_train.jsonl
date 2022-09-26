@@ -1,0 +1,8 @@
+{"task": "kilt_trex", "input": "Polonia Warsaw [SEP] country", "output": "Poland", "options": []}
+{"task": "kilt_trex", "input": "Tielman Susato [SEP] occupation", "output": "composer", "options": []}
+{"task": "kilt_trex", "input": "Riverview Historic District [SEP] country", "output": "United States of America", "options": []}
+{"task": "kilt_trex", "input": "23rd Infantry Brigade [SEP] instance of", "output": "brigade", "options": []}
+{"task": "kilt_trex", "input": "Kapakl\u0131 [SEP] country", "output": "Turkey", "options": []}
+{"task": "kilt_trex", "input": "The Lady in Ermine [SEP] director", "output": "James Flood", "options": []}
+{"task": "kilt_trex", "input": "Kluane Lake [SEP] country", "output": "Canada", "options": []}
+{"task": "kilt_trex", "input": "Pachyferonia [SEP] parent taxon", "output": "Carabidae", "options": []}

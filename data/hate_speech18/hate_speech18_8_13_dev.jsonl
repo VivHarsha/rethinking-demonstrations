@@ -1,0 +1,8 @@
+{"task": "hate_speech18", "input": "2 ) Lethargic [ syn. inactive ]", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "When do they ever learn !!!!", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "There are 150K or so on SF and the other hundreds of millions just walk thru life with blinders on .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Jeremy WPWW", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Holding up signs that say `` God hates fags '' is a bit much .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I wonder if this guy still thinks the Jews are a good thing after the Jews just tried to start a war between NATO and Russia ?", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Last I checked it 's another kind of supremacist controlling everything .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I once knew a half Berber half Sicilian with straight blonde hair and green eyes there was nothing Negroid about him at all .", "output": "noHate", "options": ["hate", "noHate"]}

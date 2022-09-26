@@ -1,0 +1,8 @@
+{"task": "poem_sentiment", "input": "endymion would have passed across the mead", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the oriole in the elm; the noisy jay,", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "my father\u2019s sister started when she caught", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the call's more urgent when he journeys slow.", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "and the old swallow-haunted barns,--", "output": "negative", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "by his sacrifice, foreknown", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "we're a band!\" said the weary big dragoon.", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}
+{"task": "poem_sentiment", "input": "the wheat-blade whispers of the sheaf.", "output": "no_impact", "options": ["negative", "no_impact", "positive"]}

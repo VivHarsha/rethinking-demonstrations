@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "Peace I leave with you; my peace I give to you. | John 14:27a | #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "After all, is football a game or a religion? ~Howard Cosell #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Angels of God pray for us, direct our steps, and protect us from all evil as we strive to do God's will in our daily lives. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Ali Al Amin #Lebanon Shia' it Leader: from 70s we rejected #Iran regime's conduct W #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Bigoted much? Rt>@RockyMtsunshine no doubt you were there in your pink tights and matching feathers and saw the whole non-thing? #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "His love shows me mercy, no matter the darkness that I've been in. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I think Jesus said it best when He said, \"Don't cum in me Peter.\"   #bible #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "There is POWER in the name of JESUS! Jesus, may the people of north India call upon your name! #missions #SemST", "output": "against", "options": ["against", "favor", "none"]}

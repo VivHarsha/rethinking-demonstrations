@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "It's so unfortunate that the systematic destruction of our planet is merely seen to some as a political issue. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "until newyork london frankfurt knee deep in sea #water NOTHING will happen @user #cop21 #co95=FREE parties @user #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user @user @user @user Further proof of #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "BC continues to burn. If this ain't a wake up call to everyone then nothing will be #Vancouver #bcwildfires #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Australia...your turn to watch Obama & Attenborough @user #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Vallaud-Belkacem: Are we the generation who knew what would happen but who did nothing? Say no! #wakeup #CFCC15 #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Just got canvassed! Hope you'll join me in supporting @user this summer! #solar #peoplepower #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user @user @user What a wonderful exchange between two of the world's greatest men! Really touching. # #SemST", "output": "none", "options": ["against", "favor", "none"]}

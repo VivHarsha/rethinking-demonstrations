@@ -1,0 +1,8 @@
+{"task": "proto_qa", "input": "name something it would be rude not to do when being introduced to a stranger", "output": "shake hands", "options": []}
+{"task": "proto_qa", "input": "name a city where you'd hate the long commute to work.", "output": "new york city", "options": []}
+{"task": "proto_qa", "input": "name something people sometimes bang on when it's not working.", "output": "tv/remote", "options": []}
+{"task": "proto_qa", "input": "name something a short person might have difficulty doing with a tall person.", "output": "dancing", "options": []}
+{"task": "proto_qa", "input": "we surveyed 100 men...name something specific no one can do as well as your mother could.", "output": "cook", "options": []}
+{"task": "proto_qa", "input": "name an inventor kids learn about in school.", "output": "thomas edison", "options": []}
+{"task": "proto_qa", "input": "name a food people often eat with champagne", "output": "strawberries", "options": []}
+{"task": "proto_qa", "input": "name something on a baby that might be described as \"chubby\".", "output": "cheeks", "options": []}

@@ -1,0 +1,8 @@
+{"task": "quartz-no_knowledge", "input": "Dawn is screwing in a screw so she can hang a picture on the wall. Because the threads are really close together, the force that Dawn must apply to get the screw into the wall is", "output": "lesser", "options": ["greater", "lesser"]}
+{"task": "quartz-no_knowledge", "input": "Noah has noticed that the galaxies are expanding. This will make the galaxies", "output": "further apart.", "options": ["nearer", "further apart."]}
+{"task": "quartz-no_knowledge", "input": "When a pH number is very high we say the item is:", "output": "basic", "options": ["basic", "acidic"]}
+{"task": "quartz-no_knowledge", "input": "Sinclair is looking at the effects that factories are having on developing countries natural resources. He studies one country that is building fewer factories. In that country, the natural resources are likely experiencing _____ demands because fewer factories are being built.", "output": "less", "options": ["less", "more"]}
+{"task": "quartz-no_knowledge", "input": "James is a much bigger person than Sally. Which person has more gravity?", "output": "James", "options": ["Sally", "James"]}
+{"task": "quartz-no_knowledge", "input": "John was analyzing some of the results from his sunscreen study. He found that a higher SPF protects the skin", "output": "Longer", "options": ["Shorter", "Longer"]}
+{"task": "quartz-no_knowledge", "input": "Water found on Earth's hot regions is _____ dense that water found on Earth's cold regions.", "output": "less", "options": ["more", "less"]}
+{"task": "quartz-no_knowledge", "input": "Greta lost weight after eating food. Her force of gravity", "output": "decreased", "options": ["increased", "decreased"]}

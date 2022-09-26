@@ -1,0 +1,8 @@
+{"task": "wino_grande", "input": "Although he was 50, James wanted to go skiing with his boyfriend but he wasn't very fit. They chose surfing instead because the _ was easier.", "output": "surfing", "options": ["surfing", "skiing"]}
+{"task": "wino_grande", "input": "Amy decorated the eggs with glitter and it got on the book as well. The _ looked messy afterward.", "output": "book", "options": ["book", "eggs"]}
+{"task": "wino_grande", "input": "Laura hates to cook more than Carrie because cooking is _ favorite hobby right now.", "output": "Carrie", "options": ["Laura", "Carrie"]}
+{"task": "wino_grande", "input": "Even though the state is smaller than the country, it is better because the _ has lots of debt..", "output": "country", "options": ["state", "country"]}
+{"task": "wino_grande", "input": "The throw cleared the fence but crashed into the wall, as the _ was so much higher.", "output": "wall", "options": ["fence", "wall"]}
+{"task": "wino_grande", "input": "She didn't want to calculate the cost of the car instead of the scooter, since the _ was expensive.", "output": "car", "options": ["car", "scooter"]}
+{"task": "wino_grande", "input": "Victoria told Erin that she had never done any type of  skiing before.  _ was afraid.", "output": "Victoria", "options": ["Victoria", "Erin"]}
+{"task": "wino_grande", "input": "We added strawberry flavor to the milk but not the cream, since the _ tasted worse with it.", "output": "cream", "options": ["milk", "cream"]}

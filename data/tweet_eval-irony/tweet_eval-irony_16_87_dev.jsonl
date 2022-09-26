@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "Ostentatious \"a showy display designed to impress\". Thats the word I immediately think of when I see a woman feeding her child!  #Idiot", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Dallas #traffic I sure missed you!  @ Downtown Dallas Traffic", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I really need to shoot something soon.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user As a Red Sox follower, I can vouch for Gomes as a clubhouse leader. Such a fun teammate.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user You can afford stocks? Teachers make SO MUCH money it's crazy!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Nothing like the 24hr swing back to being a day walker to make you feel like a million bucks...  #shiftworkerlife", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Heaven help the fool who did her wrong", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I'm getting to notifications though. I know we up but only by 10. We playing bad?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Baking bread and hanging with a glass of wine in leggings and a sweatshirt with football on. HEAVEN! If only the snow hadn't turned to rain.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Gavaskar is a freakin' genius.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user @user @user - Dutch+Northern theres combo  not speaking yr mind", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My family might find a giant lump of Ice sitting where I'm sitting right now. Transformation is nigher, my fellows.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Appreciate @user that he has spared suspending our accounts, only blocked us.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I dont know what it is but I'm in love your products Christmas heaven! #love #skincare #beauty \ud83d\udc4d\ud83d\udc9a\ud83d\udec0.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It #has  been #seen www.monstermmorpg. com since. parados by #MonsterMMORPG #bean", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#nuffsaid  #stupidity #hadenough lols \ud83d\ude02\ud83d\ude03", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

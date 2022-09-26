@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "To understand the event \"Bob planted some tomatoes in his garden.\", it is important to know that Tomatoes are vegetables used for [MASK].", "output": "food", "options": []}
+{"task": "lama-conceptnet", "input": "The Utah [MASK] tree is the blue spruce.", "output": "state", "options": []}
+{"task": "lama-conceptnet", "input": "Rabbit does not want to be [MASK].", "output": "killed", "options": []}
+{"task": "lama-conceptnet", "input": "A monument is for [MASK] an event.", "output": "remembering", "options": []}
+{"task": "lama-conceptnet", "input": "Monday is a [MASK].", "output": "weekday", "options": []}
+{"task": "lama-conceptnet", "input": "Something you find in a [MASK] is appliances.", "output": "house", "options": []}
+{"task": "lama-conceptnet", "input": "Silk is for [MASK].", "output": "bedsheets", "options": []}
+{"task": "lama-conceptnet", "input": "The [MASK] is for clouds and sunsets.", "output": "sky", "options": []}
+{"task": "lama-conceptnet", "input": "Humans [MASK] for entertainment.", "output": "dance", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Frank and Will are friends.  Frank punched Will.\", it is important to know that feople [MASK] each other in a fight.", "output": "punch", "options": []}
+{"task": "lama-conceptnet", "input": "Sometimes procreating causes [MASK].", "output": "progeny", "options": []}
+{"task": "lama-conceptnet", "input": "Golf is a [MASK].", "output": "passtime", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is lower mandible.", "output": "Jaw", "options": []}
+{"task": "lama-conceptnet", "input": "The statement \"Sometimes creating an idea causes elation\" helps [MASK] the question \"Why do people invent?\".", "output": "answer", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"Dwight picked his nose.\", it is important to know that Snot can accumulate in people's noses; in some cases it might make [MASK] more difficult.", "output": "breathing", "options": []}
+{"task": "lama-conceptnet", "input": "Something you need to do before you wrestle is [MASK].", "output": "rehearse", "options": []}

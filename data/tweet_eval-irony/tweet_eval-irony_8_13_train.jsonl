@@ -1,0 +1,8 @@
+{"task": "tweet_eval-irony", "input": "working a double on 2 hours of sleep here we go let's get it", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "well today is gonna be a great day \ud83d\udc4c", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Still can't believe my teammate is engaged! #Holymoly #RingBySpring #TurnUpppp @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user absolutely shocking that the lamestream media hasn't picked up on this  #mediabias @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "You're never too old for Footie Pajamas.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Believe In Boegarts. RT @user The Red Sox must really believe in Xander Boegarts as a SS if they're going with a GB theme.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Had to take a #PatioPics - snow falling still. This was totally clear when I went to sleep. #WCCO", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Company profile NOT TWINS VENTURES, LLC -   #TWINS #VENTURES, #LLC", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "The official language of Pakistan is [MASK] .", "output": "Urdu", "options": []}
+{"task": "lama-trex", "input": "Khyber Pakhtunkhwa is located in [MASK] .", "output": "Pakistan", "options": []}
+{"task": "lama-trex", "input": "Sweden maintains diplomatic relations with [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-trex", "input": "Italy shares border with [MASK] .", "output": "Switzerland", "options": []}
+{"task": "lama-trex", "input": "South Korea maintains diplomatic relations with [MASK] .", "output": "Japan", "options": []}
+{"task": "lama-trex", "input": "Belarus maintains diplomatic relations with [MASK] .", "output": "Poland", "options": []}
+{"task": "lama-trex", "input": "The official language of Pakistan is [MASK] .", "output": "Urdu", "options": []}
+{"task": "lama-trex", "input": "Asia shares border with [MASK] .", "output": "Africa", "options": []}

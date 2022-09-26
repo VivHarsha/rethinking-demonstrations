@@ -1,0 +1,8 @@
+{"task": "kilt_trex", "input": "Firuzabad County [SEP] located in the administrative territorial entity", "output": "Fars Province", "options": []}
+{"task": "kilt_trex", "input": "Carrigallen [SEP] country", "output": "Ireland", "options": []}
+{"task": "kilt_trex", "input": "Aaron McKie [SEP] country of citizenship", "output": "United States of America", "options": []}
+{"task": "kilt_trex", "input": "Serrana, S\u00e3o Paulo [SEP] country", "output": "Brazil", "options": []}
+{"task": "kilt_trex", "input": "Robert Hopton [SEP] country of citizenship", "output": "Kingdom of England", "options": []}
+{"task": "kilt_trex", "input": "W. E. Hick [SEP] educated at", "output": "Durham University", "options": []}
+{"task": "kilt_trex", "input": "proof by exhaustion [SEP] subclass of", "output": "mathematical proof", "options": []}
+{"task": "kilt_trex", "input": "Beydemir [SEP] country", "output": "Turkey", "options": []}

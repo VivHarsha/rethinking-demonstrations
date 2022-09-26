@@ -1,0 +1,8 @@
+{"task": "hate_speech18", "input": "You CANNOT teach people to be intelligent - we must start breaking students into groups of low , moderate and high intellectual ability and teach each group suitable material .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "The Belgian school was one hundred percent white .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Definitely would n't go to try to buy some of those useless weapons .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Stormfront .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I think you will find that this .org is one of the best on the web .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "All in all , it was a good day .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Waiting to buy a new product is almost always a good idea , let someone else experiment .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Although they do appear trashy and promote race mixing , the two head figures in the band are white , are married and do have a white child .", "output": "noHate", "options": ["hate", "noHate"]}

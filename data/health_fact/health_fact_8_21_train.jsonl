@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "Scientists devise new, more accurate peanut allergy test.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Amid criticism, Macron vows to raise medical gear output to tackle coronavirus.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Retired doctors, medics abroad answer coronavirus calls.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "A vaccine meant for cattle can be used to fight COVID-19.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "UK parliament backs human-animal embryo research.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "The test of a 5G cellular network is the cause of unexplained bird deaths occurring in a park in The Hague, Netherlands.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Essential oils can be poisonous to pets.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Ken Tanner Says \"\"The idea of one casino per tribe is a false one.\"", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}

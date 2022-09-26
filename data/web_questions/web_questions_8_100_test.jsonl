@@ -1,0 +1,756 @@
+{"task": "web_questions", "input": "who was louis xvi?", "output": "King of France", "options": []}
+{"task": "web_questions", "input": "what inspired scott fitzgerald?", "output": "Oswald Spengler", "options": []}
+{"task": "web_questions", "input": "what movies has billy burke been in?", "output": "New Moon", "options": []}
+{"task": "web_questions", "input": "what timezone is colorado in?", "output": "Mountain Time Zone", "options": []}
+{"task": "web_questions", "input": "which countries speak english?", "output": "Canada", "options": []}
+{"task": "web_questions", "input": "who created microsoft windows?", "output": "Bill Gates", "options": []}
+{"task": "web_questions", "input": "where did the founder of google go to college?", "output": "Stanford University", "options": []}
+{"task": "web_questions", "input": "who was michael j fox?", "output": "Actor", "options": []}
+{"task": "web_questions", "input": "what movies gerard butler in?", "output": "Attila", "options": []}
+{"task": "web_questions", "input": "what is the capital of spain in 2010?", "output": "Madrid", "options": []}
+{"task": "web_questions", "input": "where did the houston oilers football team go?", "output": "Tennessee Titans", "options": []}
+{"task": "web_questions", "input": "what is saint nicholas known for?", "output": "Grand Duke Alexander Alexandrovich of Russia", "options": []}
+{"task": "web_questions", "input": "what did frankie lymon die from?", "output": "Heroin overdose", "options": []}
+{"task": "web_questions", "input": "what country was george washington from?", "output": "Kingdom of Great Britain", "options": []}
+{"task": "web_questions", "input": "where did timothy mcveigh go to prison?", "output": "Terre Haute", "options": []}
+{"task": "web_questions", "input": "what did hitler do bad?", "output": "Nazism", "options": []}
+{"task": "web_questions", "input": "what characters does trey parker voice?", "output": "Eric Cartman", "options": []}
+{"task": "web_questions", "input": "where in tennessee are the smoky mountains?", "output": "Appalachian Mountains", "options": []}
+{"task": "web_questions", "input": "what is the dominican republic part of?", "output": "Hispaniola", "options": []}
+{"task": "web_questions", "input": "what team did ronaldo play for?", "output": "FC Barcelona", "options": []}
+{"task": "web_questions", "input": "what is the local currency in the dominican republic?", "output": "Dominican peso", "options": []}
+{"task": "web_questions", "input": "what is the money currency in switzerland?", "output": "Swiss franc", "options": []}
+{"task": "web_questions", "input": "which country is located directly east of belgium?", "output": "Europe", "options": []}
+{"task": "web_questions", "input": "what character does ellen play in finding nemo?", "output": "Dory", "options": []}
+{"task": "web_questions", "input": "what animal is on the western australian flag?", "output": "Black Swan", "options": []}
+{"task": "web_questions", "input": "who is the ravens quarterback 2012?", "output": "Joe Flacco", "options": []}
+{"task": "web_questions", "input": "what did martin luther king jr go to college for?", "output": "Sociology", "options": []}
+{"task": "web_questions", "input": "what is new york giants?", "output": "American football", "options": []}
+{"task": "web_questions", "input": "where is universal studios california theme park?", "output": "Glendale", "options": []}
+{"task": "web_questions", "input": "where was selena gomez really born?", "output": "Grand Prairie", "options": []}
+{"task": "web_questions", "input": "who is the falcons quarterback 2012?", "output": "Matt Ryan", "options": []}
+{"task": "web_questions", "input": "what is ayrton senna?", "output": "Racecar driver", "options": []}
+{"task": "web_questions", "input": "where do cherry trees grow in the united states?", "output": "Washington, D.C.", "options": []}
+{"task": "web_questions", "input": "where does the potomac river flow into?", "output": "Chesapeake Bay", "options": []}
+{"task": "web_questions", "input": "who is kobe bryant wife bio?", "output": "Vanessa Laine", "options": []}
+{"task": "web_questions", "input": "who will michael schumacher drive for in 2013?", "output": "Omega SA", "options": []}
+{"task": "web_questions", "input": "who did cristina yang's husband cheated on her with?", "output": "Preston Burke", "options": []}
+{"task": "web_questions", "input": "what country was jesus born?", "output": "Iudaea", "options": []}
+{"task": "web_questions", "input": "what currency should i take to mauritius?", "output": "Mauritian rupee", "options": []}
+{"task": "web_questions", "input": "what website did mark zuckerberg co founder?", "output": "Facebook", "options": []}
+{"task": "web_questions", "input": "where is glastonbury connecticut?", "output": "Connecticut", "options": []}
+{"task": "web_questions", "input": "what oprah thinks about god?", "output": "If you want to accomplish the goals of your life, you have to begin with the Spirit.", "options": []}
+{"task": "web_questions", "input": "what part of the world is south africa in?", "output": "Africa", "options": []}
+{"task": "web_questions", "input": "who did anne frank wrote her diary to?", "output": "Kitty became so idealized and started to lead her own life in the diary that it ceases to matter who is meant by 'Kitty'. The name ... is not meant to be me.", "options": []}
+{"task": "web_questions", "input": "what type of government did sparta greece have?", "output": "Monarchy", "options": []}
+{"task": "web_questions", "input": "who was papa doc in real life?", "output": "President of Haiti", "options": []}
+{"task": "web_questions", "input": "what team did albert pujols play for?", "output": "Scottsdale Scorpions", "options": []}
+{"task": "web_questions", "input": "what kind of government does italy have?", "output": "Constitutional republic", "options": []}
+{"task": "web_questions", "input": "what state is toronto in?", "output": "Ontario", "options": []}
+{"task": "web_questions", "input": "what years have the dodgers won the world series?", "output": "1988 World Series", "options": []}
+{"task": "web_questions", "input": "what do the symbols in the illinois flag represent?", "output": "State Sovereignty, National Union", "options": []}
+{"task": "web_questions", "input": "what language do people speak in brazil wikipedia?", "output": "Brazilian Portuguese", "options": []}
+{"task": "web_questions", "input": "what song is monifah famous for?", "output": "Touch It", "options": []}
+{"task": "web_questions", "input": "what movies did kristen stewart act in?", "output": "New Moon", "options": []}
+{"task": "web_questions", "input": "what state did george washington live in?", "output": "Virginia", "options": []}
+{"task": "web_questions", "input": "who was the first actor to play edward quartermaine?", "output": "David Lewis", "options": []}
+{"task": "web_questions", "input": "where are dell products manufactured?", "output": "Texas", "options": []}
+{"task": "web_questions", "input": "what atom did j.j thomson discover?", "output": "The electron in chemistry", "options": []}
+{"task": "web_questions", "input": "what is the parliament of canada called?", "output": "Parliament of Canada", "options": []}
+{"task": "web_questions", "input": "what is the state flag of colorado called?", "output": "Flag of Colorado", "options": []}
+{"task": "web_questions", "input": "what are the name of mitt romney sons?", "output": "Tagg Romney", "options": []}
+{"task": "web_questions", "input": "what did einstein invent?", "output": "Einstein refrigerator", "options": []}
+{"task": "web_questions", "input": "who is kurt busch driving for now?", "output": "Miller Lite", "options": []}
+{"task": "web_questions", "input": "who does the voice of lois in family guy?", "output": "Alex Borstein", "options": []}
+{"task": "web_questions", "input": "what is jessica ennis sport?", "output": "Track and field athletics", "options": []}
+{"task": "web_questions", "input": "how long is queen victoria's reign?", "output": "Her sixty-two year reign began in 1837 when her uncle, William IV, died without an heir.", "options": []}
+{"task": "web_questions", "input": "what is a judge in the supreme court called?", "output": "Chief Justice of the United States", "options": []}
+{"task": "web_questions", "input": "where did jerry spinelli live as a kid?", "output": "Norristown", "options": []}
+{"task": "web_questions", "input": "what countries in north america continent?", "output": "Navassa Island", "options": []}
+{"task": "web_questions", "input": "what did nick clegg study at university?", "output": "Political philosophy", "options": []}
+{"task": "web_questions", "input": "who voices lola bunny in looney tunes?", "output": "Britt McKillip", "options": []}
+{"task": "web_questions", "input": "what county is tampa located in?", "output": "Hillsborough County", "options": []}
+{"task": "web_questions", "input": "what position does mitt romney hold?", "output": "Governor of Massachusetts", "options": []}
+{"task": "web_questions", "input": "what does jackson browne sing?", "output": "Before the Deluge", "options": []}
+{"task": "web_questions", "input": "where are you if you're in khartoum?", "output": "Sudan", "options": []}
+{"task": "web_questions", "input": "what state did dwight d. eisenhower live in?", "output": "Pennsylvania", "options": []}
+{"task": "web_questions", "input": "who is julia roberts married to 2012?", "output": "Daniel Moder", "options": []}
+{"task": "web_questions", "input": "who was peter parker's first girlfriend?", "output": "Marvel Comics", "options": []}
+{"task": "web_questions", "input": "what does the philippines flag represent?", "output": "Flag of the Philippines", "options": []}
+{"task": "web_questions", "input": "where is the nation of palestine?", "output": "Eurasia", "options": []}
+{"task": "web_questions", "input": "where does nick diaz fight?", "output": "UFC 62: Liddell vs. Sobral", "options": []}
+{"task": "web_questions", "input": "where is arabic used?", "output": "Tunisia", "options": []}
+{"task": "web_questions", "input": "what university did barack obama attend?", "output": "Columbia University", "options": []}
+{"task": "web_questions", "input": "what did the harlem renaissance created?", "output": "Harlem Renaissance Dialogues (Part 1): Living and Writing Black History", "options": []}
+{"task": "web_questions", "input": "what are the greek titans?", "output": "Titanium", "options": []}
+{"task": "web_questions", "input": "where christopher columbus was born?", "output": "Genoa", "options": []}
+{"task": "web_questions", "input": "who created the ancient language in alagaesia?", "output": "Christopher Paolini", "options": []}
+{"task": "web_questions", "input": "what county is bradenton fl located in?", "output": "Manatee County", "options": []}
+{"task": "web_questions", "input": "what shows did henry winkler produce?", "output": "Mr. Sunshine", "options": []}
+{"task": "web_questions", "input": "where is the university of alabama?", "output": "Tuscaloosa", "options": []}
+{"task": "web_questions", "input": "who is blackwell?", "output": "Critic", "options": []}
+{"task": "web_questions", "input": "where is the university of oregon state?", "output": "Oregon", "options": []}
+{"task": "web_questions", "input": "what is the political system in egypt?", "output": "Semi-presidential system", "options": []}
+{"task": "web_questions", "input": "what type of laws did mary harris jones demand?", "output": "Children's rights", "options": []}
+{"task": "web_questions", "input": "who might arthur miller think would?", "output": "Writer", "options": []}
+{"task": "web_questions", "input": "what team did doug williams play for?", "output": "Washington Redskins", "options": []}
+{"task": "web_questions", "input": "what is the name of the pittsburgh steelers stadium?", "output": "Pitt Stadium", "options": []}
+{"task": "web_questions", "input": "what city did esther live in?", "output": "Susa", "options": []}
+{"task": "web_questions", "input": "where are the florida marlins from?", "output": "Sun Life Stadium", "options": []}
+{"task": "web_questions", "input": "what is the currency in the republic of congo?", "output": "Congolese franc", "options": []}
+{"task": "web_questions", "input": "who will play clary in city of bones?", "output": "Lonnie Clary", "options": []}
+{"task": "web_questions", "input": "who owns the chrysler corporation?", "output": "Steven J. Harris", "options": []}
+{"task": "web_questions", "input": "who does debbie dingle go out with?", "output": "Eli Dingle", "options": []}
+{"task": "web_questions", "input": "who played kitt in knight rider?", "output": "William Daniels", "options": []}
+{"task": "web_questions", "input": "what illnesses did george washington have?", "output": "Malaria", "options": []}
+{"task": "web_questions", "input": "where does the appalachian trail run through?", "output": "Eastern United States", "options": []}
+{"task": "web_questions", "input": "where did kate chopin grow up?", "output": "St. Louis", "options": []}
+{"task": "web_questions", "input": "where do cruises leave from in rome?", "output": "Civitavecchia Ferry Terminal", "options": []}
+{"task": "web_questions", "input": "where did carmen electra grow up?", "output": "Sharonville", "options": []}
+{"task": "web_questions", "input": "who has dirk nowitzki played for?", "output": "Dallas Mavericks", "options": []}
+{"task": "web_questions", "input": "who is the leader of japan?", "output": "Shinz\u014d Abe", "options": []}
+{"task": "web_questions", "input": "what currency does south africa have?", "output": "South African rand", "options": []}
+{"task": "web_questions", "input": "what team did kaka play for in 2009?", "output": "Real Madrid C.F.", "options": []}
+{"task": "web_questions", "input": "what years did andrew jackson run for president?", "output": "3/4/1829", "options": []}
+{"task": "web_questions", "input": "what language does people in netherlands speak?", "output": "Frisian languages", "options": []}
+{"task": "web_questions", "input": "what kind of money is used in israel?", "output": "Israeli new shekel", "options": []}
+{"task": "web_questions", "input": "where is the thalys train station in brussels?", "output": "De Lijn", "options": []}
+{"task": "web_questions", "input": "what to see in chicago downtown?", "output": "Lincoln Park Zoo", "options": []}
+{"task": "web_questions", "input": "where did matt barnes play?", "output": "Small forward", "options": []}
+{"task": "web_questions", "input": "what religion are people in russia?", "output": "Russian Orthodox Church", "options": []}
+{"task": "web_questions", "input": "in which province is johannesburg?", "output": "Gauteng", "options": []}
+{"task": "web_questions", "input": "what political system is in china?", "output": "Communist state", "options": []}
+{"task": "web_questions", "input": "what movies does alyson stoner play in?", "output": "Cheaper by the Dozen", "options": []}
+{"task": "web_questions", "input": "where to stay in thailand koh samui?", "output": "UTC+07:00", "options": []}
+{"task": "web_questions", "input": "who taught michelangelo to sculpt?", "output": "Lorenzo de' Medici", "options": []}
+{"task": "web_questions", "input": "what type of government does australia use?", "output": "Constitutional monarchy", "options": []}
+{"task": "web_questions", "input": "which part of korea is communist?", "output": "North Korea", "options": []}
+{"task": "web_questions", "input": "what countries are included in the continent of asia?", "output": "Bahrain", "options": []}
+{"task": "web_questions", "input": "what is kate spade?", "output": "Fashion Designer", "options": []}
+{"task": "web_questions", "input": "what countries are in the baltic region?", "output": "Latvia", "options": []}
+{"task": "web_questions", "input": "who does john beck play for?", "output": "Washington Redskins", "options": []}
+{"task": "web_questions", "input": "what is the language called in turkey?", "output": "Arabic Language", "options": []}
+{"task": "web_questions", "input": "who raised queen victoria?", "output": "Prince Edward, Duke of Kent and Strathearn", "options": []}
+{"task": "web_questions", "input": "what time zone am i in cleveland ohio?", "output": "North American Eastern Time Zone", "options": []}
+{"task": "web_questions", "input": "where is st louis cardinals stadium?", "output": "Busch Stadium", "options": []}
+{"task": "web_questions", "input": "what date did kennedy become president?", "output": "1/3/1947", "options": []}
+{"task": "web_questions", "input": "who plays claire in lost?", "output": "Hayden Panettiere", "options": []}
+{"task": "web_questions", "input": "what county is plainfield il in?", "output": "Will County", "options": []}
+{"task": "web_questions", "input": "who plays mary jane in spiderman 3?", "output": "Kirsten Dunst", "options": []}
+{"task": "web_questions", "input": "what to do downtown san francisco?", "output": "Fisherman's Wharf", "options": []}
+{"task": "web_questions", "input": "where is glastonbury uk?", "output": "United Kingdom", "options": []}
+{"task": "web_questions", "input": "what style of art did henri matisse use?", "output": "Fauvism", "options": []}
+{"task": "web_questions", "input": "who did butler beat last night?", "output": "Stephano", "options": []}
+{"task": "web_questions", "input": "where was the battle of verdun held?", "output": "Verdun", "options": []}
+{"task": "web_questions", "input": "what do mali people speak?", "output": "French Language", "options": []}
+{"task": "web_questions", "input": "what college did florence griffith joyner attend?", "output": "David Starr Jordan High School", "options": []}
+{"task": "web_questions", "input": "what school did martin luther king jr attend?", "output": "Boston University", "options": []}
+{"task": "web_questions", "input": "who nominated anthony kennedy?", "output": "Ronald Reagan", "options": []}
+{"task": "web_questions", "input": "who has coached the minnesota vikings?", "output": "Harrison Smith", "options": []}
+{"task": "web_questions", "input": "who did julie andrews play in shrek?", "output": "Queen Lillian", "options": []}
+{"task": "web_questions", "input": "what did george steinbrenner do?", "output": "Entrepreneur", "options": []}
+{"task": "web_questions", "input": "what did einstein do?", "output": "Theoretical Physicist", "options": []}
+{"task": "web_questions", "input": "what club does ronaldinho play for 2012?", "output": "Clube Atl\u00e9tico Mineiro", "options": []}
+{"task": "web_questions", "input": "with which country does south africa border?", "output": "Lesotho", "options": []}
+{"task": "web_questions", "input": "who uses new king james bible?", "output": "Christianity", "options": []}
+{"task": "web_questions", "input": "what kind of language does switzerland speak?", "output": "Romansh language", "options": []}
+{"task": "web_questions", "input": "what does united church of christ believe?", "output": "Christianity", "options": []}
+{"task": "web_questions", "input": "who is the prime minister of ethiopia now?", "output": "Meles Zenawi", "options": []}
+{"task": "web_questions", "input": "where is the gobi desert located?", "output": "Mongolia", "options": []}
+{"task": "web_questions", "input": "what was nicolaus copernicus occupation?", "output": "Astronomer", "options": []}
+{"task": "web_questions", "input": "what does kat dennings star in?", "output": "The Scream Team", "options": []}
+{"task": "web_questions", "input": "what party is bloomberg affiliated with?", "output": "Independent", "options": []}
+{"task": "web_questions", "input": "what religion did jesus christ follow?", "output": "Judaism", "options": []}
+{"task": "web_questions", "input": "where did jerome david salinger died?", "output": "Cornish", "options": []}
+{"task": "web_questions", "input": "who plays marlo on the wire?", "output": "Jamie Hector", "options": []}
+{"task": "web_questions", "input": "who is jimmy fallon married to?", "output": "Nancy Juvonen", "options": []}
+{"task": "web_questions", "input": "where is tommy emmanuel from?", "output": "Australia", "options": []}
+{"task": "web_questions", "input": "where do the houston rockets play basketball?", "output": "Toyota Center", "options": []}
+{"task": "web_questions", "input": "who plays effy in skins uk?", "output": "Kaya Scodelario", "options": []}
+{"task": "web_questions", "input": "what year did john glenn walk on the moon?", "output": "1976 Democratic National Convention", "options": []}
+{"task": "web_questions", "input": "what continent is south africa part of?", "output": "Africa", "options": []}
+{"task": "web_questions", "input": "who plays kermit in the muppets movie?", "output": "Jim Henson", "options": []}
+{"task": "web_questions", "input": "who is the new governor of florida 2011?", "output": "Rick Scott", "options": []}
+{"task": "web_questions", "input": "what teams did gretzky play on?", "output": "Edmonton Oilers", "options": []}
+{"task": "web_questions", "input": "what did jimmy valvano die with?", "output": "Cancer", "options": []}
+{"task": "web_questions", "input": "what films have taylor lautner starred in?", "output": "New Moon", "options": []}
+{"task": "web_questions", "input": "where does honda play soccer?", "output": "Chief Executive Officer", "options": []}
+{"task": "web_questions", "input": "what drugs does charlie sheen do?", "output": "Cannabis", "options": []}
+{"task": "web_questions", "input": "what country did francis drake explored for?", "output": "Kingdom of England", "options": []}
+{"task": "web_questions", "input": "what was howard carter's job?", "output": "Archaeologist", "options": []}
+{"task": "web_questions", "input": "what guitar did andres segovia use?", "output": "Spanish acoustic guitar", "options": []}
+{"task": "web_questions", "input": "what airport do you fly into maui?", "output": "Kahului Airport", "options": []}
+{"task": "web_questions", "input": "who is the seattle seahawks starting quarterback?", "output": "Russell Wilson", "options": []}
+{"task": "web_questions", "input": "what movie did marlee matlin won an academy award for?", "output": "Children of a Lesser God", "options": []}
+{"task": "web_questions", "input": "what songs has madonna written?", "output": "Masterpiece", "options": []}
+{"task": "web_questions", "input": "what type of political system does north korea have?", "output": "Single-party state", "options": []}
+{"task": "web_questions", "input": "what important office did abraham lincoln hold?", "output": "United States Representative", "options": []}
+{"task": "web_questions", "input": "what other jobs did benjamin franklin have?", "output": "Diplomat", "options": []}
+{"task": "web_questions", "input": "where is the euro used?", "output": "Italy", "options": []}
+{"task": "web_questions", "input": "what kind of legal system does australia have?", "output": "Parliamentary system", "options": []}
+{"task": "web_questions", "input": "what is the dominican republic's capital?", "output": "Santo Domingo", "options": []}
+{"task": "web_questions", "input": "where did fred west work?", "output": "Laborer", "options": []}
+{"task": "web_questions", "input": "what type of art does wassily kandinsky do?", "output": "Painting", "options": []}
+{"task": "web_questions", "input": "where is washington d.c. at?", "output": "Maryland", "options": []}
+{"task": "web_questions", "input": "who did axl rose marry?", "output": "Erin Everly", "options": []}
+{"task": "web_questions", "input": "who was michael jackson in the wiz?", "output": "Scarecrow", "options": []}
+{"task": "web_questions", "input": "what happened after the invasion of normandy?", "output": "Battle of Cherbourg", "options": []}
+{"task": "web_questions", "input": "what movies johnny depp is in?", "output": "Benny & Joon", "options": []}
+{"task": "web_questions", "input": "who has played edward quartermaine on general hospital?", "output": "David Lewis", "options": []}
+{"task": "web_questions", "input": "what movies has taylor lautner?", "output": "New Moon", "options": []}
+{"task": "web_questions", "input": "where did douglas macarthur die?", "output": "Washington, D.C.", "options": []}
+{"task": "web_questions", "input": "what books did aristotle wrote?", "output": "Atheniensium respublica", "options": []}
+{"task": "web_questions", "input": "what political system does russia use?", "output": "Constitutional republic", "options": []}
+{"task": "web_questions", "input": "who was hadrian and what did he do?", "output": "Hadrian's Wall", "options": []}
+{"task": "web_questions", "input": "what nationality was andy williams?", "output": "United States of America", "options": []}
+{"task": "web_questions", "input": "what college did james franco go to?", "output": "Columbia University School of the Arts", "options": []}
+{"task": "web_questions", "input": "what business does raj kundra do?", "output": "Entrepreneur", "options": []}
+{"task": "web_questions", "input": "where is adam smith from?", "output": "Kirkcaldy", "options": []}
+{"task": "web_questions", "input": "where was f scott fitzgerald education?", "output": "St. Paul Academy and Summit School", "options": []}
+{"task": "web_questions", "input": "what is kareem abdul jabbar real name?", "output": "Ferdinand Lewis Alcindor, Sr.", "options": []}
+{"task": "web_questions", "input": "what language do they denmark?", "output": "Danish Language", "options": []}
+{"task": "web_questions", "input": "who was the president of the us in 1971?", "output": "Richard Nixon", "options": []}
+{"task": "web_questions", "input": "who all has steve nash played for?", "output": "Phoenix Suns", "options": []}
+{"task": "web_questions", "input": "what timezone is minneapolis in?", "output": "Central Time Zone", "options": []}
+{"task": "web_questions", "input": "what films has morgan freeman narrated?", "output": "A Raisin in the Sun", "options": []}
+{"task": "web_questions", "input": "what currency does brazil use?", "output": "Brazilian real", "options": []}
+{"task": "web_questions", "input": "what is the zip code for iselin nj?", "output": "08830", "options": []}
+{"task": "web_questions", "input": "who was the secretary of state when richard nixon was president?", "output": "Henry Kissinger", "options": []}
+{"task": "web_questions", "input": "what countries did queen victoria reign over?", "output": "United Kingdom", "options": []}
+{"task": "web_questions", "input": "where did martin luther king junior go to college?", "output": "Morehouse College", "options": []}
+{"task": "web_questions", "input": "what is the best neighborhood to live in dallas?", "output": "Convention Center District", "options": []}
+{"task": "web_questions", "input": "who were queen elizabeth 1 parents?", "output": "Anne Boleyn", "options": []}
+{"task": "web_questions", "input": "where does allen iverson live now?", "output": "Hampton", "options": []}
+{"task": "web_questions", "input": "what did theodor schwann contribute to our understanding of cells?", "output": "Microscopical researches into the accordance in the structure and growth of animals and plants", "options": []}
+{"task": "web_questions", "input": "who were ulysses s grant and robert e lee?", "output": "General-in-Chief", "options": []}
+{"task": "web_questions", "input": "what are dollars called in spain?", "output": "Peseta", "options": []}
+{"task": "web_questions", "input": "where is the university of west alabama located?", "output": "Alabama", "options": []}
+{"task": "web_questions", "input": "what form of government does north korea?", "output": "Juche", "options": []}
+{"task": "web_questions", "input": "what language does people from denmark speak?", "output": "Greenlandic language", "options": []}
+{"task": "web_questions", "input": "what is the capital of kentucky known for its bluegrass?", "output": "Frankfort", "options": []}
+{"task": "web_questions", "input": "what team did grover cleveland alexander play for?", "output": "Philadelphia Phillies", "options": []}
+{"task": "web_questions", "input": "what is the government of spain today?", "output": "Constitutional monarchy", "options": []}
+{"task": "web_questions", "input": "what to see in singapore at night?", "output": "Kampung Days", "options": []}
+{"task": "web_questions", "input": "what did thoreau die from?", "output": "Tuberculosis", "options": []}
+{"task": "web_questions", "input": "what country did the zulu live in?", "output": "Zambia", "options": []}
+{"task": "web_questions", "input": "where did robert boyle study?", "output": "Eton College", "options": []}
+{"task": "web_questions", "input": "how much indiana jones movies are there?", "output": "Indiana Jones and the Raiders of the Lost Ark", "options": []}
+{"task": "web_questions", "input": "what did william shakespeare do for a living?", "output": "Poet", "options": []}
+{"task": "web_questions", "input": "what sort of government does canada have?", "output": "Parliament of Canada", "options": []}
+{"task": "web_questions", "input": "what does the term prima donna mean?", "output": "Personal assistant", "options": []}
+{"task": "web_questions", "input": "what team chris paul play for?", "output": "Los Angeles Clippers", "options": []}
+{"task": "web_questions", "input": "who won the governor election in puerto rico?", "output": "Luis Fortu\u00f1o", "options": []}
+{"task": "web_questions", "input": "who were michael jackson's brothers and sisters?", "output": "Rebbie Jackson", "options": []}
+{"task": "web_questions", "input": "who is the speaker of the house of representatives currently?", "output": "Nancy Pelosi", "options": []}
+{"task": "web_questions", "input": "what kind of money to take to bahamas?", "output": "Bahamian dollar", "options": []}
+{"task": "web_questions", "input": "where is the pepsi center?", "output": "Denver", "options": []}
+{"task": "web_questions", "input": "when richard nixon was president?", "output": "1960", "options": []}
+{"task": "web_questions", "input": "where to stay near asheville?", "output": "Grove Park Inn", "options": []}
+{"task": "web_questions", "input": "what killed sammy davis jr?", "output": "Complication", "options": []}
+{"task": "web_questions", "input": "where do people speak burmese?", "output": "Myanmar", "options": []}
+{"task": "web_questions", "input": "where is louisville ne?", "output": "Jefferson County", "options": []}
+{"task": "web_questions", "input": "what language do you speak in austria?", "output": "Austrian German", "options": []}
+{"task": "web_questions", "input": "what government type is north korea?", "output": "Juche", "options": []}
+{"task": "web_questions", "input": "what religions are practiced in afghanistan?", "output": "Shia Islam", "options": []}
+{"task": "web_questions", "input": "where did jennifer hudson go to school?", "output": "Dunbar Vocational High School", "options": []}
+{"task": "web_questions", "input": "where did chancellorsville battle take place?", "output": "Spotsylvania County", "options": []}
+{"task": "web_questions", "input": "where george washington carver go to school?", "output": "Tuskegee University", "options": []}
+{"task": "web_questions", "input": "who are the judges of the supreme court?", "output": "John Roberts", "options": []}
+{"task": "web_questions", "input": "who was charlemagne's wife?", "output": "Fastrada", "options": []}
+{"task": "web_questions", "input": "where did joe namath attend college?", "output": "University of Alabama", "options": []}
+{"task": "web_questions", "input": "what does the roman empire consist of?", "output": "Cilicia", "options": []}
+{"task": "web_questions", "input": "what is the northeast of the united states?", "output": "Canada", "options": []}
+{"task": "web_questions", "input": "what language do the speak in switzerland?", "output": "Romansh language", "options": []}
+{"task": "web_questions", "input": "what is the very first harry potter book?", "output": "Harry Potter and the Philosopher's Stone", "options": []}
+{"task": "web_questions", "input": "what is there to do in laredo tx?", "output": "Veterans Field", "options": []}
+{"task": "web_questions", "input": "what is the short name for stephanie?", "output": "Stepha", "options": []}
+{"task": "web_questions", "input": "what movies did quentin tarantino star in?", "output": "Grindhouse", "options": []}
+{"task": "web_questions", "input": "what kind of music did michael jackson sing?", "output": "Soul music", "options": []}
+{"task": "web_questions", "input": "who did george wendt play on cheers?", "output": "Norm Peterson", "options": []}
+{"task": "web_questions", "input": "what kind of language do they speak in china?", "output": "Standard Mandarin", "options": []}
+{"task": "web_questions", "input": "when did yuvraj made his odi debut?", "output": "10/3/2000", "options": []}
+{"task": "web_questions", "input": "what type of political system does iran have?", "output": "Islamic republic", "options": []}
+{"task": "web_questions", "input": "who did michael jackson play in the wiz?", "output": "Scarecrow", "options": []}
+{"task": "web_questions", "input": "what is the philadelphia church of god?", "output": "Protestant Organizations", "options": []}
+{"task": "web_questions", "input": "in what state did the bloody battle of antietam take place?", "output": "Sharpsburg", "options": []}
+{"task": "web_questions", "input": "what currency do they use in qatar?", "output": "Qatari riyal", "options": []}
+{"task": "web_questions", "input": "what is in liverpool england?", "output": "New Pleasureland Southport", "options": []}
+{"task": "web_questions", "input": "what type of political system is headed by queen elizabeth ii?", "output": "Monarch", "options": []}
+{"task": "web_questions", "input": "what to do around krabi thailand?", "output": "Tup Island", "options": []}
+{"task": "web_questions", "input": "who did the philippines gain independence from?", "output": "United States of America", "options": []}
+{"task": "web_questions", "input": "what country speak english as native language?", "output": "Canada", "options": []}
+{"task": "web_questions", "input": "what are the major cities in france?", "output": "Paris", "options": []}
+{"task": "web_questions", "input": "what did barack obama do before he took office?", "output": "Illinois State Senator", "options": []}
+{"task": "web_questions", "input": "what college did steve nash play basketball for?", "output": "Santa Clara University", "options": []}
+{"task": "web_questions", "input": "what language do cyprus speak?", "output": "Greek Language", "options": []}
+{"task": "web_questions", "input": "where do houston aeros play?", "output": "Toyota Center", "options": []}
+{"task": "web_questions", "input": "what school did kurt vonnegut go to?", "output": "Cornell University", "options": []}
+{"task": "web_questions", "input": "what did egyptians speak?", "output": "Languages of Egypt", "options": []}
+{"task": "web_questions", "input": "what are popular sports in spain?", "output": "Spain women's national handball team", "options": []}
+{"task": "web_questions", "input": "who currently owns the steelers?", "output": "Rooney family", "options": []}
+{"task": "web_questions", "input": "what caused the asian currency crisis?", "output": "Asian Affairs", "options": []}
+{"task": "web_questions", "input": "what was the last time the pittsburgh pirates had a winning season?", "output": "1979 World Series", "options": []}
+{"task": "web_questions", "input": "what jersey will the packers wear in the super bowl?", "output": "Dark green", "options": []}
+{"task": "web_questions", "input": "what is the name of the alabama state tree?", "output": "Pinus palustris", "options": []}
+{"task": "web_questions", "input": "what schools did barack obama attend?", "output": "Occidental College", "options": []}
+{"task": "web_questions", "input": "who was timothy mcveigh accomplice?", "output": "Terry Nichols", "options": []}
+{"task": "web_questions", "input": "what did george v die of?", "output": "Euthanasia", "options": []}
+{"task": "web_questions", "input": "what city is the jacksonville jaguars from?", "output": "Jacksonville", "options": []}
+{"task": "web_questions", "input": "who does michael oher play for in 2009?", "output": "Baltimore Ravens", "options": []}
+{"task": "web_questions", "input": "what country do arabic people come from?", "output": "Tunisia", "options": []}
+{"task": "web_questions", "input": "what kind of alcohol is bacardi silver?", "output": "Bacardi rum", "options": []}
+{"task": "web_questions", "input": "what years did brett favre go to the super bowl?", "output": "1995 NFL season", "options": []}
+{"task": "web_questions", "input": "what teams did jim harbaugh play for?", "output": "Chicago Bears", "options": []}
+{"task": "web_questions", "input": "when was barack obama elected president?", "output": "1/10/2011", "options": []}
+{"task": "web_questions", "input": "which airport do ba fly to in oslo?", "output": "Oslo Airport, Gardermoen", "options": []}
+{"task": "web_questions", "input": "where are google headquarters located?", "output": "Mountain View", "options": []}
+{"task": "web_questions", "input": "where did charles drew go to high school?", "output": "Dunbar High School", "options": []}
+{"task": "web_questions", "input": "what is currency in panama?", "output": "United States dollar", "options": []}
+{"task": "web_questions", "input": "what tv shows are taped in new york city?", "output": "Flight of the Conchords", "options": []}
+{"task": "web_questions", "input": "what type of government and economic system does the united states have?", "output": "Constitutional republic", "options": []}
+{"task": "web_questions", "input": "what money do you use in aruba?", "output": "Aruban florin", "options": []}
+{"task": "web_questions", "input": "what is the present form of government in iran?", "output": "Islamic republic", "options": []}
+{"task": "web_questions", "input": "what part does seth macfarlane play in family guy?", "output": "Peter Griffin", "options": []}
+{"task": "web_questions", "input": "what region is manchester england?", "output": "North West England", "options": []}
+{"task": "web_questions", "input": "who does christina milian have a baby by?", "output": "The-Dream", "options": []}
+{"task": "web_questions", "input": "what is the capital city of montana usa?", "output": "Helena", "options": []}
+{"task": "web_questions", "input": "what is wrong with robin roberts?", "output": "Breast cancer", "options": []}
+{"task": "web_questions", "input": "what magazine did edgar allan poe work for?", "output": "The Stylus", "options": []}
+{"task": "web_questions", "input": "what movies does johnny depp play in?", "output": "Benny & Joon", "options": []}
+{"task": "web_questions", "input": "who played todd manning on one life to live?", "output": "Blair Cramer", "options": []}
+{"task": "web_questions", "input": "what to do in venice beach ca?", "output": "Venice Branch", "options": []}
+{"task": "web_questions", "input": "where is jay cutler now?", "output": "Chicago Bears", "options": []}
+{"task": "web_questions", "input": "who was the communist dictator of north korea?", "output": "Kim Jong-il", "options": []}
+{"task": "web_questions", "input": "what form of government does brazil have?", "output": "Constitutional republic", "options": []}
+{"task": "web_questions", "input": "what makes einstein smart?", "output": "Mathematics and Physics", "options": []}
+{"task": "web_questions", "input": "where is located cornell university?", "output": "Ithaca", "options": []}
+{"task": "web_questions", "input": "what are all the things thomas edison invented?", "output": "Phonograph", "options": []}
+{"task": "web_questions", "input": "which countries are part of the united kingdom?", "output": "Eurasia", "options": []}
+{"task": "web_questions", "input": "which city held the summer olympics twice?", "output": "Olympic games", "options": []}
+{"task": "web_questions", "input": "what are fun things to do in seattle wa?", "output": "Woodland Park Zoo", "options": []}
+{"task": "web_questions", "input": "what country does mexico trade with?", "output": "North American Free Trade Agreement", "options": []}
+{"task": "web_questions", "input": "who is susan st james?", "output": "Actor", "options": []}
+{"task": "web_questions", "input": "where to visit in orlando florida?", "output": "SeaWorld Orlando", "options": []}
+{"task": "web_questions", "input": "what 5 countries border romania?", "output": "Ukraine", "options": []}
+{"task": "web_questions", "input": "what is there to do in palm springs?", "output": "The Fabulous Palm Springs Follies", "options": []}
+{"task": "web_questions", "input": "what language do denmark?", "output": "Danish Language", "options": []}
+{"task": "web_questions", "input": "what disease michael jackson?", "output": "Mysophobia", "options": []}
+{"task": "web_questions", "input": "who is reba mcentire's son?", "output": "Shelby Steven McEntire Blackstock", "options": []}
+{"task": "web_questions", "input": "what car companies does ford motor company own?", "output": "Ford Super Enhanced Investment Partnership", "options": []}
+{"task": "web_questions", "input": "who does hank baskett play for now nov 2010?", "output": "Philadelphia Eagles", "options": []}
+{"task": "web_questions", "input": "what country does iceland belong to?", "output": "Iceland", "options": []}
+{"task": "web_questions", "input": "who plays harold saxon in doctor who?", "output": "Roger Delgado", "options": []}
+{"task": "web_questions", "input": "what team rasheed wallace?", "output": "Portland Trail Blazers", "options": []}
+{"task": "web_questions", "input": "what language do fiji people speak?", "output": "Fiji Hindi", "options": []}
+{"task": "web_questions", "input": "what main language do they speak in brazil?", "output": "Portuguese Language", "options": []}
+{"task": "web_questions", "input": "what form of government is the philippines?", "output": "Constitutional republic", "options": []}
+{"task": "web_questions", "input": "what was vasco nunez de balboa original purpose of his journey?", "output": "Explorer", "options": []}
+{"task": "web_questions", "input": "when was the last time iran invaded another country?", "output": "Iran\u2013Iraq War", "options": []}
+{"task": "web_questions", "input": "who is ben roethlisberger parents?", "output": "Ida Jane Foust", "options": []}
+{"task": "web_questions", "input": "who is the current leader of china today?", "output": "Xi Jinping", "options": []}
+{"task": "web_questions", "input": "who did ronald reagan get shot by?", "output": "John Hinckley, Jr.", "options": []}
+{"task": "web_questions", "input": "what type of music did vivaldi write?", "output": "Classical music", "options": []}
+{"task": "web_questions", "input": "when did mcdonalds officially open?", "output": "5/15/1940", "options": []}
+{"task": "web_questions", "input": "what characters does todd haberkorn voice?", "output": "Death the Kid", "options": []}
+{"task": "web_questions", "input": "what country is located in the balkan peninsula?", "output": "Lake Prespa", "options": []}
+{"task": "web_questions", "input": "what team did john madden play football for?", "output": "Philadelphia Eagles", "options": []}
+{"task": "web_questions", "input": "where did michael jackson went to school?", "output": "Montclair College Preparatory School", "options": []}
+{"task": "web_questions", "input": "who played danielle rousseau on lost?", "output": "Mira Furlan", "options": []}
+{"task": "web_questions", "input": "what countries does china border?", "output": "Pakistan", "options": []}
+{"task": "web_questions", "input": "what is the biggest country in europe by population?", "output": "Russia", "options": []}
+{"task": "web_questions", "input": "what money is used in the ukraine?", "output": "Ukrainian hryvnia", "options": []}
+{"task": "web_questions", "input": "when were women allowed to go to the olympics?", "output": "The complete book of the Winter Olympics", "options": []}
+{"task": "web_questions", "input": "who is the head coach of the new orleans saints?", "output": "Sean Payton", "options": []}
+{"task": "web_questions", "input": "what country is singapore next to?", "output": "Eurasia", "options": []}
+{"task": "web_questions", "input": "what condition does michael j fox have?", "output": "Parkinson's disease", "options": []}
+{"task": "web_questions", "input": "when did the aurora colorado shooting take place?", "output": "2012 Aurora shooting", "options": []}
+{"task": "web_questions", "input": "what medium is the school of athens?", "output": "Athens", "options": []}
+{"task": "web_questions", "input": "where is fresno texas located?", "output": "Texas", "options": []}
+{"task": "web_questions", "input": "who won governor race in indiana?", "output": "Mitch Daniels", "options": []}
+{"task": "web_questions", "input": "what is duncan bannatyne?", "output": "Presenter", "options": []}
+{"task": "web_questions", "input": "where do audi come from?", "output": "Ingolstadt", "options": []}
+{"task": "web_questions", "input": "who plays riley finn on buffy the vampire slayer?", "output": "Marc Blucas", "options": []}
+{"task": "web_questions", "input": "what kind of government does the united states have today?", "output": "Presidential system", "options": []}
+{"task": "web_questions", "input": "where is kia car from?", "output": "South Korea", "options": []}
+{"task": "web_questions", "input": "where did bernie madoff work?", "output": "Bernard L. Madoff Investment Securities", "options": []}
+{"task": "web_questions", "input": "where english is spoken in the world?", "output": "Canada", "options": []}
+{"task": "web_questions", "input": "what does duffy sing?", "output": "Mercy", "options": []}
+{"task": "web_questions", "input": "where is st helens park nsw?", "output": "New South Wales", "options": []}
+{"task": "web_questions", "input": "what language do they speak in argentina yahoo?", "output": "Yiddish Language", "options": []}
+{"task": "web_questions", "input": "who is kristen stewart parents?", "output": "John Stewart", "options": []}
+{"task": "web_questions", "input": "who is steven seagal sister?", "output": "Brenda Seagal", "options": []}
+{"task": "web_questions", "input": "what form of government exists in china?", "output": "Single-party state", "options": []}
+{"task": "web_questions", "input": "who was the apostle paul considered to be?", "output": "Paul of Tarsus", "options": []}
+{"task": "web_questions", "input": "who married jessica simpson?", "output": "Nick Lachey", "options": []}
+{"task": "web_questions", "input": "what year did florida marlins win the world series?", "output": "2003 World Series", "options": []}
+{"task": "web_questions", "input": "what currency is used in germany 2012?", "output": "Euro", "options": []}
+{"task": "web_questions", "input": "what is state animal of illinois?", "output": "Northern Cardinal", "options": []}
+{"task": "web_questions", "input": "what was james madison's job?", "output": "United States Representative", "options": []}
+{"task": "web_questions", "input": "what currency should i take to jamaica?", "output": "Jamaican dollar", "options": []}
+{"task": "web_questions", "input": "what did doctor kevorkian do?", "output": "Physician", "options": []}
+{"task": "web_questions", "input": "what was the cause of death of michael jackson?", "output": "Homicide", "options": []}
+{"task": "web_questions", "input": "what represents ghana?", "output": "Flag of Ghana", "options": []}
+{"task": "web_questions", "input": "what school did burne hogarth establish?", "output": "School of Visual Arts", "options": []}
+{"task": "web_questions", "input": "where is jefferson davis buried?", "output": "Hollywood Cemetery", "options": []}
+{"task": "web_questions", "input": "what country was juan ponce de leon from?", "output": "Santerv\u00e1s de Campos", "options": []}
+{"task": "web_questions", "input": "what is the capital city of south carolina?", "output": "Columbia", "options": []}
+{"task": "web_questions", "input": "what is the laguna beach theme song?", "output": "Come Clean", "options": []}
+{"task": "web_questions", "input": "when was the last shark attack in maui?", "output": "Wailuku", "options": []}
+{"task": "web_questions", "input": "where is the nation of greece located?", "output": "Europe", "options": []}
+{"task": "web_questions", "input": "who are the current senators from missouri?", "output": "Claire McCaskill", "options": []}
+{"task": "web_questions", "input": "what did theodore roosevelt do that brought him to national prominence?", "output": "President of the United States", "options": []}
+{"task": "web_questions", "input": "when president lincoln was elected?", "output": "Abraham Lincoln 1861 presidential inauguration", "options": []}
+{"task": "web_questions", "input": "who is paul revere and what did he do?", "output": "Silversmith", "options": []}
+{"task": "web_questions", "input": "what year did scottie pippen come into the nba?", "output": "1987", "options": []}
+{"task": "web_questions", "input": "what was richard wright known for?", "output": "Keyboard player", "options": []}
+{"task": "web_questions", "input": "what is the political system of nigeria?", "output": "Federal republic", "options": []}
+{"task": "web_questions", "input": "when did herman cain run for president?", "output": "Herman Cain presidential campaign, 2012", "options": []}
+{"task": "web_questions", "input": "what did taylor swift do at the vmas 2012?", "output": "Grammy Award for Best Country Solo Performance", "options": []}
+{"task": "web_questions", "input": "what did isaac newton contribute to science?", "output": "Newton fractal", "options": []}
+{"task": "web_questions", "input": "what is the time zone in oklahoma city?", "output": "Central Time Zone", "options": []}
+{"task": "web_questions", "input": "what did mister rogers do before tv?", "output": "Minister of religion", "options": []}
+{"task": "web_questions", "input": "who invented morse code?", "output": "Samuel Morse", "options": []}
+{"task": "web_questions", "input": "what type of government does the bahamas have?", "output": "Parliamentary system", "options": []}
+{"task": "web_questions", "input": "when did aldi originate?", "output": "1961", "options": []}
+{"task": "web_questions", "input": "what does obama have a degree in?", "output": "Political Science", "options": []}
+{"task": "web_questions", "input": "where did theodore roosevelt live before he became president?", "output": "New York City", "options": []}
+{"task": "web_questions", "input": "what was the name of martin luther king jr parents?", "output": "Martin Luther King, Sr.", "options": []}
+{"task": "web_questions", "input": "who is shania twain's husband?", "output": "Frederic Thiebaud", "options": []}
+{"task": "web_questions", "input": "what did julia roberts won an oscar for?", "output": "Erin Brockovich", "options": []}
+{"task": "web_questions", "input": "what time is the melbourne cup?", "output": "Yearly", "options": []}
+{"task": "web_questions", "input": "where does lala anthony live?", "output": "Brooklyn", "options": []}
+{"task": "web_questions", "input": "who does paul wesley play in 24?", "output": "Stephen", "options": []}
+{"task": "web_questions", "input": "what happened to the battle of shiloh?", "output": "Surprise Attack!", "options": []}
+{"task": "web_questions", "input": "what country is barack obama from?", "output": "United States of America", "options": []}
+{"task": "web_questions", "input": "when did ian thorpe become famous?", "output": "2000 Summer Olympics", "options": []}
+{"task": "web_questions", "input": "what did richard nixon do for a living before he became president?", "output": "Politician", "options": []}
+{"task": "web_questions", "input": "where did hammurabi come from?", "output": "Babylonia", "options": []}
+{"task": "web_questions", "input": "what does dustin diamond do now?", "output": "Film Director", "options": []}
+{"task": "web_questions", "input": "who started google?", "output": "Larry Page", "options": []}
+{"task": "web_questions", "input": "what is the money currency in guatemala?", "output": "Guatemalan quetzal", "options": []}
+{"task": "web_questions", "input": "what kind of money do the netherlands use?", "output": "Euro", "options": []}
+{"task": "web_questions", "input": "what currency do i need in cuba?", "output": "Cuban peso", "options": []}
+{"task": "web_questions", "input": "what language do egyptians use?", "output": "Languages of Egypt", "options": []}
+{"task": "web_questions", "input": "where did gettysburg start?", "output": "United States of America", "options": []}
+{"task": "web_questions", "input": "who does russia trade with the most?", "output": "Uzbekistan", "options": []}
+{"task": "web_questions", "input": "what did fred goodwin do?", "output": "Businessperson", "options": []}
+{"task": "web_questions", "input": "what years did the yankees win the championship?", "output": "1941 World Series", "options": []}
+{"task": "web_questions", "input": "what was gregor mendel known for?", "output": "Scientist", "options": []}
+{"task": "web_questions", "input": "how old was woodrow wilson when he was elected president?", "output": "Woodrow Wilson 1917 presidential inauguration", "options": []}
+{"task": "web_questions", "input": "what team is chris paul on?", "output": "Los Angeles Clippers", "options": []}
+{"task": "web_questions", "input": "what language do they speak brazil?", "output": "Brazilian Portuguese", "options": []}
+{"task": "web_questions", "input": "who invented the ford motor company?", "output": "Henry Ford", "options": []}
+{"task": "web_questions", "input": "who is paul mccartney's current wife?", "output": "Nancy Shevell", "options": []}
+{"task": "web_questions", "input": "who plays shao kahn?", "output": "Frank Welker", "options": []}
+{"task": "web_questions", "input": "who was the governor of missouri in 1996?", "output": "Mel Carnahan", "options": []}
+{"task": "web_questions", "input": "who has won the last 10 nba championships?", "output": "Phoenix Suns", "options": []}
+{"task": "web_questions", "input": "where did matthew brady live?", "output": "New York City", "options": []}
+{"task": "web_questions", "input": "who is the publisher of the wall street journal?", "output": "Dow Jones & Company", "options": []}
+{"task": "web_questions", "input": "what discovery did sir isaac newton make about force?", "output": "He assumed that the rate of fall is proportional to the force of gravity and that this force is inversely proportional to the square of the distance from the center of the Earth.", "options": []}
+{"task": "web_questions", "input": "what songs does katherine jenkins sing?", "output": "O Holy Night", "options": []}
+{"task": "web_questions", "input": "what money should i bring to dominican?", "output": "Dominican peso", "options": []}
+{"task": "web_questions", "input": "what movie did james frey write?", "output": "Sugar: The Fall of the West", "options": []}
+{"task": "web_questions", "input": "what county is minneapolis mn in?", "output": "Hennepin County", "options": []}
+{"task": "web_questions", "input": "who is clint eastwood dating?", "output": "Dina Eastwood", "options": []}
+{"task": "web_questions", "input": "who is lamar odom playing for in 2012?", "output": "Los Angeles Lakers", "options": []}
+{"task": "web_questions", "input": "what record label is rihanna signed to 2012?", "output": "Def Jam Recordings", "options": []}
+{"task": "web_questions", "input": "who is the chicago bulls head coach?", "output": "Tom Thibodeau", "options": []}
+{"task": "web_questions", "input": "what town was abe lincoln born in?", "output": "Hodgenville", "options": []}
+{"task": "web_questions", "input": "what airport is closest to cancun?", "output": "Canc\u00fan International Airport", "options": []}
+{"task": "web_questions", "input": "where does joey king live?", "output": "Las Vegas", "options": []}
+{"task": "web_questions", "input": "what highschool did bill gates graduated from?", "output": "Lakeside School", "options": []}
+{"task": "web_questions", "input": "which airport is closest to barcelona port?", "output": "Barcelona\u2013El Prat Airport", "options": []}
+{"task": "web_questions", "input": "what is language in argentina?", "output": "Yiddish Language", "options": []}
+{"task": "web_questions", "input": "where did jesse james die?", "output": "Saint Joseph", "options": []}
+{"task": "web_questions", "input": "what is the second percy jackson book called?", "output": "The Sea of Monsters", "options": []}
+{"task": "web_questions", "input": "who will alex smith play for in 2011?", "output": "San Francisco 49ers", "options": []}
+{"task": "web_questions", "input": "what were frederick douglass achievements?", "output": "Publisher", "options": []}
+{"task": "web_questions", "input": "what is shakira's nationality?", "output": "Colombia", "options": []}
+{"task": "web_questions", "input": "in what state was the air force academy established?", "output": "Colorado", "options": []}
+{"task": "web_questions", "input": "what does anderson cooper do?", "output": "Journalist", "options": []}
+{"task": "web_questions", "input": "when was the last time the new england patriots won the superbowl?", "output": "Super Bowl XXXVIII", "options": []}
+{"task": "web_questions", "input": "what movie queen latifah play in?", "output": "Taxi", "options": []}
+{"task": "web_questions", "input": "what countries did queen victoria rule?", "output": "United Kingdom", "options": []}
+{"task": "web_questions", "input": "where to go in mexico for vacation?", "output": "Yucat\u00e1n", "options": []}
+{"task": "web_questions", "input": "what are the different sports in the philippines?", "output": "Philippines men's national volleyball team", "options": []}
+{"task": "web_questions", "input": "what are the basic beliefs of sikhism?", "output": "Sa\u1e43s\u0101ra", "options": []}
+{"task": "web_questions", "input": "where does liz mcclarnon live?", "output": "England", "options": []}
+{"task": "web_questions", "input": "what state is harvard college located?", "output": "Massachusetts", "options": []}
+{"task": "web_questions", "input": "what is the world's tallest building in dubai called?", "output": "Burj Khalifa", "options": []}
+{"task": "web_questions", "input": "where is pyramids located in egypt?", "output": "The Great Pyramid of Giza", "options": []}
+{"task": "web_questions", "input": "what was the purpose of the 1964 gulf of tonkin resolution?", "output": "Yen Bai mutiny", "options": []}
+{"task": "web_questions", "input": "where does portuguese language come from?", "output": "Latin alphabet", "options": []}
+{"task": "web_questions", "input": "who is steve nash married to?", "output": "Alejandra Amarilla", "options": []}
+{"task": "web_questions", "input": "what language do the assyrians speak?", "output": "Akkadian language", "options": []}
+{"task": "web_questions", "input": "what beach did the canadians assault?", "output": "\u00c9milie Heymans", "options": []}
+{"task": "web_questions", "input": "what movies does zac efron star in?", "output": "17 Again", "options": []}
+{"task": "web_questions", "input": "what are the different dialects of chinese?", "output": "Qingtian dialect", "options": []}
+{"task": "web_questions", "input": "when did baltimore orioles win the world series?", "output": "1983 World Series", "options": []}
+{"task": "web_questions", "input": "what did atticus finch do?", "output": "Lawyer", "options": []}
+{"task": "web_questions", "input": "where does the zambezi river end?", "output": "Indian Ocean", "options": []}
+{"task": "web_questions", "input": "where does the panama canal run through?", "output": "Panama Canal Zone", "options": []}
+{"task": "web_questions", "input": "where is poe buried now?", "output": "Westminster Hall and Burying Ground", "options": []}
+{"task": "web_questions", "input": "what did lbj die of?", "output": "Myocardial infarction", "options": []}
+{"task": "web_questions", "input": "where is arabic the official language?", "output": "Bahrain", "options": []}
+{"task": "web_questions", "input": "which hmv stores are open?", "output": "Waterstones", "options": []}
+{"task": "web_questions", "input": "where are they now jessica mcclure?", "output": "Midland", "options": []}
+{"task": "web_questions", "input": "who does david beckham play for in 2012?", "output": "LA Galaxy", "options": []}
+{"task": "web_questions", "input": "what year did dwayne wade came to the nba?", "output": "2003 NBA Draft", "options": []}
+{"task": "web_questions", "input": "what to do washington dc december?", "output": "White House", "options": []}
+{"task": "web_questions", "input": "what character did natalie portman play in star wars?", "output": "Padm\u00e9 Amidala", "options": []}
+{"task": "web_questions", "input": "what was robert hooke's contributions to science?", "output": "Diaphragm", "options": []}
+{"task": "web_questions", "input": "where did boston terriers come from?", "output": "United States of America", "options": []}
+{"task": "web_questions", "input": "what type of money do you use in cuba?", "output": "Cuban peso", "options": []}
+{"task": "web_questions", "input": "what time zone is london in right now?", "output": "Greenwich Mean Time", "options": []}
+{"task": "web_questions", "input": "where was obama educated?", "output": "Occidental College", "options": []}
+{"task": "web_questions", "input": "what was the cause of death for edgar allan poe?", "output": "Tuberculosis", "options": []}
+{"task": "web_questions", "input": "what are the main imports and exports of afghanistan?", "output": "Fruit and Tree Nut Farming", "options": []}
+{"task": "web_questions", "input": "what sea does the yangtze river empty into?", "output": "East China Sea", "options": []}
+{"task": "web_questions", "input": "what places made up the western roman empire?", "output": "Europe", "options": []}
+{"task": "web_questions", "input": "what language do they speak in guyana south america?", "output": "English Language", "options": []}
+{"task": "web_questions", "input": "what the australian liberal party stands for?", "output": "Australia", "options": []}
+{"task": "web_questions", "input": "what is the zip code for trenton ohio?", "output": "45067", "options": []}
+{"task": "web_questions", "input": "who did troy aikman play for?", "output": "Dallas Cowboys", "options": []}
+{"task": "web_questions", "input": "what kind of books does nicholas sparks wrote?", "output": "Das L\u00e4cheln der Sterne.", "options": []}
+{"task": "web_questions", "input": "what do do in nashville tn?", "output": "Tennessee Agricultural Museum", "options": []}
+{"task": "web_questions", "input": "what year did reggie bush get drafted?", "output": "2006 NFL Draft", "options": []}
+{"task": "web_questions", "input": "who are the famous athletes in kenya?", "output": "Emmanuel Kipchirchir Mutai", "options": []}
+{"task": "web_questions", "input": "who is jeff probst ex wife?", "output": "Shelly Wright", "options": []}
+{"task": "web_questions", "input": "who does leia think her father is?", "output": "Bail Organa", "options": []}
+{"task": "web_questions", "input": "who is the governor of hawaii now?", "output": "Neil Abercrombie", "options": []}
+{"task": "web_questions", "input": "who is playing hawkeye in the avengers movie?", "output": "Jeremy Renner", "options": []}
+{"task": "web_questions", "input": "what did king george vi die of?", "output": "Lung cancer", "options": []}
+{"task": "web_questions", "input": "what season did jason priestley leave 90210?", "output": "Beverly Hills, 90210 - Season 9", "options": []}
+{"task": "web_questions", "input": "what sport does sally pearson compete in?", "output": "Track and field athlete", "options": []}
+{"task": "web_questions", "input": "what continent does israel belong to?", "output": "Asia", "options": []}
+{"task": "web_questions", "input": "what time do the polls open in indiana 2012?", "output": "UTC\u221206:00", "options": []}
+{"task": "web_questions", "input": "what are bridgit mendler's parents names?", "output": "Harry Mendler", "options": []}
+{"task": "web_questions", "input": "who created english alphabet?", "output": "the Federation of Free States", "options": []}
+{"task": "web_questions", "input": "who created the chinese communist party?", "output": "China's Communist Party: Atrophy and Adaptation", "options": []}
+{"task": "web_questions", "input": "who is the governor of colorado 2009?", "output": "Bill Ritter", "options": []}
+{"task": "web_questions", "input": "what system of government is used in the united states of america?", "output": "Presidential system", "options": []}
+{"task": "web_questions", "input": "where did vietnamese people originate from?", "output": "Asian", "options": []}
+{"task": "web_questions", "input": "what country was william shakespeare born?", "output": "United Kingdom", "options": []}
+{"task": "web_questions", "input": "what is president abraham lincoln known for?", "output": "President of the United States", "options": []}
+{"task": "web_questions", "input": "what are the duggars kids full names?", "output": "Jana Duggar", "options": []}
+{"task": "web_questions", "input": "who played jacob black?", "output": "Taylor Lautner", "options": []}
+{"task": "web_questions", "input": "who was louis kossuth?", "output": "Politician", "options": []}
+{"task": "web_questions", "input": "what is the zip code for georgetown ga?", "output": "20057", "options": []}
+{"task": "web_questions", "input": "where to stay in san francisco ca?", "output": "Palace Hotel, San Francisco", "options": []}
+{"task": "web_questions", "input": "what did baron de montesquieu die from?", "output": "Fever", "options": []}
+{"task": "web_questions", "input": "who is my state senator and representative minnesota?", "output": "Al Franken", "options": []}
+{"task": "web_questions", "input": "where to stay in bermuda tripadvisor?", "output": "Bermuda Department of Tourism", "options": []}
+{"task": "web_questions", "input": "what did regina hall play in?", "output": "Scary Movie", "options": []}
+{"task": "web_questions", "input": "what does guyana speak?", "output": "English Language", "options": []}
+{"task": "web_questions", "input": "what countries use english as national language?", "output": "Canada", "options": []}
+{"task": "web_questions", "input": "what films have johnny depp been in?", "output": "The tourist", "options": []}
+{"task": "web_questions", "input": "what is d capital city of south africa?", "output": "Bloemfontein", "options": []}
+{"task": "web_questions", "input": "who voices anakin in the clone wars?", "output": "Matt Lanter", "options": []}
+{"task": "web_questions", "input": "what is brazilian jiu jitsu?", "output": "Martial arts", "options": []}
+{"task": "web_questions", "input": "where does the tsunami happened in japan?", "output": "Japan", "options": []}
+{"task": "web_questions", "input": "what has mario lopez been in?", "output": "Holiday in Handcuffs", "options": []}
+{"task": "web_questions", "input": "what state was ronald reagan governor of?", "output": "California", "options": []}
+{"task": "web_questions", "input": "where does the band metallica live?", "output": "Los Angeles", "options": []}
+{"task": "web_questions", "input": "what characters does seth macfarlane voice?", "output": "Peter Griffin", "options": []}
+{"task": "web_questions", "input": "what prep school did romney attend?", "output": "Cranbrook Schools", "options": []}
+{"task": "web_questions", "input": "what airport fly into for maui?", "output": "Hana Airport", "options": []}
+{"task": "web_questions", "input": "what language do native american indians speak?", "output": "French Language", "options": []}
+{"task": "web_questions", "input": "what type of aircraft does virgin america use?", "output": "Airbus A319", "options": []}
+{"task": "web_questions", "input": "what will happen to greece when it defaults?", "output": "European Union", "options": []}
+{"task": "web_questions", "input": "what did mozart die from?", "output": "Rheumatic fever", "options": []}
+{"task": "web_questions", "input": "what continent does the bahamas belong to?", "output": "North America", "options": []}
+{"task": "web_questions", "input": "where did galileo go to school?", "output": "University of Pisa", "options": []}
+{"task": "web_questions", "input": "which states does the connecticut river flow through?", "output": "Vermont", "options": []}
+{"task": "web_questions", "input": "who is the present chief justice of the u.s. supreme court?", "output": "John Roberts", "options": []}
+{"task": "web_questions", "input": "what does pixar produce?", "output": "A Bug's Life", "options": []}
+{"task": "web_questions", "input": "what does the name austin stand for?", "output": "Stephen F. Austin", "options": []}
+{"task": "web_questions", "input": "who to vote for in san francisco 2012?", "output": "Libertarian Party of San Francisco", "options": []}
+{"task": "web_questions", "input": "what is tim tebow's religion?", "output": "Christianity", "options": []}
+{"task": "web_questions", "input": "who plays sam in anger management?", "output": "Jared Padalecki", "options": []}
+{"task": "web_questions", "input": "what languages do scottish people speak?", "output": "Scottish Gaelic language", "options": []}
+{"task": "web_questions", "input": "what is considered eastern canada?", "output": "Newfoundland", "options": []}
+{"task": "web_questions", "input": "what kourtney kardashian baby girls name?", "output": "Penelope Scotland Disick", "options": []}
+{"task": "web_questions", "input": "what type of voting system does the uk have?", "output": "Government of the United Kingdom", "options": []}
+{"task": "web_questions", "input": "what kind of money should i take to jamaica?", "output": "Jamaican dollar", "options": []}
+{"task": "web_questions", "input": "where is isthmus of panama located?", "output": "Costa Rica", "options": []}
+{"task": "web_questions", "input": "what did lucille ball die of?", "output": "Aortic dissection", "options": []}
+{"task": "web_questions", "input": "which legend of zelda game is the first?", "output": "The Legend of Zelda", "options": []}
+{"task": "web_questions", "input": "what clubs has messi played for?", "output": "Argentina national football team", "options": []}
+{"task": "web_questions", "input": "what instruments does john williams use?", "output": "Trombone", "options": []}
+{"task": "web_questions", "input": "what kind of paintings did frida kahlo do?", "output": "Surrealism", "options": []}
+{"task": "web_questions", "input": "what did jerry sandusky do to the children?", "output": "Involuntary deviate sexual intercourse", "options": []}
+{"task": "web_questions", "input": "what are the holidays of islam?", "output": "Eid al-Fitr", "options": []}
+{"task": "web_questions", "input": "what kind of art did leonardo da vinci produce?", "output": "Sculpture", "options": []}
+{"task": "web_questions", "input": "who won golden boot?", "output": "Lionel Messi", "options": []}
+{"task": "web_questions", "input": "what is the currency in croatia 2012?", "output": "Croatian kuna", "options": []}
+{"task": "web_questions", "input": "who does david carr play for?", "output": "San Francisco 49ers", "options": []}
+{"task": "web_questions", "input": "what was the milwaukee brewers old name?", "output": "Seattle Pilots", "options": []}
+{"task": "web_questions", "input": "what countries speak english primarily?", "output": "Canada", "options": []}
+{"task": "web_questions", "input": "who is the head coach of the chicago blackhawks?", "output": "Joel Quenneville", "options": []}
+{"task": "web_questions", "input": "where is kate middleton spending christmas?", "output": "Bucklebury", "options": []}
+{"task": "web_questions", "input": "where did tim mcgraw grew up?", "output": "Delhi", "options": []}
+{"task": "web_questions", "input": "what films has gerard butler starred in?", "output": "Attila", "options": []}
+{"task": "web_questions", "input": "what major landforms are located in egypt?", "output": "Sahara", "options": []}
+{"task": "web_questions", "input": "what was francisco vasquez de coronado known for?", "output": "Mexico City", "options": []}
+{"task": "web_questions", "input": "what does a american rottweiler look like?", "output": "Tan", "options": []}
+{"task": "web_questions", "input": "where north dakota located?", "output": "Midwestern United States", "options": []}
+{"task": "web_questions", "input": "who played boss hogg dukes of hazzard?", "output": "Sorell Booke", "options": []}
+{"task": "web_questions", "input": "what was henry ford best known for?", "output": "Industrialist", "options": []}
+{"task": "web_questions", "input": "what did maria theresa rule?", "output": "Bohemia", "options": []}
+{"task": "web_questions", "input": "who won 2011 heisman trophy?", "output": "Robert Griffin III", "options": []}
+{"task": "web_questions", "input": "where is amsterdam ohio?", "output": "Jefferson County", "options": []}
+{"task": "web_questions", "input": "who played emperor palpatine?", "output": "Ron Prather", "options": []}
+{"task": "web_questions", "input": "who created youtube?", "output": "Chad Hurley", "options": []}
+{"task": "web_questions", "input": "what airlines fly into ontario international airport?", "output": "West Air", "options": []}
+{"task": "web_questions", "input": "who did aaron rodgers play college football 4?", "output": "University of California, Berkeley", "options": []}
+{"task": "web_questions", "input": "who was gregor mendel and what did he contribute to science?", "output": "Mendelian inheritance", "options": []}
+{"task": "web_questions", "input": "where does spencer pratt go to school?", "output": "University of Southern California", "options": []}
+{"task": "web_questions", "input": "who is the coach of the pittsburgh steelers 2005?", "output": "Bill Cowher", "options": []}
+{"task": "web_questions", "input": "when does summer start in new england?", "output": "Waltham", "options": []}
+{"task": "web_questions", "input": "who made the ancient egyptian pyramids?", "output": "Ancient Egypt", "options": []}
+{"task": "web_questions", "input": "what college did kevjumba?", "output": "University of California, Davis", "options": []}
+{"task": "web_questions", "input": "what college did ron jaworski go to?", "output": "Youngstown State University", "options": []}
+{"task": "web_questions", "input": "what timezone is virginia in?", "output": "UTC-5", "options": []}
+{"task": "web_questions", "input": "who played elle greenaway?", "output": "Lola Glaudini", "options": []}
+{"task": "web_questions", "input": "where did president eisenhower go to college?", "output": "U.S. Army War College", "options": []}
+{"task": "web_questions", "input": "where did ayn rand live?", "output": "Saint Petersburg", "options": []}
+{"task": "web_questions", "input": "which three countries share a land border with cambodia?", "output": "Vietnam, Cambodia, Laos & the Greater Mekong", "options": []}
+{"task": "web_questions", "input": "what year did detroit pistons win nba championships?", "output": "1990 NBA Finals", "options": []}
+{"task": "web_questions", "input": "who were the major trade partners of russia?", "output": "Uzbekistan", "options": []}
+{"task": "web_questions", "input": "what college did lee corso attend?", "output": "Florida State University", "options": []}
+{"task": "web_questions", "input": "where was john lennon standing when he was shot?", "output": "New York City", "options": []}
+{"task": "web_questions", "input": "where is the battle of verdun located?", "output": "Verdun", "options": []}
+{"task": "web_questions", "input": "what is the political system in south africa?", "output": "Parliamentary republic", "options": []}
+{"task": "web_questions", "input": "what type of poetry does john donne write?", "output": "Metaphysical poets", "options": []}
+{"task": "web_questions", "input": "what is the work of charles darwin?", "output": "The Structure and Distribution of Coral Reefs", "options": []}
+{"task": "web_questions", "input": "what countries does the mississippi river run through?", "output": "United States of America", "options": []}
+{"task": "web_questions", "input": "what continent is mexico located on?", "output": "North America", "options": []}
+{"task": "web_questions", "input": "where did joe namath live?", "output": "Fire Island", "options": []}
+{"task": "web_questions", "input": "where was my honda motorcycle made?", "output": "Tokyo", "options": []}
+{"task": "web_questions", "input": "what is daniel radcliffe name in the woman in black?", "output": "Arthur Kipps", "options": []}
+{"task": "web_questions", "input": "who played lois en superman?", "output": "Dana Delany", "options": []}
+{"task": "web_questions", "input": "what does sammy hagar sing?", "output": "Rock music", "options": []}
+{"task": "web_questions", "input": "what county is morristown tn in?", "output": "Morris County", "options": []}
+{"task": "web_questions", "input": "what was tupac name in juice?", "output": "Bishop", "options": []}
+{"task": "web_questions", "input": "who plays young john winchester in supernatural?", "output": "Jeffrey Dean Morgan", "options": []}
+{"task": "web_questions", "input": "where is wellsville missouri?", "output": "United States of America", "options": []}
+{"task": "web_questions", "input": "what year was peyton manning's rookie year?", "output": "1998 NFL Draft", "options": []}
+{"task": "web_questions", "input": "in what country do they speak basque?", "output": "Spain", "options": []}
+{"task": "web_questions", "input": "what did corey haim really die of?", "output": "Pneumonia", "options": []}
+{"task": "web_questions", "input": "what movies does nicole kidman star in?", "output": "Billy Bathgate", "options": []}
+{"task": "web_questions", "input": "what battle did germany surrender in ww2?", "output": "Berlin", "options": []}
+{"task": "web_questions", "input": "what did anna nicole smith died from?", "output": "Drug overdose", "options": []}
+{"task": "web_questions", "input": "what highschool did tom brady go to?", "output": "Jun\u00edpero Serra High School", "options": []}
+{"task": "web_questions", "input": "what is the political system of the us?", "output": "Federal republic", "options": []}
+{"task": "web_questions", "input": "what is illinois state bird?", "output": "Northern Cardinal", "options": []}
+{"task": "web_questions", "input": "who does lea michele dating in real life?", "output": "Cory Monteith", "options": []}
+{"task": "web_questions", "input": "what language does greece use?", "output": "Greek Language", "options": []}
+{"task": "web_questions", "input": "who did hermione granger marry?", "output": "Ronald Weasley", "options": []}
+{"task": "web_questions", "input": "what did richard arkwright contribute to the industrial revolution?", "output": "Spinning frame", "options": []}
+{"task": "web_questions", "input": "what shows are on in london at the moment?", "output": "World Organization of the Scout Movement", "options": []}
+{"task": "web_questions", "input": "who was luke skywalker played by?", "output": "Mark Hamill", "options": []}
+{"task": "web_questions", "input": "what currency is used in switzerland 2012?", "output": "Swiss franc", "options": []}
+{"task": "web_questions", "input": "who did walter raleigh sail for?", "output": "England", "options": []}
+{"task": "web_questions", "input": "what is the main language of israel?", "output": "Hebrew Language", "options": []}
+{"task": "web_questions", "input": "what state was john adams elected from?", "output": "Massachusetts", "options": []}
+{"task": "web_questions", "input": "where do the fla marlins play?", "output": "Marlins Park", "options": []}
+{"task": "web_questions", "input": "who is lleyton hewitt?", "output": "Tennis player", "options": []}
+{"task": "web_questions", "input": "who does david james play for 2011?", "output": "Bristol City F.C.", "options": []}
+{"task": "web_questions", "input": "what currency does ontario canada use?", "output": "Canadian dollar", "options": []}
+{"task": "web_questions", "input": "where do you fly into for destin?", "output": "Northwest Florida Regional Airport", "options": []}
+{"task": "web_questions", "input": "where the queen of denmark lives?", "output": "Copenhagen", "options": []}
+{"task": "web_questions", "input": "what four countries are in the united kingdom?", "output": "Wales", "options": []}
+{"task": "web_questions", "input": "where did neil gaiman grow up?", "output": "Menomonie", "options": []}
+{"task": "web_questions", "input": "what does annie leibovitz do?", "output": "Photographer", "options": []}
+{"task": "web_questions", "input": "where did the cuban missile crisis happen?", "output": "Cuba Island", "options": []}
+{"task": "web_questions", "input": "who played bob ewell in to kill a mockingbird?", "output": "James Anderson", "options": []}
+{"task": "web_questions", "input": "what type of government germany have?", "output": "Constitutional republic", "options": []}
+{"task": "web_questions", "input": "what to see in washington dc in 2 days?", "output": "White House", "options": []}
+{"task": "web_questions", "input": "what did sir john frederick william herschel do?", "output": "Cyanotype", "options": []}
+{"task": "web_questions", "input": "what movies have gerard butler been in?", "output": "Attila", "options": []}
+{"task": "web_questions", "input": "what did newton discover or invent?", "output": "Newton's law of universal gravitation", "options": []}
+{"task": "web_questions", "input": "what country did john cabot sail for?", "output": "Italy", "options": []}
+{"task": "web_questions", "input": "who wrote luke bryan's drunk on you?", "output": "Jeff Stevens", "options": []}
+{"task": "web_questions", "input": "where is alex rodriguez from?", "output": "Washington Heights", "options": []}
+{"task": "web_questions", "input": "what is the president of brazil?", "output": "Dilma Rousseff", "options": []}
+{"task": "web_questions", "input": "what group is aubrey o'day in?", "output": "Danity Kane", "options": []}
+{"task": "web_questions", "input": "what are some of the religions in australia?", "output": "Catholicism", "options": []}
+{"task": "web_questions", "input": "where did harriet tubman live after the civil war?", "output": "Auburn", "options": []}
+{"task": "web_questions", "input": "who played mulder in the x files?", "output": "David Duchovny", "options": []}
+{"task": "web_questions", "input": "what do ethiopia import and export?", "output": "Leather and Hide Tanning and Finishing", "options": []}
+{"task": "web_questions", "input": "what is the best neighborhood to live in in philadelphia?", "output": "Rittenhouse Square", "options": []}
+{"task": "web_questions", "input": "when did shawn johnson won the gold medal?", "output": "2008 Summer Olympics", "options": []}
+{"task": "web_questions", "input": "where did laura ingalls wilder live?", "output": "Wisconsin", "options": []}
+{"task": "web_questions", "input": "who was wale signed to?", "output": "Def Jam Recordings", "options": []}
+{"task": "web_questions", "input": "what are the new york giants home colors?", "output": "Blue", "options": []}
+{"task": "web_questions", "input": "who played marty mcfly's dad?", "output": "George McFly", "options": []}
+{"task": "web_questions", "input": "who did alicia keys have a baby with?", "output": "Swizz Beatz", "options": []}
+{"task": "web_questions", "input": "what book did jacob riis wrote?", "output": "How the other half lives", "options": []}
+{"task": "web_questions", "input": "what countries share borders with france?", "output": "Italy", "options": []}
+{"task": "web_questions", "input": "what did freud say about women?", "output": "Anatomy is destiny.", "options": []}
+{"task": "web_questions", "input": "what language does people in thailand speak?", "output": "Thai Language", "options": []}
+{"task": "web_questions", "input": "what episode does rukia fade away?", "output": "Bleach: Fade to Black", "options": []}
+{"task": "web_questions", "input": "what does george soros believe?", "output": "Atheism", "options": []}
+{"task": "web_questions", "input": "where did justin bieber grew up?", "output": "Canada", "options": []}
+{"task": "web_questions", "input": "where does hudson river start?", "output": "Lake Tear of the Clouds", "options": []}
+{"task": "web_questions", "input": "what is the official language in china?", "output": "Nepali Language", "options": []}
+{"task": "web_questions", "input": "who is the elected governor of california?", "output": "Jerry Brown", "options": []}
+{"task": "web_questions", "input": "who wrote the book of st. john?", "output": "John the Evangelist", "options": []}
+{"task": "web_questions", "input": "what band did joe satriani play in?", "output": "Greg Kihn Band", "options": []}
+{"task": "web_questions", "input": "who played freddy in friday the 13th?", "output": "Chason Schirmer", "options": []}
+{"task": "web_questions", "input": "what school did tupac go to?", "output": "Paul Laurence Dunbar High School", "options": []}
+{"task": "web_questions", "input": "what college did steve jobs attend?", "output": "Reed College", "options": []}
+{"task": "web_questions", "input": "what films did patrick swayze star in?", "output": "City of Joy", "options": []}
+{"task": "web_questions", "input": "what type of strings does willie nelson use?", "output": "Steel-string acoustic guitar", "options": []}
+{"task": "web_questions", "input": "what is the official currency in france?", "output": "CFP franc", "options": []}
+{"task": "web_questions", "input": "what type of currency should i take to mexico?", "output": "Mexican peso", "options": []}
+{"task": "web_questions", "input": "what are the african nations?", "output": "Angola", "options": []}
+{"task": "web_questions", "input": "what language do argentina use?", "output": "Yiddish Language", "options": []}
+{"task": "web_questions", "input": "what challenges did helen keller have to face?", "output": "Deafness", "options": []}
+{"task": "web_questions", "input": "where is mitsubishi headquarters?", "output": "Tokyo", "options": []}
+{"task": "web_questions", "input": "who is chris cooley married to?", "output": "Christy Oglevee Cooley", "options": []}
+{"task": "web_questions", "input": "what are all the inventions benjamin franklin made?", "output": "Lightning rod", "options": []}
+{"task": "web_questions", "input": "who plays miley cyrus brother?", "output": "Guitarist", "options": []}
+{"task": "web_questions", "input": "what happened to nelson mandela after he was released from jail?", "output": "President of South Africa", "options": []}
+{"task": "web_questions", "input": "where do the chicago cubs play?", "output": "Wrigley Field", "options": []}
+{"task": "web_questions", "input": "what language do they speak in indonesia?", "output": "Javanese Language", "options": []}
+{"task": "web_questions", "input": "where was dwight howard born?", "output": "Atlanta", "options": []}
+{"task": "web_questions", "input": "what type of government system does saudi arabia have?", "output": "Absolute monarchy", "options": []}
+{"task": "web_questions", "input": "what to do in perth scotland?", "output": "Perth Concert Hall", "options": []}
+{"task": "web_questions", "input": "where did lauren conrad live?", "output": "San Francisco", "options": []}
+{"task": "web_questions", "input": "what is venus named for?", "output": "Planet", "options": []}
+{"task": "web_questions", "input": "who was dr seuss?", "output": "Theodor Robert Geisel", "options": []}
+{"task": "web_questions", "input": "who is the prime minister of ethiopia?", "output": "Hailemariam Desalegn", "options": []}
+{"task": "web_questions", "input": "what did susan atkins die of?", "output": "Brain tumor", "options": []}
+{"task": "web_questions", "input": "where is the best place to vacation in the dominican republic?", "output": "Santo Domingo", "options": []}
+{"task": "web_questions", "input": "who all was richard burton married to?", "output": "Elizabeth Taylor", "options": []}
+{"task": "web_questions", "input": "what team did joe hart play for before man city?", "output": "Shrewsbury Town F.C.", "options": []}
+{"task": "web_questions", "input": "what year michael jordan came in the nba?", "output": "1984 NBA Draft", "options": []}
+{"task": "web_questions", "input": "what language is mainly spoken in england?", "output": "English Language", "options": []}
+{"task": "web_questions", "input": "what is the main language spoken in italy?", "output": "Italian Language", "options": []}
+{"task": "web_questions", "input": "what role did tom cruise play in endless love?", "output": "Billy", "options": []}
+{"task": "web_questions", "input": "in which continent is russia?", "output": "Eurasia", "options": []}
+{"task": "web_questions", "input": "where was lance armstrong born and in what year?", "output": "9/18/1971", "options": []}
+{"task": "web_questions", "input": "what religion is sammy davis jr?", "output": "Judaism", "options": []}
+{"task": "web_questions", "input": "where did giovanni da verrazano come from?", "output": "Italy", "options": []}
+{"task": "web_questions", "input": "what currency do the ukraine use?", "output": "Ukrainian hryvnia", "options": []}
+{"task": "web_questions", "input": "what is john steinbeck best known for?", "output": "Of Mice and Men", "options": []}
+{"task": "web_questions", "input": "who has been married to julia roberts?", "output": "Daniel Moder", "options": []}
+{"task": "web_questions", "input": "what book did w.e.b. dubois wrote?", "output": "Writings", "options": []}
+{"task": "web_questions", "input": "what time zone is maryville tn?", "output": "North American Eastern Time Zone", "options": []}
+{"task": "web_questions", "input": "who is the political leader of japan?", "output": "Shinz\u014d Abe", "options": []}
+{"task": "web_questions", "input": "what team does kareem abdul jabbar play for?", "output": "Milwaukee Bucks", "options": []}
+{"task": "web_questions", "input": "who played heath barkley?", "output": "Lee Majors", "options": []}
+{"task": "web_questions", "input": "where is the capital of canada on the map?", "output": "Ottawa", "options": []}
+{"task": "web_questions", "input": "what albert einstein do for math?", "output": "Mathematician", "options": []}
+{"task": "web_questions", "input": "what are west african countries?", "output": "Ghana", "options": []}
+{"task": "web_questions", "input": "where did dolly parton grew up?", "output": "Sevierville", "options": []}
+{"task": "web_questions", "input": "who played wesley crusher on star trek the next generation?", "output": "Wil Wheaton", "options": []}
+{"task": "web_questions", "input": "who played sean in scrubs?", "output": "Michael Jackson: 30th Anniversary Special", "options": []}
+{"task": "web_questions", "input": "who is neil patrick harris dating?", "output": "David Burtka", "options": []}
+{"task": "web_questions", "input": "where did pixie lott go to school?", "output": "Italia Conti Academy of Theatre Arts", "options": []}
+{"task": "web_questions", "input": "what is benedict arnold famous for?", "output": "Traitor", "options": []}
+{"task": "web_questions", "input": "what is vito corleone real name?", "output": "Marlon Brando", "options": []}
+{"task": "web_questions", "input": "what other cars does gm make?", "output": "Hummer", "options": []}
+{"task": "web_questions", "input": "who plays saruman in lord of the rings?", "output": "Christopher Lee", "options": []}
+{"task": "web_questions", "input": "what countries does germany share borders with?", "output": "Netherlands", "options": []}

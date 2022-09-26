@@ -1,0 +1,8 @@
+{"task": "tweet_eval-emotion", "input": "I love my black people..... I really really do. But .... my people really do irritate the living hell outta me all cause I'm different. \ud83d\ude11", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user #CharlotteProtest do u #wait 4 the facts #video or do u #hate now ask questions later  #protest #PoliceShootings #suggestions", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user looking forward to div 2 next year @user  #leictershireaway #therey", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user how can you even forget to pick ur fave child up from school", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Panpiper playing Big River outside The Bridges in SR1 #outrage", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Queen Bey will be smiling over sixth this afternoon", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "LVG bribed all the refs against Utd for his own personal revenge. That was a foul you prick.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "_Her mind is a #dark room, Developing #Madness  \u2668\ud83d\ude18", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}

@@ -1,0 +1,8 @@
+{"task": "quartz-no_knowledge", "input": "Mike dove higher and higher out of the ocean trench. As he goes higher, the pressure exerted on him by the water", "output": "decreases", "options": ["increases", "decreases"]}
+{"task": "quartz-no_knowledge", "input": "If Jim stop exercising his muscles, would the strength of them", "output": "decrease", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "A population of squirrels in a local forest had less food available to them this spring than they did last spring. During which spring will more squirrels leave the area to live somewhere else?", "output": "this spring", "options": ["this spring", "last spring"]}
+{"task": "quartz-no_knowledge", "input": "If Mona is running a race and her chest expands, what happens to the amount of air pressure in her lungs?", "output": "decreases", "options": ["increases", "decreases"]}
+{"task": "quartz-no_knowledge", "input": "Compared to the Sun, which is an average star, would CFBDSIR 1458, the coldest star, be", "output": "dimmer than the Sun?", "options": ["brighter than the Sun", "dimmer than the Sun?"]}
+{"task": "quartz-no_knowledge", "input": "If Mona lives in a country that doesn't get a lot of rain and it rains extra hard one day, what does that do to the water table?", "output": "increases", "options": ["increases", "decreases"]}
+{"task": "quartz-no_knowledge", "input": "Eric underwent surgery to decrease the size of his larynx. His voice is now", "output": "higher", "options": ["higher", "deeper"]}
+{"task": "quartz-no_knowledge", "input": "If Jim lowers carbon dioxide to the ocean, the level of acidity in the ocean becomes", "output": "smaller", "options": ["greater", "smaller"]}

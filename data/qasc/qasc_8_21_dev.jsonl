@@ -1,0 +1,8 @@
+{"task": "qasc", "input": "What kind of animal doesn't have a centralized nervous system?", "output": "starfish", "options": ["dog", "mammals", "cows", "bird", "human", "elephants", "starfish", "a fish"]}
+{"task": "qasc", "input": "What often requires bees?", "output": "Plant reproduction", "options": ["food and shelter", "Play dates", "important habitats", "genetic diversity", "Plant reproduction", "timers", "gene flow", "Wasp study"]}
+{"task": "qasc", "input": "What do tunicates need to reproduce?", "output": "gametes", "options": ["food", "home", "wealth", "gametes", "Energy", "money", "oxygen", "Energy."]}
+{"task": "qasc", "input": "What can form when water vapor cools?", "output": "Clouds", "options": ["Chimneys", "Evaporation", "chemicals", "streams", "Wind", "Organic nutrients", "Clouds", "mildew"]}
+{"task": "qasc", "input": "With a change in temperature, what does a solid become?", "output": "liquid", "options": ["an object", "liquid", "moves", "a new compound", "support", "solid phase", "glass", "crystallized"]}
+{"task": "qasc", "input": "What does electricity help humans do?", "output": "Live in cold climates", "options": ["increases a body's strength", "Time travel", "Remember things", "magic", "lowered energy cost", "Relieve pain", "move to different locations", "Live in cold climates"]}
+{"task": "qasc", "input": "what does not accept heat very well?", "output": "air", "options": ["corn", "air", "coal", "fats", "oil", "rust", "Man", "mold"]}
+{"task": "qasc", "input": "Cells are programmed to _  only a set number of times.", "output": "reproduce", "options": ["migrate", "expand", "A computer", "Most plants", "allow growth", "reproduce", "contract", "constrict"]}

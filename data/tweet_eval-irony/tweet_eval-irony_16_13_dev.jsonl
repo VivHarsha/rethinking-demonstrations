@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "@user Can't wait to play the #BFHardline Beta with you XD #Epic", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "dayumm!! chtis brown is ma maaayuun!!\ud83d\ude02\ud83d\ude02\ud83d\ude02", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "2 1/2 hour nap then up for a ct scan at the hospital. perfect timing.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ok watching how hurt parents are when their kids decide to elope definitely makes me change my mind about it. Small cozy wedding it is", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Some #tblightning action along the boards at @user in #Tampa #fuji #x30 #boltssocial #bethethunder", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "J Cole has a song about being a Virgin and then not being a virgin. #musicalgenius #innovation", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love putting Flobeam mechs back together.||", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The Champions League is overrated anyway!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thank god she doesn't get me to do this anymore!!! ellielippitt #barber  #hairdresser #blondie...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Chasing my dog though the house  fun", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh look, we're having another storm in Sydney.  How unusual.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Merry Christmas love Instagram \ud83d\ude02 #gifts  #spam", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fun fact: I have a color guard rifle named Stitch after I got stitches from it plus Stitch is my fav!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Time to free ourselves of the Tyranny of the USA and lean towards more tolerant societies, like those of Russia and China.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ".@tomorrowstand Yup. That's exactly how we do it", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user no , not anymore. \ud83d\ude23", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

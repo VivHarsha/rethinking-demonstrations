@@ -1,0 +1,16 @@
+{"task": "sms_spam", "input": "I plane to give on this month end.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Save money on wedding lingerie at www.bridal.petticoatdreams.co.uk Choose from a superb selection with national delivery. Brought to you by WeddingFriend", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Finally it has happened..! Aftr decades..! BEER is now cheaper than PETROL! The goverment expects us to \"DRINK\". . . But don't \"DRIVE \"", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Yes.he have good crickiting mind", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I feel like a dick because I keep sleeping through your texts and facebook messages. Sup, you in town?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Your bill at 3 is \u00a333.65 so thats not bad!", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Cos i was out shopping wif darren jus now n i called him 2 ask wat present he wan lor. Then he started guessing who i was wif n he finally guessed darren lor.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I wish! I don't think its gonna snow that much. But it will be more than those flurries we usually get that melt before they hit the ground. Eek! We haven't had snow since &lt;#&gt; before I was even born!", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Dear Hero,i am leaving to qatar tonite for an apt opportunity.pls do keep in touch at  &lt;EMAIL&gt; ,kerala", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Howz that persons story", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Yo you guys ever figure out how much we need for alcohol? Jay and I are trying to figure out how much we can safely spend on weed", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Ya that one is slow as poo", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "More people are dogging in your area now. Call 09090204448 and join like minded guys. Why not arrange 1 yourself. There's 1 this evening. A\u00a31.50 minAPN LS278BB", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Never blame a day in ur life. Good days give u happiness. Bad days give u experience. Both are essential in life! All are Gods blessings! good morning.:", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "You have an important customer service announcement. Call FREEPHONE 0800 542 0825 now!", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Tessy..pls do me a favor. Pls convey my birthday wishes to Nimya..pls dnt forget it. Today is her birthday Shijas", "output": "ham", "options": ["ham", "spam"]}

@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "Do nothing for #God , Do everything for humans. #freethinker #LoveWins #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "For no one can lay any foundation other than the one that has been laid, that foundation is #Christ. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I'm not reading that mother fucking book because a human wrote it! #religiousfreedom #Humanslie #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "The Son of God became man so that we might become God. ~Athanasius #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "#God has a wonderful way of turning negatives into positives. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Proud of how many multi colour profile pictures I have been seeing on social media over past 3 days. Awesome view:) #LGBTRights #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "It's been a really, really bad week for bigots. #LGBT #Equality #Nondiscrimination #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "You'd think, after 2,000 years, I would have found at least one person I'd want to tell some things to. But nope.   ~#God   #SemST", "output": "against", "options": ["against", "favor", "none"]}

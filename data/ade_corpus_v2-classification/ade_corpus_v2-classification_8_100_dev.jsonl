@@ -1,0 +1,8 @@
+{"task": "ade_corpus_v2-classification", "input": "Potential viral etiologies should therefore be considered in cancer patients with pneumonia receiving non-transplantation chemotherapy-regimens, particularly if steroids are a component of their therapy.", "output": "Not Related", "options": ["Not Related", "Related"]}
+{"task": "ade_corpus_v2-classification", "input": "This was later confirmed by the patient.", "output": "Not Related", "options": ["Not Related", "Related"]}
+{"task": "ade_corpus_v2-classification", "input": "To the best of our knowledge there have been no previous reports of AGEP induced by the ingestion of nimesulide in the medical literature.", "output": "Not Related", "options": ["Not Related", "Related"]}
+{"task": "ade_corpus_v2-classification", "input": "We believe this is the first report of myocardial infarction due to coronary spasm, demonstrated by angiography associated with L-thyroxine therapy.", "output": "Related", "options": ["Not Related", "Related"]}
+{"task": "ade_corpus_v2-classification", "input": "Both were treated successfully with oral potassium.", "output": "Not Related", "options": ["Not Related", "Related"]}
+{"task": "ade_corpus_v2-classification", "input": "Photo-onycholysis caused by olanzapine and aripiprazole.", "output": "Related", "options": ["Not Related", "Related"]}
+{"task": "ade_corpus_v2-classification", "input": "The high-intra-articular fluid pressures can force the pyogenic fluid into a pre-existing Baker's cyst.", "output": "Not Related", "options": ["Not Related", "Related"]}
+{"task": "ade_corpus_v2-classification", "input": "This technique has the advantage of being simple, economical and nonallergic.", "output": "Not Related", "options": ["Not Related", "Related"]}

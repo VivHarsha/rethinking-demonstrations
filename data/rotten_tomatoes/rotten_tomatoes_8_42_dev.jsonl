@@ -1,0 +1,8 @@
+{"task": "rotten_tomatoes", "input": "i'm sure there's a teenage boy out there somewhere who's dying for this kind of entertainment .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "traffics in the kind of prechewed racial clich\u00e9s that have already been through the corporate stand-up-comedy mill .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the film's tone and pacing are off almost from the get-go .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "as a kind of colorful , dramatized pbs program , frida gets the job done . but , for that , why not watch a documentary ?", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "polished , well-structured film .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "meyjes focuses too much on max when he should be filling the screen with this tortured , dull artist and monster-in-the- making .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the film's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency . it's just filler .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "its salient points are simultaneously buried , drowned and smothered in the excesses of writer-director roger avary .", "output": "negative", "options": ["negative", "positive"]}

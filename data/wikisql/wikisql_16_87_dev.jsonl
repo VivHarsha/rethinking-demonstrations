@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "What was the maximum finish position of the car whose constructor was Joe Gibbs Racing, driven by Denny Hamlin?", "output": "SELECT MAX Pos FROM table WHERE Constructor = Joe Gibbs Racing AND Driver = Denny Hamlin", "options": []}
+{"task": "wikisql", "input": "What term did Stewart Mcarthur from Vic serve in office?", "output": "SELECT Term in office FROM table WHERE State = vic AND Member = stewart mcarthur", "options": []}
+{"task": "wikisql", "input": "What is the Nationality with an Elector with bertrand de saint-martin?", "output": "SELECT Nationality FROM table WHERE Elector = bertrand de saint-martin", "options": []}
+{"task": "wikisql", "input": "On what date was the score 2\u20134?", "output": "SELECT Date FROM table WHERE Score = 2\u20134", "options": []}
+{"task": "wikisql", "input": "What was the highest season with Barwa International Campos Team as champion?", "output": "SELECT MAX Season FROM table WHERE Team Champion = barwa international campos team", "options": []}
+{"task": "wikisql", "input": "What province has the Chinese translation \u91cd\u5e86?", "output": "SELECT COUNT Province FROM table WHERE Chinese = \u91cd\u5e86", "options": []}
+{"task": "wikisql", "input": "Which date featured the Boston Patriots as the opponent?", "output": "SELECT Date FROM table WHERE Opponent = boston patriots", "options": []}
+{"task": "wikisql", "input": "How many locations does Elon University have?", "output": "SELECT COUNT Location FROM table WHERE Institution = Elon University", "options": []}
+{"task": "wikisql", "input": "Who is the candidate in the 2008 (2) election?", "output": "SELECT Candidate FROM table WHERE Election = 2008 (2)", "options": []}
+{"task": "wikisql", "input": "What position did the player have who was from the college of california?", "output": "SELECT Position FROM table WHERE College = california", "options": []}
+{"task": "wikisql", "input": "What is teh Nuskhuri symbol for \u2d0b in Asomtavruli?", "output": "SELECT Nuskhuri FROM table WHERE Asomtavruli = \u2d0b", "options": []}
+{"task": "wikisql", "input": "High points earned by Josh Howard (19) resulted in how many high rebounds?", "output": "SELECT COUNT High rebounds FROM table WHERE High points = Josh Howard (19)", "options": []}
+{"task": "wikisql", "input": "What is the Final Four with a win percentage of .750?", "output": "SELECT Final Four FROM table WHERE Win % = .750", "options": []}
+{"task": "wikisql", "input": "What is the fa cup apps with 0 league cup goals, and a total of 43 apps?", "output": "SELECT FA Cup Apps FROM table WHERE League Cup Goals = 0 AND Total Apps = 43", "options": []}
+{"task": "wikisql", "input": "What is the total urban population of the city with the pinyin translation ch\u00e1ngch\u016bn?", "output": "SELECT COUNT Urban Population (2010) FROM table WHERE Pinyin = Ch\u00e1ngch\u016bn", "options": []}
+{"task": "wikisql", "input": "What was the outcome for the India Open?", "output": "SELECT Outcome FROM table WHERE Venue = india open", "options": []}

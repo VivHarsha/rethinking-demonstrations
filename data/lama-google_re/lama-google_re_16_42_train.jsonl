@@ -1,0 +1,16 @@
+{"task": "lama-google_re", "input": "Fred E. Stewart died in [MASK] .", "output": "Oakland", "options": []}
+{"task": "lama-google_re", "input": "Francis Johnson died in [MASK] .", "output": "Amsterdam", "options": []}
+{"task": "lama-google_re", "input": "Frederick Hickford was born in [MASK] .", "output": "Brunswick", "options": []}
+{"task": "lama-google_re", "input": "Thomas Harrison Hair (born [MASK]).", "output": "1810", "options": []}
+{"task": "lama-google_re", "input": "Eve Adler died in [MASK] .", "output": "Russia", "options": []}
+{"task": "lama-google_re", "input": "Mohan Chopra (born [MASK]).", "output": "1921", "options": []}
+{"task": "lama-google_re", "input": "John Chorlton was born in [MASK] .", "output": "Salford", "options": []}
+{"task": "lama-google_re", "input": "Joe Long was born in [MASK] .", "output": "Elizabeth", "options": []}
+{"task": "lama-google_re", "input": "Andrew Lemoncello was born in [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-google_re", "input": "Emmanuel Schelstrate was born in [MASK] .", "output": "Antwerp", "options": []}
+{"task": "lama-google_re", "input": "Bob Owens (born [MASK]).", "output": "1935", "options": []}
+{"task": "lama-google_re", "input": "Georges Hanna Sabbagh was born in [MASK] .", "output": "Alexandria", "options": []}
+{"task": "lama-google_re", "input": "Dmitry Grigorieff was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Tsotne Bakuria was born in [MASK] .", "output": "Tbilisi", "options": []}
+{"task": "lama-google_re", "input": "Ariel Reboyras (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "Henry Bidleman Bascom died in [MASK] .", "output": "Louisville", "options": []}

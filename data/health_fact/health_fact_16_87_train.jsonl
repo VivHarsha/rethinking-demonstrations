@@ -1,0 +1,16 @@
+{"task": "health_fact", "input": "Doctors, and insurers too, urge patients to get medicine on hand.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Reports have gone viral that Chipotle is closing because of an E. coli contamination linked to its use of dog and cat meat.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Canadian immigrants with \"\"two wives\"\" receive a host of government benefits upon their their arrival.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Why You Should Get the New Shingles Vaccine", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Study links finger length to prostate cancer risk", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "In September 2019, U.S. President Donald Trump signed into law a bill that provides $1.8 billion in funding for autism research and services.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "For women with history of pregnancy loss, walking may aid chance of becoming pregnant", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Chinese Herbs Equal to Tamiflu in Reducing H1N1 Fever: Study", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "FDA says generic Wellbutrin OK despite reports.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Massachusetts confirms year\u2019s first case of measles.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"A Navy officer was arrested for \"\"abuse of public animal\"\" and \"\"drunken or reckless driving\"\" after he used a raccoon to bypass an ignition interlock system.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Chocolate lovers have fewer strokes, study finds", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Farmers are injecting fruits and vegetables with the human hormone oxytocin to enhance their growth and appearance.", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "The pilot of missing Malaysia Airlines Flight 370 reappeared in Taiwan two years after the plane disappeared.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"In June 2018, Ivanka Trump adopted the alias \"\"Adrienne Vittadini\"\" to market her fashion line to unwitting buyers.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Documents: $6 million to Armstrong family in wrongful death.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}

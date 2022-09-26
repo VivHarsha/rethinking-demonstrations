@@ -1,0 +1,8 @@
+{"task": "tweet_eval-sentiment", "input": "The back page of the Star on Sunday have Atletico Madrid sniffing around a Chelsea goalie. After Thibaut Courtois...", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Amused by the 2nd hand commentary on the Apple keynote this morning. #techthings #wheretheladies", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "SUNDAY ANNOUNCEMENTS FROM THE YOUTHS  1.youths want to thank Elder Opit and experts from USAID for the wonderful...", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"Really has to start watching the Sharknado movies now. They'e already on 3 and announcing a 4th movie, and I have yet to see even 1 /o\\\"", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "@user you ain\\u2019t gone do shit tomorrow we gone see chicken shit", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"Seavey youngest Iditarod champion: Dallas Seavey won the Iditarod Trail Sled Dog Race Tuesday, becoming the youn...", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "@user @user @user @user @user @user FYI Suzanne was my 1st choice 2 b my biographer but GOD made it", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "The stream is so long!!! I wanna go to sleep but... I want a IPod. 2nd hardest decision in my life.", "output": "positive", "options": ["negative", "neutral", "positive"]}

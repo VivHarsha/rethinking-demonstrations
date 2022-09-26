@@ -1,0 +1,16 @@
+{"task": "sms_spam", "input": "Happy new year. Hope you are having a good semester", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Arms fine, how's Cardiff and uni?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "What's ur pin?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Filthy stories and GIRLS waiting for your", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "As usual u can call me ard 10 smth.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "How was txting and driving", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Hey leave it. not a big deal:-) take care.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Party's at my place at usf, no charge (but if you can contribute in any way it is greatly appreciated) and yeah, we got room for one more", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I'm in town now so i'll jus take mrt down later.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Nite nite pocay wocay luv u more than n e thing 4eva I promise ring u 2morrowxxxx", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Al he does is moan at me if n e thin goes wrong its my fault&al de arguments r my fault&fed up of him of himso y bother? Hav 2go, thanx.xx", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "There bold 2  &lt;#&gt; . Is that yours", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Hello handsome ! Are you finding that job ? Not being lazy ? Working towards getting back that net for mummy ? Where's my boytoy now ? Does he miss me ?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Yup", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Yo, you at jp and hungry like a mofo?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "You have won a guaranteed 32000 award or maybe even \u00a31000 cash to claim ur award call free on 0800 ..... (18+). Its a legitimat efreefone number wat do u think???", "output": "spam", "options": ["ham", "spam"]}

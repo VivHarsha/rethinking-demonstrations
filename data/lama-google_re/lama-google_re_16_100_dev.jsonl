@@ -1,0 +1,16 @@
+{"task": "lama-google_re", "input": "Michael Randle was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Jamie Moses was born in [MASK] .", "output": "Ipswich", "options": []}
+{"task": "lama-google_re", "input": "Theophilus de Garenci\u00e8res was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "David Mitchel died in [MASK] .", "output": "Aberdeen", "options": []}
+{"task": "lama-google_re", "input": "Jennifer Ness was born in [MASK] .", "output": "Cheshire", "options": []}
+{"task": "lama-google_re", "input": "Jan Anton\u00edn Duchoslav was born in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Chris Gregory (born [MASK]).", "output": "1963", "options": []}
+{"task": "lama-google_re", "input": "Pa Neum\u00fcller was born in [MASK] .", "output": "Stockholm", "options": []}
+{"task": "lama-google_re", "input": "Barbara Strass was born in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Noushig Eloyan (born [MASK]).", "output": "1976", "options": []}
+{"task": "lama-google_re", "input": "Alexander Thomson died in [MASK] .", "output": "Geelong", "options": []}
+{"task": "lama-google_re", "input": "Lydia Boucher died in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Adolphe Cohn was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Alfons Mart\u00ed Bau\u00e7\u00e0 was born in [MASK] .", "output": "Palma", "options": []}
+{"task": "lama-google_re", "input": "Samuel Forde was born in [MASK] .", "output": "Cork", "options": []}
+{"task": "lama-google_re", "input": "Giuseppe de Majo was born in [MASK] .", "output": "Naples", "options": []}

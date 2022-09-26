@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "Frederic Bayco was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Gary Callander was born in [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-google_re", "input": "Giorgio Mangiamele (born [MASK]).", "output": "1926", "options": []}
+{"task": "lama-google_re", "input": "Muhamet Hamiti (born [MASK]).", "output": "1964", "options": []}
+{"task": "lama-google_re", "input": "Stephen Luttrell was born in [MASK] .", "output": "Leicester", "options": []}
+{"task": "lama-google_re", "input": "Edward Linde (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Harry Philbrick was born in [MASK] .", "output": "Providence", "options": []}
+{"task": "lama-google_re", "input": "Thomas Scott was born in [MASK] .", "output": "Pennsylvania", "options": []}

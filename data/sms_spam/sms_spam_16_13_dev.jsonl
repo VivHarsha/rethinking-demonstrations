@@ -1,0 +1,16 @@
+{"task": "sms_spam", "input": "Am okay. Will soon be over. All the best", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Why nothing. Ok anyway give me treat", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Guessin you ain't gonna be here before 9?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Dear relieved of westonzoyland, all going to plan this end too!", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Have your lunch and come quickly and open the door:)", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "She.s good. She was wondering if you wont say hi but she.s smiling now. So how are you coping with the long distance", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Aight will do, thanks again for comin out", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "K..k..i'm also fine:)when will you complete the course?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Enjoy ur life. . Good night", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "If you still havent collected the dough pls let me know so i can go to the place i sent it to get the control number", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I realise you are a busy guy and i'm trying not to be a bother. I have to get some exams outta the way and then try the cars. Do have a gr8 day", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Are you going to write ccna exam this week??", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Just seeing your missed call my dear brother. Do have a gr8 day.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "FREE>Ringtone! Reply REAL or POLY eg REAL1 1. PushButton 2. DontCha 3. BabyGoodbye 4. GoldDigger 5. WeBeBurnin 1st tone FREE and 6 more when u join for \u00a33/wk", "output": "spam", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Finished class where are you.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Sary just need Tim in the bollox &it hurt him a lot so he tol me!", "output": "ham", "options": ["ham", "spam"]}

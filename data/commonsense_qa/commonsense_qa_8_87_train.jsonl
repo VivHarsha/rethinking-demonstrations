@@ -1,0 +1,8 @@
+{"task": "commonsense_qa", "input": "Laddie owned a dentist office.  It was the only dentist office in the area.  Where might Laddie live?", "output": "town", "options": ["dental office", "town", "main street", "patient", "office building"]}
+{"task": "commonsense_qa", "input": "What can you use to plan your route when driving to the pacific ocean?", "output": "atlas", "options": ["drawings", "san francisco bay", "atlas", "west", "southern hemisphere"]}
+{"task": "commonsense_qa", "input": "After I urinate what should I do before I eat?", "output": "wash hands", "options": ["eat", "wash legs", "wash hands", "zip pants", "flush toilet"]}
+{"task": "commonsense_qa", "input": "The poet was being analyzed by younger people, where was this happening?", "output": "classroom", "options": ["book store", "university", "home", "classroom", "speakeasy"]}
+{"task": "commonsense_qa", "input": "Everyone is ordinary but we are often told we are what?", "output": "special", "options": ["unbelievable", "strange", "special", "ugly", "exceptional"]}
+{"task": "commonsense_qa", "input": "If you wanted to cross this, you might want a canoe.  What is this?", "output": "water", "options": ["mountain stream", "lake", "boat house", "campground", "water"]}
+{"task": "commonsense_qa", "input": "A good musician has a keen ear, they pick up much more than the normal person when they what?", "output": "hear sounds", "options": ["play violin", "hear sounds", "ocean", "blow trumpet", "stage"]}
+{"task": "commonsense_qa", "input": "Water is used as a mirror when designing a what?", "output": "reflecting pool", "options": ["pool", "reflecting pool", "fish tank", "ocean", "sewage treatment plant"]}

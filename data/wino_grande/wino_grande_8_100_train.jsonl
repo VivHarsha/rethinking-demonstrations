@@ -1,0 +1,8 @@
+{"task": "wino_grande", "input": "Craig volunteered to help the dyslexic students at the school while Joel avoided them, since _ struggled with reading.", "output": "Joel", "options": ["Craig", "Joel"]}
+{"task": "wino_grande", "input": "Betty projects much more happiness than Amy, _ because/although she smiles a lot more often.", "output": "Betty", "options": ["Betty", "Amy"]}
+{"task": "wino_grande", "input": "Kevin confidently told Jason that his engraving business was going to make him rich.  _ was skeptical.", "output": "Jason", "options": ["Kevin", "Jason"]}
+{"task": "wino_grande", "input": "Logan has less time to get ready in the morning than Jeffrey because _ has a toddler.", "output": "Logan", "options": ["Logan", "Jeffrey"]}
+{"task": "wino_grande", "input": "Derrick eats an apple for snack everyday while Adam eats chips, as _ loves bbq chips.", "output": "Adam", "options": ["Derrick", "Adam"]}
+{"task": "wino_grande", "input": "At the airport, Randy boarded a plane to Alaska while Ian fly to Hawaii because _ preferred a warmer climate.", "output": "Ian", "options": ["Randy", "Ian"]}
+{"task": "wino_grande", "input": "Elena's hair was brittle so Natalie suggested a hot oil treatment. _ was anxious to try it out.", "output": "Elena", "options": ["Elena", "Natalie"]}
+{"task": "wino_grande", "input": "Tabatha wanted to be a medical doctor and got the right books but left out the materials because the _ were expensive.", "output": "materials", "options": ["books", "materials"]}

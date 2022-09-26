@@ -1,0 +1,16 @@
+{"task": "tweet_eval-stance_climate", "input": "Scary stat of the day: 7% of the area of urban greenspace in England has been lost since 2001 @user #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Need to separate natural disasters from man made disasters, emphasise polluter pays,and need for loss and damage. #TuvaluPM  #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The best call still and will always be Matt in Cleveland. #KirstieAllie #ValKilmer #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "At what point do we rename summer \"The Rainy Season\"? #Cdnpoli #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "After the Millennials come the Apocalypticals. Thanks, breeders. #overpopulation #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "BREAKING: This just in, an ocean wave just broke an inch further on the beach than normal! #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Yo if you live in the United States right now, and do not believe in Global Climate Change, you're a fucking idiot. #fact #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user - feel! I'll bin this one & upload a newer mix in a few days see which version you like better, re's D #peace #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user I'll bomb anything I can get my hands on, especially if THEY aren't christian. #graham2016 #GOP #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user Weather patterns evolving very differently over the last few years..  #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The ruling by @user is a major setback for @user & the environment.  #dirtycoal #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user RT @user #ClimateFact India may stand to lose 1.8% of its annual GDP by 2050 due to #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "I love this Pope. I don't care what religion you are, this guy is awesome. #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#MainauDeclaration2015 watch out guys.. This is HUGE!! #LindauNobel #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#MainauDeclaration2015.....lets push the Agenga worldwide without any fear #climatejustice2015 #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#Technology is a sign of how far we have come! The #ideology of #capitalism is a sign of how far we have to go! #Methodology #SemST", "output": "none", "options": ["against", "favor", "none"]}

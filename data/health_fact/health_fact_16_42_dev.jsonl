@@ -1,0 +1,16 @@
+{"task": "health_fact", "input": "\"Judging by a recent vote, Rep. Debbie Wasserman Schultz \"\"thinks it's okay for medical marijuana patients to go to federal prison.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Short stint of Herceptin holds promise for breast cancer", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "New California laws help animals, fire victims, immigrants.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "GSK's two-drug HIV Dovato treatment meets main goal in study.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"A person can \"\"survive\"\" living on a diet of nothing but potatoes and butter.\"", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"A company hired to do Common Core testing in Florida will \"\"attract every one of your children to become as homosexual as they possibly can.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Vaccine shows protection against gonorrhea for first time, study says", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "New Product Is First to Claim It May Reduce Peanut Allergies", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Close-up of U.S. President Donald Trump's coronavirus prepared remarks show he crossed out \"\"corona\"\" in \"\"coronavirus,\"\" writing \"\"Chinese\"\" in its place.\"", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Treatment may quiet noisy mind", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Official: 1 death linked to Legionnaires\u2019 disease in Atlanta.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Anti-inflammatory diet could reduce risk of bone loss in women", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "DNC speaker Khizr Khan, father of fallen Army Capt. Humayun Khan, is a Muslim Brotherhood operative.", "output": "unproven", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Doctors urge baseline test for prostate cancer", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "People from black and minority ethnic populations are most affected by detentions under the Mental Health Act.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Lap Band Surgery Benefits Very Obese Adolescents", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}

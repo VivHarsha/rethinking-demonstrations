@@ -1,0 +1,8 @@
+{"task": "emo", "input": "hahah i loved it yay glad you loved it x3 grinningfacewithsweat you always make us happy", "output": "happy", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "say something about you dear you know yes", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "see the thing is i love a girl but i am afraid to confess that to her go ahead you feel good and are matured enough to manage relationships ga but the thing is she doesnt even wants to talk with me", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "what is there for lunch coffee coffee and more coffee fuck off fuck off and more fuck off", "output": "angry", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "who are they i'm in whats up nothing up only down", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "my one main friend backstabbed me a few weeks ago awesome what house did you get in excuse i just told you a sad story and your gonna say awesome wtf is wrong with you", "output": "angry", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "do u know cooking  ofcourse bro i simply love cooking smilingfacesmilingfacewithsmilingeyesthumbsupsmilingfacewithhearteyes nice", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "yup i know shall we meet up  may be  facewithtearsofjoyfacewithtearsofjoyfacewithtearsofjoy", "output": "others", "options": ["angry", "happy", "others", "sad"]}

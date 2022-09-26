@@ -1,0 +1,8 @@
+{"task": "tweet_eval-irony", "input": "A great day is one in which it's pouring rain and you walk out of your apartment without your car or apartment keys.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user wish I was there. maybe next year. I'll be the one with the mad socks. no clothes. just socks.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Think i almost just died, or burned my face off! #hategasbbqs", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh how I missed middle school drama :~)", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user @user @user - Dutch+Northern theres combo  not speaking yr mind", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just love EU servers....", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "you are the one LYING @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Nice to see @user taking the time to visit a poorly fan (in hospital Phil Jones)   #Alwaysinjured #MUFC", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}

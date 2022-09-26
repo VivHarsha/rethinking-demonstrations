@@ -1,0 +1,16 @@
+{"task": "superglue-wic", "input": "word: write [SEP] sentence 1: Please write to me every week. [SEP] sentence 2: Your son has been writing on the wall.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: fire [SEP] sentence 1: Hold your fire until you can see the whites of their eyes. [SEP] sentence 2: Barbecue over an open fire.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: make [SEP] sentence 1: Make a mess in one's office. [SEP] sentence 2: She'll make a fine president.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: place [SEP] sentence 1: He comes from a place near Chicago. [SEP] sentence 2: He lost his place on the page.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: anger [SEP] sentence 1: You anger too easily. [SEP] sentence 2: He angers easily.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: yes [SEP] sentence 1: I was hoping for a yes. [SEP] sentence 2: Was that a yes?", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: property [SEP] sentence 1: Charm is his most endearing property. [SEP] sentence 2: A study of the physical properties of atomic particles.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: block [SEP] sentence 1: Block a nerve. [SEP] sentence 2: Block a garment.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: buy [SEP] sentence 1: I'm going to buy my father something nice for his birthday. [SEP] sentence 2: This sum will buy you a ride on the train.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: see [SEP] sentence 1: I want to see whether she speaks French. [SEP] sentence 2: I went to see my friend Mary the other day.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: eyeball [SEP] sentence 1: A good cook can often just eyeball the correct quantities of ingredients. [SEP] sentence 2: Each geometric construction must be exact; eyeballing it and getting close does not count.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: pull [SEP] sentence 1: Pull a horse. [SEP] sentence 2: Pull weeds.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: pull [SEP] sentence 1: Pull a horse. [SEP] sentence 2: You'll be sent home if you pull another stunt like that.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: day [SEP] sentence 1: He deserves his day in court. [SEP] sentence 2: In the days of sailing ships.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: pack [SEP] sentence 1: You had better pack your swollen ankle with ice. [SEP] sentence 2: Pack the faucet.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: rotation [SEP] sentence 1: The manager had only four starting pitchers in his rotation. [SEP] sentence 2: Crop rotation makes a balanced demand on the fertility of the soil.", "output": "true", "options": ["false", "true"]}

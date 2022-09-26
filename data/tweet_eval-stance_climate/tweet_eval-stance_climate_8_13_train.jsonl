@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "@user #innovation of super converter on fishing boat w/ no more use of fossil fuel is looking for funding scheme in #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user my lawn is burnt two days after rain #yeg #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "If like me you felt voiceless then listen to @user #libdemfightback fighting for the #HumanRightsAct #AffordableHousing #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user Time to change the Government! #fracking #C02 #methane #pollution #cancer #health #earthquake #water #leaks #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user He Is psychic 2  Huh #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Delivering good jobs for Albertans, maintaining a stable economy & meeting climate change strategy. Good goals. #abpoli #GHG #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Pupils in P5-7 from Lincluden Primary are participating in Carbon Busters Project 2015-2016! #LearningForSustainability #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "If you say climate change is a myth, you may want to become a fantasy author since you already live in an alternate reality. #SemST", "output": "favor", "options": ["against", "favor", "none"]}

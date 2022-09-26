@@ -1,0 +1,8 @@
+{"task": "kilt_trex", "input": "Euphorbia denisiana [SEP] parent taxon", "output": "Euphorbia", "options": []}
+{"task": "kilt_trex", "input": "Al Marawi'ah District [SEP] country", "output": "Yemen", "options": []}
+{"task": "kilt_trex", "input": "Love & Life [SEP] genre", "output": "rhythm and blues", "options": []}
+{"task": "kilt_trex", "input": "REC 2 [SEP] original language of film or TV show", "output": "Spanish", "options": []}
+{"task": "kilt_trex", "input": "Bobgunnia [SEP] parent taxon", "output": "Fabaceae", "options": []}
+{"task": "kilt_trex", "input": "Rodolfo Alicante [SEP] sport", "output": "association football", "options": []}
+{"task": "kilt_trex", "input": "George Nostrand [SEP] country of citizenship", "output": "United States of America", "options": []}
+{"task": "kilt_trex", "input": "Glen and Les Charles [SEP] notable work", "output": "Cheers", "options": []}

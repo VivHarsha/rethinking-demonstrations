@@ -1,0 +1,8 @@
+{"task": "hate_speech_offensive", "input": "@ZELNO96 one sick bitch", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@MorganSmith_20 he's a little bitch in general , fug Seattle", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "All you ofay got left is da Oscars. Better Enjoy dat before us colored folk get dat too!", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "Not 1 bit of courtesy from any of these bainbridge isl. ferry riders... Fuck em next time I think s gonna \"break down\" paybacks a bitch", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "\"Two roads diverged in a yellow wood, and I chose the one to J&#246;tunheimr\" - Robert Frost Giant", "output": "neither", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "Geeked out my mine I think this bitch done stole a 50", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @thiizz_: &amp; fuck these bitches", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "So tired but mom is making me stay up until she is finished drinking another beer. She better chug that shit", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}

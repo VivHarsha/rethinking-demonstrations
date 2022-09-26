@@ -1,0 +1,8 @@
+{"task": "emo", "input": "you picture you sent one to my phone you sent one to my phone", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "it's boring without you is not boring on a date no not on date", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "to the cry loudlycryingface loudlycryingface not a good day old days", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "thanks beamingfacewithsmilingeyesbeamingfacewithsmilingeyesbeamingfacewithsmilingeyesbeamingfacewithsmilingeyes welcome dear smilingfacewithsmilingeyes i'm a really good magician", "output": "happy", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "really  hmph yes i just didn't bother to find out before how can you call me without having my number", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "wtf that is said regularly this is sad", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "so u know cr7 nope i did not know ohh", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "r i p means nope not at all  p r i p means", "output": "others", "options": ["angry", "happy", "others", "sad"]}

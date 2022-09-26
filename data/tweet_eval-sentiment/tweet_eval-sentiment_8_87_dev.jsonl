@@ -1,0 +1,8 @@
+{"task": "tweet_eval-sentiment", "input": "\"half off apps doesn't quite measure up to B12 and Calle mon, but it'll do. @user @user @user @user", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Impressed with Siri. Asked to set an alarm for tomorrow at 8 AM. She clarified whether tomorrow meant today since just after midnight.", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"Bruni: \"\"If you sort through the rabble, you find John Kasich.\"\"", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Anyone want to see Demi Lovato tomorrow night at Mohegan Sun with me?", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Wasn't there an International Women's day on the 8th of March too?", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"LMAO i read \"\"cultural evolution is Lamarckian\"\" and was like o shit what's that dude's name again? and the 1st thing i thought was Kendrick\"", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "That Taylor Swift 'Bad Blood' may be the worst quality/budget music video I've ever watched", "output": "negative", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "RT @user want to wish legendary broadcaster lloyd robertson a great final newscast tonight.  the man is a total class act.  #ctv  #l ...", "output": "positive", "options": ["negative", "neutral", "positive"]}

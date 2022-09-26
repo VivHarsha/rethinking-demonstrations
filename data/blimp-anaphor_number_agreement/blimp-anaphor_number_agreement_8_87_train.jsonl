@@ -1,0 +1,8 @@
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Ruth wasn't discussing themselves. [SEP] sentence 2: Ruth wasn't discussing herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Some museum distracted themselves. [SEP] sentence 2: Some museum distracted itself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: These organizations stunned themselves. [SEP] sentence 2: These organizations stunned himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Liam hadn't astounded himself. [SEP] sentence 2: Liam hadn't astounded themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Teresa has scared herself. [SEP] sentence 2: Teresa has scared themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Joseph hasn't disturbed himself. [SEP] sentence 2: Joseph hasn't disturbed themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Edward had distracted himself. [SEP] sentence 2: Edward had distracted themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Amanda had fired herself. [SEP] sentence 2: Amanda had fired themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}

@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_abortion", "input": "@user As much as they try the notion of ts the 21st century its killing a lot..... #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "So ready for my abortion debate  #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Another SCOTUS decision I do not agree with. It's time to do away with the death penalty all together. #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Please pray for mercy for #AndrewChan & #MyuranSukumaran #IStandForMercy #KeepHopeAlive #Bali9 #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user -there should be a \"stigma\" to butchering pre-born children - its a horrendous crime against humanity.  #murder", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Your body belongs to you. It doesn't belong to the church, the state or an embryo. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Is there a gas that increases self-mutilation (tattoos, piercing, drugging, over-eating, & suicide) & violence? #waleg #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user every time @user pops up I think its you posting. #dyslexic #oneinthesame  #SemST", "output": "none", "options": ["against", "favor", "none"]}

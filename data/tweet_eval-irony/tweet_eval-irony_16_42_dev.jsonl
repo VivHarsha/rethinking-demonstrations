@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "@user then I completely suck as a sub! Haha!  going!!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "2 and half hour walk #Proud", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "And here we gooooo.....LOL #calledit #bandwagon #Houseisafeeling #EDUCATE yourself kids", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "All hell is breaking loose... Ahhhh everybody freak out", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Love how I can never fall asleep  #insomnia", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user but it wasn't as bad as that picture seemed to indicate.  You're still a very horrible person.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sony Studio Bosses To Employees: Don't Worry, We'll Be Fine I know I'd feel better.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ": When the vapours that are emitted by cleansing solvents are emitted by contaminating chemicals. #Cleansing=#Contaminating #Vapour", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user so helpful", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ".@ShawnaTova Computing, the Internet, personal computers & smart phones were all invented by that \"pond scum\"  @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I can't stop laughing at this. The fact that they specialize in \"Viral Marketing\" is especially amusing. ...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#hannity says \"Obama has been indoctrinated into a rigid ideology.\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Sky News says \"he died\" like as if he dropped dead in hospital lol - real honest reporting", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Work Christmas Eve and Christmas Day.. Can't wait!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My fingers smell like lavashak :)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Canny wait to get my new phone, sneaks and clothes on thursday #payday #would #be #rude  #too", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

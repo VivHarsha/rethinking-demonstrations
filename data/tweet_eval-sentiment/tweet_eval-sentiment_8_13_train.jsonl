@@ -1,0 +1,8 @@
+{"task": "tweet_eval-sentiment", "input": "Hey everyone go vote so the POPE vs Woodstock game can be shown live on TV on Friday!", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Being on the phone to @user live from the Foo Fighters gig is livening my Saturday night right up!", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "\"Papa you need a hat\" thus said one of Federer's twin girls.......congrats again for winning Cinci for the 7th time @user", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Saw an iPod nano 5th(?) Gen 16GB one at the cash converter's place", "output": "neutral", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Who wants to go with me tomorrow night to go see @user at the Roxy theater? tickets are cheep. Thanks and please please please!", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Since we're doing nothing in 6th hour I'm just gonna watch Netflix :-)", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Vh1 is going to kill friday after next", "output": "positive", "options": ["negative", "neutral", "positive"]}
+{"task": "tweet_eval-sentiment", "input": "Step 1: Put media-loving Petraeus in a job where he can't talk (much). Step 2: Absolutely crush him in 1st available controversy. Slick.", "output": "negative", "options": ["negative", "neutral", "positive"]}

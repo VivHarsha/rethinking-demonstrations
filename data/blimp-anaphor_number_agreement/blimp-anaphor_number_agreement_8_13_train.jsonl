@@ -1,0 +1,8 @@
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Rebecca shouldn't worry herself. [SEP] sentence 2: Rebecca shouldn't worry themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Most stories disagreed with themselves. [SEP] sentence 2: Most stories disagreed with himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Becca shouldn't impress herself. [SEP] sentence 2: Becca shouldn't impress themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Most ladies weren't arguing about herself. [SEP] sentence 2: Most ladies weren't arguing about themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Marla irritated herself. [SEP] sentence 2: Marla irritated themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: The Clintons shouldn't conceal himself. [SEP] sentence 2: The Clintons shouldn't conceal themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Most guys might stun itself. [SEP] sentence 2: Most guys might stun themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Sarah wasn't approaching themselves. [SEP] sentence 2: Sarah wasn't approaching herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}

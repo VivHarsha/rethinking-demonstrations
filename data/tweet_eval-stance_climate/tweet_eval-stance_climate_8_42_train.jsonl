@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "@user @user Funny how you all of a sudden refer to him as a weatherman now  #climatechange...weather. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user #GOPClownCar a shame #gop considers \"HRC emails\" more disconcerting than #jobs #infrastructure #education #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user @user Yea Yea Yea Yea #Smackoff #ValKilmer #SeeingWonder #BumSmack #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Seriously, how many times can #Republicans be wrong? #ACA #LGBTRights #GovernmentShutdown #AutoBailout #StimulusSpending #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Drought effects spreading in western NorAm and BC Gov't will destroy prime farmland to enable more #LNG #SiteC #bcpoli #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "We need to work with confidence, transparence and guided by consensus @user at @user event on #action2015 #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user 700 people dead in Pakistan due to heatwave. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "loud ass thunder and three seconds of rain here #thanksobama #SemST", "output": "favor", "options": ["against", "favor", "none"]}

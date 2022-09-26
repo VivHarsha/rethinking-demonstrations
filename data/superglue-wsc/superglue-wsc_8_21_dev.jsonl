@@ -1,0 +1,8 @@
+{"task": "superglue-wsc", "input": "text: John was doing research in the library when he heard a man humming and whistling. He was very annoyed. [SEP] span1_textJohn [SEP] span2_text: He", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: The city councilmen refused the demonstrators a permit because they advocated violence. [SEP] span1_textthe demonstrators [SEP] span2_text: they", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: There is a pillar between me and the stage , and I can't see around it . [SEP] span1_textthe stage [SEP] span2_text: it", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: John ordered Bill to leave, so an hour later he left. [SEP] span1_textJohn [SEP] span2_text: he", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Although they ran at about the same speed, Sue beat Sally because she had such a bad start. [SEP] span1_textSally [SEP] span2_text: she", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Of one thing Mark was sure. Harry knew much less than he did. [SEP] span1_textMark [SEP] span2_text: he", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Joe paid the detective after he received the final report on the case. [SEP] span1_textthe detective [SEP] span2_text: he", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: The cat was lying by the mouse hole waiting for the mouse , but it was too cautious. [SEP] span1_textThe cat [SEP] span2_text: it", "output": "false", "options": ["false", "true"]}

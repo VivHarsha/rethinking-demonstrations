@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "Brazil has the eighth largest economy both by GDP and by nominal GDP.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "January 6th, 1767 was the starting date of when Pennsylvania Chronicle is operating.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Umbrella was launched through Def Jam Recordings.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Kirk Douglas is an acting professional in the film industry.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Quartet was filmed in 2011.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Syria includes Syrian Arabs, Greeks, Armenians, Assyrians, Kurds, Circassians,  Mandeans, and Turks.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Lee Majors was named Harvey Lee Yeary in 2000.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Miyu Irino voices the character Sora.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

@@ -1,0 +1,16 @@
+{"task": "tweet_eval-irony", "input": "is the name of the game.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#All #Cute #Dude #Girlygirl #I039m #Into #Is |Please RT:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user You do look a die hard fan of his", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Let's go CAVS!!! #cleveland #cavs #cavaliers #nba @ Quicken Loans Arena", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "What wonderful weather we are having...I might need sunscreen today \ud83d\ude0e  \udbb8\udf41", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#MuslimApologies \u2013 10 Tweets that Explain What Muslims Should be Sorry for!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Here comes the universe. #TMLtalk #Leafs", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Pre work shenanigans lmbo alissamarie_b #letswork  #kiddingnotkidding #funtimes #sheseriouslyrocks", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user More clean OR cleaner, never more cleaner", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Caffeine free coffee? Yeah, I'll have that next time I have a slice of sugar-free cheesecake...  :P", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Love it when you can see people have read you facebook private message but they just don't reply", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm pretty sure I have a snowman problem.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The silence in #TimesSquare for #EricGarner last night is only broken by #NYPD siren. , watch on ifussss app.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user LOL aye you're a funny fecker-;)  |And anytime Ironside, you fancy a wee race just let me know!!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I adapted the Snoopy comic for academic paper submission :P Reviewer 2 is the stuff of nightmares!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Blowing your nose so hard your ears pop is the greatest way to start a Wednesday.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}

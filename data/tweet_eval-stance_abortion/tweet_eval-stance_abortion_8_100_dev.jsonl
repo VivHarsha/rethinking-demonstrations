@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_abortion", "input": "It's not #yourbody, so it's not your #choice.youthgen #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "I wonder if America will like focus on real issues now #starvingchildren #abuse #nationaldebt #terrorism #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Please pray for mercy for #AndrewChan & #MyuranSukumaran #IStandForMercy #KeepHopeAlive #Bali9 #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "I watched #AfterTiller and it gave me a whole new perspective on a woman's right to choose. #womensRights", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "It's time to end the #deathpenalty in the United States. #wholelife #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Spent the WHOLE day on my highlight film from my Israel trip...I'll post the link and Instagram the link to it  #ballislife #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user And I explained that they are in the keep your baby business, as they helped me get Medicaid and WIC. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Don't see the big deal about all this #SemST", "output": "against", "options": ["against", "favor", "none"]}

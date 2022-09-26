@@ -1,0 +1,8 @@
+{"task": "freebase_qa", "input": "Who rode Kris Kin to success in the Epsom Derby in 2003?", "output": "kieren fallon", "options": []}
+{"task": "freebase_qa", "input": "Miranda is a moon that orbits which planet?", "output": "uranus", "options": []}
+{"task": "freebase_qa", "input": "Which of these if the correct name for the singer who released Lonely No More in 2005?", "output": "rob thomas", "options": []}
+{"task": "freebase_qa", "input": "Which US city is the home of the 'Liberty Bell'?", "output": "philadelphia", "options": []}
+{"task": "freebase_qa", "input": "Which American composer wrote the music for the songs Stardust and Georgia on my Mind?", "output": "hoagy carmichael", "options": []}
+{"task": "freebase_qa", "input": "Which film featured the hit song I've had the time of my life?", "output": "dirty dancing", "options": []}
+{"task": "freebase_qa", "input": "In which 1956, film musical did Gordon MacRae sing about the attributes of My Boy Bill?", "output": "carousel", "options": []}
+{"task": "freebase_qa", "input": "What is the name of the good witch in The Wizard of Oz?", "output": "glinda the good witch", "options": []}

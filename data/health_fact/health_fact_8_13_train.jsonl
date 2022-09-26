@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "UK doctor jailed for 15 years over unnecessary breast surgery.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Arizona is only state where tribes avoid Medicaid work rules.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"President Trump nominated Giorgio A. Tsoukalos, best known for his appearances on the television series \"\"Ancient Aliens,\"\" to lead the Space Force.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "A growing number of states call porn a public health crisis.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "New York City Council mulls adding e-cigarettes to smoking ban.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "College cafeteria food is laced with laxatives.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "The Buffalo protester pushed to the ground \u201chad been previously arrested 300 times. 82 times for incitement. Riots is what he does for a living.\u201d", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Eclipse thrills on remote Arctic islands, clouds mar for some.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}

@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: with outtakes in which most of the characters forget their lines and just utter ` uhhh , ' which is better than most of the writing in the movie", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: enigma is well-made", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is ) so stoked to make an important film about human infidelity and happenstance that he tosses a kitchen sink onto a story already overladen with plot conceits .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the closest thing to the experience of space travel", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: lose their luster", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: reopens an interesting controversy and", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: competent , unpretentious entertainment", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: an effective portrait of a life in stasis", "output": "positive", "options": ["negative", "positive"]}

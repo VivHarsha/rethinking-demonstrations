@@ -1,0 +1,16 @@
+{"task": "tweet_eval-stance_climate", "input": "Isn't CO2 impact on warming logarithmic, and at current levels, 390 ppm, incremental impact negligible? #NDP #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Second heatwave hits NA NW popping up everywhere, and floods too, record wildfires in canada, what a mess,  time up! #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": ".@BlissTabitha I'm sure this Eco-Friendly Pope will remember to Turn-Off-the-Lights on his way out #LastPope  #PopeForPlanet  #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user the real question is do you feel safe driving a Prius through Harrison?  #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Pope Francis really makin the rounds  #PopeFrancis #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "I am thinking of turning the central heating off. :) #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user Timelines are short. Strategy must be in place by climate change conference in Paris by December. #ableg #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "I'm blowing AC with the top off, in the middle of the night, in Oregon.. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Working with artists & culture is key to weave through the efforts we're doing #grassroots #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Considering moving yo Antarctica as thats the only way I could possibly become more #chill #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Why is nothing being done about  #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user One of the most brilliant BS stories created by man to subjugate others:  #LeftistLiesIsBS #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user @user  The Snow is melting? #TCOT #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Eating a cow is 9x worse than eating a chicken in terms of CO2 emissions. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "We could do something...the question is will we says @user #sustainability #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Seriously, how many times can #Republicans be wrong? #ACA #LGBTRights #GovernmentShutdown #AutoBailout #StimulusSpending #SemST", "output": "none", "options": ["against", "favor", "none"]}

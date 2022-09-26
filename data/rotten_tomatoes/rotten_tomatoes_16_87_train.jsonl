@@ -1,0 +1,16 @@
+{"task": "rotten_tomatoes", "input": "an honest , sensitive story from a vietnamese point of view .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "we root for [clara and paul] , even like them , though perhaps it's an emotion closer to pity .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "this is a harrowing movie about how parents know where all the buttons are , and how to push them .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "[russell] makes good b movies ( the mask , the blob ) , and the scorpion king more than ably meets those standards .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "now here's a sadistic bike flick that would have made vittorio de sica proud .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "[broomfield] uncovers a story powerful enough to leave the screen sizzling with intrigue .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j . k . rowling's books .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "how do you spell clich\u00e9 ?", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "aloof and lacks any real raw emotion , which is fatal for a film that relies on personal relationships .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "a stunning piece of visual poetry that will , hopefully , be remembered as one of the most important stories to be told in australia's film history .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "sunshine state surveys the landscape and assesses the issues with a clear passion for sociology . but the cinematography is cloudy , the picture making becalmed .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "what a pity . . . that the material is so second-rate .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "smart , provocative and blisteringly funny .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "auto focus is not your standard hollywood bio-pic . schrader aims to present an unflinching look at one man's downfall , brought about by his lack of self-awareness .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "russell lacks the visual panache , the comic touch , and perhaps the budget of sommers's title-bout features .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the talents of the actors helps \" moonlight mile \" rise above its heart-on-its-sleeve writing .", "output": "positive", "options": ["negative", "positive"]}

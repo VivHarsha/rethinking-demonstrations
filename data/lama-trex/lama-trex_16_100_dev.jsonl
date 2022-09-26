@@ -1,0 +1,16 @@
+{"task": "lama-trex", "input": "Italy maintains diplomatic relations with [MASK] .", "output": "Netherlands", "options": []}
+{"task": "lama-trex", "input": "Chicago Midway International Airport is named after [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-trex", "input": "The original language of Gia is [MASK] .", "output": "English", "options": []}
+{"task": "lama-trex", "input": "The official language of Thailand is [MASK] .", "output": "Thai", "options": []}
+{"task": "lama-trex", "input": "United States of America maintains diplomatic relations with [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-trex", "input": "Australia maintains diplomatic relations with [MASK] .", "output": "Netherlands", "options": []}
+{"task": "lama-trex", "input": "Argentina maintains diplomatic relations with [MASK] .", "output": "Brazil", "options": []}
+{"task": "lama-trex", "input": "The capital of Thailand is [MASK] .", "output": "Bangkok", "options": []}
+{"task": "lama-trex", "input": "Quebec is located in [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-trex", "input": "Switzerland shares border with [MASK] .", "output": "Austria", "options": []}
+{"task": "lama-trex", "input": "Kent shares border with [MASK] .", "output": "Surrey", "options": []}
+{"task": "lama-trex", "input": "Bandar Seri Begawan is the capital of [MASK] .", "output": "Brunei", "options": []}
+{"task": "lama-trex", "input": "The official language of Catalonia is [MASK] .", "output": "Catalan", "options": []}
+{"task": "lama-trex", "input": "Bolivia shares border with [MASK] .", "output": "Peru", "options": []}
+{"task": "lama-trex", "input": "United States of America shares border with [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-trex", "input": "The headquarter of University of Bordeaux 1 is in [MASK] .", "output": "Bordeaux", "options": []}

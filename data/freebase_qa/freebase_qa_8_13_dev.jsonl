@@ -1,0 +1,8 @@
+{"task": "freebase_qa", "input": "After the city of Valencia, which tourist resort on the Costa Blanca is the next largest city in the Spanish autonomous region of Valencia?", "output": "alicante", "options": []}
+{"task": "freebase_qa", "input": "Who narrated the classic US TV series 'The Untouchables'?", "output": "walter winchell", "options": []}
+{"task": "freebase_qa", "input": "Which former Conservative PM died in 2005?", "output": "edward heath", "options": []}
+{"task": "freebase_qa", "input": "To which song did the guys finally strip in The Full Monty?", "output": "you can leave your hat on", "options": []}
+{"task": "freebase_qa", "input": "After twelve men met in his bedroom in 1844, what was founded by Sir George Williams?", "output": "ymca", "options": []}
+{"task": "freebase_qa", "input": "Pearson Airport lies in which city?", "output": "toronto", "options": []}
+{"task": "freebase_qa", "input": "Which Welsh born writer won the Nobel Prize for Literature in 1950?", "output": "bertrand russell", "options": []}
+{"task": "freebase_qa", "input": "Who wrote the opera Wozzeck in 1922?", "output": "alban berg", "options": []}

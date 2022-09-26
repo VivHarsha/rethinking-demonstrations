@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name something you might see at a bus stop.", "output": "people", "options": []}
+{"task": "proto_qa", "input": "what are some non-living thing that you might see flying in the sky?", "output": "airplane", "options": []}
+{"task": "proto_qa", "input": "who was the most influential person of the 20th century?", "output": "john f kennedy", "options": []}
+{"task": "proto_qa", "input": "name something you eat by the handful. (be specific candy is not an answer.)", "output": "popcorn", "options": []}
+{"task": "proto_qa", "input": "what topic would you see in a women's magazine that's never in a men's magazine?", "output": "make up", "options": []}
+{"task": "proto_qa", "input": "name something youd be shocked to see falling from the sky", "output": "plane", "options": []}
+{"task": "proto_qa", "input": "tell me the age when a kid gets braces.", "output": "twelve", "options": []}
+{"task": "proto_qa", "input": "name a kind of place that is easier to get into than to get out of.", "output": "jail", "options": []}
+{"task": "proto_qa", "input": "name something a woman might suggest her husband do to improve his appearance", "output": "shave", "options": []}
+{"task": "proto_qa", "input": "what do people say at halloween that would be inappropriate to hear at christmas?", "output": "trick or treat", "options": []}
+{"task": "proto_qa", "input": "name something you'd hate for your car to bump into in a parking lot.", "output": "another car", "options": []}
+{"task": "proto_qa", "input": "name a food that often gets burned", "output": "toast", "options": []}
+{"task": "proto_qa", "input": "tell me something a kid might try to hide from their parents.", "output": "report card", "options": []}
+{"task": "proto_qa", "input": "name something every student knows how to cook.", "output": "eggs", "options": []}
+{"task": "proto_qa", "input": "name something some people do by hand, while others use a machine.", "output": "sew", "options": []}
+{"task": "proto_qa", "input": "tell me something you might do to avoid a bill collector.", "output": "do not answer phone", "options": []}

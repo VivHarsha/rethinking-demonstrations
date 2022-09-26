@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name a place where it's always sunny.", "output": "california", "options": []}
+{"task": "proto_qa", "input": "name a famous hotel in las vegas.", "output": "caesar's palace", "options": []}
+{"task": "proto_qa", "input": "name a hair color that isnt natural", "output": "green", "options": []}
+{"task": "proto_qa", "input": "name a professional who you hate to call because the bill is to expensive?", "output": "plumber", "options": []}
+{"task": "proto_qa", "input": "name something a kid might do that would get them kicked out of a public swimming pool", "output": "urinating", "options": []}
+{"task": "proto_qa", "input": "name a public place you might hear someone snoring.", "output": "bus/bus station", "options": []}
+{"task": "proto_qa", "input": "name a number you might lie to your date about.", "output": "age", "options": []}
+{"task": "proto_qa", "input": "name something a woman throws out the window when she finds out her boyfriend has cheated on her.", "output": "his clothes", "options": []}
+{"task": "proto_qa", "input": "name something it would be rude not to do when being introduced to a stranger", "output": "shake hands", "options": []}
+{"task": "proto_qa", "input": "name a city where you'd hate the long commute to work.", "output": "new york city", "options": []}
+{"task": "proto_qa", "input": "name something people sometimes bang on when it's not working.", "output": "tv/remote", "options": []}
+{"task": "proto_qa", "input": "name something a short person might have difficulty doing with a tall person.", "output": "dancing", "options": []}
+{"task": "proto_qa", "input": "we surveyed 100 men...name something specific no one can do as well as your mother could.", "output": "cook", "options": []}
+{"task": "proto_qa", "input": "name an inventor kids learn about in school.", "output": "thomas edison", "options": []}
+{"task": "proto_qa", "input": "name a food people often eat with champagne", "output": "strawberries", "options": []}
+{"task": "proto_qa", "input": "name something on a baby that might be described as \"chubby\".", "output": "cheeks", "options": []}

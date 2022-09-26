@@ -1,0 +1,8 @@
+{"task": "tweet_eval-offensive", "input": "@user She is sexy without even trying.", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user @user @user @user @user @user @user @user @user They lie about firearms. They call the AR-15 a fully semi-automatic assault rifle.\"\" They push gun control.  They say Donald Trump is racist and hates Mexicans.  They say he colluded with Russia.  So yes, they lie\"\"", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user Odd how conservatives keep getting exposed of being child fuckers.   Thats why they're against abortion. More victims", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user It'd thank you more if you accepted sunblock when your wife offers it :p", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user She is so despicable!", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user @user Actually he is a soy boy.", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user @user @user I can't watch CNN anymore because the conservative pundits they have on are just partisan hacks.  I get CNN wants balance\"\" but the conservatives that defend the indefensible are too much.\"\"", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user He needed his brains on the sidewalk", "output": "non-offensive", "options": ["hate", "non-offensive"]}

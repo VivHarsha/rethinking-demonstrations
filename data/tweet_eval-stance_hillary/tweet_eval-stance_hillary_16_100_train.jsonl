@@ -1,0 +1,16 @@
+{"task": "tweet_eval-stance_hillary", "input": "I bet Leslie Knope would be so happy about #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user I'm not a Genitalian #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user Especially the paid union lackies who have no idea why their there. Propaganda machine spinning overtime. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user > With continued #Obama's & @user Admin policymaking, #USA will become #Greece! #WakeUpAmerica #NJ #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user I want the first female to be competent. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "I want to go back in time to when men and women couldn't appear in the same yearbook as each other #old school #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user how many men are getting their dicks sucked daily in congress, etc and no one gives a shit... #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user will not let our enemies take advantage of us like Obama is doing & Hillary will do! @user #NewAmericanCentury #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Was asked by @user to help with her campaign. Gladly (excitedly) accepted! #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Cruz-- Perry 2016 @user @user It's the only win-win choice #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user Of course @user is silent. That insures she doesn't have 2 stand 4 ANYTHING & less chance of offending voters #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user was that \"awkwardness\" or \"awfulness\"? I think the latter #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "RT @user Democrats are Red, Obama is a Communist, I'm a true Patriot, So stop Hillary.  #tcot #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "EVERYDAY AMERICANS AND THEIR FAMILIES NEED A CHAMPION AND HILLARY WILL BE THAT CHAMPION.   #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user #Stephens begged for his life & @user @user is begging for ur vote #NotAChanceInHell #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Night, sleep tight, don't let Hillary bite. says @user   \"Nightmares\" is all I say.  #SemST", "output": "against", "options": ["against", "favor", "none"]}

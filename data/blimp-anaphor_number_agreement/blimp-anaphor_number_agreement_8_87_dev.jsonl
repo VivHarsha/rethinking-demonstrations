@@ -1,0 +1,8 @@
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Customers don't respect himself. [SEP] sentence 2: Customers don't respect themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Adults hadn't hidden herself. [SEP] sentence 2: Adults hadn't hidden themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Diana had listened to herself. [SEP] sentence 2: Diana had listened to themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Boys reference himself. [SEP] sentence 2: Boys reference themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: David is questioning himself. [SEP] sentence 2: David is questioning themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Stacey was discovering themselves. [SEP] sentence 2: Stacey was discovering herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Regina was upsetting themselves. [SEP] sentence 2: Regina was upsetting herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Tracy hadn't described themselves. [SEP] sentence 2: Tracy hadn't described herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}

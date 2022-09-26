@@ -1,0 +1,8 @@
+{"task": "tweet_eval-emotion", "input": "I have a job interview with @user in Loughborough next month !!!", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Manchester United v Manchester City #happy days #EFL", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "im on holiday for the next round, fuming!", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Can we get a shot of Lingys face at 1/4 time ? Pretty sure it would be more red then his hair #fuming #pretendinghesok #ruok #AFLCatsSwans", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Why mfs so bitter", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "im so mad about power rangers. im incensed. im furious.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "i hope this comes back to haunt you, then maybe you would know just how it felt to be like me at my lowest", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user fuming ain't the word", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}

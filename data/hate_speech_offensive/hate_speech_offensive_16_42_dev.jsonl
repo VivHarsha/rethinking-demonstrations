@@ -1,0 +1,16 @@
+{"task": "hate_speech_offensive", "input": "@donnyoraha pussy", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @ImLeslieChow: My entire school: \"You don't talk much.\" Me: \"Beause you're all cunts.\"", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@phishlicia I'm 5'8 fag &#128536;&#128536;", "output": "hate speech", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@kincade00 nigga Madison playing some bitch ass white boys that's going to Harvard on law scholarship play crazy", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@LaurenJauregui so your a dumb bitch?", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@TOBINSUPREME so trash", "output": "neither", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @juicygenie: Sheryl crow be my mom", "output": "neither", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @jerrilyn71: \"@HistoryGoon: and also.pussy!..if my shit offends u..get off twitter..block me..and go suck a cock...", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@burke113 @donthebear \"..the nig..\"? ok, you're the big time shit talker on twitter no name, no face, no info", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "Even Humming birds like the stuff http://t.co/W7OHSCbg3L", "output": "neither", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @whodatth0: &#8220;@AAAdontplayy: lmfao hicks https://t.co/kNa2U0D2o0&#8221;lmfao", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "&#8220;@WorldStarFunny: we don't love these hoes http://t.co/WeKdL09bq5&#8221; @Ilovebamf &#128076;", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "Anyone who came to the US as an indentured servant is white trash.", "output": "hate speech", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "Like bad kids bitch we reckless.", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@05proFESSOR I bet he's a Starbucks queer", "output": "hate speech", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@triple6em96 @Hunglikerobby_ @bbluedreamm I don't look like white trash. I'm not pregnant and 17 gtfo. I have hella gas so say something.", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}

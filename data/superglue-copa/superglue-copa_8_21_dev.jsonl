@@ -1,0 +1,8 @@
+{"task": "superglue-copa", "input": "Cause: I misplaced my wallet.", "output": "Effect: I retraced my steps.", "options": ["Effect: I retrieved my phone.", "Effect: I retraced my steps."]}
+{"task": "superglue-copa", "input": "Effect: The photo albums collected dust in the attic.", "output": "Cause: They remained untouched for years.", "options": ["Cause: They remained untouched for years.", "Cause: The family reminisced over the photos."]}
+{"task": "superglue-copa", "input": "Effect: The doctors amputated the patient's leg.", "output": "Cause: It was severely infected.", "options": ["Cause: It was badly bruised.", "Cause: It was severely infected."]}
+{"task": "superglue-copa", "input": "Effect: The driver got pulled over by the police.", "output": "Cause: He was speeding.", "options": ["Cause: He was parking.", "Cause: He was speeding."]}
+{"task": "superglue-copa", "input": "Effect: The parents forbade their children from watching the movie.", "output": "Cause: The movie was rated R.", "options": ["Cause: The movie was rated R.", "Cause: The movie was animated."]}
+{"task": "superglue-copa", "input": "Cause: The woman had an infection.", "output": "Effect: She took antibiotics.", "options": ["Effect: She took antibiotics.", "Effect: She washed her hands."]}
+{"task": "superglue-copa", "input": "Effect: I went to bed.", "output": "Cause: It was late.", "options": ["Cause: It was a clear night.", "Cause: It was late."]}
+{"task": "superglue-copa", "input": "Cause: The skunk sprayed the dog.", "output": "Effect: The dog emitted a foul smell.", "options": ["Effect: The dog emitted a foul smell.", "Effect: The skunk roamed the woods."]}

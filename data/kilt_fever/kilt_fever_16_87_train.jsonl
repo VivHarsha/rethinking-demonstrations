@@ -1,0 +1,16 @@
+{"task": "kilt_fever", "input": "Rowan Atkinson stars in Maigret.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Destiny was released exclusively for the Wii.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "There are no films that Sharon Tate has ever starred in.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Elsa Pataky is a film producer and actress.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Buzz Aldrin is an American who has worked as an engineer.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Gorgeous Ladies of Wrestling is a wrestling promotion.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Rob Lowe acted in movie roles.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Rose Kennedy died September 22, 1995.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Murder of Roger Ackroyd is first published in July 1926.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Angelina Jolie was in the 1999 film Girl, Interrupted.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The Fifth Element was primarily set in the 23rd millennium.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Anschluss is a phrasing.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "John Lennon was posthumously inducted into the Rock and Roll Hall of Fame.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Bruce Willis sings.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Inhumans is an upcoming television series.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "The United States Army participates in conflicts in Europe and Asia.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

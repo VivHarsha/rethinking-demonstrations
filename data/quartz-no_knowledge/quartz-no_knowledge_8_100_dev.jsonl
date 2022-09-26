@@ -1,0 +1,8 @@
+{"task": "quartz-no_knowledge", "input": "When there is more fluid in a tube the pressure in the tube", "output": "increases", "options": ["increases", "decreases"]}
+{"task": "quartz-no_knowledge", "input": "When we have a lot less greenhouse gases in the air what happens to the temperature?", "output": "stays the same", "options": ["increases", "stays the same"]}
+{"task": "quartz-no_knowledge", "input": "What happens to the size of a population if the number of predators for that population is decreased?", "output": "gets bigger", "options": ["gets bigger", "gets smaller"]}
+{"task": "quartz-no_knowledge", "input": "An decrease in birth rates indicates a/an _____ in the food supply.", "output": "decrease", "options": ["decrease", "increase"]}
+{"task": "quartz-no_knowledge", "input": "Ollie is a rocket scientist and was testing missiles when the government cut her budget. Less missile development will likely result in _____ rockets.", "output": "worse", "options": ["worse", "better"]}
+{"task": "quartz-no_knowledge", "input": "Mike wants the current strength to be weaker, so mike will do this with the number of resistors", "output": "decrease", "options": ["decrease", "increase"]}
+{"task": "quartz-no_knowledge", "input": "Sally has an electron. Sue has an electron that is closer to the nucleus. Whose electron has lower energy?", "output": "Sue", "options": ["Sally", "Sue"]}
+{"task": "quartz-no_knowledge", "input": "A piece of glass has _____ friction than a piece of sandpaper.", "output": "less", "options": ["more", "less"]}

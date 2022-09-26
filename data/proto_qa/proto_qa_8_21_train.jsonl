@@ -1,0 +1,8 @@
+{"task": "proto_qa", "input": "name something you need in order to make a garden.", "output": "seeds", "options": []}
+{"task": "proto_qa", "input": "name something people have to empty on a regular basis.", "output": "trash can/garbage", "options": []}
+{"task": "proto_qa", "input": "name something that gets frosted.", "output": "cake", "options": []}
+{"task": "proto_qa", "input": "name a kind of beam you wouldn't want to balance on.", "output": "light/sun beam", "options": []}
+{"task": "proto_qa", "input": "name an animal you might see at the zoo.", "output": "elephant", "options": []}
+{"task": "proto_qa", "input": "name a movie or tv show about gangsters", "output": "sapronas", "options": []}
+{"task": "proto_qa", "input": "name someone you might offer a ride to.", "output": "friends", "options": []}
+{"task": "proto_qa", "input": "name something about winnie the pooh that is different from real bears.", "output": "can talk", "options": []}

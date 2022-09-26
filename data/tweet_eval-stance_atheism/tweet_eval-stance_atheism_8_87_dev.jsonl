@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "True faith is belief in the reality of absolute values. ~ William Ralph Inge #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Evidence-based thought just works out better than superstition-based thought.   #freethinker #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Hand on my heart, this much is true, there's NO life apart from you. #LayMeDown #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I take of the water of life freely -Rev. 22:17 #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "atheism involves what a person does or does not believe, agnosticism involves what a person does or does not know.  #Waterford #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "@user everybody knows this, except #Presstitutes and #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "A win for health care, a win for love. It's been a good two days. #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "RT @user Thank you lord for such a beautiful Sunday :) truly blessed. #Blessed #church #me #jeremysumpter #Love #HAPPINES... #SemST", "output": "against", "options": ["against", "favor", "none"]}

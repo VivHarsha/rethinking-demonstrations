@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name something you wouldn't like to receive as a birthday gift.", "output": "clothes", "options": []}
+{"task": "proto_qa", "input": "name a subject at school you'd hate to find out a ten-year-old knows more about than you.", "output": "math", "options": []}
+{"task": "proto_qa", "input": "name something a young child takes with him when he runs away from home.", "output": "teddy bears", "options": []}
+{"task": "proto_qa", "input": "name something that a bank uses for security against crime:", "output": "cameras", "options": []}
+{"task": "proto_qa", "input": "name an occupation that has a lot of \"quacks\".", "output": "doctor", "options": []}
+{"task": "proto_qa", "input": "daytime or nighttime, who is the best-dressed talk show host?", "output": "oprah winfrey", "options": []}
+{"task": "proto_qa", "input": "name a reason why a man might not want his wife to have a girls night out", "output": "jealous", "options": []}
+{"task": "proto_qa", "input": "name a part of the average person's body that weighs 3 pounds.", "output": "brain", "options": []}
+{"task": "proto_qa", "input": "name the time of day a person is likely to take a nap", "output": "2pm", "options": []}
+{"task": "proto_qa", "input": "name a beverage that is served at a kid's birthday party.", "output": "kool aid", "options": []}
+{"task": "proto_qa", "input": "name an occupation whose members should get an immediate raise.", "output": "teaching", "options": []}
+{"task": "proto_qa", "input": "name something parents teach their kids in order to keep them safe.", "output": "stranger danger", "options": []}
+{"task": "proto_qa", "input": "name a person who might call you by a childhood nickname even after you've outgrown it.", "output": "parent", "options": []}
+{"task": "proto_qa", "input": "at what age would most men like to get married?", "output": "thirty", "options": []}
+{"task": "proto_qa", "input": "tell me a way in which your office is kind of like a \"soap opera.\"", "output": "gossip", "options": []}
+{"task": "proto_qa", "input": "name something you would need if you were crossing the desert.", "output": "water", "options": []}

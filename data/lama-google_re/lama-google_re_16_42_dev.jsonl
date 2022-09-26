@@ -1,0 +1,16 @@
+{"task": "lama-google_re", "input": "Wentworth Arthur Matthew was born in [MASK] .", "output": "Lagos", "options": []}
+{"task": "lama-google_re", "input": "Shah Abdul Hannan (born [MASK]).", "output": "1939", "options": []}
+{"task": "lama-google_re", "input": "Keren Leibovitch (born [MASK]).", "output": "1973", "options": []}
+{"task": "lama-google_re", "input": "Andr%C3%A9e Ruellan died in [MASK] .", "output": "Kingston", "options": []}
+{"task": "lama-google_re", "input": "Otto Spoerri died in [MASK] .", "output": "Switzerland", "options": []}
+{"task": "lama-google_re", "input": "L%C3%A9on Bottou (born [MASK]).", "output": "1965", "options": []}
+{"task": "lama-google_re", "input": "Darren Ockert was born in [MASK] .", "output": "Lincoln", "options": []}
+{"task": "lama-google_re", "input": "Romuald Giegiel was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "John S. Rumsfeld (born [MASK]).", "output": "1964", "options": []}
+{"task": "lama-google_re", "input": "Richard Taub (born [MASK]).", "output": "1937", "options": []}
+{"task": "lama-google_re", "input": "Robert Burns was born in [MASK] .", "output": "Hudson", "options": []}
+{"task": "lama-google_re", "input": "George Alexander Pearre was born in [MASK] .", "output": "Cumberland", "options": []}
+{"task": "lama-google_re", "input": "Valentin Vdovichenko (born [MASK]).", "output": "1928", "options": []}
+{"task": "lama-google_re", "input": "Regina Mar\u0161\u00edkov\u00e1 was born in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Francisco Alimama Kashu was born in [MASK] .", "output": "Hyderabad", "options": []}
+{"task": "lama-google_re", "input": "Robert K. Brown was born in [MASK] .", "output": "Monroe", "options": []}

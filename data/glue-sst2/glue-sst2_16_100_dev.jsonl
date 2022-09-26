@@ -1,0 +1,16 @@
+{"task": "glue-sst2", "input": "sentence: this new zealand coming-of-age movie is n't really about anything .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: appear avant-garde", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: smart and fun", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: that no wise men will be following after it", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: yawn-provoking", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: all in all , brown sugar is a satisfying well-made romantic comedy that 's both charming and well acted .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: seemingly a vehicle to showcase the canadian 's inane ramblings , stealing harvard is a smorgasbord of soliloquies about nothing delivered by the former mr. drew barrymore .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: endure instead of", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: be captivated , as i was , by its moods , and by its subtly transformed star , and still wonder why paul thomas anderson ever had the inclination to make the most sincere and artful movie in which adam sandler will probably ever appear", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: that gave people seizures", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: catastrophic collision", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a recommendation", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: with a sharp script and strong performances", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: dead-end existence", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: better characters , some genuine quirkiness and at least", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is that it 's a rock-solid little genre picture .", "output": "positive", "options": ["negative", "positive"]}

@@ -1,0 +1,8 @@
+{"task": "lama-conceptnet", "input": "A person wants [MASK].", "output": "excel", "options": []}
+{"task": "lama-conceptnet", "input": "To understand the event \"A ghost [MASK] the cat.\", it is important to know that Cats believe in ghosts.", "output": "scared", "options": []}
+{"task": "lama-conceptnet", "input": "Airplanes can [MASK].", "output": "accelerate", "options": []}
+{"task": "lama-conceptnet", "input": "Thanking someone requires [MASK].", "output": "empathy", "options": []}
+{"task": "lama-conceptnet", "input": "A john can pay a prostitute  to have [MASK] with him.", "output": "sex", "options": []}
+{"task": "lama-conceptnet", "input": "Picture description: man giving in to his lust as he extends to [MASK] a woman.", "output": "kiss", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is a loud noise made by lightning.", "output": "thunder", "options": []}
+{"task": "lama-conceptnet", "input": "You can use a cheque to [MASK] something.", "output": "buy", "options": []}

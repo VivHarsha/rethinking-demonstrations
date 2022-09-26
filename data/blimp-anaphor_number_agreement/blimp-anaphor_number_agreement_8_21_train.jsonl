@@ -1,0 +1,8 @@
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: April attacked themselves. [SEP] sentence 2: April attacked herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Carlos couldn't criticize themselves. [SEP] sentence 2: Carlos couldn't criticize himself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: The Impressionists haven't found himself. [SEP] sentence 2: The Impressionists haven't found themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Tamara hasn't kissed herself. [SEP] sentence 2: Tamara hasn't kissed themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Valerie wasn't embarrassing themselves. [SEP] sentence 2: Valerie wasn't embarrassing herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Many museums disturbed themselves. [SEP] sentence 2: Many museums disturbed himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: A lot of girls hadn't hidden himself. [SEP] sentence 2: A lot of girls hadn't hidden themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: The Lutherans disliked itself. [SEP] sentence 2: The Lutherans disliked themselves.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}

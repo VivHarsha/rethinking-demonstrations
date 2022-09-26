@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_abortion", "input": "In #scotus majority opinion, substitute abortion for capital punishment, and you have the opinion for the Texas clinic case. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "#ProLifeYouth have no chill, and we're dang proud of it. Human rights injustices should never be treated lightly. #prolifegen #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "We say God bless America but we kill 4,000 babies a year. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "If it isn't a #human life then why does @user have a problem with us?youth #itisahumanlife #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Patient advocate Stephen Casey of Texas Center for Defense of Life strongly supports #HB3074. #TXlege #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "One, we are pro life Two, a little bit louder Three, I still can't hear you  Four, more more moreYouth #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user @user Jesus says to trust him in ALL things not to put trust in men or the world. #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "I know what's best, for my health. You don't know anything about me.  #SemST", "output": "favor", "options": ["against", "favor", "none"]}

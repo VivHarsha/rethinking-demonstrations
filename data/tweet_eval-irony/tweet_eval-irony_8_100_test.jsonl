@@ -1,0 +1,955 @@
+{"task": "tweet_eval-irony", "input": "#NBA players #NY support protests of #police killings/sure #money donations for #college WB coming", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A new year about to start|So many people came so many went|But always wat's gone is better.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Obama's $1,176,120.90 in Taxpayer Funded Costs to Attend Political Fundraisers in Los Angeles, San Francisco", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Can't wait to work with the dream team again today!! #delilyfe  \ud83d\ude48", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "!!! RT @user Of all the places to get stuck in a traffic jam", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user THX4FLW! FLWtheMUSIC @user @user WE R #ElektrikBLOOM #ElektrikFANTASY #iwant2DRIFT #Elev8TheUnderground!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#40 #Corner #Cute #Day #Expensive #diy #crafts|Please RT:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#notcies #eu EU backs 328 top early-career researchers with 485 million", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I think it's a safe bet it won't fit the crime.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user oh haha no they ain't \ud83d\ude02\ud83d\ude02 you ain't even seen em", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Last day in #Riga! #self #finnishgirl #businesswoman  @ PK Riga Hotel", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "480 W crawling at 7:30 am. Great start to Thursday. #CLEtraffic #cleveland #traffic", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user patio tumbler goodness #Mac12days", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Workaholics: if you're sick, don't let that stop you from bringing your germs into the office. We all appreciate your commitment.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "They have  #been seen www.MonsterMMORPG. com since. gist by #MonsterMMORPG #darumaka", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "What else would you do on friday? |#TGIF  #8crap", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The rain has made extra extra lazy\ud83d\ude05", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "RT @user RumourIsImADad's accent...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user oh joy, now i get to have even more of them in my living room!  #putyourtoysaway #badboyfriend", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Flight diverted over boiling water incident", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i'm really stoked about going abroad in the fall. and well next week but that's for completely different reasons. #imissmyboyfriend", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user why would you do this... @user #superman  #childagain", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user Well done. You have more Twitter followers than me. You have succeeded in life", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "When you have Challah French Toast on Christmas", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "7:52am (too damn early) in South Carolina.. What a shitty state to  be proud of", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user the upper deck definitely seemed like Philly South.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Technically, we aint muzlamics until we believe in a guy lost in a cellar as our saviour. ||#TrueStoryFam", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Women do some crazy ass shit just to be with a guy and the least they can do for her is break her heart!| all but some.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Wasn't that full in the nosebleeds where I was sitting, but it was fun! Crowd reacting to JoePa is my fav memory.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Frisky at 2am? That's nothing new.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user When are you buggering off out of the country", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Gotta go back to work tonight", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I have no idea why Brad would be in the doghouse...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I guess we're getting timed on who we can spend time with.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ": When some police officers pursue \"daring\" villains the way abusers pursue frightened prey. #Police_officer=#Abuser #Villain=#Prey", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user hahaha such a 1% town", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thanks @user for nothing. All my family were flying with you from KL to attend my wedding. #everyonecanfly  #AdelaideRouteCancelled", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Easiest final of my life. So glad I studied 11 hours for it", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "is the game", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user When / how did the ACL tear happen?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Always forget how good the F.E.A.R is by Ian Brown \ud83c\udfa7 #singingoutloud #TUNE", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh, thank GOD - our entire office email system is down... the day of a big event. Santa, you know JUST what to get me for xmas.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I feel so blessed to get ocular migraines.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "One more reason not to shop at #Walmart. They make you feel you're not in America!  #shopping #Islam #tcot ~", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user I guess this is where he lost a couple of million to Lambias, is it?   #LudicrousStory", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yeah, because that's what's most important. . The man really is a prized prat.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'll grin or ill grin. There's two ways to read my name.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Angry-face #Leo #Kids #Fun #Face #Angry", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "anw as long as there's nothing going on with the both of u rn, i can still forgive u but i cant promise to forget", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Is Khallilah Henriques NNN all there? She mostly sounds blonde,but this morning confirmed it#Ignorant on race relations#Articulate Minority.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user  haha or are a chainsaw murder, or a corrupt fortune 500 ceo, or a rapist, w.e makes you happy.  #hebetripping", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Surprised SJWs haven't tried to get call of duty banned. You can make male & female guys so you have men KILLING women|#Misogyny|", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Sometimes you have to forget what you feel and remember what you deserve.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Just abt 2 say d same  :) I'm not sure whether Oxford Brookes Uni is part of Oxford Uni. yet his CV is impressive still!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "my favorite thing to do on Tuesday is write psychology papers\ud83d\ude10  #killme", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user you can't reason with someone with a bio as moronic as his. \"So should everyone else\" #SoDemocratic", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Family time is nice and all, but I'm ready to be back at work on this fine morning.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The sooner I find that out, the sooner I can go and have the lovely conversation with HR as I've yet to tell work #lookingforwardtothat", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Bae had an energy drink and wants to stay up... but I'm so sleeeeeepy. #love #sleep", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#TeenAnalCasting #She She sucked me dry!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Adorable little white tiger", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It's adorable how this keeps on happening", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "First day skiing #killedit  #iwasshit #tignes #seasonlife", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Uniform#unity #LMFAIR14", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user even your link to the service alert is down.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "btw, dummy, 140 limits @user @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Like I need to be reminded of BP Cup competition dates!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Everybody is out there traveling the world and I'm sitting here studying maps for my last exam #jealousy  #almostdone", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Not this room please I don't want this", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user so ...still no response from @user #greatcustomerrelations", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "\"@LabourEoin Few politicians get importance of Patient Dignity &  right to die", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#LRT -- Gee. Good thing there's no #WarOnWomen.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "36 hours no food no drink going strong  #givemeabrew \ud83d\ude4f\ud83d\ude2d\u2615", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user What do you order at Kona Grill? For \"fast food\" Sushi, that place is delish.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Honking at me whilst you drive past - so romantic, it makes me want to trace you through your number plate and be with you forever", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So fucking excited to be the 5th wheel for another New Year's Eve!!!! Can't blame anybody but myself for being super picky re: men", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "*looks at blackboard*|*calls life alert*|Help my grades have fallen and they can't get up", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user you drive a ferrari, right? you being a beautiful clever woman?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I couldnt help myself.. I am a bad person...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user she went from a faded orange mess to a dark brown with red streaks. I, of course, forgot to take pictures.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Eskom load-shedding hammers the Rand again:  Current spot rate USD1=R11.45 #VivaANCviva", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Had an insomnia cookie and now I can't sleep", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Finals week plus hearing that my grandma is in the ICU = amazing  #letmegohome", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user And here I though that a one programmer operation had the same money and power as EA. #TheMoreYouKnow", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Imma kill all you SOBs! Jk #lol  #RedEye", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sometimes i just dont understand anything|#stubborn", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "dead? Why is this stupidest of memes still perpetuated?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user yes \ud83d\udc4d the taste .. The slight aroma of the tea \ud83d\ude0d", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user   People who are drinking and driving  now please", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Listened to Gimme Shelter while driving in the rain\ud83d\ude02", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Casual meal with a mate, didn't turn out as expected! #disappointed!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Up all night 2 nights in a row. My job is fun  #nightauditadventures #resortjobprobs #fb", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "BJP-CONGRESS nt disclosing detail of 3600 cr. donation received,still Media/Bhakts questioning AAP  #MufflerMan", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "What doesn't kill you makes you #stronger \ud83d\udc4c...I'm  #perfect #mybody \ud83d\ude48", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sooooooo the #Bears will be looking for an offensive coordinator as well. This bodes well for next season.  #whatamess", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Tried to spell beeyotch and iPhone made me spell Beyonc\u00e9. That's fire.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just earned the 'Land of the Free (Level 25)' badge on @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user The Bears are probably the worst franchise in football at the moment.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Horses are just hornless unicorns :O ||#enlightened #mystical #wow  #on #drugs", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user add some \"Your Baby Can Read\" DVDs...ya know...just in case lol\ud83d\ude0f", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user YES! I do this all the time. It's such an easy thing to do, I don't why this isn't common knowledge.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Comcast, greatest customer service on the planet  #comcastistheworst", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Facing Health Crises, India Slashes Healthcare #GoodGovernance  #NaMo #GoGo #BureDin", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "How exciting he's walking all by himself #amazing #strength #hardwork #love", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user the Jets have pick 6 in the 2015 draft the irony blows my mind!  #NFLDraft", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Too Sad... LOCAL NOW!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ohh he can climb a rope? Just like every other commando? Super talented.  #TakeMeOut", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user In a musical, the music department is quite unimportant.  #umitsaMUSICAL", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Cramming 200+ psych pages into my brain even though we learnt that cramming isn't effective", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "THEY #CAN'T BE #IDENTIFIED|#UK should  ALLOW more #SYRIAN REFUGEES #ENTRY among them will be #ISLAMISTS potential #TERRORISTS", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I added a video to a @user playlist Modere Beauty Box Review + Giveaway", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Mens Football clearly know how to have a good time.....  #archiesday #anychanceofasocial", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ppl keep snapping me and I can't snap back because I'm looking too good rn", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "And after being up for over 24 hours I'm finally getting some freaking sleep.. #HappyHolidays  #AlwaysWorking", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Chenua Achebe - when things fall apart", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i.e. cutting gov't spending, as Harper has done w/ public sector jobs, injures the economy & multiplier effect of those jobs #cdnpoli 2/2", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I swear the biggest tools are those who wear a belt even though they're wearing suspenders. Pick one or the other, can't do both", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The good thing about college is that you're not asked to do evens or odds or even the back page of your worksheet.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "How DARE somebody exercise their freedom to protest and freedom of speech.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm so different when I'm back home... I blame the work crew #rowdy #banter  #toomuchlove #360family", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Dont we all just love those people who message you out of nowhere and act like you guys are close cus they want something from you?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "LOL..It was an RSS agenda modi bribed UN officals to make yoga day international..  #secularindia #AntiConversionLaw #hypocrites", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "This 'legendary' anfield European cup atmosphere is great hey! ;-)", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I always forget that many #activists and #radicals who are most earnest look back fondly to 1918 and 1793, not 1848 or 1789. #classwar", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Fact we have a liberal school system. Yes I'm conservative.No that does not make me racist.(before you accuse me of that)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Off to brave Tesco. Humungous shopping list, hail outside #ohbliss", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I think tori is actually my favorite human being on this earth tbh", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user woww thanks for that helps alot  hahaha saddd \ud83d\ude02", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Wallahi speaking to an unbeliever is bid'a, let alone wishing him/her a happy celebration.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "..and another  #freelesson #english #esl #tesl @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "just another day as a lovely comcast subscriber.   #neverworks  @user @user @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Another great day on the #TTC.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user \"I can't look at a bridge without crying now.\"", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love waking up at 4am everyday and then running 5 miles.. favorite part of the Army :)", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Hey heyy!!!I....wanna be a rockstar #vscocam  hero #vsocam #hero #spiderman", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "they dip, we drip #fat #sumo #hippoes #happy #like #so  #turtle #googlemapcibae #love #bij...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Great start to the morning  #flattire", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user man, there is too much  in this tweet.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user They were probably, contracted to work for free.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Over on CBS at noon is #BALvsMIA. FOX has #SEAvsPHI after the #Saints. #NFL", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Packers fans on Twitter are on full meltdown mode... R. E. L. A. X.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "And the day started civilised #appointments#road trip #bestdayever #neverlaughed as much... Tks to...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Now i officially look single. Ha the", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user you're hilarious...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Lol at people saying they're turning 13 this year when did I start following kids #sorry", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Hi! I have just received a photo of my dear parcel from China, amazing he is travelling around the world!!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Ill see you in the Finals", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user gotta hand it to them, really. \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I think being gay is wrong, its like people chose to be gay just to piss off the magic old man that lives in the sky", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Hey everyone... I want this as a Christmas gift :) Can you send me one? @user #GTX980", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "that fits @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Glad to see someone has finally realised how funny Mark Lawrenson is and given him more work. He is a hoot.    #goodgrief", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Photo: Cheers! #vodka #mother #energy #drink #tipsy #on #one #drink #Cadbury  #alcoholic #Friday...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Accusations on twitter shouldn't count, though I've heard tales of talk that it will replace the grad jury sys here", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Well said @user I for one am fed up of all these women breastfeeding ostentatiously!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love how today is going", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Um, really @user  #nothanks #UVA", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Racism is pooled in liberal Democrats. Democrats must foment racism and division to maintain control. Divide and conquer.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "studying up on narcissism. the more I read up, the more I'm afraid I have this disorder!! #centeroftheuniverse", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user was STUNNING today, wasn't it?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "HELLO Sunday! BY THE WAY IT'S December 28, 2014 at 02:15PM! (just a random information)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A maths tutorial is exactly what I need right now  #lol #struggle #uni", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Two hour drive this morning with the instructor.  Oh yes..  #scaredshitless #yikes", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user sure! \"wow, Nintendo has achieved what Sony already did years ago\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Produce all kinds of Creative Designs #like15|", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Christmas slow down!  enough time left!!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I would have made a much more convincing Bella Swan.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just gave Imperfecto a 3.5/5 rating on @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user what is it with whales this morning", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user \"i feel bad for the American people, now we should invade their country in kill their children so we can save them\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just love being in charge of comp music \ud83d\ude00", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I shun the workplace chit chat, to look at what happening on twitter  #randomtweet", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Mirror mirror on the wall, when will I find happiness?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user u might b d bigest fan of srk but i find u better actor than him sayng it just fr sayng but realy mean it#expression king", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Say it ain't so, Joe.  Who would imagine a government program fraught with fraud?  Has this ever happened before?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Save Manage & Make Money - Join for $99 make $600 #Discounts #Vacations and more", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My dorm is actually really creepy when I'm the only one in it... \ud83d\ude16", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user  of course, Not!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yay for getting pink eye again!  #whyme", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user LOOL from the guy with multiple twitter handles", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "If loose lips sink ships, then loose tweets sink fleets. ? (@ NASNI Theatre in Coronado, CA)", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I honestly haven't a clue. I'd hope there were some since the surveillance cams I've seen show barely anything", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Loughton.. And some in Basildon what about u?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Youve got to just love the efficiency @user two-day service!  #7DayService #prioritymail #hahahaha", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "No reply day! I mean, week!|#Happiness", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm pretty sure this bad boy is worth at least 6 stokes per round! #dreamon  @ 913 miranda place", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Twitter slams Austin Strange Fruit PR firm, spurring it to drop the name it shared with a song about lynching", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Happens Every day.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just love working on Christmas and spending it alone 6 hours away from my family!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Drawing with my little girl... Still can't believe she can draw this good!!!! #drawing #daughter...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "On my TL I see a Somerholic that unfollowed me tweeting retweet if you're a Somerholic to see how many are there.also i'm not allowed", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It seems that Erdogan sends his best regards to the EU", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It's too bad all this is happening to #TheInterview, it looks like a really good movie.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Finally went to the doctor and feeling so much better.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm the guy for you Brooke Davis. #OneTreeHill this story is sad,thrilling and confusing. But I love it!\ud83d\ude0d", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Another day just livin the dream  #needmoremoney", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "waking up congested/not being able to breathe is a great feeling.  \ud83d\ude11", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Being doing projects for university all day! My life is sooooo interesting", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user wtf where did you go", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Yeah no I'm still laughing. It's not even that funny and I'm still laughing", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sitting in this hall is fun!!\ud83d\ude12", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I may or may not be obsessed with the grinch \ud83d\ude0f", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user can you please book one of these appointments for me and tell me what happens?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "MORON, no one has ever said a ball is square #STRAWMAN @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Photo: #Say it loud say it #proud! #Nope #never!  a quitter and will never #be... #always #winning even...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "lol has his website been suspended again? @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user like a group of unsuccessful idiots who can't even manage to scrounge up a quarter? That's pretty cool I guess Chris", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Who accepts this challenge? Who's Next? Ends Soon. Be A Ten Executive & Founding Member.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love math, I'm so amped for my final like 7 hours from now. I hardly studied for it. #IBeenDoingIntegralsSinceThe5thGrade  \ud83d\ude04\ud83d\ude1c\ud83d\ude02\ud83d\ude23\ud83d\ude30\ud83d\ude2b\ud83d\ude16", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user but she was white!.IOW guilty of racism by fact of skin color.#Ferguson taught me that.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user really? My respect for feminist/womens movements is through the roof. !", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "don't knw how to react everytime sum1 says me being in a wheelchair \"inspires\" them! im just living they same you are dude", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Hi Orgabeh, so we meet again. I think you're my soulmate. \ud83d\ude0d  zzzzZzz \ud83d\ude2b  #patience", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#finalsweekgotmelike Ugh. Make it stop. #finals #finalsweek #EWU", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Can't wait until this weekend is over...then no more Xmas parties!!!!!! #HateSchmoozing", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user claims the man was peaceful, when he was violating HR of orientation.  making a free speech argument over an HR issue.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Absolutely appalling service once again from @user Can't wait for the rise in fares next month  #excuses #joke", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user and a strut to boot", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user nice, lazy search in google scholar couldn't find a free copy - openaccess for the win", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love when this happens", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just noticed that I crossed 500 followers in past month. Guys, I hope you enjoy the sarcasm b/c we all know my value added is nil", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The things I see in Bath & Body Works #WorstOutfit  Cute #WTF", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#But #It8217s #Matters  #Size #Style #That #wedding|Please RT:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Coin ! erraji: \" ZeeGingaNinja: because it seems that some people here need this clarification #sydneysiege ...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "They decided 2 change King's trunks 2 gold, his logos 2 green & his tights to blue. How creative. .", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thank you for all your Retweets @user #TopForm", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Great job on reporting on a mentally unstable man and calling him \"drug crazed\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thanks for the AWESOME support on our #instagram page. Much appreciated. #women #motivation #rolemode", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user *kisses you cheek* that's enough. im not a love bot.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oracle on Windows 2000. This should be fun!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just booked me and my back a massage with @user @user hopefully stop it groaning over crimbo \ud83d\udc4d\ud83c\udf85\ud83c\udf81\ud83c\udf85", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user tis the season for unwanted gifts!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love being unappreciated", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sometimes I can make funny comments #boyfriend #text #justgothomefromdinner #smiles #funny  #lovehim", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "What an amazing start to the weekend!  #ohgoditsfridayagain", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sinking my teeth in to why the SPS failed in VT", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I would have never hired Trestman. RT @user I would fire Trestman tonight.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm hungover and I'll end up staying up until 4 :'(", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "2014 was the year @user and I became Lords \ud83d\udc51 #watchthelordman", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Feel bad, confused over NY cop controversy. That one is on camera. @user brown @user  so clear #Love your neighbor", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Marked as to-read: Becassine Pendant La Grande Guerre by Caumery", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Love that I can count on people.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Last day of school it was so much fun but not much people came. what a shocker", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Headed to Huntsville, TX this afternoon. Try to contain your jealousy.|", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I was wrong when I thought I will find a way that doesn't lead 2 you", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fun at @user #Basics4Babies Day @user on Sunday: Ask Travis Lulay to get his face painted like Tony The Tiger  #worthashot", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fucked up.  in the mood at all", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Blame #Bad #Luck,  #Genes #as #Cause #of #Most #Cancer #Types. Here's #Why: Heredity and environmental factors...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "doing mental calculations and realizing that your chances of passing a module are slim to none is fantastic", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I don't know why it's so fun, but it is. cx I could probably think and find out, but yeah. No. xD", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user yay another outage in less than 8 hours. Keep up the good work!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Forever #Young, Forever  #Out, Forever in #our #hearts. |#RIP #PhillipJoelHughes. @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Half the world is starving, the other half is struggling to lose weight! | #SickWorld", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "what a good time to start voting again  #BestNewArtist Fifth Harmony", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "In case somebody breaks in our apartment \ud83d\udd2a\ud83d\ude35", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Lol, who throws middle fingers up in pictures anymore? Oh, you're bad.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thanks @user for taking down <3 We all love you for this <3", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm not going to survive today w/o breaking down in tears at least twice and possibly passing out. All nighter @user library was a bad idea.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I seriously loveeeee how much you care", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "One season down 8 togo! #OneTreeHill", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user neither can I, I'm gonna have an ambulance pre-booked gorj\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ": Entertaining journalists collecting facts about annoying dentists. #Entertaining=#Annoying #FactAboutDentist", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user time to hit the books then", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I don't understand why anyone watches these bowl games. They don't matter. Great, a team outside the top 4 dominated. #dontcare", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user you guys sure screwed this up royally. I'm happy for Lester, the brain trust over there sucks. #nicejob  #LesterToChicago", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh crap, Mac shutdown corrupted iPhoto so hours of rebuild ahead, so might as well eat and drink! #FestiveFattyBumBum", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Remember when I ran 14 miles on 90 min of sleep this summer? I've got a 14+ hour day on about two hours of sleep. This'll be fun.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Being on #socialmedia is already pretty good, but they also master  of irony... Do we tell them?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user hahaha u talk abt policies..just check delhi dialogue page..are u from another gola lol", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Bacon. That's all. That's the tweet.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user could do with someone making me a hot chocolate right now ahaha", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Peshawar school massacre: Pak must know their greater enemy is terrorism, not India.#Peshawarattack", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Indian Urdu Daily Advocates Murdering Apostates After Extremist Hindu Groups Convert Muslims: The First...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Duale seeking 'protection to be heard' when the proposed security bill will trample the basic rights of his pple and their freedom", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user 10 HOUR CAR RIDE AND I CANT SLEEP IN CARS YAYAAYAYAYAYAY.  have fun bff!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Love being called into work on my morning off after not even 6 hours of sleep.  #thanks #splitshift", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "SEC crew doing some quality officiating in the penn state game. . How do you miss that terrible block in the back?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Product of Aaron Rodgers. Eric Decker was pretty good last year too. It's situational. When Jordy cashes in, he'll be a non-factor.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user yara .. I'm a restless soul (you're well aware ) but I like my skin perspective as most comforting.. When any1 expects me to be", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Riding the distraction train. ||CHOO CHOO", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My year is ending perfectly\ud83d\ude02", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#FLOOD OF #NOAH #HovindTheory #ICEAGE #Bible #Church #Christians #Jews #tcot #...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user if aguero is out for a long time, city could buy bony in January!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "happy birthday to my boo @user \u2764\ufe0f\ud83c\udf89 love you, have a great day!\ud83d\ude02\ud83d\ude3b", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user an e-reader would definitely help save my life if someone broke into my house. Good call", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Nothing makes me happier then getting on the highway and seeing break lights light up like a Christmas tree..", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Spilled milk onto my boob. Oh the .", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user The Raiders are. I guess we'll see how things play out tonight.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I'm truly at peace", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh we get to see The Queens Garden on #itv after she addresses the nation. Just what I always wanted  \ud83d\ude33", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Whilst #SLabour #BlairMcDougal #DeputyDug recon its in #MeltDown safe in #BetterTogether of course ...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user In fight over overtime for Firefighters, DC viewed ruling from control board as permanent\" but appeals court says no.\" #fb", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Repost hernanpuentes with repostapp \u27a1\ufe0f\ud83d\udd1c\ud83d\udcf7 #ComingSoon #LoveIt #LoveU \u30fb\u30fb\u30fb\u2070PERFECTION..... Filter...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Exclusive -- #Indonesia: #AirAsia #crash #probe #focuses on #timing of #request to #climb, #weather. via @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Let's set the record straight McCoist the player legend Fact !!! The man held us together when no one else would !!!! Won't ever b forgotten", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Kitty aaaaint happy #cat  #happy #today", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "And it's freezing, yay!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Coming to the conclusion that Apple IS Skynet #terminator #apocalypseiscoming #warofthemachines", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Having to be up in four hours sounds great", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#FergusonRiotTips Remember, the only way ppl listen is if you burn down their stores||#Ferguson #VitoandVito #WAARMedia #tcot #ycot", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Thanks, that'll help loads", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user must b in the #blood lol x", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Careful, Cayce. That's almost a racist statement.  @user @user @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Swag  @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A #Sagittarius will always chase what they want until they get it..|#keepgoing", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "This is what  looks like, right?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Venezuela -controlled #Moscow junta genocides peaceful protest of #Chechen miners in #Grozny .", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Today I'll lecture on CRM investments & shareholder value ... So excited ....  \ud83d\ude0f I'm sleepy \ud83d\ude34", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Isn't it great to sleep 5 hours and feel like a million bucks?  #gettingold", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Yes I remember a little. But then an entirely new lineup came in? Is that what happened?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "StephenFry: @user Oooh - busted by superior understanding ...! Crestfallen and shamed.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "And my christmas shopping is done.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Sports -- #Carrick #replaces #Fletcher as #Man #United #vice-#captain. via @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user So...I should click on the link in your private message to see the nasty rumor going around about me?  #boohackers", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Why does sue give bonnie anxiety and stress pills", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user yeah this happens to me every time I want to like a video :(", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "At one point i almost believed that the law of attraction was effective. !", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So excited for a whole new episode RHOA love this show!!!!!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user true that! We just keep giving them \ud83d\udcb0 with no return #charity", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Tell me the #Quintessential #Aussie now isn't a Govt paid job & then have the hyde to buy overseas online and pay no GST . mmm #SadButTrue", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Us Looking Sexy  #MehRockingMyBluMonsoonT-shirt", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Caribbean girls anthem Caribbean Girls by Stainless MOB now in stores online #IYON #Dancehall", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Why isn't there a playoff legend Romo? @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "- Road safety campaign donkey killed by car", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Yes. I want to honor someone who died so I'll go steal a TV and Xbox and whatever else I feel entitled to", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "me at restaurants: Is there wi-fi?|me at beach: Is there wi-fi?|me at family parties: Is there wi-fi?|me in hell: Is there wi-fi? #wifi", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Like @user Visit for  articles and also win a free puppy!! 1 puppy per visit, 6 puppy maximum #ATL", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "can you imagine being in high school today with a delusional dad making a fool of himself on the internet @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#notcies #eu Foreign Affairs Committee MEPs to discuss Lebanon with prime minister", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user do you think you would support a guy who knocked out your daughter? Rice doesn't deserve support.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "This should be fun next spring.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Unfortunately not, hey. Daddy didn't think his daughter'd be into gaming or FIFA.  youraveragedaddysgirl", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Well done @user you're doing a great job  \"@SkyNews: A&E Waiting Times Worst Since Records Began", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "3 But 350 Girl Friends - #DrAmbarish- Upcoming Movies", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ugly Christmas Sweater  ;** #uglychristmassweaters #happyholidays #merrychristmas #kissesandhugs...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Time for the post Christmas car wash, yay!!!  #friesenfamilychristmas", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#ready for doing #business today \ud83d\ude04  \ud83d\ude48 #tiredashell #coffeecoffeecoffee #morecoffee #...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "In the last 2 movies I've seen Alan Arkin in (Argo, GrudgeMatch) he has had me absolutely rolling.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "This is a great time for me not to be feeling well...  \ud83d\ude12", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Storm coming! #todayimloving", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user but talking rubbish about system on twitter can't change anything |   | Action speaks louder than words", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I was really happy to hear that all of the NBC hockey talking heads pointed out Ovechkin's strong Corsi & +4 status this season.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The whole world can never get me on my level", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Some are really loving the criticism on Zoella. Let it rest, please. I wonder what you would do for some \u00a3\u00a3\u00a3.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Don't think for a second I'm out to drown your memory, you ain't worth the whiskey", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "People who don't get : you are THE BEST!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#TortureReport trending; I wasn't aware J.K. Rowling released her new book.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Today has been such a shitty day", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Love ya Jerry, but what the heck was that?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user my mom told me not to do it, but I'm fine", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i would tell ya, but you just wouldn't understand...\ud83d\udc98", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user iv not even started\ud83d\ude29 think I'm just going to get the parents and babies something, the fam is multiplying too quickly \ud83d\ude14", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#nowplaying EaricPatten presents \"DJ Earic Patten's Elektrik Metro House Vibes Mix Sessions on Club ...\" at", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "At -- The sun finally decided to play #beastside #tahiti", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "he did, proof he lacks reading comprehension skills @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "not that it matters, a message board thread is not an authoritative source @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user why? university always helping", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Wish I was still in bed with @user \ud83d\udc97#ICouldSleepForeverRightNow \ud83d\udd2b\ud83d\ude1e", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "This sounds like loads of fun...  Snow, freezing drizzle, rain, 110km/h winds...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "To be honest the tide was high at the beaches in #lagos and it got higher as the night crept up", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Dragging her feet, smacking her lips,and scowling at the empty street while screaming into the phone!...such grace.!\u2639", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user hope you have more ambition john, cause no one else seems too.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I can't wait to jump in my bed tonight and sleep!\ud83d\ude34 #sotired", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Apparently my youth group thinks \"Are you kidding me?\" is my default expression--or \"nomal face.\" #areyoukiddingme", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user haha cannot wait for monday  at it's best.. cheers", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Wasn't the playoff supposed to make this process easier?? #NCAA", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Tonight's family bonding presents a dark quite house playing Marco Polo with a side of nerf guns #lovemyfam", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I typed it with a lisp too! Hahah", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "3:30am is a great time to learn the male reproductive system. with the biggest and brightest power point slides ever.  #biology", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user sounds like #Cubs won't have room for Lester battery mate David Ross.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "We provide a structure that ensures you will successfully invest in real estate. @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user It's ok...thanks for telling me. Passed the idea on to a sydney friend :)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Going to go into central for last minute present shopping #soorganised", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Besides some overpriced holiday candles, I haven't seen one #CyberMonday deal worthwhile today. Brutal.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user is NXT gone from Sky?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user At the same length, we should not forget about the fundamental communal sanghi Hindu fanatic RSS in our backyard.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "This week just keeps getting better and better", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Hanging out with my niece all day \ud83d\ude02\ud83d\ude1c jokes", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A voice of reason crying in the wilderness of hysteria. via @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I didn't know the story of Noah had transformers in it. Man the modern biblical tale killsssss it.  #whatarethelivingrockpeoplefor", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user bruhh I just saw a license plate that had the letters FDB \ud83d\ude02", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yay I love being awake at 5 in the morning \ud83d\ude00\ud83d\udd2b", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Wow writing 3 reviews on 3 concerts I didn't attend is exactly what I want to be doing right now instead of sleeping", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "it was  RT @user @user how is that a spoiler alert?  Haven't so called 'experts' predicted him as being the winner?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Bored? Check out> @user newest article - each word is linked to a ridiculous website! Try it out!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "These Student Athletes Really Picked The Wrong Class To Cheat In via @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user is it squirt or squat?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "What is the most important thing that you should do today? -- Breathe.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user when dad calls me by this name \ud83d\ude0f we often go into a fight .. You want a fight ? \ud83d\ude0f", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yeah nice hair babes  \ud83d\ude02\ud83d\ude02", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Follow> @user and get your FREE DEMO of their industry buzzing app seen at", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I literally have plans every night my entire vacation.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i feel like whole life is about waiting waiting and waiting", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user worst mobiles in india. Every 1 looks the same. Every model hangs from 4th day onwards. #samsung  #recommended", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love hearing people's explanations about the dating world in America in the library while I am studying", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Coin ! LeCoinCanard: Coin ! LeCoinCanard: Coin ! LeCoinCanard: Coin ! deanbcfc: WasAlRahman this is a question I ask myself everyday ...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "One day is day..lemme console myself with blunt", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "On page 35 of 357 of Hogfather, by Terry Pratchett", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Church sign of the day: How would you feel if we celebrated your birthday without you? \ud83d\ude4a #StoleEm #TheReasonForTheSeason", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Whoops. Didn't know I had to live up to other people's expectations instead of mine. Let me just fix that.  #sorrynotsorry #soz", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "you're so sweet", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "glad to just find out we had a quiz due yesterday and I didn't even know thanks for the notification blackboard", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user real tough to whoop dungeys ass", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Contemplating responding to @user tweet saying \"what remains of their pride\" but not sure how well that will go down", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Oh funny. I saw that crowd! We were just there for dinner.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thank God the #Knicks re-signed Carmelo.  #TheBullsCanHaveHim", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love not being able to sleep right now.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "If BJPee hv balls ,do dare to lift ristrictions 2mro ahead of Modi's #Kashmir visit,Kashmiris wl show u how much thy love #Modi.|", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Junior got a rim shot for a 'rim job' joke.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user ikr!! This is not a true Battlefield game! :/|.|.|.|.||", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I fell asleep posting my last post.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Successful morning doing my essay...  #ChristmasShopping", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user he def came out the closet on that AND 1 dunk #rudygay", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Casper the friendly ghost on 2 levels! #thingsmichelleobamathinksareracist", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'll do it tomorrow is a dangerous way to live", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user LoL its not that bad, budwieser is bad, its like drinking water from the tap...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Go go Power Rangers! #f2xmasparty", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Nah, I don't think he says 'f*ck' enough on that album!  #angryman #oldschool", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user see |#FOLLOWME |#FOLLOWNGAIN |#TEAMTOFOLLOW|#TEAMFOLLOWBACK ||RETWEET & GAIN FOLLOWERS.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "That's me, the infamous pepper shaker replacer.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sony pulled a movie bc we're scared of a country that can't even keep its lights on at night? Even motel 6 can do better than that. #Zing", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user yes mother as you wish", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "In case you haven't heard, this is happening - #WingedWarriors -", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@ Speakeasy", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#np #NowPlaying #NowListening #Music  Of Dying On Your Birthday by #Senses Fail from the #album: #Let It E...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The #AdvancedWarfare campaign was only 6 hours -_-|PS: It's still better than BF4's campaign tho (that I didn't finish) :p", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love working for an hour and not getting paid for it", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "One things for sure IMA make y'all folks remember me.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "you know what would make break 1000000x times better?||not having practice.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Like u go to Williamsville east ur parents hand u money but ur so much better than everyone else hahaha", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Finding it quite funny that Gillette Soccer Saturday on Sky are complaining that there aren't enough games on at 3pm Saturday", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user but it has to be fake!! Where are all the stars??", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My luck just keeps getting better and better", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Affiliate Marketing blog post on the way but in the meantime some tips from the experts: #howitworks #marketingnewbie", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Merry Christmas to all at topspin monkeys! Hope you have great holidays and are ready to train for the New Years! X", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "That moment you drop your phone right after your kid gives you a case for Xmas but before it's actually opened and put to use.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Law&OrderSVU where rappers go to act", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Been the problem, actually. RT @user @user tough road trip. cant win em all but coaching has not been strong.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Taking a final then going straight to work. I'm just peachy about it.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Well that's a completely well reasoned and thought out argument. You've changed my mind!!! #Ferguson", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yups sarcasm and wine!  #winelover  \ud83d\ude0a\ud83d\udc81", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Each snooze button is more tempting than the last \ud83d\ude34\ud83c\udd98", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Crime figures: true picture may be worse than feared, says think-tank report | via @user Surprised?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I cut my dominant tweeting finger on the milo tin. But as you can see, I'm a survivor.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#pick #up #linez  to use|Boy:When u smile its like the sun|Girl:Awe|Boy:because ur teeth are so yellow|;)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "To be fair, DeBlasio only asked #BlackLivesMatter folks to stop protesting until the post-funerals. So police protesting him is cool.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Got to play w dogs last night!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm really talkative at night but no one is up to talk", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user oh my fingers stick together", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So that went well", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I have plans. I feel sick. What a surprising turn of events.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Feds doing studies of gays as if they are a different species. Add word lesbian before your study and double your grant $$.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The ER sucked tonight ... Urgent Care tomorrow .... YAY  #fml #ugh", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Because, progress... #AnEyeForAnEye , #PeshawarAttack #Taliban... Surely this will bring peace and justice?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So excited for the Christmas party with the snobby side of my fammm", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Extending trade and not telling the people about the extended trade. Best idea ever!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Only thing missing now is a session at the gym... Want to do every body part though and CV!  #possible", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "FNC is likely either repeating the same stuff over & over, @user @user @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Hey, now. Her profile says \"I Heart Jesus\" so she can't be all bad.  @user @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Christmas shopping on 2hrs sleep is going to be fun!!!!!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "On a good note, only 49 more days until #Scandal.  \ud83d\ude22\ud83d\ude22", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Blackpool today for an interview.  the weather for the beach", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Bummer ending... But what a fun game and season. #Gophers", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I hate babysitting when I'm sick because all I wanna do is sleep but I can't \ud83d\ude14", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Penguins cancel morning skate, which was an optional, due to icy road conditions.\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user No, it's secured by the Cartels so that they can charge huge sums of money for illegals to cross into the US.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "3rdeye Brand Has Designed The Accessory For Your Easy To Carry And Comfortable", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Cool to know I have people I can talk to when having a shit night.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "If you gon' judge people who drink and blaze FOH Go choke on some foreskin", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Today has been a blast", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "2014 can't end fast enough! Stupid dead battery.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The oh-so-classy [] @user also belittled the #ALS #IceBucketChallenge in his disgusting little video.||#NotInMyWallet", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user why yes, because being some man's property is such a privilege  @user   #ironagethinking", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Reading about Barack Obama in the Barack #Obama plaza #moneygall oh the", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user #GamerGate , now with weaponized Ninjas. we trained with Assasins Creed.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I'm so persuasive lol", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Explosions! Nicely done. Apparently, the Joker & I have a lot in common. That's...disconcerting. #Batman #StarTrek", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user that wasn't a choke hold the officer was trying to keep #EricGarner from falling forward.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user you tweet about having a flip phone? Now that's the definition of", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "One more week then back to Sudbury I go!\u2744\ufe0f @ Lake Nepahwin", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The excitement for #EVC14. |Follow @user answer simple questions and win passes for the gig. |#GetEnchanted", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user empty threats even #TheBear supports #united", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "All I want for Christmas is..the complimentary coaster offered by the title insurance company if I generate a \"Quick Quote\" to myself.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I used to joke around about my cats being able to open my doors, never expected it happen.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user it's like you're in the Maldives #seaandwhitesands", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user that's my Saturday night entertainment....", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Happy young chap  ashamed of my God and my savior #spreading the word of God n life of Christ #successful entrepreneur #MindOfGod", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Preparing some sample answers for the rehearsal exam qs for Digital Media with Google Drive, I'm so technologically advanced..", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Hungry and hungover  #a  #good #day", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Who wanna hit the slopes?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Jim's cookies won, Nikki's killed, but everyone needs to go to @user to enjoy @user amazing pastries!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Lots if love for #Miranda", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Such .   You still have to #praisehim ;)", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#All #And #For #Hot  #Rachel #style #fashion|Please RT:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Execute commands the beginning of a job but it is used to end a person's life Now that's", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Imagine an imaginary menagerie manager managing an imaginary menagerie.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user wow. That  here though, sorry grandpa, we use mac these days #WelcomeToTheWorld #NeverArgueWithFools", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Grown women acting like children is my favorite.  #dramatic", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just a friendly reminder! #motto #advice #you #are  #defined #by #your #past", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ahhh Finals week.... I'll throw a kegger at my house for all the survivors \ud83d\udc80\ud83d\udc80\ud83d\udc80 #Motivating  #RIP", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Today is a fabulous day  #Work #Ugggh", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Can we trade McCain? Biden helps Republicans more than McCain. In any other time, McCain would be a Democrat. |", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user this is true, the Patriots, Packers, or Broncos could suddenly need a new coach  #itshappening", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Corpsman wisdom: I had a head cold, so I took my own advice - Motrin, hydrated and changed my socks. Cold eliminated  #navy", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Happy New Year all my Twitter people. Hope you have a happy and successful 2015! Lots of love \ud83d\ude18 #2015season #2014sucks", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I mostly follow my lists, but I dip into the full feed randomly.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user outta the boardroom, I to the partay!! #luvvit", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "hula hoops, hot chocolate and law revision. my breaks in work are filled with glamour and fun.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Look behind you # Tara # Ella # Starbucks #mytopgirls @ The Omni Santry", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Taking the Christmas lights down in the swamp will be a blast.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I didn't know the severity of what you were charged with. I just read it on the Internet. Praying for you & your wife.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user We ll take that bad at all", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user 14-0 but it's not that close.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm such a good friend...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i just loove when my guy friends give me thorough descriptions of their bowel movements...  #WHY #STOPTHIS", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Big 12 fans flocking to support TCU after that OU beat down, Texas loss, and WVU manhandling lol.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user thank God for Kanye giving these unknowns some help.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Ohhhh yeaah the girl from your favorite couple wants me to come hang with her lol BRUH wtf is this lol", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "First nigga to grab it from behind No homo", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Produce all kinds of Creative Designs #hypebeast|", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user sounds like flat 8 are having a wonderful morn!|#HAH  #WOTWOT", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "FINALLY TAKEN To the gir love  #heartbroken 12~19~14", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user Jamie took over my account. Don't worry", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Who tf wants a Christmas elf tattooed on them? That's the dumbest shit I've ever heard of. #sorryimstoned #inkmasterfinale #inkmasterrivals", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I find this farrrrr too funny \ud83d\ude02\ud83d\ude02 #wow #can #u", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user can't wait to see ya both", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user see you in Burnsville at 5pm!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "...except we have no hot water. Naturally no one would be in the office to take my call. I fucking hate it here.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "comparing @user to @user #atlas ...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user The Greatest Unsolved Mystery = God!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm not in enough dance practice whatsapp groups yet. #december #winter #weddingseason", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thank goodness the holiday help at work is no more! I just love it when they think they know more than you  #annoyed #relieved #gone", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Mondays are fine. It's your life that sucks.||It's the first day of class and you see that ... Ugh? Face?|#UrsulaOnAMonday|#wow", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Cannot wait to go to the dentist later!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Indonesia does: blasphemy laws & ministry of religious affairs,which also happens to be the most corrupt ministry.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Players are penalized for not playing defense as you're aware. David Ortiz barely above average in '14 based on WAR.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ". which is why i've visited #pakistan as many times as i have .. sez @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "null (68! ) - How much do you know about periods? via @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I can't wait to see how many pairs of beats headphones show up at the gym after Christmas", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user buuuut fast iteration and prototyping to production-ready code!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Shhhhhh...nobody move...they're playing a NON-electronic game together...NICELY!!!...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Have you gotten your tree yet? Xmas tree nail wraps available at #nailwraps #nailart ...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Learned to play 3 string notes on the guitar #pro#idiot", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#BBC #News -- #Thailand #crown #prince's #wife #resigns #from #royalty.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "How to know when he really loves you. #tmi #imsorry #chickfila", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I've heard liberals defending bombing civilians along with terrorists w/o trial but still claim Enh Interrogations and Gitmo evil.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Love the trust i get from people \ud83d\udc4c", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user A British world champion in one of the most demanding & popular sports on earth. Yeah, of course I'm being sarcastic.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Indian society teaches how \"Not to get raped\" rather than \"Don't rape\"  #Sadhvi #MufflerMan #Indias30 #Rohtak", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user You ARE pretty so I better play your \"free\" #SkinnerBox game. I'm sure it won't ask for my money after a few levels.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "New Years Eve is generally the most overrated party of the year. It's supposed to be a huge shindig, but usually I'm disappointed.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Why are babies constantly sick everywhere. It's like why can't u just keep the food you eat in ur belly and  #on #the #floor", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Shakespeare is great  \ud83d\ude45\ud83d\udd2b", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user oh mature girls", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Patrick Kielty hosting Radio 2's Comedy Awards...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just great when you're mobile bill arrives by text", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "just exactly how I wanted to start my day!!!  #shitty", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It's funny how you can sit for 15minutes And not be noticed.  #MTVStars Taylor Swift", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user so glad I bought a diesel car 2 years ago", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fischer ordered fish and chips", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Oil #plunges 3 #percent to #new #five-#year #lows #after #bearish #IEA #outlook. via @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Wow! I can now afford that holiday I've always wanted!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "And I used to hate coming to uni to do work lol", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "How in the world will I start my day once Kaitlyn gets tired of #Frozen?   #Idontwanttobuildasnowman #mommyproblems #mommylife", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Is sleeping medication like Ambien any better for you? RT @user This is what alcohol does to your sleep", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user You're  familiar with Matt Bubsy, #then.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I hope we get an ice palace and an invisible car #SPECTRE", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love putting up the Christmas tree with the fam\u263a\ufe0f\ud83c\udf84 #christmastree", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Went neck deep in a swamp today so that was fun  #chilly", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "managing to fall flat on my face up the library stairs, has just made it to the top of  my list of proudest student moments", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thanks mum for farting ... Not once, but twice during dinner with the BF. #NiceOne", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Please give me a Follow Back.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#yes they're all are our brothers/sisters when you speak that way you are  Our Father In Heaven child either", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user @user Probably folks like #FullMcIntosh who don't buy games.  #gamergate", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love seeing a guy go 50 and texting in a school zone, #soproud  #gpabdrivers", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The  of #American #protesters calling for an end to #RacialProfiling while holding signs referencing \" #BlackPeople \" | #ICantBreathe", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I thought all people did for the holiday was to stream holiday cube all day?!?!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Corey Brewer looks like he is ready to not be in Minnesota anymore... You can see it all over his body language. #TradeBait", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "That moment when you want to break someones fingers\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The moment you realize that what have you done in this whole year .", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#DIY. Change your #MobileCover every day now. Enjoy!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user We are rumored to have talked to Erv's agent... and the Angels asked about Ed Escobar... that's hardly nothing    ;)", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Today I don't feel like doing anything|", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I work in front of laptop for 8 hours a day and suffer terrible dry eye. #bloodshot  #eyerony", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "On the other hand condolences to @user and @user for the draw....", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sports rock so hard sometimes.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I liked a @user video from @user WWE 2K15 (PS4) My Career Mode Ep: #12: \"TRIPLE THREAT\" | WWE 2K15", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Tomorrow is the day I'm coming back to Florida for good .... :(  unless something changes in  the next 24hrs which I doubt   #ready", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#adanisJet lol @user Irony committed suicide jumping from Adani's jet! #LoveJihad & #Gharwapsi orphaned!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user wow \ud83d\ude05\ud83d\ude05\ud83d\ude05 are you mad babe\ud83d\ude31\ud83d\ude31", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The word \"#Trust\" coming out of the mouths of #Holder or #Obama is just rich with  and #hypocrisy. #IRS #racebaiters", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The late Howie Carr wd be amused to see Granny Warren putting the wood to a \"bow-tied bum kisser\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Where's the Good Governance that we are ordered to celebrate on Dec 25th ??? #goodgovernanceday #Christmas", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Happy Monday!  Hate mondays.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just watched a #Fitbit commercial followed my an #IHOP commercial advertising a belgian chocolate mousse crepe.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Progressive socialism & liberalism must push the victim hood idea in order to continue.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "You know what's awesome? When all your gear (sliders, dolly, monitor, etc) gets delivered @ the end of filming.  #somadatBandHandadorama", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "First day of Christmas shopping tomorrow. Can not wait.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "loyalty vs. self protection loyalty vs. self protection loyalty vs. self protection loyalty vs. self protection", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user is giving you a chance to win 10 #GoSupersonic #Goa passes. Follow them for more details. |#SuperDayLineup", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user But what about white on white crime? It's like a ribbon in the sky...non-existent.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Christmas is less than a week away wtaf", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yet another out of a million doctor visits tomorrow...so.stoked.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user and yeah I set it at 130 not 150 because overworking your rookie pitchers is totally okay", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I know that what I see |Is  what you see |What it is that I know feel and see is that the #time...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user Remember when Pres. spoke of how great America is and how strong we the people are if we work together?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "What do you all think of that Salt-N-Pepa Geico commercial? I think it's pretty terrible.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user can't even bring myself to read this #rip", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "so Ugly *Size SMALL* Christmas Sweater Cardi Basic Editions Holiday Vintage", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Another one of our support vehicles modified for Iceland service. #Bigfoot #LANDROVER", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#SocialMedia Where it's perfectly normal to talk to people in pictures !", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Myself and @user having to walk to Civic Offices to get bus muttering to ourselves\"wouldn't you think they'd pay their water\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "If this is love i don't wanna be loved , You pollute the room with your filthy tongue  #getscared", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user too bad CNN can't conceive their own story. #truth #news ?   #hypocrite #expose  #fake #exposed2014 #boycott #sponsors", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user what time is the UFC press conference tomorrow with names of numerous fighters getting cut", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I know ...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "its not that so much as his lies and deceit, @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Human brains disappear every day. Some of them have never even appeared.. ||http://t.co/Fb0Aq5Frqs||#brain #humanbrain", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just hangin' with ma dawg #eyesup", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user #spinless#gutless  acceptable", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Doubt I was the first to block you. But you pretend good.  @user @user @user @user @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I have to say... I'm really excited about Brendan Fraser's birthday tomorrow. #BrendanFraserBirthdayBash", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ":-|Gifted by the God|Improved with Skills| #KarmicThought #WiseWord", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user What on earth does that mean \"Cloud vs Mobile\"? It's Cloud-Mobile - or basically Client-Server 2.0", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Lunch today. #fakelobster #lifestyleoftherichandfamous  #worldofswede", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Kisses to you bc you lose wisdom today.....from your mouth  #clever lol I love you text me when you're able \ud83d\ude1c", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "More than word just in this selfie .. The Egyptian legends. |#BestSelfie2014 |", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user you sound just like Jack Kerouac |", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sitting around listening to sad music really helps the depression.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Most Hindus depend on the 'western' researchers,who explain to them what's written in Hindu scriptures!;-) @user #FacePalm", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So far today is going AWESOME.  #fuckoff", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I picked a great week to start a new show on Netflix.  #HellOnWheels", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user this Friday  lit", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Someone described it to me as 'passing like a laxette through a budgie' but I can't remember who.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user How dare you accuse me of being a boomer.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I need a new job so I can read books again. I miss reading. Being an English teacher really gets in the way of reading.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Goodie bags for 2nd grade are done! #whatsnext?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user So when Tory stood up and thanked Ford for his service to the city, I wanted to barf.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Flooded basements are always a fun thing to deal with", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Platoon strategy ain't so bad. I mean we are a 7 line army.  #mets", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Sorry butt", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user They r no less than the BCCI and Arnab keeps bashing them on the news hour", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user Was that head Mathers batting?|#powerful!!|#intimidating|", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user tried the pizza tonight we got from @user down here in #Pensacola. #YUMMY! Great job :-)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user nm, I'm silly and didn't see the website.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user ??? #Liberal used in same sentence?? Unheard of!! Turn in your keyboard sir!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Rocking the Christmas socks at work. It's the little things like this that make me happy. #essentialservice \ud83c\udf85\ud83c\udf84", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "These guys are just amazing #gottalisten @user The Allman Brothers Band - Stormy Monday ( At Fil...:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just saw: Roel de Vries , Nissan #marketing boss says marketers should focus on emotions and  quantify everything", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Ministers #criticised #over #train #deals", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user So we can see Reigns do a lame superman punch & a spear? Gee, can't wait! #RAW", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "2015 prediction: Putin ditches the Ruble and adopts Bitcoin", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "doesn't convey what I want though. #twitterproblemsforme", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I bet I'm the first to use that one", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "posting any tweet doesn't mean i don't use twitter !", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I know for a fact Sam is not gonna be in school today and that really is just the cherry on top of a perfect monday.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user This has been my point all along, that TC is proving to be #ecigs best advertiser to teens.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "oh yeah, that was funny as hell too, @user @user @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Are you kidding me this is unacceptable", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user malay mo. its his real name haha. but still nice joke about na richard two. bagong bago  hahahhaah JK", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Christmas as an adult with broken family. Just awesome. Nothing like your stepsister with 9 kids..", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Loooooool RT @user Monday is done, Friday is around the corner", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Hey, he DOES have the word \"ban\" on his home page like two or three times though. #AcknowledgementIsFirstStep", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I should get out of bed now lol", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Bruh. I just realized I'm wearing her shirt. The chick who dumped me. Lmfao", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Today is already shaping up to be fabulous", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i can't believe all the shits for the past days are finally over!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just love 160 question tests in the morning.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user at $8.25 per day those are definitely not Costco socks! I must say this \" funky sock\" movement is kinda cool.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "NEW #HipHop MUSIC:> @user - Crack Music: #JerseyCity #NJ #NY #BirthOfAWinner", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user because I find people with different ideas and ways of life interesting.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "one essay submitted now to start the next one :') #thirdyearlife #loveit", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Getting #married #was  Jolie's #biggest #moment #of #the #year! #But #this...: Hollywood actor and filmmaker...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user please reply to this gentleman on behalf of all of us here @user #jokles  #gotrealworktodo", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I don't think I've ever seen Love Actually all the way through. I tried once last year. I don't remember it.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yay for days off. #coffee #HarryPotter #christmasbreak #morning", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Because we all know that a house is a hermetically sealed environment!  @user @user @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I think #Stars are just the most gorgeous things in this world \u2728", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Such a long day :/ #wrecked", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Two people got me socks. Clutch af.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Yes ara i am not, and you know that. Hahaha \ud83d\ude4a  \ud83d\ude02", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user gerrymandering neither party will give up. It is not hard to be an informed voter.#Ferguson", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Don't #text and #drive either.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Simple way to be #fashionable n contribute to #empower thousands of #women and #weavers. #KhadiGaatha #GoGreen", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I only bought a few people gifts this year \ud83d\ude33\ud83d\ude33\ud83d\ude33\ud83d\ude33", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "AAP said will declare AK candidate in last list but declared it before.This issue affecting India's GDP is termed as U-Turn by BJP #AK4Delhi", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Its called  @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "watching Elf was a prime decision tonight", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "James Burke Connections, Episode 7 A Special Place: via @user #This is  /-\\ #DRILL <()>", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Christmas Day,Boxing Day and New years day off just isn't enough! So much to do for me & others this month  #enough #hours #in #the #day", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Johny UR cracking me up on Facebook chatting up my mate \ud83d\ude06\ud83d\ude06\ud83d\ude06", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Husband coming home early? #mongkok #kowloon #hongkong #dongiotravels  #50thfloor ...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user #ISIS flag above \"Merry Christmas\" is just to much #blackHumor and  .. prayers to hostages!!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user it's a", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user It took 4-5 hours but in the end, Morosi was right and Nightengale's sources were wrong.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thanks mom for all those lovely words, you just love to let me know how proud you are of me | #wordshurt", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Youre such a great person.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user shouldn't you's be in school??", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I wonder if they have that in an audio book...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Thei reights to protest ends where my rights begin. They cannot take my right of earning livelihood and free movement.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "You're gone and I gotta stay high... #coldpants #offtomysteriousplaces  #bye", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#and #As #But #Cake #Like #MMs #Made #Make  #Food|Please RT:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "When Santa looks up my name \ud83d\ude0f\ud83d\ude45\ud83d\udc51|#sassy  #naughty #or #nice #instagood #instadaily #Christmas...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user What do you know about #iubb?  Tom Crean is a coaching genius !", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Check this out!| so #ugly #christmas #sweater|#ebayipad|http://t.co/Sp5bMZz3T2", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "If we could stop losing planes that would be great.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#SchoolSystem Update #Textbook Lies to support #Evolution theory. #Tco...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I be surprised at how many ppl have me blocked \ud83d\ude29\ud83d\ude29\ud83d\ude29  #ITalkTooMuchShit #YOURSTILLCLOCKINGMETHO #ThatsWhyYourGirlStillFollows", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Putin #says #Russia #won't #be #intimidated #over #Crimea. via @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user lol  then", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Babysitting is what I like to do on a Saturday \ud83d\ude12", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh ffs my body clock is f'd #iwanttosleep", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user He was caught attending...*gasp* a Latin Mass.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Pick it up one more time for the homie in the back that's stickin right with us thanks for answering my DM #realmvp", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user they can be assured you'll recommend them!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yesterday #PeshawarAttack was a top tag and today the only thing twitter nation seems to be concerned about is #PTIKeptPakFirst", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Walking down the mall in front of a group of guys and hear \"even the momma got it\" Jesus lol everyone loves polly", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "whoever runs Yeovil Town FC twitter account should be fired. their starting line up looks like a mxit fantasy league team", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Salt n Peppa's Geico commercial is literally the best, ever. Only one that beats it is Hump Day.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Gotta love working the day after Christmas  #smellya", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Gonna need K-State to play a little better but loving seeing this team in action with beckthies", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user depends who you mean by \"you\" cause everyone is different", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "...A teen named Bud Weisser was arrested by cops for breaking into a St. Louis party store...http://t.co/AxejCevQ1e", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "As a little girl I would dream of shouting instructions repeatedly and being completely ignored. #motherhood", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Israel #freezes #funds to #Palestinians #over #ICC #approach. via @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i hate it", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A very powerful statement by Rob Hustle on a growing crisis. #ICantBreathe", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Nose is stuffed.Awesome.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "what do you think? good name or what?|@HondoLane @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#notcies #eu How Santa Juncker can bring the gift of a healthier EU", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#HybridCloud needs hybrid monitoring... monitor Azure, plus apps and dbs, from SCOM", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user apple jd?  sure", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "girls put so much effort in dressing nice for school..I'm over here in my oversized sweats and vans #maybetomorrow", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fries With That 304 #AlabamaStateMajors", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I ate too much..... meal, i'm not even done with desserts!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user mostly LRS stores, just depends on who gets what. I'd say I tend to split between @user & @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user sorry I forgot LMAO", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user agreed. It's a very cool place. And I just love the rocks.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Check Out this YouTube channel:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "<< This should be Christmas number 1! #accounting  #absolutetosh", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I would LOVE to touch an anaconda! Jump on that thang and ride it like a horse! #EatenAlive", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user gee, that's SO hard to believe.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Foxy Lady..#waynesworld #excellent  \ud83d\ude01\u263a\ud83d\ude0a", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user We're going to Hotel Vegas. It's a 1968 themed party.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "lol drunk mom on Christmas is so fun...  #thisisadisaster \u263a\ud83d\udd2b\ud83c\udf78", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Let's just hope Nene isn't too hurt. Day to day instead of week to week, please. #praying #basketballgods", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user |Answer 2- More than 150 artists |#WinSunburnPasses", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So glad i work mornings now", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "OMG YES. 7:30 FINALS ON A FRIDAY ARE MY FAVORITE. \ud83d\ude0d\u2764\ufe0f\ud83d\udc81", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "There's a reason I don't tell my parents anything, cause I always get THE most positive responses", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I guess my cat also lost 3 pounds when she went to the vet after I've been feeding her a few times a day.||#Eating|#food| |#WorkingOut", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user  gay but I bang that", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Where you our #ShamiWitness now?  |\"@Dannymakkisyria: The gunman is also said to be monitoring social media activity #sydneysiege\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Porygon2 #are  found in the www.monstermmorpg. com #wild. bulbiest follow @user #working", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Your cyber Monday sale got extended? No fucking way!  #stfu", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Thank u to all u beautiful ppl that talk extra loud when I'm trying to watch tv I love you guys so much  #srslyofALLrooms", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Can't wait for next year when it's a Cyber Month Sale.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user wow u brought down xbox live arnt you amazing  why don't you do something more productive like grow up", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user COD AW SERVERS #OFFLINE", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Day 9 \"something your reading\" #decemberchallenge #lovehistory#lovenonfiction..\u2705 @ Our Cosy House", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user @user @user @user Ya welcome hunny\ud83d\udc8b", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I before \"E\" except after \"C,\" right? What about in \"W-E-I-R-D?\"  #Tshirt #RulesWereMadeToBeBroken?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Cause of all the things in life this seems to be in #Balance. |Music- Medicine, @user - Doctor|#SuperDayLineUp", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user @user with their SEC bias right now:", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It's too early to be awake! \ud83d\ude16", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user huge congrats on signing! Couldn't be happier for you & the fam. ||How's the view from Everest? |#OriginalPatNeshekFanClubMember", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "people speaking of law to protesters who are fighting for justice themselves...  #ModelTownNotForgotten #PAT #PTI #GoNawazGo", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "love taking the subway alone at 2:40am", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Christmas part two began at my parents house today.Many gifts,mountains of wrapping paper,excited nephew,missing batteries, veggie chilli.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm glad H & M has employed enough staff today.  #nohelp #terrible", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My dad's such a big kid on Christmas morning waking everyone up so bloody early", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user The wind is your friend", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Fell asleep @ 8:30pm, woke up at 12:00am. Can't get back to #sleep. I had almost forgotten about you #insomnia - welcome back.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So far today: 1 ruined mug, I've cried twice, I've gotten 0 things on my To-Do List done and I'm 100% furious. #GoodStartToTheDay", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user damnit dude I'll see you when I get back though", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user street lights on during the day in Clayville, Olifantsfontein. This should not be happening with #loadshedding problems. -on", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Literally cried when I woke up because I know what this day has in store for me #TheStartOfTechWeek  Ready #JustShootMeKnow", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "in #Iowa. Anti-Union Governor #Branstad having inauguration & ball at #CommunityChoice Credit Union Center. A slap to #AFSCME #Homan", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Meh...i don't think I'm a suit person.|~ Neil Caffrey||#TvQuotes|#WhiteCollar", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Hehehehe \"@Trevoredgar86: @user @user what a shame \"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Lol... That's real cute \ud83d\ude12", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "am really fuckin paying for it today #tequila #is  #the #one", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "is that @user calling that show a train wreck.  Way to respect the guest, guys", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ceeeeebz work, allow dat ting fam", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The winner goes to this stocking! They bribed me. ;)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "alot-still not sussed out how yo keep in touch with peop!e via twitterTwitterversary", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Cheers to another good day...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user YES! Vote for SATAN (@HillaryClinton) in 2016!!!!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Now I see why this play wasn't reviewed. Because it wasn't even close.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#marleyandme RT @user Sources tell @user and me that Dodgers are showing serious interest in Jon Lester.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "just one of those nights \ud83d\ude14", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user If I can make it out there, I'd love to have a beer (or ten) and talk baseball. You're a good dude.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user are actually going to contact me rather than just apologising via Twitter?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Overcast at Creso. #todayimloving #beachwalk #crescenthead", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Queens Of The Stone Age no Rock In Rio \u00edcias #queensofthestoneage #rockinrio", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Probably just scarred the cleaning lady half to death because she didn't know I was home.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Weeeeee! You too! I love that xbox live and playstation network are down due to hackers on Christmas.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Men with shaved heads are perceived as an inch taller and 13% stronger than men with hair. @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Look really awake and like I've made an effort today", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user You need to, it's an experience to say the least", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love dating shows ! My favourite is Strictly come dancing, so good when it works out for them !", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Awh I love her replies, they get me feeling all types of ways!  #noreplies #StoryOfMyLife", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The people supporting police violence seem to be the same assholes that scream about government over-reach.  #cognitivedissonance", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "decided to do a really fun thing, left myself 15 hours to sit an exam and write 3 x min. 1000 word essays", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user That'll work...  #HellBeFiredinElevenMonths", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Autoincorrect strikes again. \"...than it's worth.\"", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user You are freer in Bethlehem than you would be anywhere in rest of the Arab world!   much", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Wow I love school", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user yea they keep bardgin in on stuff they dont even care for. get a hobby sjws! |also Babymetal is nice.^^", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I wish I could make people like my personality", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The world is such a smiley place. \ud83d\ude33", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Yay for no longer having a vehicle!  \ud83d\ude14\ud83d\ude1e", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Me: So yall forced me to call in to keep my price the same? BH: *silence* Me: *where is google fiber* #ilovebrighthouse", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ahh gotta love those December electric bills.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": ": When some naturopaths sell \"aromatic\" herbs the way apothecaries sell noxious poisons. #Naturopath=#Apothecary #Herb=#Poison", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Wow I really have the best luck known to man  \ud83d\ude05", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The two constables -- Veer Pal Singh Yadav and Avnish Yadav - did not have any criminal record. - NDTV||", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm officially on Twitter!### sure what to do after all these pound signs?!?!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Lol. Imagine being gay and working in a fudge packing factory.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Buffalo sports media is smarter than all of us. Where else can you get the quality insight offered by Harrington and Busgaglia.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "In Scotland ( the little country that's attached to the north of England) \ud83c\uddec\ud83c\udde7\u2744\ufe0f", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user do you ever wonder is some shit you would think of @user \ud83d\ude02", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Backs killing me today \ud83d\ude2c #tramadol", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I've honestly never even watched A Christmas Story. I've only seen random parts.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I'm sure you're all inconsolable", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I wish a mf would \ud83d\udc4a\ud83d\udc4a| my day!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user it's no fair that u get to have a lie on & I'm up early for College and it's bloody freezing\ud83d\ude8d\u2744\u26c4\ud83d\ude0b  #fair #lucky #duck", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "tramp shit #youoweme #follow", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It's super duper fun waking up and immediately shoveling your car out of your driveway for 20 minutes  #fuckinsnow", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I feel like crap today. So instead of Redbull I'm drinking something healthy. #NewYearNewMe  #TotallyStillGoingToDrinkTheRedbull", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Aah yes rajneesh saab lol controversial figure he was", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So now its Hamilton on a Monday night? Thanks @user for all those evening games you give us, saturday football is overrated!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user your Irish fans can't wait.... Impossible to get ticket ... Boo hoo!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Thank you for staying Tom!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user yeah in the \"honour\" of the picture those lyrics sketched ... \ud83d\ude33", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Why not? The House Committee has been very informative thus far!!!  |#UniteBlue", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love running on 3 hours of sleep..  #ijustwannasleep \ud83d\ude15", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "From our upstairs neighbors deciding to do a load of laundry at 12am, to the 1:30am freight train, falling asleep is working out great!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#succes #it #is  #about #what #we #see #if #we just #keep #hope #and #never #give #up #success #is...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "girl#beautiful#short#nose#tall#but#toshort#selfieeee <3:*", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Going to the game tonight by myself sounds so fun", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It's freezing out there & very hazy .... Just want to go home.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Haven't been to sleep. Feeling AWESOME.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user BREAKING: #realjournalist bullying major problem in nation's high schools.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "3 episodes left I'm dying over here", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Where I am  @ Boys Town", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user stoked...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user @user there's a link somewhere just can't quite put my finger on it", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm in the back chilling for now on , if I don't keep it contact with you or hit you up don't get mad I'm just on some other shit \ud83d\udeb6", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'll keep this smile on my face to get myself through this bullcrap, instead of breaking down like usual.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user why all the delays?  happy", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Lights went off at my school so now we trying to learn with one emergency light on in the classroom how great!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user well aren't you the brightest bulb in the chandelier?", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Your friends will bring you down because they fucked up what they had males & females  me fool !", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sunset for January 04, 2015 at 04:39PM! Temperatures: 6\u2103. It's Partly Cloudy.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user FUT14 ofc, the corners <3___<3 they where faaaantastic", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "A chunk of my hair got stuck in the blow dryer and I had to cut it out... That's always fun..  \ud83d\ude11", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "> @user Google Drive Review", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The UofL student ticket policy is such a well thought out plan, good job SGA.  #ihateyou", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user If #BJP joins with PDP, then CM will be of PDP. Only way to have a #HINDU #CM is to take support of Abdullah family", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#BBC #News -- #Denmark #challenges #Russia and #Canada #over #North #Pole.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Nobody can deny this. #career #gita such a #profound word.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "That was one long walk \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c #GoMe", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user don't say anything... just retweet it @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The spicy cali roll is just cali roll with a dab of sauce on it W T F", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#MTVStars Justin Bieber|#net  #fast", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#TeenAnalCasting #Katarro Katarro Anal &#8211; About a Girl [Nirvana Cover]", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user you are sleeping? Wake up the next AC game has been leaked!!!!! #ACVictory", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Accidentally breaking your own computer when your tech support! Haha , talk about employee of the month  #techSupport \ud83d\udcbb\ud83d\udcbe\ud83d\udd2b", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Fact: #StarTrek adult onesie meets clothing requirements 4 Walmart employee. Just put on yr vest & a smile.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "My dads letting me drywall with him for Christmas. Just what I always wanted.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Good thing I gotta work today \ud83d\udc4d", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Go get it you broke ass bitches. my fault", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I can't remember the last time I saw a newish GTi and have only ever seen 1 Golf R. What has changed?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Has @user @user shown up to speak with #ZemirBegic family yet?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "well I clearly wrote that last tweet", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Pay Ghost Soldiers in Iraq & cut pay of US #Military.  #keepyourpromise @user @user @user", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I liked .. Don't regret anything that made you smile... Ha ha", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Spider Web Lace Chemise|With lined underwire cups, strappy open back, and adjustable straps and...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Gotta love when you shake someone's hand and they shiver... It's official, I have death hands and it is now winter! #coldhandswarmheart", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Sysdig Cloud - The Fascinating World of Linux System Calls < reminds me of my Solaris dtrace days in early 2000's", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Can anyone tell iv been uploading items onto depop today lol  #lotsofdepopuploaded", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Tomorrow will be a great day...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Those that are  #BritishRoyalty should Not presume #Titles or do any #PublicDuties", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Air Passenger Duty for under 12s to be abolished. AT LAST! Something to help the homeless and impoverished! #AutumnStatement", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Why does Zayn look like a Spanish flamingo dancer", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user better bust out my aluminum hat!!!!  #chemtrailsdontexist #growup", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user a ghostwriter? Shocked...", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user yeah. I hated it. :)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "..what a great start to my day", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user that's funny", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Getting ready to ship surplus ink cartridges out to Nunavut communities- yup that's a great use of time/resources! #sofulfilled", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Looking forward to doing my 4 page essay tonight \ud83d\ude0b seems like fun", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "It is so rewarding to work in a place where the teachers and students have been reduced to nothing but numbers and test scores.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The  of how worst films become must see #films:", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Florida authorities say 1 police officer shot and killed #Florida #TarponSprings #TampaBay", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I believe it is about #indoctrination &  religious indoctrination either; but indoctrination into the future groups of #Lefties.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I accept him the way he is...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Had a nice 3 hour nap. Picking up my Chinese take-out and set to watch #GuardiansOfTheGalaxy @user I added water chestnuts to my dinner", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "When your  is so advanced people actually think you are #stupid..", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user accordng 2 lawyrs, evidence supported both sides, could hav supportd many differnt scenarios, warranting indictment", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "When one ear breaks on your headphones it's so frustrating!  #today", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I keep telling my friends I'm busy they need to stop blowing me up but they just can't stop", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "\ud83c\uddeb\ud83c\uddf4\ud83c\uddf1\ud83c\uddf1\ud83c\uddf4\ud83c\uddfc THIS:|#TSU website now worth $1.5 Million!||You get paid for posting!|http://t.co/OXybfwwWb6", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user     and how many animals does peta kill every year.|#hypocrisy #idiots|might want to point CID inward!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "House adjourned again. With this pace, dont expect the ache din to come to Parl n u cnt blame d Modi Govt fr this  #RajyaSabha", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "you have no argument because you're insane|@RBRNetwork1 @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "So glad all that voting was put to good use!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "How much more stupid can people get..?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love that my body can't handle school stress and makes me physically sick.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "i just loveee bein short and having my sweatpants go all the way under my feet its so fun... \ud83d\udca9", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "But nooooo we have religious freedoms, no one ever gets controlled or oppressed by a dominant religion", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Just walked #Frodo's path from #LOTR in #LOTRO ...geek quota for the week is already met :-p Here's the start...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Q: What is slower than Pakistan batting?|A: PTCL Evo #pakvnz", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Oh the  @user .@David_Cameron You would not need to take to twitter to peddle piffle", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user good old JK landing people in trouble again, ffs William i thought you were more savvy than that", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user stuff press write about it literally ridiculous!Would it be harsh to point out the lack of literacy here? #ghostwriter", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I need my own pillow to fall asleep mymalsh", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user But still bothers me that I see now follow up report.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Physical therapy at 8 am is just what I want to be doing with my Friday  #iwanttosleep", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user I'd prefer the slew of #Ferguson protestors across the US...they stop traffic shut dwn bridges", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Paul believes Rubby, Webster, Kelly, etc. are bad players based on '15 projections. I believe in their upside.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "#Arizona #Court #Of #Appeals #Decides  #To #Retry #Milke: Thursday the Arizona Court of Appeals ordered a lower...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm not really sure how I'm still alive and writing this paper right. Napping instead of sleeping on the weekends isn't cutting it #finals", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "When someone on a conference call talks about \"housekeeping items\". Grrr.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "FIND SXY LOV ON YOUR MOBILE >>>  #twink #engine #goldenkrust #greensmoothiegirl", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user I don't blame you bro, if i was married to @user I too would support Milan \ud83d\ude0a", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I love when I wake up grumpy  #effroommates #yourtooloud #personalalarmclock #notnecessary #bequieter #ugh", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user yeh but its still unclear you know.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Try to ring @user about a plumbing issue. Her phone goes off upstairs with Super Mario theme tune  #retrogaming", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Video: By @user \"@dipmagazine #wifeyseries Drops Today, with #covermodels @user and...", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "JFK BAGGAGE IDIOTS ACCUSED OF STEALING SHIT RIGHT OUTA YOUR LUGGAGE!|SHOCKED?|UMMMM SO |THEY HIRE MORONS!|PUT THE ARMY IN THERE!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Its a marshmallow world in the winter \ud83c\udfb6 #getthisoutofmyhead", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "What a shock. Duke Johnson is hurt in an important game.  #canes", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Rants about being pregnant and judged for buying a bottle of wine. Poses weekly for belly pics in front of wine rack.  or #fail ?", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Ready to conquer the day\ud83d\ude1c  @user #leavemealonemom #my2fave\u2764\ufe0f#bahhumbug", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Waa mockingjay part 2 tahon depan meh 20 Nov 2015 wtvr Night at the museum 3 #mustwatchb4decemberendssobssobs", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Goal of the Season 1970: GOAL 1. Jon Sammels #ARSENAL vs #manutd @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Used my brains and stopped drinking at 8 and been on the tea feeling sober and good.. Bring on tomorrow \ud83d\ude18\ud83d\ude18", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "go subscribe @user on youtube for good music", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Planned on an early night last night.. Oh yaa course that happened..  #gotinterupted", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I just earned the 'Photogenic Brew (Level 21)' badge on @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Those who failed to develop hair on their bald hear are talking abr development", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "But someone selling a pack of cigarettes gets a death penalty  #EricGarner", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Free chocolates and free delivery with all flower orders from Bunches.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'M NOT GONNA ASK YOU FOR FOLLOWING. Your own decision.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I feel she didn't love me :/ :( :( #im  #ok", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Drinking an 925 IPA by @user @ Ground Control -- #photo", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Quel domage  RT @user No Canada: Bills in TO series, which was a colossal flop, has been cancelled #CFL #NFL", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Abraham was actually from modern day Iraq (Ur of the Chaldea) @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user which one is more disturbing dan? Tickling an elf's\ud83c\udf46 or biting it..... #philisinnocent  \ud83d\ude01\ud83d\udd2b", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user haha that's cool! I had a feeling I'd need a  considering the actual racist comments. Keep up the good fight ;)", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user @user Let the Western bastards bank accounts freeze in the dark!  #seewhatidid #readpeople", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "FALSE, slavery was based on economics, @user @user @user @user @user @user", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}

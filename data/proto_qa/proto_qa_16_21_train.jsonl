@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name something you need in order to make a garden.", "output": "seeds", "options": []}
+{"task": "proto_qa", "input": "name something people have to empty on a regular basis.", "output": "trash can/garbage", "options": []}
+{"task": "proto_qa", "input": "name something that gets frosted.", "output": "cake", "options": []}
+{"task": "proto_qa", "input": "name a kind of beam you wouldn't want to balance on.", "output": "light/sun beam", "options": []}
+{"task": "proto_qa", "input": "name an animal you might see at the zoo.", "output": "elephant", "options": []}
+{"task": "proto_qa", "input": "name a movie or tv show about gangsters", "output": "sapronas", "options": []}
+{"task": "proto_qa", "input": "name someone you might offer a ride to.", "output": "friends", "options": []}
+{"task": "proto_qa", "input": "name something about winnie the pooh that is different from real bears.", "output": "can talk", "options": []}
+{"task": "proto_qa", "input": "name something you might bring to your kid's high school football game", "output": "blanket", "options": []}
+{"task": "proto_qa", "input": "name a school supply that you haven't used since you were young.", "output": "crayon", "options": []}
+{"task": "proto_qa", "input": "name something that is different about writing a research paper on a computer than on a typewriter.", "output": "faster editing", "options": []}
+{"task": "proto_qa", "input": "name something a dad might teach his kids to do.", "output": "play sports", "options": []}
+{"task": "proto_qa", "input": "name something in your house that has numbers on it", "output": "phone", "options": []}
+{"task": "proto_qa", "input": "name the first thing you would replace if you came into some money.", "output": "car", "options": []}
+{"task": "proto_qa", "input": "name a place where youd find colorful neon lights", "output": "las vegas", "options": []}
+{"task": "proto_qa", "input": "name something that is known for producing a lot of offspring.", "output": "rabbit", "options": []}

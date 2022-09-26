@@ -1,0 +1,8 @@
+{"task": "lama-conceptnet", "input": "Civilization is [MASK].", "output": "unnatural", "options": []}
+{"task": "lama-conceptnet", "input": "A gun is for [MASK].", "output": "shooting", "options": []}
+{"task": "lama-conceptnet", "input": "Something you might do while jogging is [MASK].", "output": "whistling", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is pupil grouping.", "output": "Class", "options": []}
+{"task": "lama-conceptnet", "input": "Walking is a type of pedestrian [MASK].", "output": "locomotion", "options": []}
+{"task": "lama-conceptnet", "input": "The fourth [MASK] in the solar system is Mars.", "output": "planet", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is not book.", "output": "Story", "options": []}
+{"task": "lama-conceptnet", "input": "You are likely to find an anemone in the [MASK].", "output": "oceanb", "options": []}

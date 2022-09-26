@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "Hand on my heart, this much is true, there's NO life apart from you. #LayMeDown #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Reason 847 I don't believe in God: attacked by a waterbug.*shudders* #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I bind and rebuke the angel of light in the name of Jesus -2 Cor. 11:14 #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "You'd be blind not to see that this amazing moment in time is not being celebrated by religious zealots. #LoveWins #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "AtheistQ \"Men never commit evil so fully and joyfully as when they do it for religious convictions.  -Blaise Pascal #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "One don't have to kill the old ones for a newly born !   #Life #Humanity #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Any sane person who advocates positive change in the world would be against religion. It's easy to see the damage it does. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I'm not reading that mother fucking book because a human wrote it! #religiousfreedom #Humanslie #SemST", "output": "favor", "options": ["against", "favor", "none"]}

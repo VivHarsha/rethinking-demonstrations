@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "Kyustendil Province is located in [MASK] .", "output": "Bulgaria", "options": []}
+{"task": "lama-trex", "input": "Algeria shares border with [MASK] .", "output": "Niger", "options": []}
+{"task": "lama-trex", "input": "Japan maintains diplomatic relations with [MASK] .", "output": "Italy", "options": []}
+{"task": "lama-trex", "input": "Detective Conan is a [MASK] .", "output": "anime", "options": []}
+{"task": "lama-trex", "input": "The official language of Guernsey is [MASK] .", "output": "French", "options": []}
+{"task": "lama-trex", "input": "Vermont shares border with [MASK] .", "output": "Massachusetts", "options": []}
+{"task": "lama-trex", "input": "The capital of Japan is [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-trex", "input": "Jordan shares border with [MASK] .", "output": "Israel", "options": []}

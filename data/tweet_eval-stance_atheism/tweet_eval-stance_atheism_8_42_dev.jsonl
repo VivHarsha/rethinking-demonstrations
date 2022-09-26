@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "Mathew 8:3 \"Jesus reached out his hand and touched the [leper].\" Are you willing to #love the unlovable? #christ #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "St. Philomena, invincible champion of chastity, pray for us. #Catholic #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Sikhism is not any better either, we have to finish all religions. ;-) @user @user @user @user @user #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Anyone can feel the ache You think it's more than you can take  But you're stronger than you know  #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "In other news, this week FoxNews lost half its viewers due to heart attacks. Well, at least they have Obamacare.    #UniteBIue #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Satan is busy, but GOD is in control #God #Spiritual #Motivation #Relax #NoWorries #Strength #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Today I am glad to have one more reason to be proud of the country I live in:) #lovewins #LGBT #SCOTUS #freedom #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I stand for: #equality #fairness #HumanRights #logic #rational thought #freedom #freedomofspeech   I care  I am an #SemST", "output": "none", "options": ["against", "favor", "none"]}

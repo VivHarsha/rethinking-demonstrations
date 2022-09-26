@@ -1,0 +1,8 @@
+{"task": "tweet_eval-hate", "input": "US government will take Palestine refugees the endless hope to go back home. Back to their homeland. New US politics will make Palestine refugees officially \"stateless\".", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "IT NEVER ENDS! #BuildTheWall #BuildThatWall !!!!!!!", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "If You Wanna Be Stupid Over Some Dick Do Your Thang Sus \ud83e\udd23\ud83e\udd37\ud83c\udffd\u200d\u2640\ufe0f Im Jus Not Gone Fwu Nomore \ud83d\udde3\u2705\ud83d\udcaf", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user Girl people really do that, like damn bitch you so selfish you don\u2019t wanna rt me and get me clout", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "In solidarity, Germany to take in 50 migrants rescued in Med", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "@user @user Fuck love a loose kunt you can jack off into", "output": "non-hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "I wonder if rick will make another deal with those crazy ass women \ud83e\udd14 and if that crazy ass nigga will actually hoe Daryl again \ud83d\ude10", "output": "hate", "options": ["hate", "non-hate"]}
+{"task": "tweet_eval-hate", "input": "If there's something I definitely don't give a fuck about, it's definitely anything", "output": "non-hate", "options": ["hate", "non-hate"]}

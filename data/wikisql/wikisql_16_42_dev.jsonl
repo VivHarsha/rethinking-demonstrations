@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "What is the total ranking when there are less than 16 draws, less than 1 point, and the English translation is in love with you?", "output": "SELECT SUM Place FROM table WHERE Draw < 16 AND English translation = in love with you AND Points < 1", "options": []}
+{"task": "wikisql", "input": "Which Ratio as % has a Ratio of 8/9?", "output": "SELECT Ratio as % FROM table WHERE Ratio = 8/9", "options": []}
+{"task": "wikisql", "input": "What is the Early Modern English phonology used in the example b\u014dg > \"bough\"; pl\u014dg > pl\u014dh > \"plough\"?", "output": "SELECT Early Modern English FROM table WHERE Example = b\u014dg > \"bough\"; pl\u014dg > pl\u014dh > \"plough\"", "options": []}
+{"task": "wikisql", "input": "What is the greatest Wins with Matches smaller than 5, and a Year of 1994?", "output": "SELECT MAX Wins FROM table WHERE Matches < 5 AND Year = 1994", "options": []}
+{"task": "wikisql", "input": "What ranking is the Battersea Power Station?", "output": "SELECT Rank FROM table WHERE Name = battersea power station", "options": []}
+{"task": "wikisql", "input": "What pick number was the player that was picked by Edmonton?", "output": "SELECT Pick # FROM table WHERE CFL Team = Edmonton", "options": []}
+{"task": "wikisql", "input": "What was the location of the fight when Gassaway fought kevin knabjian?", "output": "SELECT Location FROM table WHERE Opponent = kevin knabjian", "options": []}
+{"task": "wikisql", "input": "How many points did the song \"Stille f\u00f8r stormen\" get?", "output": "SELECT MIN Total Points FROM table WHERE Song = \"Stille f\u00f8r stormen\"", "options": []}
+{"task": "wikisql", "input": "Wht years did truck robinson play?", "output": "SELECT Years for Jazz FROM table WHERE Player = Truck Robinson", "options": []}
+{"task": "wikisql", "input": "Which Score has a Couple of cristi\u00e1n & cheryl, and a Style of cha-cha-cha?", "output": "SELECT Score FROM table WHERE Couple = cristi\u00e1n & cheryl AND Style = cha-cha-cha", "options": []}
+{"task": "wikisql", "input": "What is the IUPAC name for chloroform?", "output": "SELECT IUPAC name FROM table WHERE Common name = chloroform", "options": []}
+{"task": "wikisql", "input": "What is the Constituency Number when the Number of Electorates (2003) is more than 156,910, and Reserved for sc?", "output": "SELECT Constituency number FROM table WHERE Number of electorates (2003) > 156,910 AND Reserved for ( SC / ST /None) = sc", "options": []}
+{"task": "wikisql", "input": "What was John Jones's pick#?", "output": "SELECT SUM Pick FROM table WHERE Player = john jones", "options": []}
+{"task": "wikisql", "input": "Which runner(s)-up had a Winning score of \u201313 (68-70-66-71=275) and a Margin of victory of 3 strokes?", "output": "SELECT Runner(s)-up FROM table WHERE Margin of victory = 3 strokes AND Winning score = \u201313 (68-70-66-71=275)", "options": []}
+{"task": "wikisql", "input": "What is the number of people in attendance when Tonbridge Angels is the opponent?", "output": "SELECT Attendance FROM table WHERE Opponent = tonbridge angels", "options": []}
+{"task": "wikisql", "input": "Which letter has the British a\u026a?", "output": "SELECT Letter FROM table WHERE British = a\u026a", "options": []}

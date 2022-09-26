@@ -1,0 +1,16 @@
+{"task": "quartz-no_knowledge", "input": "A rock has more mass then a pebble. Which object will exhibit a greater force of attraction?", "output": "rock", "options": ["rock", "pebble"]}
+{"task": "quartz-no_knowledge", "input": "When you have a lot of factories in an area the level of trash will", "output": "increase", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "A genotype with good fitness will likely produce _____ offspring than a more fit one.", "output": "more", "options": ["more", "less"]}
+{"task": "quartz-no_knowledge", "input": "If there are two equal-volume objects, the least dense object will be the one with _____ mass.", "output": "lower", "options": ["higher", "lower"]}
+{"task": "quartz-no_knowledge", "input": "As a diver goes into shallow water, the water gets", "output": "warmer", "options": ["warmer", "colder."]}
+{"task": "quartz-no_knowledge", "input": "If Milo is out exploring and he comes across two glaciers, each with their own u-shaped valley, will the smaller or larger glacier have a larger u-shaped valley?", "output": "larger glacier", "options": ["larger glacier", "smaller glacier"]}
+{"task": "quartz-no_knowledge", "input": "If one trains aerobic exercises, their heart muscles will become", "output": "stronger", "options": ["stronger", "weaker"]}
+{"task": "quartz-no_knowledge", "input": "Jan had a very low heart rate, but was perfectly healthy, indicating that her heart expels blood in amounts that are", "output": "greater", "options": ["greater", "lesser"]}
+{"task": "quartz-no_knowledge", "input": "Bob's blood glucose levels have increased, which means he should also be producing _____ insulin.", "output": "more", "options": ["less", "more"]}
+{"task": "quartz-no_knowledge", "input": "Dan is watching the ship approach the dock. While the ship is near him, it is massive. However, as the ship comes closer, it begins to look", "output": "bigger", "options": ["bigger", "smaller"]}
+{"task": "quartz-no_knowledge", "input": "As two objects move closer together, the force of gravity between them", "output": "increases", "options": ["increases", "decreases"]}
+{"task": "quartz-no_knowledge", "input": "When we look at monkeys and humans they have a lot of matching DNA meaning they are.", "output": "similar", "options": ["similar", "very different"]}
+{"task": "quartz-no_knowledge", "input": "Greta has 15 resistors in series on her circuit, while Evan has 2 similar resistors in series on his circuit. Whose circuit has the greatest resistance?", "output": "Greta", "options": ["Greta", "Evan"]}
+{"task": "quartz-no_knowledge", "input": "Ollie is a rocket scientist and was testing missiles. Better missiles likely result in _____ rockets.", "output": "better", "options": ["worse", "better"]}
+{"task": "quartz-no_knowledge", "input": "If Mona is building a new electrical system and she installs thinner wires then were previously there, what can she expect to happen to the resistance of the system?", "output": "increase", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "Tony wanted to prevent cramps by not warming up. This _____ blood flow to his muscles.", "output": "decreases", "options": ["decreases", "increases"]}

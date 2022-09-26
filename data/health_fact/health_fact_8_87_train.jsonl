@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "Doctors, and insurers too, urge patients to get medicine on hand.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Reports have gone viral that Chipotle is closing because of an E. coli contamination linked to its use of dog and cat meat.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Canadian immigrants with \"\"two wives\"\" receive a host of government benefits upon their their arrival.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Why You Should Get the New Shingles Vaccine", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Study links finger length to prostate cancer risk", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "In September 2019, U.S. President Donald Trump signed into law a bill that provides $1.8 billion in funding for autism research and services.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "For women with history of pregnancy loss, walking may aid chance of becoming pregnant", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Chinese Herbs Equal to Tamiflu in Reducing H1N1 Fever: Study", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}

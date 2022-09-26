@@ -1,0 +1,16 @@
+{"task": "health_fact", "input": "Scientifically-designed fasting diet lowers risks for major diseases", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "In a dying act of defiance, Polish dancer and Holocaust victim Franceska Mann shot and killed SS officer Josef Schillinger.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Cargill says 25K pounds of ground beef may be tainted.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Breastfeeding may help protect mothers against stroke", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "WHO says new China coronavirus could spread, warns hospitals worldwide.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Tai Chi Reported to Ease Fibromyalgia", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Facebook post Says President Barack Obama \"\"signed the medical appliance tax bill that forced companies to outsource manufacturing of masks, gowns, gloves and ventilaors [sic] to China, Europe and Russia to avoid the tax.\u201d\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Medical breakthrough? New procedure fights tumors", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Embattled \u201c7th Heaven\u201d actor   Stephen Collins has committed suicide.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Lilly drug reduces stent clot risks, study finds.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Bram Stoker's novel 'Dracula' features a titular vampire who cannot expose himself to sunlight and is killed with a wooden stake.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Washington state Sen. Maureen Walsh said nurses \"\"play cards for a considerable amount of the day.\"\" \"", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Graham crackers were named for a man who believed unhealthy diet led to sexual excess.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Florida Democratic Party Says Rick Scott gave a deposition in which he invoked the Fifth Amendment 75 times about his dealings as head of Columbia/HCA hospital chain", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Our (COVID-19) numbers are better than almost all countries.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "In the early 1900s, sideshow operator Dr. Martin Couney intervened for premature babies in a way that medical care at the time did not.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}

@@ -1,0 +1,1222 @@
+{"task": "lama-google_re", "input": "Donald McGauchie was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "George Hutchins Bingham died in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Edmundo Farolan was born in [MASK] .", "output": "Manila", "options": []}
+{"task": "lama-google_re", "input": "Hugh Fraser, 1st Baron Fraser of Allander was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Andrew Kirkpatrick (born [MASK]).", "output": "1971", "options": []}
+{"task": "lama-google_re", "input": "Jimmie Kersmo (born [MASK]).", "output": "1979", "options": []}
+{"task": "lama-google_re", "input": "Michael Hosking was born in [MASK] .", "output": "Singapore", "options": []}
+{"task": "lama-google_re", "input": "Huguette Caland (born [MASK]).", "output": "1931", "options": []}
+{"task": "lama-google_re", "input": "Benjamin Sonnenberg (born [MASK]).", "output": "1901", "options": []}
+{"task": "lama-google_re", "input": "Spiro Zavos was born in [MASK] .", "output": "Wellington", "options": []}
+{"task": "lama-google_re", "input": "Laurence Stallings was born in [MASK] .", "output": "Macon", "options": []}
+{"task": "lama-google_re", "input": "Henry Howell was born in [MASK] .", "output": "Richmond", "options": []}
+{"task": "lama-google_re", "input": "Carlo Giuseppe Ratti was born in [MASK] .", "output": "Genoa", "options": []}
+{"task": "lama-google_re", "input": "Marthe Chenal was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Johannes Emde (born [MASK]).", "output": "1774", "options": []}
+{"task": "lama-google_re", "input": "Brian Bram was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Nikolai N. Kolesnikov (born [MASK]).", "output": "1959", "options": []}
+{"task": "lama-google_re", "input": "Eddie Dugan (born [MASK]).", "output": "1892", "options": []}
+{"task": "lama-google_re", "input": "\u00c1kos Cs\u00e1sz\u00e1r was born in [MASK] .", "output": "Budapest", "options": []}
+{"task": "lama-google_re", "input": "Gianfelice Rocca (born [MASK]).", "output": "1948", "options": []}
+{"task": "lama-google_re", "input": "Elie Rekhess was born in [MASK] .", "output": "Haifa", "options": []}
+{"task": "lama-google_re", "input": "Valdo Spini was born in [MASK] .", "output": "Florence", "options": []}
+{"task": "lama-google_re", "input": "Howard Griffiths was born in [MASK] .", "output": "Wales", "options": []}
+{"task": "lama-google_re", "input": "William Birch died in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Pere Johan (born [MASK]).", "output": "1400", "options": []}
+{"task": "lama-google_re", "input": "\u00c9douard Gagnon died in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "John Petrie died in [MASK] .", "output": "Brisbane", "options": []}
+{"task": "lama-google_re", "input": "Romola de Pulszky died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Gunnar Samuelsson was born in [MASK] .", "output": "Lima", "options": []}
+{"task": "lama-google_re", "input": "Herbert James Carter was born in [MASK] .", "output": "Marlborough", "options": []}
+{"task": "lama-google_re", "input": "Shraddha Jadhav (born [MASK]).", "output": "1964", "options": []}
+{"task": "lama-google_re", "input": "Kimiko Kasai was born in [MASK] .", "output": "Kyoto", "options": []}
+{"task": "lama-google_re", "input": "John Sage died in [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-google_re", "input": "Joe Caccia was born in [MASK] .", "output": "Naples", "options": []}
+{"task": "lama-google_re", "input": "Kenneth A. Hersh (born [MASK]).", "output": "1963", "options": []}
+{"task": "lama-google_re", "input": "Charlene McMann was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "John B. Snook was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Clifford Grodd died in [MASK] .", "output": "Manhattan", "options": []}
+{"task": "lama-google_re", "input": "Francesco Gullino (born [MASK]).", "output": "1946", "options": []}
+{"task": "lama-google_re", "input": "Eric Boniface was born in [MASK] .", "output": "France", "options": []}
+{"task": "lama-google_re", "input": "Mike Shank was born in [MASK] .", "output": "Columbus", "options": []}
+{"task": "lama-google_re", "input": "Mahamoud Adam B%C3%A9chir (born [MASK]).", "output": "1965", "options": []}
+{"task": "lama-google_re", "input": "Thibaut de Longeville (born [MASK]).", "output": "1974", "options": []}
+{"task": "lama-google_re", "input": "Keppel Harcourt Barnard was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Norman Mann was born in [MASK] .", "output": "Bradford", "options": []}
+{"task": "lama-google_re", "input": "Rudolf von Erlach was born in [MASK] .", "output": "Bern", "options": []}
+{"task": "lama-google_re", "input": "Albert Pratz was born in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "Thomas Kirk was born in [MASK] .", "output": "Coventry", "options": []}
+{"task": "lama-google_re", "input": "Ira Forman (born [MASK]).", "output": "1952", "options": []}
+{"task": "lama-google_re", "input": "Samuel Partridge was born in [MASK] .", "output": "Norwich", "options": []}
+{"task": "lama-google_re", "input": "John Baird was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Thomas Kelso died in [MASK] .", "output": "Baltimore", "options": []}
+{"task": "lama-google_re", "input": "Justin Hickey was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Giuseppe Schir\u00f2 Di Maggio (born [MASK]).", "output": "1944", "options": []}
+{"task": "lama-google_re", "input": "Katherine FitzGerald, Viscountess Grandison died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "G%C3%B6khan Bozkaya was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Josette Biyo (born [MASK]).", "output": "1958", "options": []}
+{"task": "lama-google_re", "input": "Maija Grotell died in [MASK] .", "output": "Pontiac", "options": []}
+{"task": "lama-google_re", "input": "Mike Vosburg was born in [MASK] .", "output": "California", "options": []}
+{"task": "lama-google_re", "input": "Claude Pollard died in [MASK] .", "output": "Austin", "options": []}
+{"task": "lama-google_re", "input": "James Adler was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Michael Griffith was born in [MASK] .", "output": "Trinidad", "options": []}
+{"task": "lama-google_re", "input": "Bryn Atkinson was born in [MASK] .", "output": "Canberra", "options": []}
+{"task": "lama-google_re", "input": "Henry Woods was born in [MASK] .", "output": "Bedford", "options": []}
+{"task": "lama-google_re", "input": "Fritz Cronman (born [MASK]).", "output": "1640", "options": []}
+{"task": "lama-google_re", "input": "Dan Clark (born [MASK]).", "output": "1955", "options": []}
+{"task": "lama-google_re", "input": "Joseph Montgomery died in [MASK] .", "output": "Harrisburg", "options": []}
+{"task": "lama-google_re", "input": "Aurel S. Croissant was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Bikash Sinha (born [MASK]).", "output": "1945", "options": []}
+{"task": "lama-google_re", "input": "Richard E. Council was born in [MASK] .", "output": "Tampa", "options": []}
+{"task": "lama-google_re", "input": "Ivan Itkin (born [MASK]).", "output": "1936", "options": []}
+{"task": "lama-google_re", "input": "Laurent Belissen died in [MASK] .", "output": "Marseille", "options": []}
+{"task": "lama-google_re", "input": "Giancarlo Primo was born in [MASK] .", "output": "Italy", "options": []}
+{"task": "lama-google_re", "input": "John Rinehart Blue (born [MASK]).", "output": "1905", "options": []}
+{"task": "lama-google_re", "input": "John Richardson, Jr. (born [MASK]).", "output": "1921", "options": []}
+{"task": "lama-google_re", "input": "Edwin Grant Dexter was born in [MASK] .", "output": "Calais", "options": []}
+{"task": "lama-google_re", "input": "Baruch Arensburg was born in [MASK] .", "output": "Santiago", "options": []}
+{"task": "lama-google_re", "input": "Alysa Stanton (born [MASK]).", "output": "1964", "options": []}
+{"task": "lama-google_re", "input": "Liljana Lu%C4%8Di%C4%87 was born in [MASK] .", "output": "Belgrade", "options": []}
+{"task": "lama-google_re", "input": "Luis Simarro Lacabra was born in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "Ricardo Menalda (born [MASK]).", "output": "1965", "options": []}
+{"task": "lama-google_re", "input": "Stephen Haynes died in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Aldo Franchi was born in [MASK] .", "output": "Milan", "options": []}
+{"task": "lama-google_re", "input": "Lyman Tremain was born in [MASK] .", "output": "Durham", "options": []}
+{"task": "lama-google_re", "input": "Daniel Chapman Stillson was born in [MASK] .", "output": "Durham", "options": []}
+{"task": "lama-google_re", "input": "Emily Henrietta Hickey died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Leonard Williams died in [MASK] .", "output": "Napier", "options": []}
+{"task": "lama-google_re", "input": "Eric Swinkels was born in [MASK] .", "output": "Best", "options": []}
+{"task": "lama-google_re", "input": "John Baptist Collins was born in [MASK] .", "output": "France", "options": []}
+{"task": "lama-google_re", "input": "Theodore Baskin was born in [MASK] .", "output": "Detroit", "options": []}
+{"task": "lama-google_re", "input": "Lou Stein was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Erich Werdermann was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Gerald Palmer was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "George Throckmorton died in [MASK] .", "output": "Italy", "options": []}
+{"task": "lama-google_re", "input": "Philip King was born in [MASK] .", "output": "Yorkshire", "options": []}
+{"task": "lama-google_re", "input": "Sheila van Damm died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "John Marshall Evans was born in [MASK] .", "output": "Virginia", "options": []}
+{"task": "lama-google_re", "input": "James Young died in [MASK] .", "output": "Dallas", "options": []}
+{"task": "lama-google_re", "input": "John Lloyd Dorsey, Jr. died in [MASK] .", "output": "Henderson", "options": []}
+{"task": "lama-google_re", "input": "Katharine Furse died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Joe Perham (born [MASK]).", "output": "1932", "options": []}
+{"task": "lama-google_re", "input": "William James Reddin died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Philipp von Stosch died in [MASK] .", "output": "Florence", "options": []}
+{"task": "lama-google_re", "input": "Darius \u0160ilinskis (born [MASK]).", "output": "1984", "options": []}
+{"task": "lama-google_re", "input": "Geraldine Doyle died in [MASK] .", "output": "Lansing", "options": []}
+{"task": "lama-google_re", "input": "Ted Grouya was born in [MASK] .", "output": "Bucharest", "options": []}
+{"task": "lama-google_re", "input": "Nicole Hackett was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Whittington Landon (born [MASK]).", "output": "1758", "options": []}
+{"task": "lama-google_re", "input": "Edna Rose Ritchings (born [MASK]).", "output": "1925", "options": []}
+{"task": "lama-google_re", "input": "Gonzalo Pieres, Sr. was born in [MASK] .", "output": "Argentina", "options": []}
+{"task": "lama-google_re", "input": "Milan Orlowski was born in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Oliver Lanard Fassig was born in [MASK] .", "output": "Columbus", "options": []}
+{"task": "lama-google_re", "input": "Bryan Dubreuiel was born in [MASK] .", "output": "Atlanta", "options": []}
+{"task": "lama-google_re", "input": "David Tzuriel (born [MASK]).", "output": "1946", "options": []}
+{"task": "lama-google_re", "input": "Edward Backwell died in [MASK] .", "output": "Holland", "options": []}
+{"task": "lama-google_re", "input": "Judy Brooke was born in [MASK] .", "output": "Leeds", "options": []}
+{"task": "lama-google_re", "input": "Adrian Lombard was born in [MASK] .", "output": "Coventry", "options": []}
+{"task": "lama-google_re", "input": "Domaine Armand Rousseau (born [MASK]).", "output": "1923", "options": []}
+{"task": "lama-google_re", "input": "Gibor Basri (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Charles Alford was born in [MASK] .", "output": "Somerset", "options": []}
+{"task": "lama-google_re", "input": "Hiba Daniel was born in [MASK] .", "output": "Lebanon", "options": []}
+{"task": "lama-google_re", "input": "E. Riley Anderson was born in [MASK] .", "output": "Chattanooga", "options": []}
+{"task": "lama-google_re", "input": "Michael Grepp (born [MASK]).", "output": "1985", "options": []}
+{"task": "lama-google_re", "input": "Jan Szyszko was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Samuel Dick was born in [MASK] .", "output": "Nottingham", "options": []}
+{"task": "lama-google_re", "input": "Nat Patton was born in [MASK] .", "output": "Texas", "options": []}
+{"task": "lama-google_re", "input": "Mehmet Ali \u0130rtem\u00e7elik was born in [MASK] .", "output": "Istanbul", "options": []}
+{"task": "lama-google_re", "input": "Jay Morago died in [MASK] .", "output": "Phoenix", "options": []}
+{"task": "lama-google_re", "input": "Christoph M. Schmidt was born in [MASK] .", "output": "Canberra", "options": []}
+{"task": "lama-google_re", "input": "John McCaw, Jr. (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Emma Ejwertz was born in [MASK] .", "output": "Sweden", "options": []}
+{"task": "lama-google_re", "input": "George W. Melville died in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Julius Schmid (born [MASK]).", "output": "1865", "options": []}
+{"task": "lama-google_re", "input": "Gottlob Christian Storr was born in [MASK] .", "output": "Stuttgart", "options": []}
+{"task": "lama-google_re", "input": "William Ewart was born in [MASK] .", "output": "Liverpool", "options": []}
+{"task": "lama-google_re", "input": "Theron Metcalf was born in [MASK] .", "output": "Franklin", "options": []}
+{"task": "lama-google_re", "input": "Brian Faloon was born in [MASK] .", "output": "Belfast", "options": []}
+{"task": "lama-google_re", "input": "Joseph Osgood Barrett was born in [MASK] .", "output": "Bangor", "options": []}
+{"task": "lama-google_re", "input": "Charles R. Ray (born [MASK]).", "output": "1938", "options": []}
+{"task": "lama-google_re", "input": "Arthur E. Redfern (born [MASK]).", "output": "1886", "options": []}
+{"task": "lama-google_re", "input": "Foumakoye Gado (born [MASK]).", "output": "1961", "options": []}
+{"task": "lama-google_re", "input": "Kris Lefcoe was born in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Thomas Dempster died in [MASK] .", "output": "Bologna", "options": []}
+{"task": "lama-google_re", "input": "A. G. E. Blake was born in [MASK] .", "output": "Bristol", "options": []}
+{"task": "lama-google_re", "input": "Wells Coates died in [MASK] .", "output": "Vancouver", "options": []}
+{"task": "lama-google_re", "input": "Brian Costello was born in [MASK] .", "output": "Florida", "options": []}
+{"task": "lama-google_re", "input": "Rudy Feldman (born [MASK]).", "output": "1931", "options": []}
+{"task": "lama-google_re", "input": "Michael Shine was born in [MASK] .", "output": "Warren", "options": []}
+{"task": "lama-google_re", "input": "Robert Szczepa\u0144ski (born [MASK]).", "output": "1975", "options": []}
+{"task": "lama-google_re", "input": "Marc Shell (born [MASK]).", "output": "1947", "options": []}
+{"task": "lama-google_re", "input": "Gail Sidonie Sobat was born in [MASK] .", "output": "Calgary", "options": []}
+{"task": "lama-google_re", "input": "Nicholas Riccardi was born in [MASK] .", "output": "Genoa", "options": []}
+{"task": "lama-google_re", "input": "Henry Siddons died in [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-google_re", "input": "Vito Positano died in [MASK] .", "output": "Yokohama", "options": []}
+{"task": "lama-google_re", "input": "Henry Bocking was born in [MASK] .", "output": "Sheffield", "options": []}
+{"task": "lama-google_re", "input": "John Whistler was born in [MASK] .", "output": "Ulster", "options": []}
+{"task": "lama-google_re", "input": "Avi Bortnick was born in [MASK] .", "output": "Israel", "options": []}
+{"task": "lama-google_re", "input": "\u00c9lie Dupuis (born [MASK]).", "output": "1994", "options": []}
+{"task": "lama-google_re", "input": "Jesper Hougaard (born [MASK]).", "output": "1984", "options": []}
+{"task": "lama-google_re", "input": "Marian Hannah Winter died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Kees Maks was born in [MASK] .", "output": "Amsterdam", "options": []}
+{"task": "lama-google_re", "input": "Jane Evelyn Atwood (born [MASK]).", "output": "1947", "options": []}
+{"task": "lama-google_re", "input": "Chris Woodhead was born in [MASK] .", "output": "Edmonton", "options": []}
+{"task": "lama-google_re", "input": "George Fisher was born in [MASK] .", "output": "Franklin", "options": []}
+{"task": "lama-google_re", "input": "Lawrence Kushner was born in [MASK] .", "output": "Detroit", "options": []}
+{"task": "lama-google_re", "input": "Bobby Skafish was born in [MASK] .", "output": "Hammond", "options": []}
+{"task": "lama-google_re", "input": "Herschel H. Hatch died in [MASK] .", "output": "Detroit", "options": []}
+{"task": "lama-google_re", "input": "Robert van Audenaerde died in [MASK] .", "output": "Ghent", "options": []}
+{"task": "lama-google_re", "input": "Henry W. Lee was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "George Percival Ridout died in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "Kenny Brannigan was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Omar Rezaq was born in [MASK] .", "output": "Lebanon", "options": []}
+{"task": "lama-google_re", "input": "Peter N. Wasylyk (born [MASK]).", "output": "1957", "options": []}
+{"task": "lama-google_re", "input": "Edward Kavanagh was born in [MASK] .", "output": "Newcastle", "options": []}
+{"task": "lama-google_re", "input": "Isa Saharkhiz (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "Adolf von Bomhard was born in [MASK] .", "output": "Augsburg", "options": []}
+{"task": "lama-google_re", "input": "John William Thomson was born in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "Anna Kurska was born in [MASK] .", "output": "Lviv", "options": []}
+{"task": "lama-google_re", "input": "Malcolm Edmonstone (born [MASK]).", "output": "1980", "options": []}
+{"task": "lama-google_re", "input": "Aghasi Khanjian was born in [MASK] .", "output": "Van", "options": []}
+{"task": "lama-google_re", "input": "Jim Cochran (born [MASK]).", "output": "1947", "options": []}
+{"task": "lama-google_re", "input": "Rambhau Mhalgi was born in [MASK] .", "output": "Pune", "options": []}
+{"task": "lama-google_re", "input": "Dennis Frank Thompson was born in [MASK] .", "output": "Ohio", "options": []}
+{"task": "lama-google_re", "input": "Zhao Shiyan (born [MASK]).", "output": "1901", "options": []}
+{"task": "lama-google_re", "input": "Nikki Leonti (born [MASK]).", "output": "1981", "options": []}
+{"task": "lama-google_re", "input": "Lodi Gyari (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Anatol Ciobanu (born [MASK]).", "output": "1934", "options": []}
+{"task": "lama-google_re", "input": "Walter Gretzky was born in [MASK] .", "output": "Ontario", "options": []}
+{"task": "lama-google_re", "input": "Santos Amaro (born [MASK]).", "output": "1908", "options": []}
+{"task": "lama-google_re", "input": "Jacob B. Grumet was born in [MASK] .", "output": "Manhattan", "options": []}
+{"task": "lama-google_re", "input": "Tom Skinner died in [MASK] .", "output": "Auckland", "options": []}
+{"task": "lama-google_re", "input": "Tatiana Belokonenko was born in [MASK] .", "output": "Odessa", "options": []}
+{"task": "lama-google_re", "input": "Tania Corrigan was born in [MASK] .", "output": "Auckland", "options": []}
+{"task": "lama-google_re", "input": "Janet Ramsey Johnson was born in [MASK] .", "output": "Adelaide", "options": []}
+{"task": "lama-google_re", "input": "Michael Urbano was born in [MASK] .", "output": "Sacramento", "options": []}
+{"task": "lama-google_re", "input": "Simon Cooke was born in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Hakim Toumi was born in [MASK] .", "output": "Algiers", "options": []}
+{"task": "lama-google_re", "input": "Frederick Pottinger was born in [MASK] .", "output": "India", "options": []}
+{"task": "lama-google_re", "input": "Pete Winslow was born in [MASK] .", "output": "Washington", "options": []}
+{"task": "lama-google_re", "input": "William Cole died in [MASK] .", "output": "Milton", "options": []}
+{"task": "lama-google_re", "input": "Christelle Lefranc was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Kasit Piromya (born [MASK]).", "output": "1944", "options": []}
+{"task": "lama-google_re", "input": "Russell Stannard was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Ulrik Cold was born in [MASK] .", "output": "Copenhagen", "options": []}
+{"task": "lama-google_re", "input": "Efim Etkind (born [MASK]).", "output": "1918", "options": []}
+{"task": "lama-google_re", "input": "Marcello Abbado was born in [MASK] .", "output": "Milan", "options": []}
+{"task": "lama-google_re", "input": "Alison Waters was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Carl Herman Kraeling was born in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Augusto De Marsanich was born in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "Wolfgang Baur was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Hanno Koffler (born [MASK]).", "output": "1978", "options": []}
+{"task": "lama-google_re", "input": "Philip N. Howard (born [MASK]).", "output": "1970", "options": []}
+{"task": "lama-google_re", "input": "Francisco de Osuna was born in [MASK] .", "output": "Seville", "options": []}
+{"task": "lama-google_re", "input": "Aliuska L\u00f3pez was born in [MASK] .", "output": "Havana", "options": []}
+{"task": "lama-google_re", "input": "Pierre de Savoye was born in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Sina Candrian (born [MASK]).", "output": "1988", "options": []}
+{"task": "lama-google_re", "input": "John Conrad Bucher died in [MASK] .", "output": "Harrisburg", "options": []}
+{"task": "lama-google_re", "input": "Arto Sipinen was born in [MASK] .", "output": "Helsinki", "options": []}
+{"task": "lama-google_re", "input": "Tajinder Singh Hayer was born in [MASK] .", "output": "Bradford", "options": []}
+{"task": "lama-google_re", "input": "Jeremy Jackson (born [MASK]).", "output": "1973", "options": []}
+{"task": "lama-google_re", "input": "Frank Cole was born in [MASK] .", "output": "Saskatchewan", "options": []}
+{"task": "lama-google_re", "input": "Janil Puthucheary was born in [MASK] .", "output": "Malaysia", "options": []}
+{"task": "lama-google_re", "input": "Mulai Ahmed er Raisuni (born [MASK]).", "output": "1871", "options": []}
+{"task": "lama-google_re", "input": "Donato Lovreglio died in [MASK] .", "output": "Naples", "options": []}
+{"task": "lama-google_re", "input": "Duo Crommelynck (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Christine Melnick was born in [MASK] .", "output": "Winnipeg", "options": []}
+{"task": "lama-google_re", "input": "Ernesto Pugibet died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Leon Dycian was born in [MASK] .", "output": "Poland", "options": []}
+{"task": "lama-google_re", "input": "Alec Briggs was born in [MASK] .", "output": "Sheffield", "options": []}
+{"task": "lama-google_re", "input": "John Graham was born in [MASK] .", "output": "Derby", "options": []}
+{"task": "lama-google_re", "input": "Ida G. Athens died in [MASK] .", "output": "Cincinnati", "options": []}
+{"task": "lama-google_re", "input": "Omar Harfouch was born in [MASK] .", "output": "Tripoli", "options": []}
+{"task": "lama-google_re", "input": "Joseph R. Chenelly was born in [MASK] .", "output": "Rochester", "options": []}
+{"task": "lama-google_re", "input": "Zak Willis (born [MASK]).", "output": "1967", "options": []}
+{"task": "lama-google_re", "input": "Juan Gasparini (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Ulla Pia was born in [MASK] .", "output": "Copenhagen", "options": []}
+{"task": "lama-google_re", "input": "William Thompson died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Paul Philippe Cret died in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Ryan Barton was born in [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-google_re", "input": "Goro Tameike (born [MASK]).", "output": "1964", "options": []}
+{"task": "lama-google_re", "input": "Gunther O. Hofmann (born [MASK]).", "output": "1957", "options": []}
+{"task": "lama-google_re", "input": "Virginio Colombo was born in [MASK] .", "output": "Milan", "options": []}
+{"task": "lama-google_re", "input": "Howard Griffiths was born in [MASK] .", "output": "Swansea", "options": []}
+{"task": "lama-google_re", "input": "Penny Banner died in [MASK] .", "output": "Charlotte", "options": []}
+{"task": "lama-google_re", "input": "Cipriano de Valera was born in [MASK] .", "output": "Seville", "options": []}
+{"task": "lama-google_re", "input": "Bransby Williams was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Thomas Baines died in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "Marianna Pineda died in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Saradindu Mukherjee was born in [MASK] .", "output": "Kolkata", "options": []}
+{"task": "lama-google_re", "input": "Mike Lantry (born [MASK]).", "output": "1948", "options": []}
+{"task": "lama-google_re", "input": "Namdhari (born [MASK]).", "output": "1920", "options": []}
+{"task": "lama-google_re", "input": "John Elliott Cowdin (born [MASK]).", "output": "1880", "options": []}
+{"task": "lama-google_re", "input": "Lloyd Turner was born in [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-google_re", "input": "Paula Tesoriero was born in [MASK] .", "output": "Wellington", "options": []}
+{"task": "lama-google_re", "input": "Edwin E. Wagner was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Robert Goossens (born [MASK]).", "output": "1927", "options": []}
+{"task": "lama-google_re", "input": "Wu Wenjuan (born [MASK]).", "output": "1981", "options": []}
+{"task": "lama-google_re", "input": "Karl Ohs died in [MASK] .", "output": "Helena", "options": []}
+{"task": "lama-google_re", "input": "Patrick Daughters was born in [MASK] .", "output": "Berkeley", "options": []}
+{"task": "lama-google_re", "input": "Leon Bass was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Jacob Coning (born [MASK]).", "output": "1648", "options": []}
+{"task": "lama-google_re", "input": "Sumalee Montano was born in [MASK] .", "output": "Columbus", "options": []}
+{"task": "lama-google_re", "input": "Ilus Vay was born in [MASK] .", "output": "Budapest", "options": []}
+{"task": "lama-google_re", "input": "Jon Elster was born in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Ahmad Zeidabadi (born [MASK]).", "output": "1965", "options": []}
+{"task": "lama-google_re", "input": "Robert Kotler (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Robert Yonover (born [MASK]).", "output": "1959", "options": []}
+{"task": "lama-google_re", "input": "Eva Aridjis was born in [MASK] .", "output": "Holland", "options": []}
+{"task": "lama-google_re", "input": "Balthazar Armas was born in [MASK] .", "output": "Caracas", "options": []}
+{"task": "lama-google_re", "input": "Ludger Duvernay died in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Edward Brotherton was born in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Ethel Merston was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Rose Prince was born in [MASK] .", "output": "Hampshire", "options": []}
+{"task": "lama-google_re", "input": "Wim Overgaauw (born [MASK]).", "output": "1929", "options": []}
+{"task": "lama-google_re", "input": "Roope Noronen (born [MASK]).", "output": "1974", "options": []}
+{"task": "lama-google_re", "input": "Elisha Netanyahu died in [MASK] .", "output": "Jerusalem", "options": []}
+{"task": "lama-google_re", "input": "Sveta Planman (born [MASK]).", "output": "1979", "options": []}
+{"task": "lama-google_re", "input": "Judith Vollmer was born in [MASK] .", "output": "Pittsburgh", "options": []}
+{"task": "lama-google_re", "input": "James E. McPherson (born [MASK]).", "output": "1955", "options": []}
+{"task": "lama-google_re", "input": "Malcolm Terris was born in [MASK] .", "output": "Sunderland", "options": []}
+{"task": "lama-google_re", "input": "Thomas Falconer died in [MASK] .", "output": "Bath", "options": []}
+{"task": "lama-google_re", "input": "Michael Anti was born in [MASK] .", "output": "Nanjing", "options": []}
+{"task": "lama-google_re", "input": "Mircea Florian was born in [MASK] .", "output": "Bucharest", "options": []}
+{"task": "lama-google_re", "input": "Charles Hartung (born [MASK]).", "output": "1841", "options": []}
+{"task": "lama-google_re", "input": "Doriane Tahane (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "Tan Jiexi (born [MASK]).", "output": "1988", "options": []}
+{"task": "lama-google_re", "input": "Siddhant Karnick was born in [MASK] .", "output": "Mumbai", "options": []}
+{"task": "lama-google_re", "input": "Marcus Ulpius Leurus (born [MASK]).", "output": "155", "options": []}
+{"task": "lama-google_re", "input": "Michael Hintze (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "Berend Wilhelm Feddersen (born [MASK]).", "output": "1832", "options": []}
+{"task": "lama-google_re", "input": "Jean P\u00e9rol was born in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Terry Byrne was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Widjojo Nitisastro (born [MASK]).", "output": "1927", "options": []}
+{"task": "lama-google_re", "input": "Wayne Budd was born in [MASK] .", "output": "Springfield", "options": []}
+{"task": "lama-google_re", "input": "Henry Sullivan (born [MASK]).", "output": "1893", "options": []}
+{"task": "lama-google_re", "input": "Molly Pitcher died in [MASK] .", "output": "Carlisle", "options": []}
+{"task": "lama-google_re", "input": "Masoud Nine (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "Guerguina Dvoretzka was born in [MASK] .", "output": "Sofia", "options": []}
+{"task": "lama-google_re", "input": "Frederick Gunton was born in [MASK] .", "output": "Norwich", "options": []}
+{"task": "lama-google_re", "input": "Kirk Hunter was born in [MASK] .", "output": "Belfast", "options": []}
+{"task": "lama-google_re", "input": "Alice Robie Resnick was born in [MASK] .", "output": "Erie", "options": []}
+{"task": "lama-google_re", "input": "Henry Robertson Hartley was born in [MASK] .", "output": "Southampton", "options": []}
+{"task": "lama-google_re", "input": "Stephen Smyth was born in [MASK] .", "output": "Derry", "options": []}
+{"task": "lama-google_re", "input": "Minerva Mendez (born [MASK]).", "output": "1992", "options": []}
+{"task": "lama-google_re", "input": "Ueda Akinari died in [MASK] .", "output": "Kyoto", "options": []}
+{"task": "lama-google_re", "input": "Hugo Consuegra was born in [MASK] .", "output": "Havana", "options": []}
+{"task": "lama-google_re", "input": "Lahcen Abrami was born in [MASK] .", "output": "Casablanca", "options": []}
+{"task": "lama-google_re", "input": "Gotthard Deutsch died in [MASK] .", "output": "Cincinnati", "options": []}
+{"task": "lama-google_re", "input": "Charles Tanguy (born [MASK]).", "output": "1845", "options": []}
+{"task": "lama-google_re", "input": "Olivia Poulet was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Michelle Rogers was born in [MASK] .", "output": "Salford", "options": []}
+{"task": "lama-google_re", "input": "Henry Mason died in [MASK] .", "output": "Wigan", "options": []}
+{"task": "lama-google_re", "input": "Francis Waddelove was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Raymond McGrath was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Marcia Gygli King was born in [MASK] .", "output": "Cleveland", "options": []}
+{"task": "lama-google_re", "input": "Victor Linley (born [MASK]).", "output": "1865", "options": []}
+{"task": "lama-google_re", "input": "Valeriu Stoica was born in [MASK] .", "output": "Bucharest", "options": []}
+{"task": "lama-google_re", "input": "Edward Hay died in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Duncan Fallowell was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Salvatore Sabella was born in [MASK] .", "output": "Sicily", "options": []}
+{"task": "lama-google_re", "input": "Peter Bladen was born in [MASK] .", "output": "Perth", "options": []}
+{"task": "lama-google_re", "input": "Davide Tiso (born [MASK]).", "output": "1979", "options": []}
+{"task": "lama-google_re", "input": "Kym Anderson was born in [MASK] .", "output": "Adelaide", "options": []}
+{"task": "lama-google_re", "input": "Elfie W%C3%B6rner was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Keith Price (born [MASK]).", "output": "1991", "options": []}
+{"task": "lama-google_re", "input": "Jules Quicherat died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Martin Hartwell (born [MASK]).", "output": "1927", "options": []}
+{"task": "lama-google_re", "input": "Evgeny Gleizerov (born [MASK]).", "output": "1963", "options": []}
+{"task": "lama-google_re", "input": "Li Jiahang (born [MASK]).", "output": "1987", "options": []}
+{"task": "lama-google_re", "input": "Federico Fabregat was born in [MASK] .", "output": "Guadalajara", "options": []}
+{"task": "lama-google_re", "input": "Ed Rossbach was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Brian Fairlie was born in [MASK] .", "output": "Christchurch", "options": []}
+{"task": "lama-google_re", "input": "Julius Schmid (born [MASK]).", "output": "1865", "options": []}
+{"task": "lama-google_re", "input": "Mark McFadden (born [MASK]).", "output": "1965", "options": []}
+{"task": "lama-google_re", "input": "Stephen Carter, Baron Carter of Barnes was born in [MASK] .", "output": "Scotland", "options": []}
+{"task": "lama-google_re", "input": "Andrew Imbrie died in [MASK] .", "output": "Berkeley", "options": []}
+{"task": "lama-google_re", "input": "Felice Figliucci died in [MASK] .", "output": "Florence", "options": []}
+{"task": "lama-google_re", "input": "\u00c1rp\u00e1d So\u00f3s was born in [MASK] .", "output": "Budapest", "options": []}
+{"task": "lama-google_re", "input": "Richard Armiger was born in [MASK] .", "output": "Baltimore", "options": []}
+{"task": "lama-google_re", "input": "Philip Jeremiah Schuyler was born in [MASK] .", "output": "Albany", "options": []}
+{"task": "lama-google_re", "input": "Jacobus Balduinus died in [MASK] .", "output": "Bologna", "options": []}
+{"task": "lama-google_re", "input": "Jonathan Robinson was born in [MASK] .", "output": "Waterloo", "options": []}
+{"task": "lama-google_re", "input": "Jean Andr\u00e9 died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Pat Foote was born in [MASK] .", "output": "Durham", "options": []}
+{"task": "lama-google_re", "input": "Alan D. Anyon (born [MASK]).", "output": "1931", "options": []}
+{"task": "lama-google_re", "input": "Scott Rueck (born [MASK]).", "output": "1970", "options": []}
+{"task": "lama-google_re", "input": "Sylvan Mattingly died in [MASK] .", "output": "Louisville", "options": []}
+{"task": "lama-google_re", "input": "Alfred Nicolas Rambaud died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Ronald Pearson Tripp was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Albert Heinrich Brendel was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Asim Ghosh (born [MASK]).", "output": "1947", "options": []}
+{"task": "lama-google_re", "input": "Joe Zakas was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Russya was born in [MASK] .", "output": "Kiev", "options": []}
+{"task": "lama-google_re", "input": "Neil Rollinson was born in [MASK] .", "output": "Yorkshire", "options": []}
+{"task": "lama-google_re", "input": "Samuele Levi was born in [MASK] .", "output": "Venice", "options": []}
+{"task": "lama-google_re", "input": "Paul G. Kaminski (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Luciano Caruso was born in [MASK] .", "output": "Turin", "options": []}
+{"task": "lama-google_re", "input": "Benny Marinelli (born [MASK]).", "output": "1902", "options": []}
+{"task": "lama-google_re", "input": "Sue Enquist (born [MASK]).", "output": "1956", "options": []}
+{"task": "lama-google_re", "input": "Ayoob Tarish (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Dick Spotswood was born in [MASK] .", "output": "California", "options": []}
+{"task": "lama-google_re", "input": "Herbert Wetterauer (born [MASK]).", "output": "1957", "options": []}
+{"task": "lama-google_re", "input": "Verna Allee was born in [MASK] .", "output": "Kansas", "options": []}
+{"task": "lama-google_re", "input": "Ketil Hvoslef was born in [MASK] .", "output": "Bergen", "options": []}
+{"task": "lama-google_re", "input": "Carlo Emery died in [MASK] .", "output": "Bologna", "options": []}
+{"task": "lama-google_re", "input": "Antonio Ruiz de Montoya was born in [MASK] .", "output": "Lima", "options": []}
+{"task": "lama-google_re", "input": "Constantinos Decavallas was born in [MASK] .", "output": "Athens", "options": []}
+{"task": "lama-google_re", "input": "J. N. Williamson was born in [MASK] .", "output": "Indianapolis", "options": []}
+{"task": "lama-google_re", "input": "Katerina Lemmel was born in [MASK] .", "output": "Nuremberg", "options": []}
+{"task": "lama-google_re", "input": "Harry South was born in [MASK] .", "output": "Fulham", "options": []}
+{"task": "lama-google_re", "input": "Harold Spiro died in [MASK] .", "output": "Cyprus", "options": []}
+{"task": "lama-google_re", "input": "Jonah Smith was born in [MASK] .", "output": "Syracuse", "options": []}
+{"task": "lama-google_re", "input": "Samuel Joseph Fuenn was born in [MASK] .", "output": "Vilnius", "options": []}
+{"task": "lama-google_re", "input": "Anna Blackburne died in [MASK] .", "output": "Warrington", "options": []}
+{"task": "lama-google_re", "input": "Bobby Parker was born in [MASK] .", "output": "Coventry", "options": []}
+{"task": "lama-google_re", "input": "Leopoldo Flores (born [MASK]).", "output": "1934", "options": []}
+{"task": "lama-google_re", "input": "Marie Studholme died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Gordon Baldwin was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Otto Jaffe died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Pieter de Molijn was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Eugene Elliott Reed was born in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Dima and Lama Hattab (born [MASK]).", "output": "1980", "options": []}
+{"task": "lama-google_re", "input": "Cathy Sisler was born in [MASK] .", "output": "Wisconsin", "options": []}
+{"task": "lama-google_re", "input": "Johann Conrad Dorner died in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "Stephanie Reaves was born in [MASK] .", "output": "Maine", "options": []}
+{"task": "lama-google_re", "input": "Henrietta Maria Bowdler died in [MASK] .", "output": "Bath", "options": []}
+{"task": "lama-google_re", "input": "Fran%C3%A7ois Ozenda was born in [MASK] .", "output": "Marseille", "options": []}
+{"task": "lama-google_re", "input": "Claude Wiseler was born in [MASK] .", "output": "Luxembourg", "options": []}
+{"task": "lama-google_re", "input": "Shlomo Shriki was born in [MASK] .", "output": "Morocco", "options": []}
+{"task": "lama-google_re", "input": "Nagarjuna G. (born [MASK]).", "output": "1960", "options": []}
+{"task": "lama-google_re", "input": "Renato Beghe was born in [MASK] .", "output": "Illinois", "options": []}
+{"task": "lama-google_re", "input": "Joe Bush (born [MASK]).", "output": "1941", "options": []}
+{"task": "lama-google_re", "input": "Yakir Gueron died in [MASK] .", "output": "Jerusalem", "options": []}
+{"task": "lama-google_re", "input": "Abbas Yari (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Morten Nordeide Johansen was born in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Ludwig Galea (born [MASK]).", "output": "1977", "options": []}
+{"task": "lama-google_re", "input": "Yuber Asprilla (born [MASK]).", "output": "1992", "options": []}
+{"task": "lama-google_re", "input": "Adrian Moore was born in [MASK] .", "output": "Nottingham", "options": []}
+{"task": "lama-google_re", "input": "Georg Kloss was born in [MASK] .", "output": "Frankfurt", "options": []}
+{"task": "lama-google_re", "input": "Raphael Alves da Silva (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "W\u0142adys\u0142aw \u017bele\u0144ski died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Thomas R. McCarthy (born [MASK]).", "output": "1934", "options": []}
+{"task": "lama-google_re", "input": "William T. Major (born [MASK]).", "output": "1790", "options": []}
+{"task": "lama-google_re", "input": "Erna Paris was born in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "Joe Ascione was born in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Wilkes Angel was born in [MASK] .", "output": "Exeter", "options": []}
+{"task": "lama-google_re", "input": "Benjamin Castleman was born in [MASK] .", "output": "Everett", "options": []}
+{"task": "lama-google_re", "input": "John D. Strong was born in [MASK] .", "output": "Lawrence", "options": []}
+{"task": "lama-google_re", "input": "Rod Anderson was born in [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-google_re", "input": "Peter Milligan was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Lewis Yelland Andrews was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Ebbe Hamerik was born in [MASK] .", "output": "Copenhagen", "options": []}
+{"task": "lama-google_re", "input": "Paul Conway was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Giuseppe Simonelli was born in [MASK] .", "output": "Naples", "options": []}
+{"task": "lama-google_re", "input": "Tirrel Burton (born [MASK]).", "output": "1930", "options": []}
+{"task": "lama-google_re", "input": "Moshe Shekel was born in [MASK] .", "output": "Haifa", "options": []}
+{"task": "lama-google_re", "input": "Ian Dench was born in [MASK] .", "output": "Cheltenham", "options": []}
+{"task": "lama-google_re", "input": "Ashley Gilbertson was born in [MASK] .", "output": "Melbourne", "options": []}
+{"task": "lama-google_re", "input": "Thomas Pole was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Walter Carringer was born in [MASK] .", "output": "Knoxville", "options": []}
+{"task": "lama-google_re", "input": "Torraye Braggs was born in [MASK] .", "output": "Fresno", "options": []}
+{"task": "lama-google_re", "input": "James Cannon died in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Thomas D. Singleton died in [MASK] .", "output": "Raleigh", "options": []}
+{"task": "lama-google_re", "input": "Vlastimil Pt%C3%A1k was born in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Ymer Pampuri was born in [MASK] .", "output": "Tirana", "options": []}
+{"task": "lama-google_re", "input": "Syeikh Abdullah Fahim (born [MASK]).", "output": "1869", "options": []}
+{"task": "lama-google_re", "input": "Joel Honig was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Alan Hess was born in [MASK] .", "output": "California", "options": []}
+{"task": "lama-google_re", "input": "Benjamin Brecknell Turner was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Iv\u00e1n Ferreiro (born [MASK]).", "output": "1970", "options": []}
+{"task": "lama-google_re", "input": "Govindram Seksaria (born [MASK]).", "output": "1888", "options": []}
+{"task": "lama-google_re", "input": "Ezra Dee Alexander died in [MASK] .", "output": "Indianapolis", "options": []}
+{"task": "lama-google_re", "input": "Luke Youlden was born in [MASK] .", "output": "Melbourne", "options": []}
+{"task": "lama-google_re", "input": "Adnan Awad was born in [MASK] .", "output": "Palestine", "options": []}
+{"task": "lama-google_re", "input": "Bachar Kouatly was born in [MASK] .", "output": "Damascus", "options": []}
+{"task": "lama-google_re", "input": "S%C3%A9bastien Denis was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Marion Stein was born in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Paula Basaistegui (born [MASK]).", "output": "1988", "options": []}
+{"task": "lama-google_re", "input": "Amy Chance was born in [MASK] .", "output": "Hollywood", "options": []}
+{"task": "lama-google_re", "input": "Alex Garc%C3%ADa was born in [MASK] .", "output": "Havana", "options": []}
+{"task": "lama-google_re", "input": "Osku Palermaa was born in [MASK] .", "output": "Finland", "options": []}
+{"task": "lama-google_re", "input": "Charles Mickle was born in [MASK] .", "output": "Stratford", "options": []}
+{"task": "lama-google_re", "input": "Paul G. Hewitt (born [MASK]).", "output": "1930", "options": []}
+{"task": "lama-google_re", "input": "Michael Prince was born in [MASK] .", "output": "Rochester", "options": []}
+{"task": "lama-google_re", "input": "Leib Ostrow was born in [MASK] .", "output": "Detroit", "options": []}
+{"task": "lama-google_re", "input": "Harout Chitilian (born [MASK]).", "output": "1981", "options": []}
+{"task": "lama-google_re", "input": "Gilead Sher (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "Van Vo (born [MASK]).", "output": "1950", "options": []}
+{"task": "lama-google_re", "input": "Ylli Bufi was born in [MASK] .", "output": "Tirana", "options": []}
+{"task": "lama-google_re", "input": "John Mann Goggin was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Francesco Musotto was born in [MASK] .", "output": "Palermo", "options": []}
+{"task": "lama-google_re", "input": "Samuel Aru Bol (born [MASK]).", "output": "1929", "options": []}
+{"task": "lama-google_re", "input": "George Schlukbier was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Khalid Malik was born in [MASK] .", "output": "Pakistan", "options": []}
+{"task": "lama-google_re", "input": "Jay C. Smith (born [MASK]).", "output": "1929", "options": []}
+{"task": "lama-google_re", "input": "Ralph Murphy (born [MASK]).", "output": "1944", "options": []}
+{"task": "lama-google_re", "input": "Richard Stevenson (born [MASK]).", "output": "1952", "options": []}
+{"task": "lama-google_re", "input": "Marcus Tsutakawa was born in [MASK] .", "output": "Seattle", "options": []}
+{"task": "lama-google_re", "input": "Peter G. Engelman was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Deborah Yow (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Conradin of Bornada died in [MASK] .", "output": "Bologna", "options": []}
+{"task": "lama-google_re", "input": "Ernesto Pugibet died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Hisham Mohd Ashour was born in [MASK] .", "output": "Cairo", "options": []}
+{"task": "lama-google_re", "input": "Adolph H. Kayser (born [MASK]).", "output": "1851", "options": []}
+{"task": "lama-google_re", "input": "Kurken Alemshah died in [MASK] .", "output": "Detroit", "options": []}
+{"task": "lama-google_re", "input": "Francis Adorno died in [MASK] .", "output": "Genoa", "options": []}
+{"task": "lama-google_re", "input": "George Edward Hughes was born in [MASK] .", "output": "Waterford", "options": []}
+{"task": "lama-google_re", "input": "Thomas Grinfield died in [MASK] .", "output": "Clifton", "options": []}
+{"task": "lama-google_re", "input": "Andrew Grant was born in [MASK] .", "output": "Birmingham", "options": []}
+{"task": "lama-google_re", "input": "Virginio Ferrari was born in [MASK] .", "output": "Verona", "options": []}
+{"task": "lama-google_re", "input": "Edmund H. Pendleton was born in [MASK] .", "output": "Savannah", "options": []}
+{"task": "lama-google_re", "input": "Robert Zimmermann died in [MASK] .", "output": "Munich", "options": []}
+{"task": "lama-google_re", "input": "Sonny Chillingworth (born [MASK]).", "output": "1932", "options": []}
+{"task": "lama-google_re", "input": "William Volker Fund (born [MASK]).", "output": "1859", "options": []}
+{"task": "lama-google_re", "input": "Thomas Barclay was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Karl Albert Buehr was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Alan Littlejohn was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Edward Kavanagh was born in [MASK] .", "output": "Newcastle", "options": []}
+{"task": "lama-google_re", "input": "Taleb Rifai (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Alexandru Djuvara (born [MASK]).", "output": "1858", "options": []}
+{"task": "lama-google_re", "input": "Anthony George died in [MASK] .", "output": "California", "options": []}
+{"task": "lama-google_re", "input": "Ernst Fries was born in [MASK] .", "output": "Heidelberg", "options": []}
+{"task": "lama-google_re", "input": "Richard M. Sims, Jr. (born [MASK]).", "output": "1910", "options": []}
+{"task": "lama-google_re", "input": "Sultan Khan died in [MASK] .", "output": "Mumbai", "options": []}
+{"task": "lama-google_re", "input": "John Allen Gable was born in [MASK] .", "output": "Massachusetts", "options": []}
+{"task": "lama-google_re", "input": "Cillian Vallely was born in [MASK] .", "output": "Armagh", "options": []}
+{"task": "lama-google_re", "input": "Laura Zirbes died in [MASK] .", "output": "Columbus", "options": []}
+{"task": "lama-google_re", "input": "Meike Evers was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Lee Blackett was born in [MASK] .", "output": "Chester", "options": []}
+{"task": "lama-google_re", "input": "Martin Hollis died in [MASK] .", "output": "Norwich", "options": []}
+{"task": "lama-google_re", "input": "Elena Iparraguirre (born [MASK]).", "output": "1948", "options": []}
+{"task": "lama-google_re", "input": "Charles Ejogo was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Samuel von Schmettau was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Fred Rosenstock was born in [MASK] .", "output": "Galicia", "options": []}
+{"task": "lama-google_re", "input": "Marcus Bierich (born [MASK]).", "output": "1926", "options": []}
+{"task": "lama-google_re", "input": "Evelyn Suart died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Johann Stephan Decker died in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Spencer Bonfiglio was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Valentine Collard (born [MASK]).", "output": "1770", "options": []}
+{"task": "lama-google_re", "input": "Brendon Lindsay was born in [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-google_re", "input": "Fran\u00e7ois Letellier (born [MASK]).", "output": "1968", "options": []}
+{"task": "lama-google_re", "input": "Sohail Fazal was born in [MASK] .", "output": "Lahore", "options": []}
+{"task": "lama-google_re", "input": "William Lansing Gleason (born [MASK]).", "output": "1900", "options": []}
+{"task": "lama-google_re", "input": "Bruce Pennington was born in [MASK] .", "output": "Somerset", "options": []}
+{"task": "lama-google_re", "input": "Rakesh Masih (born [MASK]).", "output": "1987", "options": []}
+{"task": "lama-google_re", "input": "Yehonatan Berick was born in [MASK] .", "output": "Israel", "options": []}
+{"task": "lama-google_re", "input": "Henry Savile died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Tony Venzon (born [MASK]).", "output": "1915", "options": []}
+{"task": "lama-google_re", "input": "Felipe Alfau was born in [MASK] .", "output": "Barcelona", "options": []}
+{"task": "lama-google_re", "input": "Shlomi Edri (born [MASK]).", "output": "1985", "options": []}
+{"task": "lama-google_re", "input": "Gerald Howat died in [MASK] .", "output": "Oxford", "options": []}
+{"task": "lama-google_re", "input": "Matthew Baillie Begbie was born in [MASK] .", "output": "Mauritius", "options": []}
+{"task": "lama-google_re", "input": "Katharine Furse died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "John Todd died in [MASK] .", "output": "Pasadena", "options": []}
+{"task": "lama-google_re", "input": "William Buik was born in [MASK] .", "output": "Dundee", "options": []}
+{"task": "lama-google_re", "input": "Adolf Patera was born in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Emmanuel Scheffer was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Ernest Peter Burger was born in [MASK] .", "output": "Augsburg", "options": []}
+{"task": "lama-google_re", "input": "Gael Suares was born in [MASK] .", "output": "France", "options": []}
+{"task": "lama-google_re", "input": "Joel Spitzer (born [MASK]).", "output": "1957", "options": []}
+{"task": "lama-google_re", "input": "Bernard Cassen was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Albert Laessle died in [MASK] .", "output": "Miami", "options": []}
+{"task": "lama-google_re", "input": "Cornelius Walsh died in [MASK] .", "output": "Newark", "options": []}
+{"task": "lama-google_re", "input": "Zoubir Bachi (born [MASK]).", "output": "1950", "options": []}
+{"task": "lama-google_re", "input": "Giuseppe Agnelli died in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "Nicolae Herlea was born in [MASK] .", "output": "Bucharest", "options": []}
+{"task": "lama-google_re", "input": "James L. McGregor (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "Eva Maria Zuk was born in [MASK] .", "output": "Poland", "options": []}
+{"task": "lama-google_re", "input": "Maharshi Mehi Paramhans (born [MASK]).", "output": "1885", "options": []}
+{"task": "lama-google_re", "input": "Aubrey Hornsby died in [MASK] .", "output": "Montgomery", "options": []}
+{"task": "lama-google_re", "input": "Brendon Sinclair was born in [MASK] .", "output": "Hobart", "options": []}
+{"task": "lama-google_re", "input": "Louis Gustave Ricard was born in [MASK] .", "output": "Marseille", "options": []}
+{"task": "lama-google_re", "input": "Susannah Gunning (born [MASK]).", "output": "1740", "options": []}
+{"task": "lama-google_re", "input": "Jacob B. Grumet died in [MASK] .", "output": "Manhattan", "options": []}
+{"task": "lama-google_re", "input": "Sa\u0161o Filipovski (born [MASK]).", "output": "1974", "options": []}
+{"task": "lama-google_re", "input": "Louis Mazetier was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Masataka Yanagida was born in [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-google_re", "input": "Martin Henriksson was born in [MASK] .", "output": "Sweden", "options": []}
+{"task": "lama-google_re", "input": "Beongcheon Yu (born [MASK]).", "output": "1925", "options": []}
+{"task": "lama-google_re", "input": "Silvana Cruciata was born in [MASK] .", "output": "Naples", "options": []}
+{"task": "lama-google_re", "input": "William Allen died in [MASK] .", "output": "Greenville", "options": []}
+{"task": "lama-google_re", "input": "Benjamin Moran died in [MASK] .", "output": "Essex", "options": []}
+{"task": "lama-google_re", "input": "Franz Rosei was born in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Robert Nixon (born [MASK]).", "output": "1919", "options": []}
+{"task": "lama-google_re", "input": "Hans Reiche was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Johnny Hernandez (born [MASK]).", "output": "1968", "options": []}
+{"task": "lama-google_re", "input": "James Edward Ruffin died in [MASK] .", "output": "Springfield", "options": []}
+{"task": "lama-google_re", "input": "Richard Walker died in [MASK] .", "output": "Cambridge", "options": []}
+{"task": "lama-google_re", "input": "Paul Burston was born in [MASK] .", "output": "Yorkshire", "options": []}
+{"task": "lama-google_re", "input": "Stefan Nystrom was born in [MASK] .", "output": "Sweden", "options": []}
+{"task": "lama-google_re", "input": "Sikander Bakht was born in [MASK] .", "output": "Karachi", "options": []}
+{"task": "lama-google_re", "input": "Leslie Howe was born in [MASK] .", "output": "Ontario", "options": []}
+{"task": "lama-google_re", "input": "Gino Penno died in [MASK] .", "output": "Milan", "options": []}
+{"task": "lama-google_re", "input": "Kajsa Kling was born in [MASK] .", "output": "Sweden", "options": []}
+{"task": "lama-google_re", "input": "Huang Dongjie (born [MASK]).", "output": "1981", "options": []}
+{"task": "lama-google_re", "input": "Sarah Crompton died in [MASK] .", "output": "Birmingham", "options": []}
+{"task": "lama-google_re", "input": "Marcus Peter Blakemore died in [MASK] .", "output": "Pittsburgh", "options": []}
+{"task": "lama-google_re", "input": "Thomas Bond was born in [MASK] .", "output": "Somerset", "options": []}
+{"task": "lama-google_re", "input": "Ramachandra Naidu Galla (born [MASK]).", "output": "1938", "options": []}
+{"task": "lama-google_re", "input": "William Jasper Kerr died in [MASK] .", "output": "Portland", "options": []}
+{"task": "lama-google_re", "input": "Brita Sophia De la Gardie died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Sergei Guriev (born [MASK]).", "output": "1971", "options": []}
+{"task": "lama-google_re", "input": "William Honywood (born [MASK]).", "output": "1759", "options": []}
+{"task": "lama-google_re", "input": "Stepan Erzia died in [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-google_re", "input": "Steven M. Cohen (born [MASK]).", "output": "1950", "options": []}
+{"task": "lama-google_re", "input": "Khalid Hussain (born [MASK]).", "output": "1969", "options": []}
+{"task": "lama-google_re", "input": "Michael Laski (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Michael Upton was born in [MASK] .", "output": "Birmingham", "options": []}
+{"task": "lama-google_re", "input": "Jeanne Deroin was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Walter Ehrlich was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Danny Seward was born in [MASK] .", "output": "Salford", "options": []}
+{"task": "lama-google_re", "input": "Denisa Dedu (born [MASK]).", "output": "1994", "options": []}
+{"task": "lama-google_re", "input": "Karl Pearson (born [MASK]).", "output": "1974", "options": []}
+{"task": "lama-google_re", "input": "George Russell French was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Erci E (born [MASK]).", "output": "1970", "options": []}
+{"task": "lama-google_re", "input": "John Flower died in [MASK] .", "output": "Leicester", "options": []}
+{"task": "lama-google_re", "input": "Yvette Higgins was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Lodovico Leoni died in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "Leonard D. Wexler was born in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Balthazar Armas was born in [MASK] .", "output": "Caracas", "options": []}
+{"task": "lama-google_re", "input": "Michel Reis was born in [MASK] .", "output": "Luxembourg", "options": []}
+{"task": "lama-google_re", "input": "Ernst Friedrich was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Thomas Passmore was born in [MASK] .", "output": "Belfast", "options": []}
+{"task": "lama-google_re", "input": "Henry Bentley was born in [MASK] .", "output": "Westminster", "options": []}
+{"task": "lama-google_re", "input": "Doug Pagitt (born [MASK]).", "output": "1966", "options": []}
+{"task": "lama-google_re", "input": "Francisco Cervantes de Salazar was born in [MASK] .", "output": "Toledo", "options": []}
+{"task": "lama-google_re", "input": "Des Abbott was born in [MASK] .", "output": "Darwin", "options": []}
+{"task": "lama-google_re", "input": "Thomas Eagles died in [MASK] .", "output": "Clifton", "options": []}
+{"task": "lama-google_re", "input": "Martin Weston was born in [MASK] .", "output": "Worcester", "options": []}
+{"task": "lama-google_re", "input": "Frank Willis (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Tariq Hashim was born in [MASK] .", "output": "Baghdad", "options": []}
+{"task": "lama-google_re", "input": "Rona Hartner was born in [MASK] .", "output": "Bucharest", "options": []}
+{"task": "lama-google_re", "input": "Jeff Nichols (born [MASK]).", "output": "1969", "options": []}
+{"task": "lama-google_re", "input": "Milan Stavri%C4%87 (born [MASK]).", "output": "1987", "options": []}
+{"task": "lama-google_re", "input": "Ruth Amos (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "Tom Luken was born in [MASK] .", "output": "Cincinnati", "options": []}
+{"task": "lama-google_re", "input": "Terence Hawkins (born [MASK]).", "output": "1956", "options": []}
+{"task": "lama-google_re", "input": "Andrew Marck (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "Gregory S. Boebinger (born [MASK]).", "output": "1959", "options": []}
+{"task": "lama-google_re", "input": "Philip Hartog died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Juergen von Huendeberg (born [MASK]).", "output": "1922", "options": []}
+{"task": "lama-google_re", "input": "Osam Abdul Rahan Ahmad (born [MASK]).", "output": "1976", "options": []}
+{"task": "lama-google_re", "input": "Mary Lou Munts was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Brad Heald was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Miriam Slater was born in [MASK] .", "output": "California", "options": []}
+{"task": "lama-google_re", "input": "Ilija \u010carapi\u0107 (born [MASK]).", "output": "1792", "options": []}
+{"task": "lama-google_re", "input": "Mark Bittman (born [MASK]).", "output": "1950", "options": []}
+{"task": "lama-google_re", "input": "Felice Giordano was born in [MASK] .", "output": "Turin", "options": []}
+{"task": "lama-google_re", "input": "Eric Ash was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Kathleen Garsgadden (born [MASK]).", "output": "1897", "options": []}
+{"task": "lama-google_re", "input": "Otto Jaffe died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Michael W. Hoover (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Stanley Morgan was born in [MASK] .", "output": "Liverpool", "options": []}
+{"task": "lama-google_re", "input": "Tony Southgate was born in [MASK] .", "output": "Coventry", "options": []}
+{"task": "lama-google_re", "input": "Philippe Lardy was born in [MASK] .", "output": "Switzerland", "options": []}
+{"task": "lama-google_re", "input": "Filmer Honywood (born [MASK]).", "output": "1745", "options": []}
+{"task": "lama-google_re", "input": "Ross Batty was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Joel Pelletier was born in [MASK] .", "output": "Massachusetts", "options": []}
+{"task": "lama-google_re", "input": "Fran\u00e7ois Grosjean (born [MASK]).", "output": "1946", "options": []}
+{"task": "lama-google_re", "input": "Bernardo L\u00f3pez Piquer died in [MASK] .", "output": "Madrid", "options": []}
+{"task": "lama-google_re", "input": "Joan Oliver i Sallar\u00e8s (born [MASK]).", "output": "1899", "options": []}
+{"task": "lama-google_re", "input": "Daniel Ermentrout died in [MASK] .", "output": "Reading", "options": []}
+{"task": "lama-google_re", "input": "Aristides Brezina was born in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Diane Carlson Evans was born in [MASK] .", "output": "Minnesota", "options": []}
+{"task": "lama-google_re", "input": "Adeline Dutton Train Whitney died in [MASK] .", "output": "Milton", "options": []}
+{"task": "lama-google_re", "input": "George William Childs died in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Jemma Gawned was born in [MASK] .", "output": "Perth", "options": []}
+{"task": "lama-google_re", "input": "Lucy Mclauchlan (born [MASK]).", "output": "1978", "options": []}
+{"task": "lama-google_re", "input": "Sir George Bowyer, 7th Baronet was born in [MASK] .", "output": "Berkshire", "options": []}
+{"task": "lama-google_re", "input": "David Luff (born [MASK]).", "output": "1969", "options": []}
+{"task": "lama-google_re", "input": "Jay Neill was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Jesper Nordin was born in [MASK] .", "output": "Stockholm", "options": []}
+{"task": "lama-google_re", "input": "Maynard Sinclair was born in [MASK] .", "output": "Belfast", "options": []}
+{"task": "lama-google_re", "input": "Dave Steele was born in [MASK] .", "output": "Tampa", "options": []}
+{"task": "lama-google_re", "input": "Paule Ka was born in [MASK] .", "output": "Lille", "options": []}
+{"task": "lama-google_re", "input": "Terry Martin was born in [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-google_re", "input": "William G. Stinson (born [MASK]).", "output": "1945", "options": []}
+{"task": "lama-google_re", "input": "Arne Brun Lie died in [MASK] .", "output": "Beverly", "options": []}
+{"task": "lama-google_re", "input": "Frank Kaderabek was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Giambattista Nolli was born in [MASK] .", "output": "Como", "options": []}
+{"task": "lama-google_re", "input": "Bill Jennings was born in [MASK] .", "output": "Norwich", "options": []}
+{"task": "lama-google_re", "input": "Paoline Ekambi (born [MASK]).", "output": "1962", "options": []}
+{"task": "lama-google_re", "input": "Valentina Kogan (born [MASK]).", "output": "1980", "options": []}
+{"task": "lama-google_re", "input": "Johnny Mowlem was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Ferenc A. V\u00e1li was born in [MASK] .", "output": "Budapest", "options": []}
+{"task": "lama-google_re", "input": "Mel Watkins was born in [MASK] .", "output": "Memphis", "options": []}
+{"task": "lama-google_re", "input": "Liam Bond (born [MASK]).", "output": "1970", "options": []}
+{"task": "lama-google_re", "input": "Edward Dugmore died in [MASK] .", "output": "Minneapolis", "options": []}
+{"task": "lama-google_re", "input": "Tim Benjamin was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Jim Norman (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "William George Clark died in [MASK] .", "output": "York", "options": []}
+{"task": "lama-google_re", "input": "K. Bhaskaran (born [MASK]).", "output": "1961", "options": []}
+{"task": "lama-google_re", "input": "Jimmy Greenspoon was born in [MASK] .", "output": "California", "options": []}
+{"task": "lama-google_re", "input": "John Courtney Murray died in [MASK] .", "output": "Queens", "options": []}
+{"task": "lama-google_re", "input": "Henry Ussher was born in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Malcolm Margolin was born in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Winfield Myers was born in [MASK] .", "output": "Georgia", "options": []}
+{"task": "lama-google_re", "input": "Andr\u00e9 L\u00e9ri was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Paul Keenan was born in [MASK] .", "output": "Lisbon", "options": []}
+{"task": "lama-google_re", "input": "Philippa Perry was born in [MASK] .", "output": "Warrington", "options": []}
+{"task": "lama-google_re", "input": "David Solomon was born in [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-google_re", "input": "William Williams died in [MASK] .", "output": "Buffalo", "options": []}
+{"task": "lama-google_re", "input": "Norbert Balatsch was born in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Lucy Faithfull, Baroness Faithfull died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Marie Brema died in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Bobby Jones (born [MASK]).", "output": "1962", "options": []}
+{"task": "lama-google_re", "input": "Michael Falcon was born in [MASK] .", "output": "Norwich", "options": []}
+{"task": "lama-google_re", "input": "Karl Momen (born [MASK]).", "output": "1934", "options": []}
+{"task": "lama-google_re", "input": "S%C3%A9bastien Leblanc was born in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Bertram Stuart Straus was born in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Hall Hibbard was born in [MASK] .", "output": "Kansas", "options": []}
+{"task": "lama-google_re", "input": "Abdou Cherif was born in [MASK] .", "output": "Casablanca", "options": []}
+{"task": "lama-google_re", "input": "Robert Nisbet (born [MASK]).", "output": "1983", "options": []}
+{"task": "lama-google_re", "input": "Neil Zakiewicz was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "James Brown was born in [MASK] .", "output": "Blackburn", "options": []}
+{"task": "lama-google_re", "input": "Stephen Tweedie (born [MASK]).", "output": "1969", "options": []}
+{"task": "lama-google_re", "input": "Bret Gilliam (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Leonard Strong was born in [MASK] .", "output": "Utah", "options": []}
+{"task": "lama-google_re", "input": "Fran%C3%A7ois Engongah Owono (born [MASK]).", "output": "1945", "options": []}
+{"task": "lama-google_re", "input": "Kimi Verma (born [MASK]).", "output": "1979", "options": []}
+{"task": "lama-google_re", "input": "Ana Maria Narti was born in [MASK] .", "output": "Bucharest", "options": []}
+{"task": "lama-google_re", "input": "Carl Strehl was born in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "Georgi Ivanov (born [MASK]).", "output": "1947", "options": []}
+{"task": "lama-google_re", "input": "William Breitbart (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Babak Dehghanpisheh (born [MASK]).", "output": "1972", "options": []}
+{"task": "lama-google_re", "input": "Ignatius Cockshutt was born in [MASK] .", "output": "Bradford", "options": []}
+{"task": "lama-google_re", "input": "Zuzana Kralova (born [MASK]).", "output": "1985", "options": []}
+{"task": "lama-google_re", "input": "Joe Morley died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "James Poole was born in [MASK] .", "output": "Watford", "options": []}
+{"task": "lama-google_re", "input": "Bruce Hoblitzell was born in [MASK] .", "output": "Louisville", "options": []}
+{"task": "lama-google_re", "input": "Sasha Krasny died in [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-google_re", "input": "Stanis%C5%82aw Stolarczyk was born in [MASK] .", "output": "Poland", "options": []}
+{"task": "lama-google_re", "input": "Frank Howard (born [MASK]).", "output": "1931", "options": []}
+{"task": "lama-google_re", "input": "Lionel Tiger was born in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Pierre Cartellier was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Alex Garc%C3%ADa was born in [MASK] .", "output": "Havana", "options": []}
+{"task": "lama-google_re", "input": "William Emery was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Brian Costello was born in [MASK] .", "output": "Florida", "options": []}
+{"task": "lama-google_re", "input": "John Samuel Kenyon was born in [MASK] .", "output": "Medina", "options": []}
+{"task": "lama-google_re", "input": "Ani Lorak (born [MASK]).", "output": "1978", "options": []}
+{"task": "lama-google_re", "input": "Jacques Cartier was born in [MASK] .", "output": "Quebec", "options": []}
+{"task": "lama-google_re", "input": "Jacobus Balduinus died in [MASK] .", "output": "Bologna", "options": []}
+{"task": "lama-google_re", "input": "Arnold Picker died in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Margo McLennan died in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "George Mudie was born in [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-google_re", "input": "Raymond Ericson was born in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Archibald Johnston died in [MASK] .", "output": "Bath", "options": []}
+{"task": "lama-google_re", "input": "Michael Raedecker was born in [MASK] .", "output": "Amsterdam", "options": []}
+{"task": "lama-google_re", "input": "Ron Warhurst (born [MASK]).", "output": "1943", "options": []}
+{"task": "lama-google_re", "input": "Nick Grosso was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Juan Alfon was born in [MASK] .", "output": "Toledo", "options": []}
+{"task": "lama-google_re", "input": "Bolton Brown died in [MASK] .", "output": "Woodstock", "options": []}
+{"task": "lama-google_re", "input": "Serghei Litvin Manoliu (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "G\u00fcrsel Tekin (born [MASK]).", "output": "1964", "options": []}
+{"task": "lama-google_re", "input": "Francis W. Cushman was born in [MASK] .", "output": "Brighton", "options": []}
+{"task": "lama-google_re", "input": "Bridgette Caquatto (born [MASK]).", "output": "1994", "options": []}
+{"task": "lama-google_re", "input": "Orhan Demir was born in [MASK] .", "output": "Istanbul", "options": []}
+{"task": "lama-google_re", "input": "W. Robert Grady (born [MASK]).", "output": "1950", "options": []}
+{"task": "lama-google_re", "input": "Alessandro Frosini was born in [MASK] .", "output": "Siena", "options": []}
+{"task": "lama-google_re", "input": "Kong Bai Ji was born in [MASK] .", "output": "Shanghai", "options": []}
+{"task": "lama-google_re", "input": "Mamta Baruah Herland was born in [MASK] .", "output": "Assam", "options": []}
+{"task": "lama-google_re", "input": "Daniel Harrison (born [MASK]).", "output": "1959", "options": []}
+{"task": "lama-google_re", "input": "Vali Akhundov (born [MASK]).", "output": "1916", "options": []}
+{"task": "lama-google_re", "input": "Andrew Repasky McElhinney was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Shmuel Stoller (born [MASK]).", "output": "1898", "options": []}
+{"task": "lama-google_re", "input": "Philip Warwick was born in [MASK] .", "output": "Westminster", "options": []}
+{"task": "lama-google_re", "input": "William C. Clark was born in [MASK] .", "output": "Greenwich", "options": []}
+{"task": "lama-google_re", "input": "Robert Ford was born in [MASK] .", "output": "Devon", "options": []}
+{"task": "lama-google_re", "input": "Umberto Sclanizza died in [MASK] .", "output": "Venice", "options": []}
+{"task": "lama-google_re", "input": "Margaret Maury was born in [MASK] .", "output": "Kenya", "options": []}
+{"task": "lama-google_re", "input": "Robert Callender was born in [MASK] .", "output": "Barbados", "options": []}
+{"task": "lama-google_re", "input": "Johann Ziegler died in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Jason died in [MASK] .", "output": "Sparta", "options": []}
+{"task": "lama-google_re", "input": "Liberty Bartlett (born [MASK]).", "output": "1810", "options": []}
+{"task": "lama-google_re", "input": "Mir Khasim Ali was born in [MASK] .", "output": "Hyderabad", "options": []}
+{"task": "lama-google_re", "input": "Alistair Griffin was born in [MASK] .", "output": "Middlesbrough", "options": []}
+{"task": "lama-google_re", "input": "Susan Bullock was born in [MASK] .", "output": "Cheshire", "options": []}
+{"task": "lama-google_re", "input": "Charles Coll\u00e9 was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Vittorio Torre died in [MASK] .", "output": "Turin", "options": []}
+{"task": "lama-google_re", "input": "Robert A. Richardson died in [MASK] .", "output": "Marion", "options": []}
+{"task": "lama-google_re", "input": "Matthew Mead was born in [MASK] .", "output": "Buckinghamshire", "options": []}
+{"task": "lama-google_re", "input": "Ann Wigmore died in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Matthew Kent was born in [MASK] .", "output": "Melbourne", "options": []}
+{"task": "lama-google_re", "input": "Anastas Jovanovi\u0107 died in [MASK] .", "output": "Belgrade", "options": []}
+{"task": "lama-google_re", "input": "Gustav Bischof was born in [MASK] .", "output": "Nuremberg", "options": []}
+{"task": "lama-google_re", "input": "A. L. Lloyd died in [MASK] .", "output": "Greenwich", "options": []}
+{"task": "lama-google_re", "input": "Neil Campbell died in [MASK] .", "output": "Spokane", "options": []}
+{"task": "lama-google_re", "input": "Pietro Delfino was born in [MASK] .", "output": "Venice", "options": []}
+{"task": "lama-google_re", "input": "Marco Napolioni was born in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "Ralph Katz was born in [MASK] .", "output": "Pittsburgh", "options": []}
+{"task": "lama-google_re", "input": "Isaac Wilson Joyce died in [MASK] .", "output": "Minneapolis", "options": []}
+{"task": "lama-google_re", "input": "Alexandra Mazur was born in [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-google_re", "input": "Nayan Padrai (born [MASK]).", "output": "1975", "options": []}
+{"task": "lama-google_re", "input": "Dionysis Boukouvalas was born in [MASK] .", "output": "Athens", "options": []}
+{"task": "lama-google_re", "input": "Colin Kennedy was born in [MASK] .", "output": "Hamilton", "options": []}
+{"task": "lama-google_re", "input": "Alastair Layzell was born in [MASK] .", "output": "Jersey", "options": []}
+{"task": "lama-google_re", "input": "Ryan Wilson (born [MASK]).", "output": "1980", "options": []}
+{"task": "lama-google_re", "input": "Thomas Proe (born [MASK]).", "output": "1852", "options": []}
+{"task": "lama-google_re", "input": "Elijah Wadsworth was born in [MASK] .", "output": "Hartford", "options": []}
+{"task": "lama-google_re", "input": "John Henry was born in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Joseph Lawrence Pfeifer died in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Riccardo Truccolo was born in [MASK] .", "output": "Italy", "options": []}
+{"task": "lama-google_re", "input": "David L. Heymann was born in [MASK] .", "output": "Pennsylvania", "options": []}
+{"task": "lama-google_re", "input": "Kevin Burdette was born in [MASK] .", "output": "Knoxville", "options": []}
+{"task": "lama-google_re", "input": "Ethan Mordden was born in [MASK] .", "output": "Pennsylvania", "options": []}
+{"task": "lama-google_re", "input": "Olaf Hajeck (born [MASK]).", "output": "1965", "options": []}
+{"task": "lama-google_re", "input": "Norbert van Bloemen died in [MASK] .", "output": "Amsterdam", "options": []}
+{"task": "lama-google_re", "input": "Arthur Hallam died in [MASK] .", "output": "Vienna", "options": []}
+{"task": "lama-google_re", "input": "Frederick Hartt was born in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Dmitry Yuryevich Belyayev (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "George Glas was born in [MASK] .", "output": "Dundee", "options": []}
+{"task": "lama-google_re", "input": "Rob Pannell (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "N. K. Krishnan (born [MASK]).", "output": "1913", "options": []}
+{"task": "lama-google_re", "input": "Moshe Meron (born [MASK]).", "output": "1926", "options": []}
+{"task": "lama-google_re", "input": "Iago Dekanozishvili was born in [MASK] .", "output": "Tbilisi", "options": []}
+{"task": "lama-google_re", "input": "Athanasios Tzoganis (born [MASK]).", "output": "1939", "options": []}
+{"task": "lama-google_re", "input": "Davide Sorrenti was born in [MASK] .", "output": "Naples", "options": []}
+{"task": "lama-google_re", "input": "Camilo Pino (born [MASK]).", "output": "1970", "options": []}
+{"task": "lama-google_re", "input": "Riddlestar (born [MASK]).", "output": "1998", "options": []}
+{"task": "lama-google_re", "input": "Charles Garry died in [MASK] .", "output": "Berkeley", "options": []}
+{"task": "lama-google_re", "input": "Carroll Vincent Newsom died in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Fran\u00e7oise Claustre was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Guilly d'Herbemont (born [MASK]).", "output": "1888", "options": []}
+{"task": "lama-google_re", "input": "Norman Bethune Sanson (born [MASK]).", "output": "1862", "options": []}
+{"task": "lama-google_re", "input": "Louis Antonelli was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "John Nichols died in [MASK] .", "output": "Raleigh", "options": []}
+{"task": "lama-google_re", "input": "E. Digby Baltzell died in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Sir James Lowther, 4th Baronet died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Ron Anthony (born [MASK]).", "output": "1933", "options": []}
+{"task": "lama-google_re", "input": "Nicole Richardson was born in [MASK] .", "output": "Melbourne", "options": []}
+{"task": "lama-google_re", "input": "H\u00e9l\u00e8ne Carr\u00e8re d'Encausse was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "J. N. Williamson was born in [MASK] .", "output": "Indianapolis", "options": []}
+{"task": "lama-google_re", "input": "Haris Alexiou (born [MASK]).", "output": "1950", "options": []}
+{"task": "lama-google_re", "input": "Selim Tadmoury (born [MASK]).", "output": "1938", "options": []}
+{"task": "lama-google_re", "input": "Andy Buist was born in [MASK] .", "output": "Norwich", "options": []}
+{"task": "lama-google_re", "input": "Ethel Harrington died in [MASK] .", "output": "Miami", "options": []}
+{"task": "lama-google_re", "input": "Colin John McRae died in [MASK] .", "output": "Belize", "options": []}
+{"task": "lama-google_re", "input": "David Carrier (born [MASK]).", "output": "1944", "options": []}
+{"task": "lama-google_re", "input": "Karen Young was born in [MASK] .", "output": "Sheffield", "options": []}
+{"task": "lama-google_re", "input": "Shane Price was born in [MASK] .", "output": "Melbourne", "options": []}
+{"task": "lama-google_re", "input": "Ted Dey was born in [MASK] .", "output": "Hull", "options": []}
+{"task": "lama-google_re", "input": "Nina Repeta was born in [MASK] .", "output": "Shelby", "options": []}
+{"task": "lama-google_re", "input": "Rafael Pombo died in [MASK] .", "output": "Colombia", "options": []}
+{"task": "lama-google_re", "input": "Karolina Kosi\u0144ska was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Richie Dent was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Kurt Hitke was born in [MASK] .", "output": "Dresden", "options": []}
+{"task": "lama-google_re", "input": "Margaret Nicholson (born [MASK]).", "output": "1750", "options": []}
+{"task": "lama-google_re", "input": "Fiona Brinkman (born [MASK]).", "output": "1967", "options": []}
+{"task": "lama-google_re", "input": "Mark McCall was born in [MASK] .", "output": "Bangor", "options": []}
+{"task": "lama-google_re", "input": "Luc Deleu (born [MASK]).", "output": "1944", "options": []}
+{"task": "lama-google_re", "input": "Martin Jervan was born in [MASK] .", "output": "Tallinn", "options": []}
+{"task": "lama-google_re", "input": "Zoran Popovich was born in [MASK] .", "output": "Akron", "options": []}
+{"task": "lama-google_re", "input": "Owen McAuley was born in [MASK] .", "output": "Belfast", "options": []}
+{"task": "lama-google_re", "input": "Brian Rohrbough (born [MASK]).", "output": "1961", "options": []}
+{"task": "lama-google_re", "input": "Sofia Ester was born in [MASK] .", "output": "Lisbon", "options": []}
+{"task": "lama-google_re", "input": "Imafuji Ch%C5%8Dtatsur%C5%8D was born in [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-google_re", "input": "Ruth Fuller Sasaki was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Robert Cross Smith died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Dmitry Vyacheslavovich Korolyov (born [MASK]).", "output": "1988", "options": []}
+{"task": "lama-google_re", "input": "George M. Lawton (born [MASK]).", "output": "1886", "options": []}
+{"task": "lama-google_re", "input": "Parviz Jalayer was born in [MASK] .", "output": "Tehran", "options": []}
+{"task": "lama-google_re", "input": "Martin A. Janis was born in [MASK] .", "output": "Toledo", "options": []}
+{"task": "lama-google_re", "input": "Bobby McDonald was born in [MASK] .", "output": "Aberdeen", "options": []}
+{"task": "lama-google_re", "input": "Silja Ekeland Bj\u00f8rkly was born in [MASK] .", "output": "Bergen", "options": []}
+{"task": "lama-google_re", "input": "Raymond Monsour Scurfield was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "G\u00e9rard Granel was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Neil Doncaster was born in [MASK] .", "output": "Devon", "options": []}
+{"task": "lama-google_re", "input": "Lloyd Youngblood was born in [MASK] .", "output": "Beaumont", "options": []}
+{"task": "lama-google_re", "input": "John Henry Barrow died in [MASK] .", "output": "Adelaide", "options": []}
+{"task": "lama-google_re", "input": "Pierre Dangeard (born [MASK]).", "output": "1895", "options": []}
+{"task": "lama-google_re", "input": "Gilbert de Clare, 7th Earl of Gloucester was born in [MASK] .", "output": "Christchurch", "options": []}
+{"task": "lama-google_re", "input": "Anna Eliza Bray died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Avraham Rivkind (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Wong How Man (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Lucius Verus was born in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "David Merrick died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Alana Miller was born in [MASK] .", "output": "Winnipeg", "options": []}
+{"task": "lama-google_re", "input": "Bob McChesney was born in [MASK] .", "output": "Maryland", "options": []}
+{"task": "lama-google_re", "input": "Sun Tianqin (born [MASK]).", "output": "1937", "options": []}
+{"task": "lama-google_re", "input": "Gaurav Keerthi was born in [MASK] .", "output": "India", "options": []}
+{"task": "lama-google_re", "input": "Benedikte Ki\u00e6r (born [MASK]).", "output": "1969", "options": []}
+{"task": "lama-google_re", "input": "Micha\u0142 Tober was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Tony Zazza (born [MASK]).", "output": "1975", "options": []}
+{"task": "lama-google_re", "input": "Harry B. Cohen was born in [MASK] .", "output": "Winnipeg", "options": []}
+{"task": "lama-google_re", "input": "Richard C. Nowakowski (born [MASK]).", "output": "1933", "options": []}
+{"task": "lama-google_re", "input": "Massimo Mazzucco was born in [MASK] .", "output": "Turin", "options": []}
+{"task": "lama-google_re", "input": "Nancy Sweezy died in [MASK] .", "output": "Cambridge", "options": []}
+{"task": "lama-google_re", "input": "Scott W. Skavdahl was born in [MASK] .", "output": "Lincoln", "options": []}
+{"task": "lama-google_re", "input": "Heinrich Hirschsprung was born in [MASK] .", "output": "Copenhagen", "options": []}
+{"task": "lama-google_re", "input": "John Snyder was born in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Mikko Korhonen (born [MASK]).", "output": "1980", "options": []}
+{"task": "lama-google_re", "input": "John Roland Abbey died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Shobana Sahajananan (born [MASK]).", "output": "1987", "options": []}
+{"task": "lama-google_re", "input": "Victoria Fletcher (born [MASK]).", "output": "1993", "options": []}
+{"task": "lama-google_re", "input": "Aarne Lakomaa was born in [MASK] .", "output": "Finland", "options": []}
+{"task": "lama-google_re", "input": "Brian Rol%C3%A8 (born [MASK]).", "output": "1972", "options": []}
+{"task": "lama-google_re", "input": "Cecil Copping was born in [MASK] .", "output": "Lisbon", "options": []}
+{"task": "lama-google_re", "input": "John McNamara was born in [MASK] .", "output": "Cambridge", "options": []}
+{"task": "lama-google_re", "input": "John Fawcett died in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Yang Yang was born in [MASK] .", "output": "Beijing", "options": []}
+{"task": "lama-google_re", "input": "Henry Williams (born [MASK]).", "output": "1842", "options": []}
+{"task": "lama-google_re", "input": "Necmi S%C3%B6nmez was born in [MASK] .", "output": "Istanbul", "options": []}
+{"task": "lama-google_re", "input": "S. Sivapalan (born [MASK]).", "output": "1890", "options": []}
+{"task": "lama-google_re", "input": "Frank Jones (born [MASK]).", "output": "1924", "options": []}
+{"task": "lama-google_re", "input": "Jorge Noceda Sanchez died in [MASK] .", "output": "Miami", "options": []}
+{"task": "lama-google_re", "input": "Blake Cochrane (born [MASK]).", "output": "1993", "options": []}
+{"task": "lama-google_re", "input": "John Nichols died in [MASK] .", "output": "Raleigh", "options": []}
+{"task": "lama-google_re", "input": "Comte Desbassayns de Richemont (born [MASK]).", "output": "1800", "options": []}
+{"task": "lama-google_re", "input": "Stacy Barthe was born in [MASK] .", "output": "Brooklyn", "options": []}
+{"task": "lama-google_re", "input": "Jafar Bolhari (born [MASK]).", "output": "1948", "options": []}
+{"task": "lama-google_re", "input": "Ken Fowler was born in [MASK] .", "output": "Fargo", "options": []}
+{"task": "lama-google_re", "input": "Pieter Arnout Dijxhoorn died in [MASK] .", "output": "Rotterdam", "options": []}
+{"task": "lama-google_re", "input": "James J. LeCleir (born [MASK]).", "output": "1941", "options": []}
+{"task": "lama-google_re", "input": "Adam Gierek was born in [MASK] .", "output": "Belgium", "options": []}
+{"task": "lama-google_re", "input": "Waheedul Haq died in [MASK] .", "output": "Dhaka", "options": []}
+{"task": "lama-google_re", "input": "Marek Kiecana (born [MASK]).", "output": "1962", "options": []}
+{"task": "lama-google_re", "input": "Farid Chopel was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Ferenc M\u00e9rei was born in [MASK] .", "output": "Budapest", "options": []}
+{"task": "lama-google_re", "input": "Frank Nash (born [MASK]).", "output": "1887", "options": []}
+{"task": "lama-google_re", "input": "Aloys Pennarini (born [MASK]).", "output": "1870", "options": []}
+{"task": "lama-google_re", "input": "Elnathan Sweet was born in [MASK] .", "output": "Cheshire", "options": []}
+{"task": "lama-google_re", "input": "Casper Herman Hausmann died in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Miros\u0142aw Maliszewski was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Michael Matus was born in [MASK] .", "output": "Borneo", "options": []}
+{"task": "lama-google_re", "input": "Ben F. Whitaker (born [MASK]).", "output": "1893", "options": []}
+{"task": "lama-google_re", "input": "Gerrit Noordzij was born in [MASK] .", "output": "Rotterdam", "options": []}
+{"task": "lama-google_re", "input": "Apollos Smith died in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Asa and Lucy Goodale Thurston died in [MASK] .", "output": "Honolulu", "options": []}
+{"task": "lama-google_re", "input": "Thakur Dal Singh (born [MASK]).", "output": "1895", "options": []}
+{"task": "lama-google_re", "input": "Leo Fernandez was born in [MASK] .", "output": "Limerick", "options": []}
+{"task": "lama-google_re", "input": "James Aubrey (born [MASK]).", "output": "1947", "options": []}
+{"task": "lama-google_re", "input": "Snorre Valen was born in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Sampson Low was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Sunny Xie (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "John Cobbett was born in [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-google_re", "input": "Zhaira Costiniano (born [MASK]).", "output": "1995", "options": []}
+{"task": "lama-google_re", "input": "Lorenzo Lauria (born [MASK]).", "output": "1947", "options": []}
+{"task": "lama-google_re", "input": "Binem Heller was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Thibaut de Reimpr\u00e9 was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Stanley Copp (born [MASK]).", "output": "1915", "options": []}
+{"task": "lama-google_re", "input": "James Graham died in [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-google_re", "input": "Al Cotey was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "William Cole died in [MASK] .", "output": "Milton", "options": []}
+{"task": "lama-google_re", "input": "Claude Couture was born in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Edwin Barber Morgan died in [MASK] .", "output": "Aurora", "options": []}
+{"task": "lama-google_re", "input": "John Meyers (born [MASK]).", "output": "1745", "options": []}
+{"task": "lama-google_re", "input": "Harry Mills died in [MASK] .", "output": "Vancouver", "options": []}
+{"task": "lama-google_re", "input": "Moshe Lewin died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Debbie Bont (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "Vlad Georgescu was born in [MASK] .", "output": "Bucharest", "options": []}
+{"task": "lama-google_re", "input": "Michael Angelo Saltarelli died in [MASK] .", "output": "Wilmington", "options": []}
+{"task": "lama-google_re", "input": "David M. Kelley (born [MASK]).", "output": "1951", "options": []}
+{"task": "lama-google_re", "input": "Benjamin Paul Akers died in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Frans de Momper died in [MASK] .", "output": "Antwerp", "options": []}
+{"task": "lama-google_re", "input": "Delphus E. Carpenter (born [MASK]).", "output": "1877", "options": []}
+{"task": "lama-google_re", "input": "Moses Mason, Jr. was born in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Dan Tolkovsky (born [MASK]).", "output": "1922", "options": []}
+{"task": "lama-google_re", "input": "Sergey Kozlov was born in [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-google_re", "input": "Dwight Yates was born in [MASK] .", "output": "Montana", "options": []}
+{"task": "lama-google_re", "input": "David Bret was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "William Garnett was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Bernhard R%C3%BChling was born in [MASK] .", "output": "Stuttgart", "options": []}
+{"task": "lama-google_re", "input": "Ernst Witebsky was born in [MASK] .", "output": "Frankfurt", "options": []}
+{"task": "lama-google_re", "input": "Thierry Ehrmann was born in [MASK] .", "output": "Lyon", "options": []}
+{"task": "lama-google_re", "input": "Adolfo Davila was born in [MASK] .", "output": "Mexico", "options": []}
+{"task": "lama-google_re", "input": "Rafaela Ybarra de Vilallonga (born [MASK]).", "output": "1843", "options": []}
+{"task": "lama-google_re", "input": "Penny Banner died in [MASK] .", "output": "Charlotte", "options": []}
+{"task": "lama-google_re", "input": "Frank Sayers was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Jos%C3%A9 Pou was born in [MASK] .", "output": "Nicaragua", "options": []}
+{"task": "lama-google_re", "input": "Jack Arnold (born [MASK]).", "output": "1920", "options": []}
+{"task": "lama-google_re", "input": "William Hardy was born in [MASK] .", "output": "Jamaica", "options": []}
+{"task": "lama-google_re", "input": "Keagan Kang was born in [MASK] .", "output": "Perth", "options": []}
+{"task": "lama-google_re", "input": "Pepper Roach (born [MASK]).", "output": "1958", "options": []}
+{"task": "lama-google_re", "input": "Jeanne Chall died in [MASK] .", "output": "Cambridge", "options": []}
+{"task": "lama-google_re", "input": "Hyman Hurwitz (born [MASK]).", "output": "1770", "options": []}
+{"task": "lama-google_re", "input": "Nadia Zaffar was born in [MASK] .", "output": "Karachi", "options": []}
+{"task": "lama-google_re", "input": "Alan Clayson was born in [MASK] .", "output": "Dover", "options": []}
+{"task": "lama-google_re", "input": "Augustus A. Bird was born in [MASK] .", "output": "Vermont", "options": []}
+{"task": "lama-google_re", "input": "Shaista Nuzhat (born [MASK]).", "output": "1963", "options": []}
+{"task": "lama-google_re", "input": "Dennis Conta was born in [MASK] .", "output": "Milwaukee", "options": []}
+{"task": "lama-google_re", "input": "Derek Kreckler was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Michael Harmon (born [MASK]).", "output": "1969", "options": []}
+{"task": "lama-google_re", "input": "Amber Parkinson was born in [MASK] .", "output": "Melbourne", "options": []}
+{"task": "lama-google_re", "input": "Elivelton Jos%C3%A9 da Silva (born [MASK]).", "output": "1992", "options": []}
+{"task": "lama-google_re", "input": "Alberto Saichann was born in [MASK] .", "output": "Argentina", "options": []}
+{"task": "lama-google_re", "input": "John Carlin was born in [MASK] .", "output": "Nottinghamshire", "options": []}
+{"task": "lama-google_re", "input": "Bhupinder Nath Kirpal was born in [MASK] .", "output": "Lahore", "options": []}
+{"task": "lama-google_re", "input": "Anita King died in [MASK] .", "output": "Hollywood", "options": []}
+{"task": "lama-google_re", "input": "Jean No\u00ebl Hall\u00e9 was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Bert Ruiter was born in [MASK] .", "output": "Amsterdam", "options": []}
+{"task": "lama-google_re", "input": "Lorne Resnick was born in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "Roy Crane died in [MASK] .", "output": "Orlando", "options": []}
+{"task": "lama-google_re", "input": "George Edward Hughes was born in [MASK] .", "output": "Waterford", "options": []}
+{"task": "lama-google_re", "input": "Mary Macmaster was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Ingrid Eide was born in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Nikolay Strunnikov died in [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-google_re", "input": "Armen Poghosyan (born [MASK]).", "output": "1974", "options": []}
+{"task": "lama-google_re", "input": "Giri Prasad Burathoki (born [MASK]).", "output": "1898", "options": []}
+{"task": "lama-google_re", "input": "John Comerford died in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Edward Webster Bemis was born in [MASK] .", "output": "Springfield", "options": []}
+{"task": "lama-google_re", "input": "Daniel M. Hausman was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Greg Dening died in [MASK] .", "output": "Hobart", "options": []}
+{"task": "lama-google_re", "input": "John Edward Bush (born [MASK]).", "output": "1890", "options": []}
+{"task": "lama-google_re", "input": "Robert Allen was born in [MASK] .", "output": "Woodstock", "options": []}
+{"task": "lama-google_re", "input": "Florentina Mall%C3%A1 died in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Ann Corio was born in [MASK] .", "output": "Hartford", "options": []}
+{"task": "lama-google_re", "input": "John Ferruggio died in [MASK] .", "output": "Milton", "options": []}
+{"task": "lama-google_re", "input": "Stephen Grey was born in [MASK] .", "output": "Rotterdam", "options": []}
+{"task": "lama-google_re", "input": "Lawrence E. Kahn was born in [MASK] .", "output": "Troy", "options": []}
+{"task": "lama-google_re", "input": "Willie James (born [MASK]).", "output": "1920", "options": []}
+{"task": "lama-google_re", "input": "Naseem Shafaie (born [MASK]).", "output": "1952", "options": []}
+{"task": "lama-google_re", "input": "Don DeVito (born [MASK]).", "output": "1939", "options": []}
+{"task": "lama-google_re", "input": "Mick O'Brien was born in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "James Powell was born in [MASK] .", "output": "Eton", "options": []}
+{"task": "lama-google_re", "input": "Peter Gallagher (born [MASK]).", "output": "1937", "options": []}
+{"task": "lama-google_re", "input": "William Stewart, 1st Earl of Blessington died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "John Seru was born in [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-google_re", "input": "Christian Geist (born [MASK]).", "output": "1650", "options": []}
+{"task": "lama-google_re", "input": "Isaac Green Messec was born in [MASK] .", "output": "Macon", "options": []}
+{"task": "lama-google_re", "input": "Sergey Yuryevich Maslov (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "Albino Morales (born [MASK]).", "output": "1940", "options": []}
+{"task": "lama-google_re", "input": "Andrea M\u00e1tay was born in [MASK] .", "output": "Budapest", "options": []}
+{"task": "lama-google_re", "input": "J.C. Patterson was born in [MASK] .", "output": "Armagh", "options": []}
+{"task": "lama-google_re", "input": "Rosabelle Sinclair was born in [MASK] .", "output": "Russia", "options": []}
+{"task": "lama-google_re", "input": "Dorothy Combs Morrison (born [MASK]).", "output": "1945", "options": []}
+{"task": "lama-google_re", "input": "Tony Skabar was born in [MASK] .", "output": "Ukraine", "options": []}
+{"task": "lama-google_re", "input": "Bernard D. Rubin (born [MASK]).", "output": "1893", "options": []}
+{"task": "lama-google_re", "input": "Edwin Edgar Voigt was born in [MASK] .", "output": "Illinois", "options": []}
+{"task": "lama-google_re", "input": "John Fisher was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Don Lane (born [MASK]).", "output": "1956", "options": []}
+{"task": "lama-google_re", "input": "Kim Ondaatje was born in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "Daniel Steven Crafts was born in [MASK] .", "output": "Detroit", "options": []}
+{"task": "lama-google_re", "input": "Dave Connell was born in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Alex Porfirio de Lima (born [MASK]).", "output": "1988", "options": []}
+{"task": "lama-google_re", "input": "John William Mellor was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Ond\u0159ej Neff was born in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Brent Barraclough was born in [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-google_re", "input": "Harvey Jewell (born [MASK]).", "output": "1820", "options": []}
+{"task": "lama-google_re", "input": "Amy Neftzger was born in [MASK] .", "output": "Illinois", "options": []}
+{"task": "lama-google_re", "input": "Keith Butler was born in [MASK] .", "output": "Delhi", "options": []}
+{"task": "lama-google_re", "input": "Greg Dening died in [MASK] .", "output": "Hobart", "options": []}
+{"task": "lama-google_re", "input": "Guillermo Gianninazzi (born [MASK]).", "output": "1880", "options": []}
+{"task": "lama-google_re", "input": "Thomas Ward died in [MASK] .", "output": "Newark", "options": []}
+{"task": "lama-google_re", "input": "Stan Fine was born in [MASK] .", "output": "Pittsburgh", "options": []}
+{"task": "lama-google_re", "input": "Juliana Mialoundama (born [MASK]).", "output": "1993", "options": []}
+{"task": "lama-google_re", "input": "John Ridley died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Jacques Ignatius de Roore died in [MASK] .", "output": "Antwerp", "options": []}
+{"task": "lama-google_re", "input": "James L. English died in [MASK] .", "output": "Sacramento", "options": []}
+{"task": "lama-google_re", "input": "Antonietta Pastori was born in [MASK] .", "output": "Milan", "options": []}
+{"task": "lama-google_re", "input": "John Caskie died in [MASK] .", "output": "Richmond", "options": []}
+{"task": "lama-google_re", "input": "Jeffrey L. Kessler (born [MASK]).", "output": "1954", "options": []}
+{"task": "lama-google_re", "input": "Otto Degener died in [MASK] .", "output": "Honolulu", "options": []}
+{"task": "lama-google_re", "input": "Tazewell Ellett was born in [MASK] .", "output": "Richmond", "options": []}
+{"task": "lama-google_re", "input": "Alfred Kossmann was born in [MASK] .", "output": "Leiden", "options": []}
+{"task": "lama-google_re", "input": "Jimmy Norris was born in [MASK] .", "output": "Newport", "options": []}
+{"task": "lama-google_re", "input": "Marie D\u00e4hnhardt (born [MASK]).", "output": "1818", "options": []}
+{"task": "lama-google_re", "input": "Marian Hannah Winter died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Walter Dulaney Addison was born in [MASK] .", "output": "Annapolis", "options": []}
+{"task": "lama-google_re", "input": "Rick Lawson was born in [MASK] .", "output": "Raymond", "options": []}
+{"task": "lama-google_re", "input": "Dominic Sutherland (born [MASK]).", "output": "1972", "options": []}
+{"task": "lama-google_re", "input": "Samuel Barton was born in [MASK] .", "output": "Virginia", "options": []}
+{"task": "lama-google_re", "input": "William Child was born in [MASK] .", "output": "Bristol", "options": []}
+{"task": "lama-google_re", "input": "Shareef Cousin (born [MASK]).", "output": "1980", "options": []}
+{"task": "lama-google_re", "input": "Winifred Nicholson was born in [MASK] .", "output": "Oxford", "options": []}
+{"task": "lama-google_re", "input": "Ben Reitman died in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Federico Agostini (born [MASK]).", "output": "1959", "options": []}
+{"task": "lama-google_re", "input": "James Monroe died in [MASK] .", "output": "Orange", "options": []}
+{"task": "lama-google_re", "input": "Adolphus Drucker was born in [MASK] .", "output": "Amsterdam", "options": []}
+{"task": "lama-google_re", "input": "Mary MacLeod Banks was born in [MASK] .", "output": "Edinburgh", "options": []}
+{"task": "lama-google_re", "input": "Charles Martin died in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "William W. Ellsberry died in [MASK] .", "output": "Georgetown", "options": []}
+{"task": "lama-google_re", "input": "Boris Grushin was born in [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-google_re", "input": "Jazzy Jay was born in [MASK] .", "output": "Beaufort", "options": []}
+{"task": "lama-google_re", "input": "Patrick Thomas Stone was born in [MASK] .", "output": "Pembroke", "options": []}
+{"task": "lama-google_re", "input": "Andy Roesch (born [MASK]).", "output": "1906", "options": []}
+{"task": "lama-google_re", "input": "Gyles Brandreth was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Sancho d'Avila died in [MASK] .", "output": "Lisbon", "options": []}
+{"task": "lama-google_re", "input": "Henri de Contenson was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Michael Charlton was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "James Kinlay was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Charles William King died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Henri Gascar died in [MASK] .", "output": "Rome", "options": []}
+{"task": "lama-google_re", "input": "Sanjay Mukherjee (born [MASK]).", "output": "1972", "options": []}
+{"task": "lama-google_re", "input": "Robert Abi Nader (born [MASK]).", "output": "1975", "options": []}
+{"task": "lama-google_re", "input": "Era Bell Thompson died in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "James Lomax Bardsley died in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Lewis Rendt was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Salvatore Papaccio was born in [MASK] .", "output": "Naples", "options": []}
+{"task": "lama-google_re", "input": "Bibiana Ferrea (born [MASK]).", "output": "1980", "options": []}
+{"task": "lama-google_re", "input": "Henry Savile died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Nasr Abu Zayd died in [MASK] .", "output": "Cairo", "options": []}
+{"task": "lama-google_re", "input": "Stanis\u0142aw Urban was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Peter Hargitai was born in [MASK] .", "output": "Budapest", "options": []}
+{"task": "lama-google_re", "input": "Ferenc A. V\u00e1li died in [MASK] .", "output": "Massachusetts", "options": []}
+{"task": "lama-google_re", "input": "Jules Louis Lewal was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Solange Tagliavini (born [MASK]).", "output": "1985", "options": []}
+{"task": "lama-google_re", "input": "Sergei Igorevich Kirillov (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "William %22Rip%22 Robertson died in [MASK] .", "output": "Laos", "options": []}
+{"task": "lama-google_re", "input": "Joseph K. Bratton died in [MASK] .", "output": "Virginia", "options": []}
+{"task": "lama-google_re", "input": "Jeffrey Gilbert died in [MASK] .", "output": "Bath", "options": []}
+{"task": "lama-google_re", "input": "John Mahaffy was born in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Katherine FitzGerald, Viscountess Grandison died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "David W. Dyer died in [MASK] .", "output": "Miami", "options": []}
+{"task": "lama-google_re", "input": "Konstantin Matusevich was born in [MASK] .", "output": "Kiev", "options": []}
+{"task": "lama-google_re", "input": "Alfred Ollivant was born in [MASK] .", "output": "Manchester", "options": []}
+{"task": "lama-google_re", "input": "Thalia Pellegrini was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Terence D'Souza (born [MASK]).", "output": "1932", "options": []}
+{"task": "lama-google_re", "input": "Derrick Leon was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Swami Sundaranand was born in [MASK] .", "output": "India", "options": []}
+{"task": "lama-google_re", "input": "Robert G. Bremner died in [MASK] .", "output": "Baltimore", "options": []}
+{"task": "lama-google_re", "input": "Carlo Giuseppe Ratti was born in [MASK] .", "output": "Genoa", "options": []}
+{"task": "lama-google_re", "input": "Ursula Evje was born in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Margaret J. Vergeront (born [MASK]).", "output": "1946", "options": []}
+{"task": "lama-google_re", "input": "John Preston died in [MASK] .", "output": "Portland", "options": []}
+{"task": "lama-google_re", "input": "Shauna Pender (born [MASK]).", "output": "1979", "options": []}
+{"task": "lama-google_re", "input": "Iren Marik was born in [MASK] .", "output": "Hungary", "options": []}
+{"task": "lama-google_re", "input": "Scott Tennant was born in [MASK] .", "output": "Detroit", "options": []}
+{"task": "lama-google_re", "input": "Georges Arnoux (born [MASK]).", "output": "1891", "options": []}
+{"task": "lama-google_re", "input": "Bill Weeks (born [MASK]).", "output": "1929", "options": []}
+{"task": "lama-google_re", "input": "Dan Armon was born in [MASK] .", "output": "Jerusalem", "options": []}
+{"task": "lama-google_re", "input": "David Mitchel died in [MASK] .", "output": "Aberdeen", "options": []}
+{"task": "lama-google_re", "input": "Johnny Praize Hernandez (born [MASK]).", "output": "1969", "options": []}
+{"task": "lama-google_re", "input": "Alan Thomson was born in [MASK] .", "output": "Glasgow", "options": []}
+{"task": "lama-google_re", "input": "Henry Campion (born [MASK]).", "output": "1680", "options": []}
+{"task": "lama-google_re", "input": "Waluyo (born [MASK]).", "output": "1983", "options": []}
+{"task": "lama-google_re", "input": "Adolf Dygasi\u0144ski died in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "David I. Hammergren (born [MASK]).", "output": "1875", "options": []}
+{"task": "lama-google_re", "input": "George Georgiou was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Abrigael Boh%C3%B3rquez (born [MASK]).", "output": "1936", "options": []}
+{"task": "lama-google_re", "input": "Alina Gut was born in [MASK] .", "output": "Lublin", "options": []}
+{"task": "lama-google_re", "input": "Fran\u00e7ois Mignard (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Jessy Kramer (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "Antonia Okonma was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Tim Robinson was born in [MASK] .", "output": "Yorkshire", "options": []}
+{"task": "lama-google_re", "input": "Leonard Williams died in [MASK] .", "output": "Napier", "options": []}
+{"task": "lama-google_re", "input": "John James Masquerier died in [MASK] .", "output": "Brighton", "options": []}
+{"task": "lama-google_re", "input": "Guilnar Majdalani (born [MASK]).", "output": "1984", "options": []}
+{"task": "lama-google_re", "input": "Imafuji Ch%C5%8Dtatsur%C5%8D was born in [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-google_re", "input": "John Jenkins was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "M\u00fcnir G\u00f6le (born [MASK]).", "output": "1961", "options": []}
+{"task": "lama-google_re", "input": "Henry Wood died in [MASK] .", "output": "Bath", "options": []}
+{"task": "lama-google_re", "input": "Thomas Reeve was born in [MASK] .", "output": "Langley", "options": []}
+{"task": "lama-google_re", "input": "Walter Hilgers was born in [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-google_re", "input": "Crowther Charlesworth was born in [MASK] .", "output": "Swindon", "options": []}
+{"task": "lama-google_re", "input": "Paul Hallez was born in [MASK] .", "output": "Lille", "options": []}
+{"task": "lama-google_re", "input": "Arthur Yoria was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "William Doughty died in [MASK] .", "output": "Lisbon", "options": []}
+{"task": "lama-google_re", "input": "Herman Kauz (born [MASK]).", "output": "1928", "options": []}
+{"task": "lama-google_re", "input": "Tom Arnold was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Lawrence Taub was born in [MASK] .", "output": "Newark", "options": []}
+{"task": "lama-google_re", "input": "Clive Gee was born in [MASK] .", "output": "Ireland", "options": []}
+{"task": "lama-google_re", "input": "Ellen Cheney Johnson died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Brandon Bird was born in [MASK] .", "output": "Carmichael", "options": []}
+{"task": "lama-google_re", "input": "Daniel Spielman was born in [MASK] .", "output": "Philadelphia", "options": []}
+{"task": "lama-google_re", "input": "Benjamin Cutter died in [MASK] .", "output": "Boston", "options": []}
+{"task": "lama-google_re", "input": "Stephen Potts (born [MASK]).", "output": "1957", "options": []}
+{"task": "lama-google_re", "input": "Jos\u00e9 de Cieza died in [MASK] .", "output": "Madrid", "options": []}
+{"task": "lama-google_re", "input": "John Marwick died in [MASK] .", "output": "Hastings", "options": []}
+{"task": "lama-google_re", "input": "Frank M. Reed (born [MASK]).", "output": "1861", "options": []}
+{"task": "lama-google_re", "input": "John Mundy was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Igors Vihrovs was born in [MASK] .", "output": "Riga", "options": []}
+{"task": "lama-google_re", "input": "Henri Amouroux died in [MASK] .", "output": "Normandy", "options": []}
+{"task": "lama-google_re", "input": "George Waddington died in [MASK] .", "output": "Durham", "options": []}
+{"task": "lama-google_re", "input": "George Clark was born in [MASK] .", "output": "Tulsa", "options": []}
+{"task": "lama-google_re", "input": "Doug Grean (born [MASK]).", "output": "1966", "options": []}
+{"task": "lama-google_re", "input": "Morris Schwartz was born in [MASK] .", "output": "Russia", "options": []}
+{"task": "lama-google_re", "input": "Beth Liebling was born in [MASK] .", "output": "Illinois", "options": []}
+{"task": "lama-google_re", "input": "Anna Fitziu died in [MASK] .", "output": "Hollywood", "options": []}
+{"task": "lama-google_re", "input": "Jacob B. Warlow (born [MASK]).", "output": "1818", "options": []}
+{"task": "lama-google_re", "input": "Norman Sartorius (born [MASK]).", "output": "1935", "options": []}
+{"task": "lama-google_re", "input": "Mischa Hiller was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Orsamus B. Matteson was born in [MASK] .", "output": "Verona", "options": []}
+{"task": "lama-google_re", "input": "Suzie Malone was born in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-google_re", "input": "Richard E. Tarrell (born [MASK]).", "output": "1850", "options": []}
+{"task": "lama-google_re", "input": "William Donald Albright (born [MASK]).", "output": "1881", "options": []}
+{"task": "lama-google_re", "input": "Paul McDonald (born [MASK]).", "output": "1984", "options": []}
+{"task": "lama-google_re", "input": "Godfrey Morgan (born [MASK]).", "output": "1875", "options": []}
+{"task": "lama-google_re", "input": "G.B.J. Hiltermann (born [MASK]).", "output": "1914", "options": []}
+{"task": "lama-google_re", "input": "Nathalie De Vos was born in [MASK] .", "output": "Ghent", "options": []}
+{"task": "lama-google_re", "input": "Rodney Cocks was born in [MASK] .", "output": "Melbourne", "options": []}
+{"task": "lama-google_re", "input": "Kip King was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Charles Schreiber was born in [MASK] .", "output": "Colchester", "options": []}
+{"task": "lama-google_re", "input": "Grady Livingston (born [MASK]).", "output": "1972", "options": []}
+{"task": "lama-google_re", "input": "Ronny Swiggers was born in [MASK] .", "output": "Belgium", "options": []}
+{"task": "lama-google_re", "input": "Sami Hinkka was born in [MASK] .", "output": "Finland", "options": []}
+{"task": "lama-google_re", "input": "James R. Slack (born [MASK]).", "output": "1818", "options": []}
+{"task": "lama-google_re", "input": "John Durant Breval died in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Norbert Francis Attard was born in [MASK] .", "output": "Malta", "options": []}
+{"task": "lama-google_re", "input": "Stepan Kozhumyaka (born [MASK]).", "output": "1898", "options": []}
+{"task": "lama-google_re", "input": "Martin Gero was born in [MASK] .", "output": "Switzerland", "options": []}
+{"task": "lama-google_re", "input": "Mauritz A. Hallgren died in [MASK] .", "output": "Baltimore", "options": []}
+{"task": "lama-google_re", "input": "Filippo Soffici was born in [MASK] .", "output": "Florence", "options": []}
+{"task": "lama-google_re", "input": "Serge Losique was born in [MASK] .", "output": "Yugoslavia", "options": []}
+{"task": "lama-google_re", "input": "Bayoumi Andil (born [MASK]).", "output": "1942", "options": []}
+{"task": "lama-google_re", "input": "Justin Wintle was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Rem Urasin was born in [MASK] .", "output": "Kazan", "options": []}
+{"task": "lama-google_re", "input": "Sardar Muhammad Yusuf Khan (born [MASK]).", "output": "1939", "options": []}
+{"task": "lama-google_re", "input": "Mohammad Hossein Barkhah was born in [MASK] .", "output": "Tehran", "options": []}
+{"task": "lama-google_re", "input": "Don Dixon was born in [MASK] .", "output": "Easton", "options": []}
+{"task": "lama-google_re", "input": "Jay T. Snyder (born [MASK]).", "output": "1958", "options": []}
+{"task": "lama-google_re", "input": "Andrzej Kunert was born in [MASK] .", "output": "Warsaw", "options": []}
+{"task": "lama-google_re", "input": "Maidelis Saldi\u00f1a (born [MASK]).", "output": "1988", "options": []}
+{"task": "lama-google_re", "input": "Herbert Kingsford was born in [MASK] .", "output": "Dover", "options": []}
+{"task": "lama-google_re", "input": "Robert H. Johnson (born [MASK]).", "output": "1916", "options": []}
+{"task": "lama-google_re", "input": "Andrew Geddes died in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "George McGuigan (born [MASK]).", "output": "1993", "options": []}
+{"task": "lama-google_re", "input": "Knut Tarald Taraldsen was born in [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-google_re", "input": "Terry Eviston was born in [MASK] .", "output": "Dublin", "options": []}
+{"task": "lama-google_re", "input": "Elizabeth Burmaster was born in [MASK] .", "output": "Baltimore", "options": []}
+{"task": "lama-google_re", "input": "John Tasioulas (born [MASK]).", "output": "1964", "options": []}
+{"task": "lama-google_re", "input": "John Marcum was born in [MASK] .", "output": "Toledo", "options": []}
+{"task": "lama-google_re", "input": "Renato Caccioppoli was born in [MASK] .", "output": "Naples", "options": []}
+{"task": "lama-google_re", "input": "Oksana Kovalevskaya (born [MASK]).", "output": "1983", "options": []}
+{"task": "lama-google_re", "input": "Hanna Thompson was born in [MASK] .", "output": "Rochester", "options": []}
+{"task": "lama-google_re", "input": "John Courtney Murray died in [MASK] .", "output": "Queens", "options": []}
+{"task": "lama-google_re", "input": "Yannick Pouliot was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "John Robert de Laeter (born [MASK]).", "output": "1933", "options": []}
+{"task": "lama-google_re", "input": "Barbara Clark was born in [MASK] .", "output": "Alberta", "options": []}
+{"task": "lama-google_re", "input": "Danny Roxo was born in [MASK] .", "output": "Portugal", "options": []}
+{"task": "lama-google_re", "input": "Francis Dunlavy was born in [MASK] .", "output": "Virginia", "options": []}
+{"task": "lama-google_re", "input": "Carrie Ann Baade (born [MASK]).", "output": "1974", "options": []}
+{"task": "lama-google_re", "input": "J\u00falia Hunyady de K\u00e9thely (born [MASK]).", "output": "1831", "options": []}
+{"task": "lama-google_re", "input": "Alain Deneef (born [MASK]).", "output": "1960", "options": []}
+{"task": "lama-google_re", "input": "Albert Rudomine was born in [MASK] .", "output": "Kiev", "options": []}
+{"task": "lama-google_re", "input": "Francis Williams was born in [MASK] .", "output": "Kingston", "options": []}
+{"task": "lama-google_re", "input": "Trevor Burton was born in [MASK] .", "output": "Aston", "options": []}
+{"task": "lama-google_re", "input": "Ma Yue (born [MASK]).", "output": "1959", "options": []}
+{"task": "lama-google_re", "input": "Brian Kendall (born [MASK]).", "output": "1948", "options": []}
+{"task": "lama-google_re", "input": "Keisuke Hayashi (born [MASK]).", "output": "1988", "options": []}
+{"task": "lama-google_re", "input": "Lucas Auer was born in [MASK] .", "output": "Austria", "options": []}
+{"task": "lama-google_re", "input": "Tracey Magee was born in [MASK] .", "output": "Belfast", "options": []}
+{"task": "lama-google_re", "input": "Thanhha Lai was born in [MASK] .", "output": "Vietnam", "options": []}
+{"task": "lama-google_re", "input": "Vilmantas Dilys (born [MASK]).", "output": "1987", "options": []}
+{"task": "lama-google_re", "input": "William C. Cowling (born [MASK]).", "output": "1872", "options": []}
+{"task": "lama-google_re", "input": "Stewart Rawlings Mott was born in [MASK] .", "output": "Flint", "options": []}
+{"task": "lama-google_re", "input": "Kelly Hardie was born in [MASK] .", "output": "Perth", "options": []}
+{"task": "lama-google_re", "input": "Luis Ulacia was born in [MASK] .", "output": "Havana", "options": []}
+{"task": "lama-google_re", "input": "Wallace Bishop was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Jack Garland was born in [MASK] .", "output": "Belfast", "options": []}
+{"task": "lama-google_re", "input": "Andrea Zlatar-Violi\u0107 (born [MASK]).", "output": "1961", "options": []}
+{"task": "lama-google_re", "input": "John J. Allen died in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "Joseph Montgomery died in [MASK] .", "output": "Harrisburg", "options": []}
+{"task": "lama-google_re", "input": "Fran%C3%A7ois Desjardins was born in [MASK] .", "output": "Montreal", "options": []}
+{"task": "lama-google_re", "input": "V\u00e1clav Havel died in [MASK] .", "output": "Prague", "options": []}
+{"task": "lama-google_re", "input": "Robert E. Merriam was born in [MASK] .", "output": "Chicago", "options": []}
+{"task": "lama-google_re", "input": "Tomasz Rut (born [MASK]).", "output": "1961", "options": []}
+{"task": "lama-google_re", "input": "Jasmin \u0160\u0107uk (born [MASK]).", "output": "1990", "options": []}
+{"task": "lama-google_re", "input": "Noor Muhammad Butt (born [MASK]).", "output": "1936", "options": []}
+{"task": "lama-google_re", "input": "Dylan Taite was born in [MASK] .", "output": "Liverpool", "options": []}
+{"task": "lama-google_re", "input": "Gianni Iapichino was born in [MASK] .", "output": "Florence", "options": []}
+{"task": "lama-google_re", "input": "Simone Orlando was born in [MASK] .", "output": "Vancouver", "options": []}
+{"task": "lama-google_re", "input": "Catherine Seaton Skirving died in [MASK] .", "output": "Toronto", "options": []}
+{"task": "lama-google_re", "input": "J. E. P. Aldous was born in [MASK] .", "output": "Sheffield", "options": []}
+{"task": "lama-google_re", "input": "Konrad of Lichtenau died in [MASK] .", "output": "Bavaria", "options": []}
+{"task": "lama-google_re", "input": "Alketa Vejsiu (born [MASK]).", "output": "1984", "options": []}
+{"task": "lama-google_re", "input": "Gustav Eduard von Hindersin died in [MASK] .", "output": "Berlin", "options": []}
+{"task": "lama-google_re", "input": "George Hulse was born in [MASK] .", "output": "Liverpool", "options": []}
+{"task": "lama-google_re", "input": "John Abram was born in [MASK] .", "output": "England", "options": []}
+{"task": "lama-google_re", "input": "Lidiya Lipkovskaya died in [MASK] .", "output": "Beirut", "options": []}
+{"task": "lama-google_re", "input": "John Joseph Cotman died in [MASK] .", "output": "Norwich", "options": []}
+{"task": "lama-google_re", "input": "Sofia Adamson died in [MASK] .", "output": "Pasadena", "options": []}
+{"task": "lama-google_re", "input": "Randy Corman (born [MASK]).", "output": "1960", "options": []}

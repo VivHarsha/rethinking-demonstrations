@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "FDA says generic Wellbutrin OK despite reports.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Massachusetts confirms year\u2019s first case of measles.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"A Navy officer was arrested for \"\"abuse of public animal\"\" and \"\"drunken or reckless driving\"\" after he used a raccoon to bypass an ignition interlock system.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Chocolate lovers have fewer strokes, study finds", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Farmers are injecting fruits and vegetables with the human hormone oxytocin to enhance their growth and appearance.", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "The pilot of missing Malaysia Airlines Flight 370 reappeared in Taiwan two years after the plane disappeared.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"In June 2018, Ivanka Trump adopted the alias \"\"Adrienne Vittadini\"\" to market her fashion line to unwitting buyers.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Documents: $6 million to Armstrong family in wrongful death.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}

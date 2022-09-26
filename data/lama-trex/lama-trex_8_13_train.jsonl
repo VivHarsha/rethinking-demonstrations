@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "Sudan shares border with [MASK] .", "output": "Chad", "options": []}
+{"task": "lama-trex", "input": "Central African Republic maintains diplomatic relations with [MASK] .", "output": "Cameroon", "options": []}
+{"task": "lama-trex", "input": "Delaware shares border with [MASK] .", "output": "Maryland", "options": []}
+{"task": "lama-trex", "input": "Fiji maintains diplomatic relations with [MASK] .", "output": "Australia", "options": []}
+{"task": "lama-trex", "input": "Laos shares border with [MASK] .", "output": "Cambodia", "options": []}
+{"task": "lama-trex", "input": "United States of America shares border with [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-trex", "input": "Lebanon maintains diplomatic relations with [MASK] .", "output": "Syria", "options": []}
+{"task": "lama-trex", "input": "humanities consists of [MASK] .", "output": "theology", "options": []}

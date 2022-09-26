@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "UK lawmakers criticize govt's stockpiling of Roche drug Tamiflu.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Stephen Nodine Says he can be on the ballot for Congress while serving time in jail.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "In 1994, a 17-year-old Eagle Scout built a nuclear reactor in his mother\u2019s backyard, an act that ultimately necessitated a Superfund cleanup.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "A dying child was made an honorary fireman by the Phoenix Fire Department.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Focus is on deep brain stimulation to treat disorders", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Syphilis far more common in gay men in US South.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "A forwarded email encourages readers to \u201cthink before you donate\u201d to non-profit groups. It makes a number of claims about the salaries of CEOs and the use of donor dollars.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "We found that China has been attempting to interfere in our upcoming 2018 election.", "output": "unproven", "options": ["false", "mixture", "true", "unproven"]}

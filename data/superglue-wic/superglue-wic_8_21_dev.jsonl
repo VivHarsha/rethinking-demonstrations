@@ -1,0 +1,8 @@
+{"task": "superglue-wic", "input": "word: escape [SEP] sentence 1: He made his escape from the mental hospital. [SEP] sentence 2: The prisoners made their escape by digging a tunnel.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: home [SEP] sentence 1: Deliver the package to my home. [SEP] sentence 2: He doesn't have a home to go to.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: body [SEP] sentence 1: The body of the car was badly rusted. [SEP] sentence 2: Penny was in the scullery, pressing the body of her new dress.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: roam [SEP] sentence 1: The cattle roam across the prairie. [SEP] sentence 2: The gypsies roamed the woods.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: bake [SEP] sentence 1: Potatoes bake to a crisp. [SEP] sentence 2: I baked a delicious cherry pie.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: shower [SEP] sentence 1: You should shower after vigorous exercise. [SEP] sentence 2: He showered her with presents.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: make [SEP] sentence 1: She may not make the grade. [SEP] sentence 2: Make a stir.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: cut [SEP] sentence 1: She cut the deck for a long time. [SEP] sentence 2: Cut a disk.", "output": "false", "options": ["false", "true"]}

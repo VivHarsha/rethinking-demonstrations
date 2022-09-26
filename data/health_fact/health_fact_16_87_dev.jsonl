@@ -1,0 +1,16 @@
+{"task": "health_fact", "input": "The Buffalo protester pushed to the ground \u201chad been previously arrested 300 times. 82 times for incitement. Riots is what he does for a living.\u201d", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Official: 1 death linked to Legionnaires\u2019 disease in Atlanta.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Medical marijuana user, 78, evicted from subsidized housing.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\u201cWe are currently using only around 20% of our testing capacity.\u201d", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Belgium extends \"\"right-to-die\"\" to terminally ill children.\"", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Beshear stresses health care, defends Medicaid expansion.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Immune system therapy shows wider promise against cancer.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "In June 2018, members of the United Methodist Church brought church charges, including child abuse, against Attorney General Jeff Sessions.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Exclusive: Top U.S. insurer to cover Amgen, Eli Lilly migraine drugs, exclude Teva.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Gnat-borne disease turns up in Minnesota deer for 1st time.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Study: Gene therapy improves Parkinson\u2019s symptoms", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "A strange skeleton found in the Atacama desert has baffled scientists and is an a human-alien hybrid.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Neville Chamberlain told the British people: \u2018Accept the Nazis. Yes, they will dominate the continent of Europe, but that is not our problem. Let's appease them. Why? Because it can't be done. We cannot possibly stand against them.\u2019", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Unlike marijuana, medical cannabis oil cannot get you high.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Ron Fournier Says Mike Huckabee appeared in diabetes infomercials to endorse \"\"cures and treatments that no health agency supports.\"", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\u201cMichigan Governor Gretchen Whitmer bans buying US flags during lockdown.\u201d", "output": "false", "options": ["false", "mixture", "true", "unproven"]}

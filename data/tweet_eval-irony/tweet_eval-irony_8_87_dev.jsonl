@@ -1,0 +1,8 @@
+{"task": "tweet_eval-irony", "input": "@user @user More clean OR cleaner, never more cleaner", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user Caffeine free coffee? Yeah, I'll have that next time I have a slice of sugar-free cheesecake...  :P", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Love it when you can see people have read you facebook private message but they just don't reply", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I'm pretty sure I have a snowman problem.", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "The silence in #TimesSquare for #EricGarner last night is only broken by #NYPD siren. , watch on ifussss app.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "@user LOL aye you're a funny fecker-;)  |And anytime Ironside, you fancy a wee race just let me know!!", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "I adapted the Snoopy comic for academic paper submission :P Reviewer 2 is the stuff of nightmares!", "output": "non-irony", "options": ["0", "1", "hate", "non-irony"]}
+{"task": "tweet_eval-irony", "input": "Blowing your nose so hard your ears pop is the greatest way to start a Wednesday.", "output": "hate", "options": ["0", "1", "hate", "non-irony"]}

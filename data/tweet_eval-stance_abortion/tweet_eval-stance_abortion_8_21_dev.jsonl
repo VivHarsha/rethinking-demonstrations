@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_abortion", "input": "@user Charged with Manslaughter After Another Woman Dies From #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "If men could get pregnant, abortion clinics would be like Starbucks #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user @user @user           /gags Dat face. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user it is legal bro and its #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "everyone should have the right to make their own reproductive choices & recieve safe medical treatment without stigma. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "During an abortion, something alive must become dead to be considered a successful abortion...  #p2 #tcot #ChooseLife #Choice #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Pro-Life Legislative Day Party in Lansing today! See y'all there! #sopumpedgen #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user No guarantee she will be destroyed I trust God. #SemST", "output": "none", "options": ["against", "favor", "none"]}

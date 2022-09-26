@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name something an office summer retreat might entail.", "output": "barbecue", "options": []}
+{"task": "proto_qa", "input": "give me a name for someone who has to know everybody's business.", "output": "\"nosy\"", "options": []}
+{"task": "proto_qa", "input": "name a bird with really long legs.", "output": "ostrich", "options": []}
+{"task": "proto_qa", "input": "name a reason why you'd wake your spouse up in the middle of the night", "output": "heard a noise", "options": []}
+{"task": "proto_qa", "input": "tell me a reason why a person might be awake at 3am.", "output": "insomnia", "options": []}
+{"task": "proto_qa", "input": "name something that's worth taking a chance on.", "output": "love/relationship", "options": []}
+{"task": "proto_qa", "input": "name something you see that makes you realize it's beginning to look a lot like christmas.", "output": "snow", "options": []}
+{"task": "proto_qa", "input": "name something that a man teaches his grandson to do.", "output": "fish", "options": []}
+{"task": "proto_qa", "input": "name something a male rock star might do to make himself look more rebellious", "output": "tattoos", "options": []}
+{"task": "proto_qa", "input": "name something that can cause a flat tire.", "output": "nail", "options": []}
+{"task": "proto_qa", "input": "name something that might be on a toothpick inside a fancy drink", "output": "olive", "options": []}
+{"task": "proto_qa", "input": "what would the world's least romantic husband give to his wife for valentine's day?", "output": "nothing", "options": []}
+{"task": "proto_qa", "input": "name something every ups driver should have", "output": "truck", "options": []}
+{"task": "proto_qa", "input": "name something most men cannot resist taking a look at.", "output": "women", "options": []}
+{"task": "proto_qa", "input": "name something you'd better show up on time for.", "output": "work/job", "options": []}
+{"task": "proto_qa", "input": "name an occupation that gets hit on by bored housewives.", "output": "mailman", "options": []}

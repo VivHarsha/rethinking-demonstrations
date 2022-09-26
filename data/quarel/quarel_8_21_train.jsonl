@@ -1,0 +1,8 @@
+{"task": "quarel", "input": "A father and his 8 year old son were having a rock throwing competition to see who can throw it the farthest. The son lost the competition because", "output": "he is weaker", "options": ["he is weaker", "he is stronger"]}
+{"task": "quarel", "input": "A skateboard's wheels get less hot riding through an auditorium compared to a concert hall. Which surface offers greater resistance?", "output": "concert hall", "options": ["concert hall", "auditorium"]}
+{"task": "quarel", "input": "Freight trains are heavier than bullet trains so they are", "output": "slower to accelerate", "options": ["slower to accelerate", "faster to accelerate"]}
+{"task": "quarel", "input": "A baseball becomes less hot rolling over the infield compared to the outfield. This means that the infield is _____ then the outfield", "output": "smoother", "options": ["smoother", "rougher"]}
+{"task": "quarel", "input": "A cheetah is faster than a dog so it will take", "output": "less time", "options": ["less time", "more time to run a lap around a track"]}
+{"task": "quarel", "input": "Mike's key encounters more resistance in his old lock than in his new lock. This means that Mike's key will create more heat moving through the", "output": "old lock", "options": ["old lock", "new lock"]}
+{"task": "quarel", "input": "Hulk is the strongest being in the universe. The Hulk and Black Panther have a friendly bet. Who can throw a large boulder the farthest. Who wins this clash of the superheroes?", "output": "Hulk", "options": ["Black Panther", "Hulk"]}
+{"task": "quarel", "input": "The piece of wood was thicker than the toothpick so it was", "output": "stronger", "options": ["weaker", "stronger"]}

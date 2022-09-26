@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: transcendent performance", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: so vivid", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: ' rip-off", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: its hackneyed and meanspirited storyline with cardboard characters and performers", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a rollicking good time for the most part", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: not funny performers", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: who has reached puberty actually finding the characters in slackers or their antics amusing , let alone funny", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: entering", "output": "positive", "options": ["negative", "positive"]}

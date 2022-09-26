@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "Andrew Lemoncello was born in [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-google_re", "input": "Emmanuel Schelstrate was born in [MASK] .", "output": "Antwerp", "options": []}
+{"task": "lama-google_re", "input": "Bob Owens (born [MASK]).", "output": "1935", "options": []}
+{"task": "lama-google_re", "input": "Georges Hanna Sabbagh was born in [MASK] .", "output": "Alexandria", "options": []}
+{"task": "lama-google_re", "input": "Dmitry Grigorieff was born in [MASK] .", "output": "London", "options": []}
+{"task": "lama-google_re", "input": "Tsotne Bakuria was born in [MASK] .", "output": "Tbilisi", "options": []}
+{"task": "lama-google_re", "input": "Ariel Reboyras (born [MASK]).", "output": "1953", "options": []}
+{"task": "lama-google_re", "input": "Henry Bidleman Bascom died in [MASK] .", "output": "Louisville", "options": []}

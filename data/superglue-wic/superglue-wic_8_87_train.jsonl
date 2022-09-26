@@ -1,0 +1,8 @@
+{"task": "superglue-wic", "input": "word: snap [SEP] sentence 1: To snap a fastener. [SEP] sentence 2: Snap your fingers.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: time [SEP] sentence 1: It is time to go. [SEP] sentence 2: These times were erroneously converted between zones.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: hand [SEP] sentence 1: A ranch hand. [SEP] sentence 2: Give him a hand.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: size [SEP] sentence 1: The only city of any size in that area. [SEP] sentence 2: He blanched when he saw the size of the bill.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: go [SEP] sentence 1: Go about the world in a certain manner. [SEP] sentence 2: She went through a lot of trouble.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: tomorrow [SEP] sentence 1: Everyone hopes for a better tomorrow. [SEP] sentence 2: Tomorrow's world.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: branch [SEP] sentence 1: A branch of Congress. [SEP] sentence 2: He broke off one of the branches.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: port [SEP] sentence 1: Port the helm. [SEP] sentence 2: Port arms!", "output": "false", "options": ["false", "true"]}

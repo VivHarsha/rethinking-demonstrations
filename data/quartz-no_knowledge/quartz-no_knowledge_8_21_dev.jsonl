@@ -1,0 +1,8 @@
+{"task": "quartz-no_knowledge", "input": "Causing a series to gain resistors will result in a/an _____ in the total resistance of the circuit.", "output": "increase", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "Drake goes to the gym every day and works out. The more time that Drake spends exercising, his muscles will be", "output": "bigger", "options": ["smaller", "bigger"]}
+{"task": "quartz-no_knowledge", "input": "A group of settlers decided to live close to one aquifer instead of another aquifer because the aquifer they chose was much closer to the surface. Getting water from the aquifer closer to the surface will be", "output": "easier", "options": ["easier", "more difficult."]}
+{"task": "quartz-no_knowledge", "input": "John is from the US. When he visited a third world country, he noticed the use of energy resources there was", "output": "less.", "options": ["more", "less."]}
+{"task": "quartz-no_knowledge", "input": "If the people in Mary's country start to create more greenhouse gases, what will happen to the possibility that changes may occur?", "output": "increase", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "If a product is unstretched, elastic force will", "output": "decrease", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "A warming resistor will _____ in resistance.", "output": "increase", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "Eric removes resistors in parallel to a circuit. The total current", "output": "decreases", "options": ["increases", "decreases"]}

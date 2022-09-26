@@ -1,0 +1,8 @@
+{"task": "rotten_tomatoes", "input": "a moving , if uneven , success .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "however it may please those who love movies that blare with pop songs , young science fiction fans will stomp away in disgust .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "has its charming quirks and its dull spots .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "why come up with something even quasi-original , when you can pillage from shirley jackson , richard matheson . . . and puke up something like rose red ?", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "cox offers plenty of glimpses at existing photos , but there are no movies of nijinsky , so instead the director treats us to an aimless hodgepodge .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "it's mighty tedious for the viewer who has to contend with unpleasant characters , hit-and-miss performances and awkwardly staged scenes .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "imagine a film that begins as a seven rip-off , only to switch to a mix of the shining , the thing , and any naked teenagers horror flick from the 1980s .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "patchy combination of soap opera , low-tech magic realism and , at times , ploddingly sociological commentary .", "output": "negative", "options": ["negative", "positive"]}

@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_hillary", "input": "Loved talking with Yvette today about education and women's voices in politics. Can't wait to see her on caucus day! #FellowsIA #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "As late as 2013 #HillaryClinton opposed marriage equality. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "My mom just told me she and my aunt want to volunteer on @user campaign! I support it! #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user Right. Words no longer have meaning. Like Clintons,\"It depends on what the meaning of 'is' is.\" More if we don't #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Thanks @user for amazing noms for canvassing #FITN #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user : My name is Rebecca and my grandmother immigrated to Sunnybrook Farm. @user", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Never vote for @user \"for the survival of our country\" #LoveWins #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user and the sheeple will still vote for her #SemST", "output": "against", "options": ["against", "favor", "none"]}

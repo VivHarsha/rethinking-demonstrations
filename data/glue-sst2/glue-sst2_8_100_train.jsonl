@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: the stars may be college kids , but the subject matter is as adult as you can get :", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: in the power of the huston performance , which seems so larger than life and yet so fragile", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: short of wonderful with its ten-year-old female protagonist and its steadfast refusal to set up a dualistic battle between good and evil", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the problem with the bread , my sweet is that it 's far too sentimental .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a blast", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: nothing delivered by the former mr. drew barrymore", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: at the diverse , marvelously twisted shapes history has taken", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: superb production values & christian bale 's charisma make up for a derivative plot .", "output": "positive", "options": ["negative", "positive"]}

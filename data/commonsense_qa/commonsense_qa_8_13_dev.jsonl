@@ -1,0 +1,8 @@
+{"task": "commonsense_qa", "input": "Sometimes it felt like being able to pay bills was the only reason he was actively what?", "output": "making money", "options": ["pay debts", "make money", "having money", "making money", "keep house"]}
+{"task": "commonsense_qa", "input": "Sarah expected to a fortune on her new business.  However, she ended up going broke because no one could get money to buy.  What might her business have been?", "output": "real estate", "options": ["bunkrupt", "real estate", "stock market", "bank", "treasure chest"]}
+{"task": "commonsense_qa", "input": "Where are beautiful cars often found?", "output": "car show", "options": ["bridge", "car show", "freeway", "parking lot", "race track"]}
+{"task": "commonsense_qa", "input": "The clicking away of a shorthand typewriter was doing what while hearing testimony?", "output": "take notes", "options": ["anger", "nodding", "listening", "take notes", "writing down"]}
+{"task": "commonsense_qa", "input": "What does a birthday do to someone?", "output": "feel special", "options": ["regret", "indoor plumbing", "feel special", "own house", "electricity"]}
+{"task": "commonsense_qa", "input": "How can someone express audibly that they are having fun?", "output": "laughter", "options": ["smiling", "injuries", "laughter", "pleasure", "boxing"]}
+{"task": "commonsense_qa", "input": "What do criminals do when they are caught?", "output": "serving time", "options": ["they feel happy", "realise error of ways", "take money", "serving time", "arm themselves"]}
+{"task": "commonsense_qa", "input": "If an actor is said to be on the \"small screen\" where would you see them perform?", "output": "television", "options": ["opera", "cell phone", "movies", "play", "television"]}

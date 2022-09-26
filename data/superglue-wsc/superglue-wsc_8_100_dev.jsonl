@@ -1,0 +1,8 @@
+{"task": "superglue-wsc", "input": "text: Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition. [SEP] span1_textBill [SEP] span2_text: he", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Since it was raining, I carried the newspaper over my backpack to keep it dry. [SEP] span1_textthe newspaper [SEP] span2_text: it", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: The firemen arrived before the police because they were coming from so far away. [SEP] span1_textThe firemen [SEP] span2_text: they", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: This book introduced Shakespeare to Ovid ; it was a fine selection of his writing. [SEP] span1_textOvid [SEP] span2_text: his", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: I stuck a pin through a carrot. When I pulled the pin out, it left a hole. [SEP] span1_textthe pin [SEP] span2_text: it", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: The donkey wished a wart on its hind leg would disappear, and it did. [SEP] span1_textdonkey [SEP] span2_text: it", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Equally swoon-worthy is C.K. Dexter Haven , a pallid young dandy holding a jade-handled walking stick, with a poodle asleep at his feet [SEP] span1_textHaven [SEP] span2_text: his", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Pete envies Martin although he is very successful. [SEP] span1_textPete [SEP] span2_text: he", "output": "true", "options": ["false", "true"]}

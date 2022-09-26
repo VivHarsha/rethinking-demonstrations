@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_hillary", "input": "Wondering what the NEXT idiotic GOP smear against @user will be. It's coming for sure. Just don't know details yet. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user take that, Marco Rubio. @user cannot pander to the Latino vote while pushing policies that hurt the community most. #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Our Queen City is currently infested w/ out-of-state plate Priuses driven by millennials w/ Hillary bumper stickers. #MHT #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Great that @user attended #ClementaPinckney 's funeral today!! #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user will be the nominee for the Democratic Party. Period. And she's gonna win the Presidency too. #SorryBernie #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "#BENGHAZI WAIT DID I SAY \"THANK GOD?\" VOTERS? SRY!! MT!! I MEANT \"THANK GOODNESS!\" NO OFFENSE INTENDED! ##tcot #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "If you're not watching @user speech right now you're missing her drop tons of wisdom. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user Thank you so much for RTs!!! #WakeUpAmerica  #SemST", "output": "against", "options": ["against", "favor", "none"]}

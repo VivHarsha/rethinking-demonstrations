@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "Angela characterized Shelly as a lifesaver.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "They're not finding it a stress being in the same office.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Paul exhaled on Mary.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I ordered if John drink his beer.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Press the stamp against the pad completely.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "They can very.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "This arch is supporting the weight of the tower.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "That new handle detaches easily.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}

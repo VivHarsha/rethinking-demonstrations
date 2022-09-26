@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "Che Arthur was born in [MASK] .", "output": "Mobile", "options": []}
+{"task": "lama-google_re", "input": "Franti%C5%A1ek Wolf died in [MASK] .", "output": "Berkeley", "options": []}
+{"task": "lama-google_re", "input": "Wang Wei was born in [MASK] .", "output": "Beijing", "options": []}
+{"task": "lama-google_re", "input": "Nicole Jordan was born in [MASK] .", "output": "Oklahoma", "options": []}
+{"task": "lama-google_re", "input": "John Lloyd Dorsey, Jr. died in [MASK] .", "output": "Henderson", "options": []}
+{"task": "lama-google_re", "input": "Tanis Rideout was born in [MASK] .", "output": "Belgium", "options": []}
+{"task": "lama-google_re", "input": "Bill Sedgwick (born [MASK]).", "output": "1955", "options": []}
+{"task": "lama-google_re", "input": "David L\u00f6fquist (born [MASK]).", "output": "1986", "options": []}

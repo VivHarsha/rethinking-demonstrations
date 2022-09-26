@@ -1,0 +1,16 @@
+{"task": "glue-sst2", "input": "sentence: a spiffy animated feature", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: breathtaking mystery", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: hard to care", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: in a class with spike lee 's masterful", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the power", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: feeling guilty for it", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: shiri is an action film that delivers on the promise of excitement", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a genial romance that maintains a surprisingly buoyant tone throughout , notwithstanding some of the writers ' sporadic dips into pop freudianism", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: thanks to kline 's superbly nuanced performance , that pondering", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: to liven things up", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: of dark humor , gorgeous exterior photography , and a stable-full of solid performances", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: metaphysical", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: that captures the innocence and budding demons within a wallflower", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: reality shows -- reality shows for god 's sake !", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: whose view of america , history and the awkwardness of human life is generous and deep", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: it turns out to be significantly different ( and better ) than most films with this theme", "output": "positive", "options": ["negative", "positive"]}

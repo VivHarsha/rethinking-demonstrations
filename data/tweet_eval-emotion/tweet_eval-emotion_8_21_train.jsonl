@@ -1,0 +1,8 @@
+{"task": "tweet_eval-emotion", "input": "Wah just woke up frm a fucking nightmare", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Is it terrorism to intimidate a populace? What case held 'coercion by people in uniform is per se intimidation'?", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "my alarm clock was ringing this morning n my flatmate knocked on my door and asked if i set anything on fire or if i'm burning alive :) :):)", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "\u201cWhat worries you masters you.\u201d - Haddon Robinson @user #Jesusisthesubject   #anxious", "output": "optimism", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "It's not that the man did not know how to juggle, he just didn't have the balls to do it. #funny #pun #punny #lol #hilarious", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user Maybe if it was transgender the media would cover it", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "And to discriminate only generates hate And when you hate then you're bound to get irate,", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user Hell is hot and boiling, isi ewu", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}

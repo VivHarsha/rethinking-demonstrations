@@ -1,0 +1,8 @@
+{"task": "qasc", "input": "What are insects?", "output": "invertebrates", "options": ["dogs", "spread flower seeds", "bacteria", "animals", "more abundant", "invertebrates", "honeybees", "worms"]}
+{"task": "qasc", "input": "What have humans have collected and grown for food for thousands of years?", "output": "fungi", "options": ["sunlight", "fungus", "bread", "salmon", "fungi", "dust", "plants", "edible"]}
+{"task": "qasc", "input": "The force of water against the seed coat causes", "output": "germination", "options": ["dormant state", "Regrows it", "peachleaf willow", "warmth", "erosion", "squeeze", "cactuses", "germination"]}
+{"task": "qasc", "input": "what is regulated by insulin?", "output": "sugar", "options": ["Energy.", "animals", "Energy", "Balance", "sleep", "heat", "sugar", "fat"]}
+{"task": "qasc", "input": "When an animal or plant group gets much smaller, that's called a:", "output": "bottleneck", "options": ["bottleneck", "Winter", "Movement", "population explosion", "genus", "relocation", "Mason jar effect", "choker"]}
+{"task": "qasc", "input": "What converts chemical energy into what we hear?", "output": "a firecracker", "options": ["Gunshots", "An object is seen", "a lightbulb", "ice", "sensory neurons", "a firecracker", "animals", "a stove"]}
+{"task": "qasc", "input": "where does being buried under soil and mud change peat into coal through extreme heat and pressure over a long period of time?", "output": "wetland", "options": ["watershed", "alluvial", "wetland", "deltas", "erosion", "houses", "earth", "lakes"]}
+{"task": "qasc", "input": "What creates metamorphic rock?", "output": "Earth's core", "options": ["gravity", "calcite", "Earth's core", "engine", "desire", "a hydraulic system", "forces", "flow of electrons"]}

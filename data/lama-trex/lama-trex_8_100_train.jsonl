@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "Polish State Railways is owned by [MASK] .", "output": "Poland", "options": []}
+{"task": "lama-trex", "input": "France maintains diplomatic relations with [MASK] .", "output": "Japan", "options": []}
+{"task": "lama-trex", "input": "The official language of France is [MASK] .", "output": "French", "options": []}
+{"task": "lama-trex", "input": "Vermont Senate is a legal term in [MASK] .", "output": "Vermont", "options": []}
+{"task": "lama-trex", "input": "Hanoi is the capital of [MASK] .", "output": "Vietnam", "options": []}
+{"task": "lama-trex", "input": "The official language of Espoo is [MASK] .", "output": "Finnish", "options": []}
+{"task": "lama-trex", "input": "The official language of Soviet Union is [MASK] .", "output": "Russian", "options": []}
+{"task": "lama-trex", "input": "Bosnia and Herzegovina maintains diplomatic relations with [MASK] .", "output": "Croatia", "options": []}

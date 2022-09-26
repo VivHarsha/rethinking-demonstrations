@@ -1,0 +1,8 @@
+{"task": "superglue-wic", "input": "word: raise [SEP] sentence 1: Raise a sad cry. [SEP] sentence 2: Raise a protest.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: call [SEP] sentence 1: I would not call her beautiful. [SEP] sentence 2: Take two aspirin and call me in the morning.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: baby [SEP] sentence 1: It was great to feel my baby moving about inside. [SEP] sentence 2: I felt healthy and very feminine carrying the baby.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: likelihood [SEP] sentence 1: In all likelihood the meeting will be cancelled. [SEP] sentence 2: The likelihood is that the inflation rate will continue to rise.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: object [SEP] sentence 1: The sole object of her trip was to see her children. [SEP] sentence 2: The object of the verb.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: shake [SEP] sentence 1: Shake one's head. [SEP] sentence 2: She shook her finger at the naughty students.", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: restraint [SEP] sentence 1: Dogs should be kept under restraint. [SEP] sentence 2: Legal restraints.", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wic", "input": "word: hold [SEP] sentence 1: The general ordered the colonel to hold his position at all costs. [SEP] sentence 2: Hold the horse.", "output": "true", "options": ["false", "true"]}

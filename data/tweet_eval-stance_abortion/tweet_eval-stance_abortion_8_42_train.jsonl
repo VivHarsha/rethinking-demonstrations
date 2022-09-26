@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_abortion", "input": "Just like abortion, even though SCOTUS says gay marriage is legal doesn't make it moral. #SCOTUSMarriage #FreedomOfReligion #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Abortion has nothing to do with feminism. Its about the BABYS body, not yours.isright #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user @user @user           /gags Dat face. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "In church for a Pro-life meeting. I will be the voice for the unborn. #SaveTheBabiesBumpThemAnimals #GodIsLoveSoLoveWins!! #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "How Ohio is secretly as restrictive as Texas with their #antichoice laws #TRAPlaws #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user No Such Thing As An Unforced #ProlifeYouth #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Sweat, killed and cut up his victim, extreme deadbeat parents do the same to innocent babies by abortion, #scotusabortion #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "I'm killing my baby tonight, I don't care if it's wrong or right! #SemST", "output": "favor", "options": ["against", "favor", "none"]}

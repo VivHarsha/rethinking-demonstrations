@@ -1,0 +1,8 @@
+{"task": "proto_qa", "input": "tell me which one of yuor five senses you rely on the most.", "output": "sight", "options": []}
+{"task": "proto_qa", "input": "what might a woman have to do in order to become a supermodel", "output": "diet", "options": []}
+{"task": "proto_qa", "input": "name a subject you took in school and never used again:", "output": "algebra", "options": []}
+{"task": "proto_qa", "input": "name a hollywood bad boy.", "output": "charlie sheen", "options": []}
+{"task": "proto_qa", "input": "name a muscular celebrity who would probably have trouble finding clothes in his size.", "output": "arnold schwarzenegger", "options": []}
+{"task": "proto_qa", "input": "besides buying it, name a way someone can get a car.", "output": "steal it", "options": []}
+{"task": "proto_qa", "input": "name the first sign that you're getting a cold.", "output": "sneezing", "options": []}
+{"task": "proto_qa", "input": "name an article of clothing that can be buckled.", "output": "belt", "options": []}

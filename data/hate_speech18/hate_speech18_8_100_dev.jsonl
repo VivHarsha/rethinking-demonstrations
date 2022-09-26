@@ -1,0 +1,8 @@
+{"task": "hate_speech18", "input": "http://www.davidduke.com/mp3/dukeradio080723brunog.mp3", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "We'll never give up ... The jews can keep trying opening our borders and sending their third world minions after the European people but WE WILL NEVER CAPITULATE ...", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Lumberton , Texas in Hardin County .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Im on youtube trying to find it right now .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Well, you should .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "He's a race traitor .", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "The rest is tatar .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I'd say yes , because when the whites took over again they killed all the yellows and their offspring and started off right again .", "output": "noHate", "options": ["hate", "noHate"]}

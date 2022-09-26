@@ -1,0 +1,16 @@
+{"task": "proto_qa", "input": "name a food you might eat on a stick.", "output": "corn dog", "options": []}
+{"task": "proto_qa", "input": "name something you might have to put up with an at outdoor cafe that you wouldn't when eating indoors", "output": "bugs", "options": []}
+{"task": "proto_qa", "input": "name a flavor of pudding", "output": "chocolate", "options": []}
+{"task": "proto_qa", "input": "past or present, name the funniest person on tv.", "output": "bill cosby", "options": []}
+{"task": "proto_qa", "input": "what might a girl wear for the first time to her junior high dance?", "output": "formal dress", "options": []}
+{"task": "proto_qa", "input": "name the first thing you do at home when returning from a long vacation.", "output": "sleep/relax", "options": []}
+{"task": "proto_qa", "input": "name something a game show host has to do, even on a day when he doesn't feel like it.", "output": "put on a happy face", "options": []}
+{"task": "proto_qa", "input": "name a city you recognize just by seeing a photo.", "output": "new york city", "options": []}
+{"task": "proto_qa", "input": "name something a beauty queen and a figure skater have in common", "output": "pretty", "options": []}
+{"task": "proto_qa", "input": "name a place you might see a balcony", "output": "house", "options": []}
+{"task": "proto_qa", "input": "name a sport where you \"serve\" a ball.", "output": "tennis", "options": []}
+{"task": "proto_qa", "input": "if you asked a six-year-old, name something they'd tell you about the moon.", "output": "made of cheese", "options": []}
+{"task": "proto_qa", "input": "name something you might find on the bottom of a shoe.", "output": "gum", "options": []}
+{"task": "proto_qa", "input": "name something you might see tied to the roof of someone's car.", "output": "tree", "options": []}
+{"task": "proto_qa", "input": "name something people break into.", "output": "car", "options": []}
+{"task": "proto_qa", "input": "name a body part you might want to be muscular for the summer time.", "output": "stomach", "options": []}

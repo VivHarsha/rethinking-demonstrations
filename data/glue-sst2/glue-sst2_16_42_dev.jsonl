@@ -1,0 +1,16 @@
+{"task": "glue-sst2", "input": "sentence: and revolutionary spirit", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: of deft and subtle poetry", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a buoyant delivery", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is worth a look for its true-to-life characters , its sensitive acting , its unadorned view of rural life and the subtle direction of first-timer hilary birmingham", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: brainless", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a good chance of being the big", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: there 's no conversion effort , much of the writing is genuinely witty and both stars are appealing enough to probably have a good shot at a hollywood career , if they want one .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: like jimmy 's routines", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is less concerned with cultural and political issues than doting on its eccentric characters .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: all too predictable and far too cliched", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: hip-hop rarely comes alive as its own fire-breathing entity in this picture .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: such a flat , plodding picture", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: awe and affection -- and a strange urge to get on a board and , uh , shred , dude", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is inspiring , ironic , and revelatory of just how ridiculous and money-oriented the record industry really is .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: that his genre and his character construct is a wonderous accomplishment of veracity and narrative grace", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: masterful british actor ian holm", "output": "positive", "options": ["negative", "positive"]}

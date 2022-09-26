@@ -1,0 +1,8 @@
+{"task": "tweet_eval-emotion", "input": "@user But I do think we need to experience a bit madness &amp; despair too. This is the stuff that makes us human.", "output": "optimism", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user I fuck with madden way harder", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Why do I have such bad anxiety it's annoying", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "fuming", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Circle K is dead to me. I hate your new slushie machine.  #livid", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user meden is frowning at you with her non existent face", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Rojo is just terrible, how is he in our team \ud83d\ude02\ud83d\ude02", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Your twitter picture just makes me fume.", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}

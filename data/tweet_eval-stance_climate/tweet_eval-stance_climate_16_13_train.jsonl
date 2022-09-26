@@ -1,0 +1,16 @@
+{"task": "tweet_eval-stance_climate", "input": "@user #innovation of super converter on fishing boat w/ no more use of fossil fuel is looking for funding scheme in #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user my lawn is burnt two days after rain #yeg #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "If like me you felt voiceless then listen to @user #libdemfightback fighting for the #HumanRightsAct #AffordableHousing #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user Time to change the Government! #fracking #C02 #methane #pollution #cancer #health #earthquake #water #leaks #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user He Is psychic 2  Huh #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Delivering good jobs for Albertans, maintaining a stable economy & meeting climate change strategy. Good goals. #abpoli #GHG #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Pupils in P5-7 from Lincluden Primary are participating in Carbon Busters Project 2015-2016! #LearningForSustainability #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "If you say climate change is a myth, you may want to become a fantasy author since you already live in an alternate reality. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user suggests we should have schools for politicians to educate them on critical issues #WithCompassion #HHDL80 #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "When your wearing sweaters in the summer #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "The last thing #Australia or the world needs are 2 more vast earth destroying #coal mines! Let's get real and fight  #auspol #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "That awkward moment when a pro-coal PR campaign has over 100K more followers than you do: @user #greenwashing #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#MainauDeclaration2015 60 years later..#LiNo15 Laureates and young scientists say it is time to act #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Rosalind Peterson addressing UN on how aerosol spraying (Chemtrails) is affecting agriculture. #NotADebate #Geoengineering #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user @user Some people r so guilt free #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user Those items need to come back.  #SemST", "output": "none", "options": ["against", "favor", "none"]}

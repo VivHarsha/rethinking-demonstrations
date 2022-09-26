@@ -1,0 +1,16 @@
+{"task": "health_fact", "input": "Singapore reports 728 new virus cases in biggest daily jump, total 4,427.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Reuters asks judge to release secret Propecia documents.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Caesarean births hit record high in 2007.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Why You Should Get the New Shingles Vaccine", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Not a single unarmed white person has been shot by the police\"\" in New York in about 45 years.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "German scientists create see-through human organs.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Pills Offer Easier Way to Treat MS", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Breast cancer screening failure may have shortened 270 lives in England.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "War-ravaged Yemen confirms first coronavirus case, braces for more.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "New fitness centers cater to aging baby boomers.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Alabama infant mortality rate hits record low .", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Ted Cruz Says the Democrats told the Catholic Church that they\u2019ll use federal powers to shut down church charities and hospitals if the church doesn\u2019t change its beliefs.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Passengers face two weeks on virus-hit cruise ship off Japan.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Asia prepares for coronavirus boomerang wave as residents return home.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"Of hospitals in Rick Scott\u2019s Columbia/HCA health care company, \"\"A top executive said they even turned away a poor man and left him to die outside their door.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\u201cPresident Trump marshalled the full resources of our federal government from the outset. He directed us to forge a seamless partnership with governors across America in both political parties.\u201d", "output": "false", "options": ["false", "mixture", "true", "unproven"]}

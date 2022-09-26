@@ -1,0 +1,8 @@
+{"task": "superglue-copa", "input": "Cause: We found empty seats in the theatre.", "output": "Effect: We sat down.", "options": ["Effect: The film began.", "Effect: We sat down."]}
+{"task": "superglue-copa", "input": "Effect: The dust came off the desk.", "output": "Cause: I wiped the desk with a cloth.", "options": ["Cause: I wiped the desk with a cloth.", "Cause: I removed the books from the desk."]}
+{"task": "superglue-copa", "input": "Effect: The girl handed down her clothes to her younger sister.", "output": "Cause: She outgrew the clothes.", "options": ["Cause: The clothes were tattered.", "Cause: She outgrew the clothes."]}
+{"task": "superglue-copa", "input": "Effect: The man took a shower.", "output": "Cause: He was sweaty from working out.", "options": ["Cause: He was sweaty from working out.", "Cause: He opened a new bar of soap."]}
+{"task": "superglue-copa", "input": "Effect: The police closed the investigation.", "output": "Cause: They apprehended the suspect.", "options": ["Cause: They apprehended the suspect.", "Cause: The victim recovered."]}
+{"task": "superglue-copa", "input": "Effect: The teenager ran away from home.", "output": "Cause: His parents abused him.", "options": ["Cause: He relied on his parents.", "Cause: His parents abused him."]}
+{"task": "superglue-copa", "input": "Effect: The city re-elected the mayor.", "output": "Cause: The mayor fulfilled his promises.", "options": ["Cause: The city cut its budget.", "Cause: The mayor fulfilled his promises."]}
+{"task": "superglue-copa", "input": "Effect: The man made an error in his calculations.", "output": "Cause: His work was hasty.", "options": ["Cause: He checked his work.", "Cause: His work was hasty."]}

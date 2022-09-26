@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_hillary", "input": "I bet Leslie Knope would be so happy about #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user I'm not a Genitalian #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user Especially the paid union lackies who have no idea why their there. Propaganda machine spinning overtime. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user > With continued #Obama's & @user Admin policymaking, #USA will become #Greece! #WakeUpAmerica #NJ #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user I want the first female to be competent. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "I want to go back in time to when men and women couldn't appear in the same yearbook as each other #old school #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user how many men are getting their dicks sucked daily in congress, etc and no one gives a shit... #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user will not let our enemies take advantage of us like Obama is doing & Hillary will do! @user #NewAmericanCentury #SemST", "output": "against", "options": ["against", "favor", "none"]}

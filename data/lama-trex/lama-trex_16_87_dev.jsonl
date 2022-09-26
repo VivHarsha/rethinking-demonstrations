@@ -1,0 +1,16 @@
+{"task": "lama-trex", "input": "Italy shares border with [MASK] .", "output": "Switzerland", "options": []}
+{"task": "lama-trex", "input": "United States of America is named after [MASK] .", "output": "Americas", "options": []}
+{"task": "lama-trex", "input": "The official language of France is [MASK] .", "output": "French", "options": []}
+{"task": "lama-trex", "input": "Semnan Province is located in [MASK] .", "output": "Iran", "options": []}
+{"task": "lama-trex", "input": "The capital of Australia is [MASK] .", "output": "Canberra", "options": []}
+{"task": "lama-trex", "input": "2000 Summer Olympics is located in [MASK] .", "output": "Sydney", "options": []}
+{"task": "lama-trex", "input": "Prime Minister of India is a legal term in [MASK] .", "output": "India", "options": []}
+{"task": "lama-trex", "input": "Riga is the capital of [MASK] .", "output": "Latvia", "options": []}
+{"task": "lama-trex", "input": "Poland shares border with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "Namibia shares border with [MASK] .", "output": "Zambia", "options": []}
+{"task": "lama-trex", "input": "Zambia shares border with [MASK] .", "output": "Mozambique", "options": []}
+{"task": "lama-trex", "input": "Ivory Coast shares border with [MASK] .", "output": "Guinea", "options": []}
+{"task": "lama-trex", "input": "1992 Summer Olympics is located in [MASK] .", "output": "Barcelona", "options": []}
+{"task": "lama-trex", "input": "Yerevan is the capital of [MASK] .", "output": "Armenia", "options": []}
+{"task": "lama-trex", "input": "The official language of Qing dynasty is [MASK] .", "output": "Chinese", "options": []}
+{"task": "lama-trex", "input": "Italy maintains diplomatic relations with [MASK] .", "output": "Romania", "options": []}

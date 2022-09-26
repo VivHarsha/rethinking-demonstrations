@@ -1,0 +1,8 @@
+{"task": "emo", "input": "yes i'm serious here we are  badly injured disappointedface", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "i don't have any date neither do i we should start a club which type of club", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "wish what would that wish be can you fell the human", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "suggest me a tv series  watch friends i hate that tv show", "output": "angry", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "never mind i don't have a mind to mind the obvious so whr r u right now", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "then no plans for new year i have a move if u wanna join me so sad disappointedfacedisappointedface", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "then talk n words fail me actually words have gotten tired of me aah so sad", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "your right i'm always right i am impressed", "output": "happy", "options": ["angry", "happy", "others", "sad"]}

@@ -1,0 +1,8 @@
+{"task": "superglue-wsc", "input": "text: As Ollie carried Tommy up the long winding steps, his legs dangled. [SEP] span1_textTommy [SEP] span2_text: his", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Frank was upset with Tom because the toaster he had sold him didn't work. [SEP] span1_textFrank [SEP] span2_text: he", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Sid explained his theory to Mark but he couldn't convince him. [SEP] span1_textSid [SEP] span2_text: he", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Emma's mother had died long ago, and her place had been taken by an excellent woman as governess. [SEP] span1_textEmma [SEP] span2_text: her", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Emma Emma's mother had died long ago, and her education had been managed by an excellent woman as governess. [SEP] span1_textEmma's mother [SEP] span2_text: her", "output": "false", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Ann asked Mary what time the library closes, because she had forgotten. [SEP] span1_textAnn [SEP] span2_text: she", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: Jane knocked on Susan 's door, but there was no answer. She was out. [SEP] span1_textSusan [SEP] span2_text: She", "output": "true", "options": ["false", "true"]}
+{"task": "superglue-wsc", "input": "text: This book introduced Shakespeare to Ovid ; it was a fine selection of his writing. [SEP] span1_textShakespeare [SEP] span2_text: his", "output": "false", "options": ["false", "true"]}

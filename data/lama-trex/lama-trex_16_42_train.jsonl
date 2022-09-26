@@ -1,0 +1,16 @@
+{"task": "lama-trex", "input": "The capital of Ukraine is [MASK] .", "output": "Kiev", "options": []}
+{"task": "lama-trex", "input": "69th Infantry Regiment is a [MASK] .", "output": "regiment", "options": []}
+{"task": "lama-trex", "input": "The capital of Norway is [MASK] .", "output": "Oslo", "options": []}
+{"task": "lama-trex", "input": "The capital of Qing dynasty is [MASK] .", "output": "Beijing", "options": []}
+{"task": "lama-trex", "input": "Argentina shares border with [MASK] .", "output": "Brazil", "options": []}
+{"task": "lama-trex", "input": "Switzerland shares border with [MASK] .", "output": "Germany", "options": []}
+{"task": "lama-trex", "input": "Germany maintains diplomatic relations with [MASK] .", "output": "Switzerland", "options": []}
+{"task": "lama-trex", "input": "The capital of Israel is [MASK] .", "output": "Jerusalem", "options": []}
+{"task": "lama-trex", "input": "France maintains diplomatic relations with [MASK] .", "output": "Austria", "options": []}
+{"task": "lama-trex", "input": "Dominican Republic shares border with [MASK] .", "output": "Haiti", "options": []}
+{"task": "lama-trex", "input": "Vilnius is the capital of [MASK] .", "output": "Lithuania", "options": []}
+{"task": "lama-trex", "input": "United States of America shares border with [MASK] .", "output": "Canada", "options": []}
+{"task": "lama-trex", "input": "Rhode Island shares border with [MASK] .", "output": "Massachusetts", "options": []}
+{"task": "lama-trex", "input": "The official language of Ibiza is [MASK] .", "output": "Catalan", "options": []}
+{"task": "lama-trex", "input": "Yerevan is the capital of [MASK] .", "output": "Armenia", "options": []}
+{"task": "lama-trex", "input": "Namibia shares border with [MASK] .", "output": "Zambia", "options": []}

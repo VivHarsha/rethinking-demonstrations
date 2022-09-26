@@ -1,0 +1,16 @@
+{"task": "wino_grande", "input": "Neal didn't apply for a trombone scholarship, but he did apply for a piano scholarship because he'd always been great at the _ .", "output": "piano", "options": ["trombone", "piano"]}
+{"task": "wino_grande", "input": "William wants to file a lawsuit so he asks Aaron for help, because _ knows nothing about law.", "output": "William", "options": ["William", "Aaron"]}
+{"task": "wino_grande", "input": "The college campus was told to close because the weather was threatening to be very bad. The _ was predictable and followed the rules.", "output": "college", "options": ["weather", "college"]}
+{"task": "wino_grande", "input": "Samantha is considered to be the better dog breeder than Patricia, so _ must do crappier on the AKC inspection.", "output": "Patricia", "options": ["Samantha", "Patricia"]}
+{"task": "wino_grande", "input": "Christopher admired the beard that Nick had grown, so _ asked how he did it.", "output": "Christopher", "options": ["Christopher", "Nick"]}
+{"task": "wino_grande", "input": "When it was time to go, we took the train instead of the taxi because the _ would take longer to get home.", "output": "taxi", "options": ["taxi", "train"]}
+{"task": "wino_grande", "input": "Ursula only bought the parchment paper on sale instead of the plain paper, because the _ was usually more expensive.", "output": "parchment paper", "options": ["parchment paper", "plain paper"]}
+{"task": "wino_grande", "input": "Emily avoided getting the hypothermia that Maria succumbed to, because _ had worn appropriate clothing.", "output": "Emily", "options": ["Emily", "Maria"]}
+{"task": "wino_grande", "input": "I bought a new picture but it wouldn't fit in the frame, because the _ was too weak.", "output": "frame", "options": ["picture", "frame"]}
+{"task": "wino_grande", "input": "the statistics show many females compared to the males are being born everyday, the _ are few.", "output": "males", "options": ["females", "males"]}
+{"task": "wino_grande", "input": "Rebecca wondered how Maria kept so trim , so _ offered her diet and exercise advice.", "output": "Maria", "options": ["Rebecca", "Maria"]}
+{"task": "wino_grande", "input": "Lawrence gets a better workout at the gym than Craig because _ paid for a personal trainer.", "output": "Lawrence", "options": ["Lawrence", "Craig"]}
+{"task": "wino_grande", "input": "The cucumber tasted much better than the tomato did because the _ was much greener.", "output": "tomato", "options": ["cucumber", "tomato"]}
+{"task": "wino_grande", "input": "Logan got pink eye but Eric was clear, because _ avoided people who had been exposed.", "output": "Eric", "options": ["Logan", "Eric"]}
+{"task": "wino_grande", "input": "The scratches were deep on the table but did not harm the door, as the _ was vulnerable to damage.", "output": "table", "options": ["table", "door"]}
+{"task": "wino_grande", "input": "The chocolate could not be sliced with the knife because the _ it too blunt.", "output": "knife", "options": ["chocolate", "knife"]}

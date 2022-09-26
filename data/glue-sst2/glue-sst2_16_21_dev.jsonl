@@ -1,0 +1,16 @@
+{"task": "glue-sst2", "input": "sentence: an attempt to make the film relevant today , without fully understanding what it was that made the story relevant in the first place", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: that they are actually releasing it into theaters", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: too predictable and far too cliched", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: have been better off staying on the festival circuit", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: has little insight into the historical period and its artists", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: with style and empathy", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the pantheon of the best of the swashbucklers", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: ca n't shake the feeling that crossroads is nothing more than an hour-and-a-half-long commercial for britney 's latest album", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: a strong sense of humanism", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: holofcener 's film offers just enough insight to keep it from being simpleminded , and", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the superior plotline", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: gives a human face to what 's often discussed in purely abstract terms", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: highly uneven and inconsistent", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: pok\u00e9mon 4ever", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: you 've seen it all before", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: pertinent and enduring", "output": "positive", "options": ["negative", "positive"]}

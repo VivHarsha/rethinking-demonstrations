@@ -1,0 +1,8 @@
+{"task": "kilt_fever", "input": "To Kill a Mockingbird takes place solely in Alaska.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Gone Girl stars Ben Stiller.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Theodore Roosevelt criticized a President.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Leicester City F.C. was knocked out before the final round of the FA Cup in 1968-1969.", "output": "REFUTES", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Elisabeth Sladen starred in roles for radio.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Gold has a monetary idea.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Stevie Ray Vaughan was raised in Dallas, Texas.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}
+{"task": "kilt_fever", "input": "Jason Sudeikis is a producer.", "output": "SUPPORTS", "options": ["REFUTES", "SUPPORTS"]}

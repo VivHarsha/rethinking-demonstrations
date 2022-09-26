@@ -1,0 +1,8 @@
+{"task": "lama-squad", "input": "The arket price of skill is reflected by [MASK].", "output": "wages", "options": []}
+{"task": "lama-squad", "input": "A teacher is most likely teaching at a [MASK].", "output": "school", "options": []}
+{"task": "lama-squad", "input": "In order to cut off the resources of cities they were attacking, Mongol armies would divert [MASK].", "output": "rivers", "options": []}
+{"task": "lama-squad", "input": "Besides the Russians, [MASK] are often left out of the colonialism debat.", "output": "Ottoman", "options": []}
+{"task": "lama-squad", "input": "Experimental measurements on a model steam engine was made by [MASK].", "output": "Watt", "options": []}
+{"task": "lama-squad", "input": "The majority of the amazon forest is in [MASK].", "output": "Brazil", "options": []}
+{"task": "lama-squad", "input": "Kublai Khan was Genghis Khan's [MASK].", "output": "grandson", "options": []}
+{"task": "lama-squad", "input": "The Teatr Wielki is a [MASK].", "output": "theatre", "options": []}

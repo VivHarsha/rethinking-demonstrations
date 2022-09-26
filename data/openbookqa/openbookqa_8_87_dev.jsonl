@@ -1,0 +1,8 @@
+{"task": "openbookqa", "input": "Yeast deposited in an oven from a closet", "output": "rises", "options": ["rises", "compresses", "falls", "requires antifungal cream"]}
+{"task": "openbookqa", "input": "A bulldozer alters the area of", "output": "skyscrapers", "options": ["skyscrapers", "the stock market", "air", "water"]}
+{"task": "openbookqa", "input": "One way to recycle paper is by using it to", "output": "wipe grime", "options": ["build oceans", "build spaceships", "wipe grime", "build cars"]}
+{"task": "openbookqa", "input": "The way that the planet spins and moves through space can effect how", "output": "the stars location appearance in relation to earth", "options": ["how the moon phases", "the plants we are able to eat", "the stars location appearance in relation to earth", "the heat of the sun"]}
+{"task": "openbookqa", "input": "What loosens soil?", "output": "boring", "options": ["iron", "boring", "metals", "sunlight"]}
+{"task": "openbookqa", "input": "If you see a mushroom on an old decaying log, its because a mushroom is a decomposer, which gets its food from", "output": "non-alive things", "options": ["non-alive things", "space", "computers", "the store"]}
+{"task": "openbookqa", "input": "Which of the following would have best aided a vessel at sea in crossing the sea in the 18th century?", "output": "An experienced navigator", "options": ["A radar system", "An old soothsayer", "An experienced navigator", "A crow's nest"]}
+{"task": "openbookqa", "input": "Grey clouds are a source of", "output": "falling liquids", "options": ["hot weather", "electrical currents", "falling liquids", "vitamin D"]}

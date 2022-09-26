@@ -1,0 +1,8 @@
+{"task": "hate_speech18", "input": "That way I can make money , have friends for my child to play with , AND stay at home .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I would n't say I 'm looking at things too literally .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Back when I was a kid , even the black folks called them that .... `` Ooohhh I' z cai n't wait until Crimusz , I' z gonna get me sum of dem niggah-toes and oranguz fo ' Crimusz , an ' sum peppahmintz ; dey shoa iz gud ! ''", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "It's not WV .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I also have Google Chrome , IE , Opera .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "This is Hate !!", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "A happy St. David 's day to all of our Welsh compatriots !", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I agree with your post and this is a good way to be active .", "output": "noHate", "options": ["hate", "noHate"]}

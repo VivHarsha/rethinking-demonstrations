@@ -1,0 +1,8 @@
+{"task": "wikisql", "input": "What was the year when Ch\u016bnqi\u016b Ch\u00e1sh\u00ec (\u6625\u79cb\u8336\u5ba4) was submitted?", "output": "SELECT Year (Ceremony) FROM table WHERE Original title = Ch\u016bnqi\u016b ch\u00e1sh\u00ec (\u6625\u79cb\u8336\u5ba4)", "options": []}
+{"task": "wikisql", "input": "What is Name, when Builder is \"Kerr Stuart\"?", "output": "SELECT Name FROM table WHERE Builder = kerr stuart", "options": []}
+{"task": "wikisql", "input": "What series had more than 10 Podiums?", "output": "SELECT Series FROM table WHERE Podiums > 10", "options": []}
+{"task": "wikisql", "input": "For what ceremony was \"Fire Dancer\" not nominated?", "output": "SELECT Year (Ceremony) FROM table WHERE Original title = Fire Dancer", "options": []}
+{"task": "wikisql", "input": "How many people went to the game with Indiana visiting?", "output": "SELECT Attendance FROM table WHERE Visitor = indiana", "options": []}
+{"task": "wikisql", "input": "With a swim (1.5km) of 18:55 and a run (10km) of 32:37, what is the trans 2?", "output": "SELECT Trans 2 FROM table WHERE Swim (1.5km) = 18:55 AND Run (10km) = 32:37", "options": []}
+{"task": "wikisql", "input": "What is the region for Chep\u00e9n with 3 districts?", "output": "SELECT Region FROM table WHERE Districts = 3 AND Capital = chep\u00e9n", "options": []}
+{"task": "wikisql", "input": "What was the third place of the performance in 2006 with the host Japan?", "output": "SELECT Third place FROM table WHERE Host = japan AND Season < 2006", "options": []}

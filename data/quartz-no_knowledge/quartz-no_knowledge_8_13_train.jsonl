@@ -1,0 +1,8 @@
+{"task": "quartz-no_knowledge", "input": "Air pressure will _____ when one goes up a mountain.", "output": "decrease", "options": ["increase", "decrease"]}
+{"task": "quartz-no_knowledge", "input": "Bob releases a deep breath, so that his lungs will have more painful pressure, making the size of Bob's chest", "output": "decrease", "options": ["decrease", "increase"]}
+{"task": "quartz-no_knowledge", "input": "Dawn is screwing in a screw so she can hang a picture on the wall. Because the threads are so far apart, the force that Dawn must apply to get the screw into the wall is", "output": "greater", "options": ["greater", "lesser"]}
+{"task": "quartz-no_knowledge", "input": "During a game of tug-o-war, two teams are pulling a rope, the team that will pull the hardest has people who weigh", "output": "more", "options": ["more", "less"]}
+{"task": "quartz-no_knowledge", "input": "If Mona is excavating an archeological site and she discovers some fossils near the surface then compares them to fossils she found deeper down, which fossils will be younger?", "output": "near the surface", "options": ["near the surface", "deeper down"]}
+{"task": "quartz-no_knowledge", "input": "When we spend time lifting a lot of weights we become", "output": "stronger", "options": ["weaker", "stronger"]}
+{"task": "quartz-no_knowledge", "input": "If Milo stops eating for awhile and his blood glucose decreases, what happens to the amount of insulin he is producing?", "output": "decreases", "options": ["increases", "decreases"]}
+{"task": "quartz-no_knowledge", "input": "When particles get close together what happens to the amplitude?", "output": "increases", "options": ["increases", "decreases"]}

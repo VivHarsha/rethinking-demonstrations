@@ -1,0 +1,8 @@
+{"task": "superglue-copa", "input": "Effect: A crater formed on the moon.", "output": "Cause: A comet collided with the moon.", "options": ["Cause: A comet passed by the moon.", "Cause: A comet collided with the moon."]}
+{"task": "superglue-copa", "input": "Effect: The teenager grew taller than his father.", "output": "Cause: He went through a growth spurt.", "options": ["Cause: He went through a growth spurt.", "Cause: He joined the basketball team."]}
+{"task": "superglue-copa", "input": "Cause: The girl wanted to make her mother happy.", "output": "Effect: The girl picked a flower for her mother.", "options": ["Effect: The girl ate the cookies her mother baked.", "Effect: The girl picked a flower for her mother."]}
+{"task": "superglue-copa", "input": "Cause: I clumsily bumped into the stranger.", "output": "Effect: I apologized to him.", "options": ["Effect: I ran away.", "Effect: I apologized to him."]}
+{"task": "superglue-copa", "input": "Effect: The guests of the party hid behind the couch.", "output": "Cause: It was a surprise party.", "options": ["Cause: It was a surprise party.", "Cause: It was a birthday party."]}
+{"task": "superglue-copa", "input": "Cause: The waistband on my pants was loose.", "output": "Effect: I put on a belt.", "options": ["Effect: I put on a belt.", "Effect: I put on a hat."]}
+{"task": "superglue-copa", "input": "Effect: The boy was afraid to go to bed.", "output": "Cause: He watched a horror movie.", "options": ["Cause: He turned on his nightlight.", "Cause: He watched a horror movie."]}
+{"task": "superglue-copa", "input": "Effect: I excused myself from the group.", "output": "Cause: My phone rang.", "options": ["Cause: I turned off my phone.", "Cause: My phone rang."]}

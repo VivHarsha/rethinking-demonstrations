@@ -1,0 +1,16 @@
+{"task": "tweet_eval-stance_abortion", "input": "@user Keep up the good work! They are nutters #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user I'm not surprised murder is legal in Israel, should be illegal in civilized countries like USA #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Hillary wants to be a champion for women, unless they're unborn.  #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Dude i won a #freeshirt from @user ! I never win anything lol #Abort73 #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "I watched #AfterTiller and it gave me a whole new perspective on a woman's right to choose. #womensRights", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "If you don't want your kid, put it up for adoption. #sorrynotsorry", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Children are the greatest blessing which God has bestowed on man and woman. -Pope Francis #LifeisaGift #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Happy to hear the #SCOTUS blocked closing of 10 abortion clinics in TX until an appeal can be heard #safelegalrare #thinkprogress #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user Charged with Manslaughter After Another Woman Dies From #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "If men could get pregnant, abortion clinics would be like Starbucks #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user @user @user           /gags Dat face. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user it is legal bro and its #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "everyone should have the right to make their own reproductive choices & recieve safe medical treatment without stigma. #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "During an abortion, something alive must become dead to be considered a successful abortion...  #p2 #tcot #ChooseLife #Choice #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "Pro-Life Legislative Day Party in Lansing today! See y'all there! #sopumpedgen #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_abortion", "input": "@user @user No guarantee she will be destroyed I trust God. #SemST", "output": "none", "options": ["against", "favor", "none"]}

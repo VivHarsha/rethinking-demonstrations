@@ -1,0 +1,8 @@
+{"task": "superglue-copa", "input": "Effect: The vehicles travelled slowly.", "output": "Cause: It was foggy.", "options": ["Cause: It was cloudy.", "Cause: It was foggy."]}
+{"task": "superglue-copa", "input": "Cause: The administrator cleared her throat.", "output": "Effect: The meeting commenced.", "options": ["Effect: The meeting was postponed.", "Effect: The meeting commenced."]}
+{"task": "superglue-copa", "input": "Effect: The boy climbed the tree.", "output": "Cause: A cat got stuck in the tree.", "options": ["Cause: A cat got stuck in the tree.", "Cause: A bird built a nest in the tree."]}
+{"task": "superglue-copa", "input": "Cause: My daughter suffered an allergy attack.", "output": "Effect: I took her to the emergency room.", "options": ["Effect: I encouraged her to take deep breaths.", "Effect: I took her to the emergency room."]}
+{"task": "superglue-copa", "input": "Cause: The woman felt ashamed of scar on her face.", "output": "Effect: She hid the scar with makeup.", "options": ["Effect: She explained the scar to strangers.", "Effect: She hid the scar with makeup."]}
+{"task": "superglue-copa", "input": "Cause: I wanted to lighten the mood of the conversation.", "output": "Effect: I told a joke.", "options": ["Effect: I remained quiet.", "Effect: I told a joke."]}
+{"task": "superglue-copa", "input": "Effect: The turtle hid in its shell.", "output": "Cause: It detected a predator.", "options": ["Cause: It ate a fish.", "Cause: It detected a predator."]}
+{"task": "superglue-copa", "input": "Effect: The boy was afraid to go to bed.", "output": "Cause: He watched a horror movie.", "options": ["Cause: He turned on his nightlight.", "Cause: He watched a horror movie."]}

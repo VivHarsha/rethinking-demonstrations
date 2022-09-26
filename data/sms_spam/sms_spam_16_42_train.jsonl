@@ -1,0 +1,16 @@
+{"task": "sms_spam", "input": "Okay, good, no problem, and thanx!", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Hey. For me there is no leave on friday. Wait i will ask my superior and tell you..", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "its cool but tyler had to take off so we're gonna buy for him and drop it off at his place later tonight. Our total order is a quarter, you got enough?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "No but the bluray player can", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I'm at home. Please call", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Do you mind if I ask what happened? You dont have to say if it is uncomfortable.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "She.s good. She was wondering if you wont say hi but she.s smiling now. So how are you coping with the long distance", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Am in film ill call you later.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Can \u00fc send me a copy of da report?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Cant think of anyone with * spare room off * top of my head", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "how are you? I miss you!", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Do you know where my lab goggles went", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "COME BACK TO TAMPA FFFFUUUUUUU", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "I place all ur points on e cultures module already.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Oh baby of the house. How come you dont have any new pictures on facebook", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Can... I'm free...", "output": "ham", "options": ["ham", "spam"]}

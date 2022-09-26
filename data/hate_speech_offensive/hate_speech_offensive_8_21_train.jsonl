@@ -1,0 +1,8 @@
+{"task": "hate_speech_offensive", "input": "MY CHEST&#8230; RT @LILBTHEBASEDGOD: ima make a song called perez hilton and its gonabe about a gay party boy who&#8217;s a fat slut with no bitches.", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @AllKnowA: We all know a bitch boy named Luke", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "A lot of I fucked up call me back this bitch is tripping .. Lol", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "#Yankees got beaten by a thug", "output": "neither", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @slbgng_eddie: @white_thunduh bitch spoil me", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@Daa_Boy_Rell @sluttyboy_kush @keem_Escobar you. A bitch too", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "#porn,#android,#iphone,#ipad,#sex,#xxx, | #Hairy | hairy pussy http://t.co/Ntg2b0qDmx", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "Thanks to my nigga coco I smell good then a hoe haha finna pull allllllll the hoes, come smell a nigga &#128527;&#128526;", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}

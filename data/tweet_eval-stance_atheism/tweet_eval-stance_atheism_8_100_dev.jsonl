@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "Dear believers, To prove the book you must NOT read from the book. Regards, an #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "I'm so proud of the U.S. Let's keep the momentum going and make more progress for all. #LoveWins #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "@user @user   they delight in their abominations;--Isaiah 66:3 #JadeHelm15 #science #Revelation21:8 #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "All the  you've given. All the ways you've made. The fact that I'm still living!! How dare I wear  on my face. I'll  #LyricTweet #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Didn't do what I came out to do today, but God always has a plan #trust #GodisGood #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Celebrity atheism is beginning to irk me #initforthemoney #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Any man-made ideology will always be flawed due to Man's limitations and biases. #MuslimsSalvageYourselves #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "RT @user Let the gates of my life and city be opened for the King of glory to come in -Ps. 24:7 #SemST", "output": "against", "options": ["against", "favor", "none"]}

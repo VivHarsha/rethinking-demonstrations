@@ -1,0 +1,8 @@
+{"task": "health_fact", "input": "Latest anti-aging craze \u2018Dracula Therapy\u2019 involves injecting your face with your own blood", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Houston suffered $1.7 billion in operating losses under Mayor Bill White.", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Sen. Jeff Klein (D-New York) is part of negotiations regarding anti-sexual harassment laws \u2014 after he was accused of the same offense.", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "10,874 people killed by drunk drivers in 2017, and 403 by rifles. Walmart stops selling rifles. Still sells alcohol...", "output": "mixture", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"London sanitation show aims to make \"\"poo\"\" hot topic.\"", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "\"There is a faceless, semi-human monster called Slenderman who stands eight feet tall, has tentacles for arms, stalks and eats small children, and communicates telepathically with his human servants, called \"\"proxies.\"", "output": "false", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "U.S. panel triples Vitamin D intake guideline", "output": "true", "options": ["false", "mixture", "true", "unproven"]}
+{"task": "health_fact", "input": "Keanu Reeves gave an envelope of cash to a stranger in order to help pay for a kidney transplant.", "output": "false", "options": ["false", "mixture", "true", "unproven"]}

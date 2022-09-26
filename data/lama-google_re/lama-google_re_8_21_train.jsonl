@@ -1,0 +1,8 @@
+{"task": "lama-google_re", "input": "Craig A. Blaising (born [MASK]).", "output": "1949", "options": []}
+{"task": "lama-google_re", "input": "Andrei Babitsky was born in [MASK] .", "output": "Moscow", "options": []}
+{"task": "lama-google_re", "input": "Maricet Fern\u00e1ndez (born [MASK]).", "output": "1989", "options": []}
+{"task": "lama-google_re", "input": "Claude Piel was born in [MASK] .", "output": "Paris", "options": []}
+{"task": "lama-google_re", "input": "Gary Loizzo was born in [MASK] .", "output": "Illinois", "options": []}
+{"task": "lama-google_re", "input": "Rika Noguchi was born in [MASK] .", "output": "Tokyo", "options": []}
+{"task": "lama-google_re", "input": "Bernard Lloyd was born in [MASK] .", "output": "Newport", "options": []}
+{"task": "lama-google_re", "input": "Tansy Davies was born in [MASK] .", "output": "Bristol", "options": []}

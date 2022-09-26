@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "@user I'm guessing there was a lot less humidity back in the time of Moses. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "So, its 20 degrees celcius in mendoza argentina beginning of winter  #mendoza #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Rosalind Peterson addressing UN on how aerosol spraying (Chemtrails) is affecting agriculture. #NotADebate #Geoengineering #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user Timelines are short. Strategy must be in place by climate change conference in Paris by December. #ableg #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Building Renovations. Turn $10MM into $1MMM over time. #business #money #wallstreet #enterprise #entrepreneur #engineering #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user @user Maybe they just misused their resources and their societies collapsed #deforestation #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "#Northwest #HeatWave continues. First time. Ever. My tomato plants have fruit. In JUNE! #Oregon #Organic #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Population growth is only a problem because humans treat the earth like shit.  #govegan #environment #SemST", "output": "favor", "options": ["against", "favor", "none"]}

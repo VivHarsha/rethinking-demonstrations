@@ -1,0 +1,8 @@
+{"task": "hate_speech_offensive", "input": "i never knew a mother so heartless and such a bitch, if it were my mother she would have been popped on foh", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "This. Good. #pricklypear #shiner http://t.co/fa02A3aVxQ", "output": "neither", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "Bad bitches hate broke niggaz.", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @CallMeRenee_: &#8220;@1inkkofrosess: @CallMeRenee_ wussup bitch&#8221;nun finna take it in", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "RT @LynkinTheDog: @TNasty4Teen I do not love these hoes", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@Zach_Dorsey thirsty hoe", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@KurtBusiek well pee is oft yellow.", "output": "neither", "options": ["hate speech", "neither", "offensive language"]}
+{"task": "hate_speech_offensive", "input": "@Stillmatic_12 @mike_ray7 what a retard", "output": "offensive language", "options": ["hate speech", "neither", "offensive language"]}

@@ -1,0 +1,8 @@
+{"task": "hate_speech18", "input": "Well that has nothing to do with White Nationalism .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Is there a place where you can buy these ?", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "Ahead of their time , as you said Canada day is not about whites and their progeny who founded this nation anymore .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "The best way to prevent Black on White rape is to succeed in our goal of removing them all from white countries .", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "My family is ok adn they leave me alone but they are pretty liberal. so is my school .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I 'd rather see a purebreed black or hispanic than arrogant half breeds .", "output": "noHate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "I would move too but unfortunately there is nowhere that is untainted .", "output": "hate", "options": ["hate", "noHate"]}
+{"task": "hate_speech18", "input": "When the local TV station ran the video and explanation of the event , the news anchors could not keep a straight face and its all broke down into uncontrollable laughter .", "output": "noHate", "options": ["hate", "noHate"]}

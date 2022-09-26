@@ -1,0 +1,8 @@
+{"task": "wikisql", "input": "Name the total number of production code for  episode by steve cohen & andrew dettman", "output": "SELECT COUNT Production code FROM table WHERE Written by = Steve Cohen & Andrew Dettman", "options": []}
+{"task": "wikisql", "input": "What was the result of the game held at the As-Salt venue?", "output": "SELECT Result FROM table WHERE Venue = as-salt", "options": []}
+{"task": "wikisql", "input": "What draft pick number attended syracuse and was drafted by the Carolina panthers?", "output": "SELECT SUM Pick # FROM table WHERE NFL team = carolina panthers AND College = syracuse", "options": []}
+{"task": "wikisql", "input": "Name the number of international frieghts for domestic mail of 260", "output": "SELECT COUNT International freight FROM table WHERE Domestic mail = 260", "options": []}
+{"task": "wikisql", "input": "what is the location where the record is 1-0", "output": "SELECT Ahli FROM table WHERE Ramtha = 1-0", "options": []}
+{"task": "wikisql", "input": "What is no-yds when no.-yds is 1-13?", "output": "SELECT No-Yds FROM table WHERE No.-Yds = 1-13", "options": []}
+{"task": "wikisql", "input": "What is the top goal for the result of 2\u20133?", "output": "SELECT MAX Goal FROM table WHERE Result = 2\u20133", "options": []}
+{"task": "wikisql", "input": "What is the date the high points was lamarcus aldridge (36)?", "output": "SELECT Date FROM table WHERE High points = LaMarcus Aldridge (36)", "options": []}

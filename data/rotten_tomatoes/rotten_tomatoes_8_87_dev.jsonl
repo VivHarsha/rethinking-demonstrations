@@ -1,0 +1,8 @@
+{"task": "rotten_tomatoes", "input": "aloof and lacks any real raw emotion , which is fatal for a film that relies on personal relationships .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "a stunning piece of visual poetry that will , hopefully , be remembered as one of the most important stories to be told in australia's film history .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "sunshine state surveys the landscape and assesses the issues with a clear passion for sociology . but the cinematography is cloudy , the picture making becalmed .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "what a pity . . . that the material is so second-rate .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "smart , provocative and blisteringly funny .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "auto focus is not your standard hollywood bio-pic . schrader aims to present an unflinching look at one man's downfall , brought about by his lack of self-awareness .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "russell lacks the visual panache , the comic touch , and perhaps the budget of sommers's title-bout features .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "rotten_tomatoes", "input": "the talents of the actors helps \" moonlight mile \" rise above its heart-on-its-sleeve writing .", "output": "positive", "options": ["negative", "positive"]}

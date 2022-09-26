@@ -1,0 +1,8 @@
+{"task": "openbookqa", "input": "Plant population would fail to maintain it's size if", "output": "H2O depletes", "options": ["fertilizer is applied", "gets more sun", "H2O depletes", "grows"]}
+{"task": "openbookqa", "input": "if members of a species are born then the species what increases?", "output": "community", "options": ["water", "community", "understanding", "food"]}
+{"task": "openbookqa", "input": "An example of adaption is", "output": "wearing sunblock", "options": ["Eating tacos", "wearing sunblock", "Reading a book", "Drinking water"]}
+{"task": "openbookqa", "input": "An example of an adult animal laying eggs is all aside from", "output": "kittens", "options": ["penguins", "snakes", "turtles", "kittens"]}
+{"task": "openbookqa", "input": "What will air usually do when heated up beyond a certain point?", "output": "it will ascend", "options": ["it will fall", "it will remain", "it will ascend", "it will die"]}
+{"task": "openbookqa", "input": "An amphibian has what temperature blood?", "output": "chilly", "options": ["toasty", "chilly", "hot", "burning"]}
+{"task": "openbookqa", "input": "If you miss seeing a full moon, how long will you have to wait until you get another chance?", "output": "a month", "options": ["7 days", "a month", "a week", "168 hours"]}
+{"task": "openbookqa", "input": "A person turns a flashlight on and points it at a cut stone, which results in", "output": "varied hues", "options": ["flower patterns", "varied hues", "varied light scents", "sizes of elephants"]}

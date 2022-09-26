@@ -1,0 +1,8 @@
+{"task": "lama-trex", "input": "Missouri shares border with [MASK] .", "output": "Arkansas", "options": []}
+{"task": "lama-trex", "input": "Premier of Queensland is a legal term in [MASK] .", "output": "Queensland", "options": []}
+{"task": "lama-trex", "input": "The capital of Sweden is [MASK] .", "output": "Stockholm", "options": []}
+{"task": "lama-trex", "input": "The official language of Petrozavodsk is [MASK] .", "output": "Russian", "options": []}
+{"task": "lama-trex", "input": "2008 Summer Paralympics is located in [MASK] .", "output": "Beijing", "options": []}
+{"task": "lama-trex", "input": "Burkina Faso shares border with [MASK] .", "output": "Ghana", "options": []}
+{"task": "lama-trex", "input": "Pakistan shares border with [MASK] .", "output": "Iran", "options": []}
+{"task": "lama-trex", "input": "Maserati was founded in [MASK] .", "output": "Bologna", "options": []}

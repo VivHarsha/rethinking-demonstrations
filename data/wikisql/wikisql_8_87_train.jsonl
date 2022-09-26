@@ -1,0 +1,8 @@
+{"task": "wikisql", "input": "What is the TOTAL Time in Office with a rank smaller than 18, and premier is Joh Bjelke-Petersen?", "output": "SELECT TOTAL Time in Office: FROM table WHERE Rank: < 18 AND Premier: = joh bjelke-petersen", "options": []}
+{"task": "wikisql", "input": "What is the 17th c. pronunciation when the british is \u0259\u028a?", "output": "SELECT 17th c. FROM table WHERE British = \u0259\u028a", "options": []}
+{"task": "wikisql", "input": "How many players named Jeff Brown were drafted", "output": "SELECT COUNT Position FROM table WHERE Player = Jeff Brown", "options": []}
+{"task": "wikisql", "input": "What is the batting team where the runs are 276?", "output": "SELECT Batting team FROM table WHERE Runs = 276", "options": []}
+{"task": "wikisql", "input": "What is the score for plays with more than 19,227 attendees with ny islanders visiting?", "output": "SELECT Score FROM table WHERE Attendance > 19,227 AND Visitor = ny islanders", "options": []}
+{"task": "wikisql", "input": "Who had the highest assists of the game on March 5?", "output": "SELECT High assists FROM table WHERE Date = march 5", "options": []}
+{"task": "wikisql", "input": "What is Date, when Team is \"Orlando\"?", "output": "SELECT Date FROM table WHERE Team = orlando", "options": []}
+{"task": "wikisql", "input": "Name the winner with rally leader of c. atkinson and name of agia sotira 1", "output": "SELECT Winner FROM table WHERE Rally leader = c. atkinson AND Name = agia sotira 1", "options": []}

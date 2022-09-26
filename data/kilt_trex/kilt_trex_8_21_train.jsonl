@@ -1,0 +1,8 @@
+{"task": "kilt_trex", "input": "Nicky Polanco [SEP] country of citizenship", "output": "United States of America", "options": []}
+{"task": "kilt_trex", "input": "Charassognathus [SEP] parent taxon", "output": "Cynodontia", "options": []}
+{"task": "kilt_trex", "input": "Vivant [SEP] instance of", "output": "political party", "options": []}
+{"task": "kilt_trex", "input": "Temelec [SEP] country", "output": "United States of America", "options": []}
+{"task": "kilt_trex", "input": "Preincarnate [SEP] author", "output": "Shaun Micallef", "options": []}
+{"task": "kilt_trex", "input": "Len Waters [SEP] conflict", "output": "World War II", "options": []}
+{"task": "kilt_trex", "input": "1987\u201388 Albanian Superliga [SEP] sports season of league or competition", "output": "Albanian Superliga", "options": []}
+{"task": "kilt_trex", "input": "Buchhorst [SEP] located in the administrative territorial entity", "output": "Herzogtum Lauenburg", "options": []}

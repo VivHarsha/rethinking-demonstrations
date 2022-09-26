@@ -1,0 +1,16 @@
+{"task": "emo", "input": "i am irritated and i know you're not a real person i hate your existence damn you", "output": "angry", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "am i that irritating it is i am crying", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "you are given two candles of equal size which can burn 1 hour each you have to measure 90 minutes with these candles there is no scale or clock also u r given a lighter whats 5x better than 1000 candles in the wind 5000 candles in the wind this is the question", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "i broke up with my gf why did ya break up im not good enough", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "i say about u to my wife  all i know is that my gut says maybe yes", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "you don't like me loudlycryingface that's exactly the bit i mean loudlycryingfaceloudlycryingfaceloudlycryingfaceloudlycryingfaceloudlycryingfaceloudlycryingface okloudlycryingface", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "what is your occupation i play and teach piano  woww", "output": "happy", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "what happened i fell this morning you are still alive facewithtearsofjoyfacewithtearsofjoyfacewithtearsofjoy", "output": "happy", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "ok i will thank you wlcm", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "what's your experience you won't find any science because there is none do you know any puzzles", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "mmm mmm that's not what mutton is ya you r funny", "output": "happy", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "i'm a barbie girl in my barbie world d it's so fantastic", "output": "happy", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "waitu a bot we are a bot yeahidki'm alone", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "al are so stupid they really are yup you are one of those", "output": "angry", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "do you listen to music i'm a musician and listen to music the same way a footballer watches football you're a musician really", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "oh anything and everything baby baby baby baby ahh beamingfacewithsmilingeyes i hate that song", "output": "angry", "options": ["angry", "happy", "others", "sad"]}

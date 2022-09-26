@@ -1,0 +1,8 @@
+{"task": "kilt_trex", "input": "Joseph E. Schwartzberg [SEP] employer", "output": "University of Minnesota", "options": []}
+{"task": "kilt_trex", "input": "Becky Schmitz [SEP] occupation", "output": "politician", "options": []}
+{"task": "kilt_trex", "input": "Manyeso [SEP] country", "output": "Kenya", "options": []}
+{"task": "kilt_trex", "input": "Rodolphe T\u00f6pffer [SEP] country of citizenship", "output": "Switzerland", "options": []}
+{"task": "kilt_trex", "input": "\u00c6r\u00f8 Municipality [SEP] instance of", "output": "municipality of Denmark", "options": []}
+{"task": "kilt_trex", "input": "Eremiaphila fraseri [SEP] taxon rank", "output": "species", "options": []}
+{"task": "kilt_trex", "input": "Masterminds [SEP] cast member", "output": "Tila Tequila", "options": []}
+{"task": "kilt_trex", "input": "Podocarpus smithii [SEP] taxon rank", "output": "species", "options": []}

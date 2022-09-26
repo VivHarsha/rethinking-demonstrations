@@ -1,0 +1,16 @@
+{"task": "wikisql", "input": "What is Country, when Score is 70-73=143?", "output": "SELECT Country FROM table WHERE Score = 70-73=143", "options": []}
+{"task": "wikisql", "input": "What is Proximity, when Plural is amader (our)?", "output": "SELECT Proximity FROM table WHERE Plural = amader (our)", "options": []}
+{"task": "wikisql", "input": "What was home team Essendon's opponents score?", "output": "SELECT Away team score FROM table WHERE Home team = essendon", "options": []}
+{"task": "wikisql", "input": "What was the away team that scored 63-69?", "output": "SELECT Away team FROM table WHERE Score = 63-69", "options": []}
+{"task": "wikisql", "input": "What was the result of the bout that led to a 4-4 record?", "output": "SELECT Res. FROM table WHERE Record = 4-4", "options": []}
+{"task": "wikisql", "input": "What stadium was used on November 13?", "output": "SELECT Stadium FROM table WHERE Date = november 13", "options": []}
+{"task": "wikisql", "input": "How many traditional Chinese for the translation of \"Crossing the River\"?", "output": "SELECT COUNT Traditional Chinese FROM table WHERE English translation = Crossing the River", "options": []}
+{"task": "wikisql", "input": "What Tournament of monte carlo had 1996 and a 1987 of nme?", "output": "SELECT 1996 FROM table WHERE 1987 = nme AND Tournament = monte carlo", "options": []}
+{"task": "wikisql", "input": "What was the South Asian population in Nova Scotia in 2001?", "output": "SELECT South Asians 2001 FROM table WHERE Province = Nova Scotia", "options": []}
+{"task": "wikisql", "input": "What is the original air date of \"Helen Back Again\"?", "output": "SELECT Original air date FROM table WHERE Title = \"Helen Back Again\"", "options": []}
+{"task": "wikisql", "input": "What's the total Year with a Length of 4:45 an has an Album of Les Mots?", "output": "SELECT SUM Year FROM table WHERE Length = 4:45 AND Album = les mots", "options": []}
+{"task": "wikisql", "input": "How many episodes have a weekly rank tba and are broadcast at 8:00 p.m.?", "output": "SELECT COUNT # FROM table WHERE Weekly Rank = TBA AND Timeslot = 8:00 P.M.", "options": []}
+{"task": "wikisql", "input": "Who is the best player in the 1998 season?", "output": "SELECT Best Player FROM table WHERE Season = 1998", "options": []}
+{"task": "wikisql", "input": "On which date was the score 94-74 w?", "output": "SELECT Date FROM table WHERE Score = 94-74 w", "options": []}
+{"task": "wikisql", "input": "How many player with total points of 75", "output": "SELECT COUNT Player FROM table WHERE Total Points = 75", "options": []}
+{"task": "wikisql", "input": "How many games does leandro love have?", "output": "SELECT Games FROM table WHERE Name = leandro love", "options": []}

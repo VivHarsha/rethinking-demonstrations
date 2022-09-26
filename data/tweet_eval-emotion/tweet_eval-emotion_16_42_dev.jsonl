@@ -1,0 +1,16 @@
+{"task": "tweet_eval-emotion", "input": "@user I just have serious respect for any man that can pull off a bun better than I can, like maybe they can teach me their ways.", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user ya know I love ya man, but #TheGreenInferno really fucked with my head....(giggle)..do it again. #epic  #ineedtherapy", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "That last minute was like watching a horror show #GBBO \ud83d\ude25", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Angel got me nervous out here \ud83d\ude37", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "2 biggest fears: incurable STD's and pregnancy...I mean, they're basically the same thing anyway #forlife #annoying  #weirdsmells", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user @user @user yes exactly &amp; he's sold out this country to #terror while #lying to cover it up", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user I'm wearing all black tomorrow to mourn. \ud83d\ude2d\ud83d\udc94", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user turn that grumpy frown upside-down  You did something next to impossible today", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "Forgot to bring extra boxers to the Y so Im currently commando at Starbucks. This is exhilarating. I feel more liberated than Angelina Jolie", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user bubble implies it will burst?", "output": "sadness", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "And I would advise that everyone wait to watch @user ,or actually don't wait, just don't even watch it because it is", "output": "optimism", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "The Pats are awesome. Belichick is awesome ...they just are. #awestruck", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": ".@LEAFYSZERKER @user is that an insult? Sounds like a job well done. it's red so it's done the job it was suppose to do #justsaying", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user @user cmode grimrail made me want to eat angry bees", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "The majority of people irritate the fuck out of me, cba with people ahahah", "output": "anger", "options": ["anger", "joy", "optimism", "sadness"]}
+{"task": "tweet_eval-emotion", "input": "@user i like cold gloomy weather", "output": "joy", "options": ["anger", "joy", "optimism", "sadness"]}

@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_hillary", "input": "@user cuz you know I'm such a feminist", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user Here are my thoughts on the ruling: keep your archaic non-science based beliefs out of the laws of our secular nation #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Gwen being a good leader and training a new volunteer in rock hill.! #FellowsSC #HillaryForSC #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Hillary's campaign raised $45 million  91% of all donations were $100 or less  This is a record. Beating Obama's record in '11 #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Hillary LIES, yet people still desire her as the President of the United States. #sad #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "@user @user Open mouth, reveal heart-Margaret Sanger,architect for black genocide @user @user #HillarySoWhite #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "Pundits say Jim Webb facing uphill battle with Hillary.  Really, it's with Bernie for the anti-Hillary vote.  #JimWebb #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_hillary", "input": "hey \"transparent\" @user so...who is \"Santa\"? #LibHack #Pay2Play #Corruptocrat #tcot #Benghazi #VinceFoster #Monica #SemST", "output": "against", "options": ["against", "favor", "none"]}

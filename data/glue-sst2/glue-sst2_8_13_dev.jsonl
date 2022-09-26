@@ -1,0 +1,8 @@
+{"task": "glue-sst2", "input": "sentence: close enough in spirit to its freewheeling trash-cinema roots to be a breath of fresh air .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: sucking you in ...", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: is almost in a class with that of wilde himself .", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: its makers actually seem to understand what made allen 's romantic comedies so pertinent and enduring", "output": "positive", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: the kind of obnoxious", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: i liked the original short story but this movie , even at an hour and twenty-some minutes , it 's too long and it goes nowhere .", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: you 're an agnostic carnivore", "output": "negative", "options": ["negative", "positive"]}
+{"task": "glue-sst2", "input": "sentence: if you can swallow its absurdities and crudities lagaan really is enormously good fun .", "output": "positive", "options": ["negative", "positive"]}

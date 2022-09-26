@@ -1,0 +1,8 @@
+{"task": "wino_grande", "input": "Adam gave his friend an apple instead of an orange because his friend was quite fond of the _ .", "output": "apple", "options": ["orange", "apple"]}
+{"task": "wino_grande", "input": "William wants to file a lawsuit so he asks Aaron for help, because _ is a lawyer.", "output": "Aaron", "options": ["William", "Aaron"]}
+{"task": "wino_grande", "input": "Brian suffers a lot from loneliness compared to Brett because _ has lost all of his family.", "output": "Brian", "options": ["Brian", "Brett"]}
+{"task": "wino_grande", "input": "Cynthia recommended a high protein diet to Elena , even though _ was more knowledgeable about nutrition than she was.", "output": "Elena", "options": ["Cynthia", "Elena"]}
+{"task": "wino_grande", "input": "I wanted to download new files onto my computer but there was not enough space. The _ was too limited.", "output": "space", "options": ["file", "space"]}
+{"task": "wino_grande", "input": "He bought her a plain band but she wanted a ring with a gemstone - the _ was much pricier.", "output": "gemstone", "options": ["band", "gemstone"]}
+{"task": "wino_grande", "input": "It took me longer to do the drawing of the house than the drawing of the tree because the _ was basic.", "output": "tree", "options": ["tree", "house"]}
+{"task": "wino_grande", "input": "Sarah had a difficult childhood but Kayla had a spoiled one. _ never received gifts on their birthday.", "output": "Sarah", "options": ["Sarah", "Kayla"]}

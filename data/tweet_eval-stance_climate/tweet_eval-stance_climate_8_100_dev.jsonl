@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_climate", "input": "@user @user Funny how you all of a sudden refer to him as a weatherman now  #climatechange...weather. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "RT @user When the rate of #Utilisation exceeds the rate of #Regeneration then it calls for #DEGRADATION. #michachallen... #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "@user - You are not very smart Donald #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "In the U.S. coal is dead Al Gore @user #CannesLions #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": ".@MexONU : #GreenClimateFund projects must be long-lasting & lay the groundwork for low-carbon development economic models #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "That awkward moment when a pro-coal PR campaign has over 100K more followers than you do: @user #greenwashing #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "Inland so cal has been hot and humid all day. This seems to be our summers - muggy. So strange. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_climate", "input": "We support Australia's Climate Roundtable which is providing a framework for sensible debate ahead of Paris @user #SemST", "output": "favor", "options": ["against", "favor", "none"]}

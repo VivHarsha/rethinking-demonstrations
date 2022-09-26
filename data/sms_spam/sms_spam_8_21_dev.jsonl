@@ -1,0 +1,8 @@
+{"task": "sms_spam", "input": "I havent add \u00fc yet right..", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Why you Dint come with us.", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Dude sux for snake. He got old and raiden got buff", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Were somewhere on Fredericksburg", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Hmm ill have to think about it... ok you're forgiven! =D", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "Nothing but we jus tot u would ask cos u ba gua... But we went mt faber yest... Yest jus went out already mah so today not going out... Jus call lor...", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "YO YO YO BYATCH WHASSUP?", "output": "ham", "options": ["ham", "spam"]}
+{"task": "sms_spam", "input": "U have a Secret Admirer who is looking 2 make contact with U-find out who they R*reveal who thinks UR so special-call on 09065171142-stopsms-08718727870150ppm", "output": "spam", "options": ["ham", "spam"]}

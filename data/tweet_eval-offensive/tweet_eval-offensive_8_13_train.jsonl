@@ -1,0 +1,8 @@
+{"task": "tweet_eval-offensive", "input": "@user Those idiots are fringe right. They are hated by most conservatives.", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user Those liberals would have a story about Jesus if he was running....", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user Funny how liberals and liberal stars hate the folks that make them and give them the very fame and power which they can\u2019t live without", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user @user @user Because she is more intelligent than you are.", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user @user @user I\u2019m not \u2018from antifa\u2019 I will just be happy when Sam dies", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user Go to Iran where u belong stupid idiot.", "output": "hate", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user @user @user No I don't know. But I know he is one heck of a patriot who preached the unity of the people of #Ethiopia when it was costly to do so.", "output": "non-offensive", "options": ["hate", "non-offensive"]}
+{"task": "tweet_eval-offensive", "input": "@user Got to be about the dumbest thing ever.", "output": "hate", "options": ["hate", "non-offensive"]}

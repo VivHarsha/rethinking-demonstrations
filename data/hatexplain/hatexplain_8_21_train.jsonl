@@ -1,0 +1,8 @@
+{"task": "hatexplain", "input": "<user> kill bitch i had to google his ass \ud83d\ude2d \ud83d\ude2d", "output": "offensive", "options": ["hatespeech", "normal", "offensive"]}
+{"task": "hatexplain", "input": "and yet you continue to associate with people you deem nigger faggots", "output": "hatespeech", "options": ["hatespeech", "normal", "offensive"]}
+{"task": "hatexplain", "input": "<user> <user> no blacks no asians no fems", "output": "hatespeech", "options": ["hatespeech", "normal", "offensive"]}
+{"task": "hatexplain", "input": "what do you call <number> immigrants at the bottom of the ocean a good start", "output": "hatespeech", "options": ["hatespeech", "normal", "offensive"]}
+{"task": "hatexplain", "input": "lmao the vikings suck get these niggas out of our city", "output": "normal", "options": ["hatespeech", "normal", "offensive"]}
+{"task": "hatexplain", "input": "they put the hills on hulu you niggers will never hear from me again", "output": "normal", "options": ["hatespeech", "normal", "offensive"]}
+{"task": "hatexplain", "input": "<user> <user> idk where you live because gnc girls get called dykes and else and a study shows gnc females get attacked more frequently than gnc males", "output": "normal", "options": ["hatespeech", "normal", "offensive"]}
+{"task": "hatexplain", "input": "the media frenzy regarding boris allegedly touching a woman thigh <number> years ago yet children are groomed and raped for years without the genuine scunity it deserved the pungent stench of hypocrisy by mps and the media makes you wanna throw up", "output": "normal", "options": ["hatespeech", "normal", "offensive"]}

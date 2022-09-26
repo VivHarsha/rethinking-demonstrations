@@ -1,0 +1,16 @@
+{"task": "emotion", "input": "i am feeling faithful about my project", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i haven t quite figured out and whenever i can t find the time or ability or money to take care of each side equally i end up feeling disappointed", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel have not convinced me", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i look like i worry that i will always feel inadequate", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i wish i could feel that more because i always lose sight of it but just remembering that is something amazing", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i could only see and feel the poison in my veins which deprived me of the strength and the ability to feel the joy i knew held me", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "im just feeling seriously pissed off at myself for doing something fantabulous but utterly stupid", "output": "anger", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i know takes a lot of present moment awareness and part will be the challenge of accepting things as they are so i don t set up a feeling of wanting or discontent", "output": "sadness", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i really hope you like my card and feel inspired to make christmas cards and a href http papermakeupstamps", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i find myself smiling at their feelings towards me and almost feeling affectionate towards them", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i grit my teeth shook my head and spent the next minutes feeling irritated", "output": "anger", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "id fancy or feel particularly delicious about either", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i still feel better in my room even though i love the way my house feels better to me", "output": "joy", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i feel insecure all the time", "output": "fear", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "im feeling so pissed off now", "output": "anger", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}
+{"task": "emotion", "input": "i recall those high school feelings and the longing with which i watched the olympic runners i feel st", "output": "love", "options": ["anger", "fear", "joy", "love", "sadness", "surprise"]}

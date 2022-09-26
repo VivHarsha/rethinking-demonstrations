@@ -1,0 +1,8 @@
+{"task": "openbookqa", "input": "Which of these items must be combined with a river to produce power?", "output": "concrete", "options": ["chocolat", "ice", "snow", "concrete"]}
+{"task": "openbookqa", "input": "If a sand grain is in a tree house unexpectedly, a likely culprit responsible for its movement is", "output": "gales", "options": ["ghosts", "gales", "spirits", "angels"]}
+{"task": "openbookqa", "input": "If a person wants to make cookies and is lacking an oven, they could place the sheet of dough on", "output": "a vehicle engine", "options": ["a cold counter", "a wooden stool", "a window sill", "a vehicle engine"]}
+{"task": "openbookqa", "input": "It's hard to manage a truck where there's", "output": "foggy conditions", "options": ["a slight breeze", "foggy conditions", "some small clouds", "diffused sunlight"]}
+{"task": "openbookqa", "input": "There are nutrients in dirt, like magnesium, and those nutrients may be", "output": "collected into vegetation", "options": ["poisoned", "collected into vegetation", "set on fire", "taught to read"]}
+{"task": "openbookqa", "input": "Which of these animal traits is generally determined by environmental factors rather than heredity?", "output": "hair length", "options": ["eye color", "height", "hair length", "number of chromosomes"]}
+{"task": "openbookqa", "input": "Frozen steak which has been in the sun all day will", "output": "defrost", "options": ["defrost", "freeze", "give birth", "become sentient"]}
+{"task": "openbookqa", "input": "A puppy has a kink in his tail, but he lacked it yesterday. The puppy ______ a broken tail.", "output": "acquired", "options": ["inherited", "absorbed", "wanted", "acquired"]}

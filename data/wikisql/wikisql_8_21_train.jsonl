@@ -1,0 +1,8 @@
+{"task": "wikisql", "input": "Who won the Women's doubles the year that there was no competition in both the Men's doubles and the Men's singles?", "output": "SELECT Women's doubles FROM table WHERE Men's doubles = no competition AND Men's singles = no competition", "options": []}
+{"task": "wikisql", "input": "What title has daffy (as duck dodgers) as the character?", "output": "SELECT Title FROM table WHERE Characters = daffy (as duck dodgers)", "options": []}
+{"task": "wikisql", "input": "what's the\u00a0thursday iuppiter (jupiter)\u00a0with\u00a0friday venus (venus)\u00a0being vendredi", "output": "SELECT Thursday Iuppiter (Jupiter) FROM table WHERE Friday Venus (Venus) = vendredi", "options": []}
+{"task": "wikisql", "input": "Who did the Blue Jays play against on April 24?", "output": "SELECT Opponent FROM table WHERE Date = april 24", "options": []}
+{"task": "wikisql", "input": "How many venues were used on 10 Mar 2007?", "output": "SELECT Venue FROM table WHERE Date = 10 Mar 2007", "options": []}
+{"task": "wikisql", "input": "What is the Winner's Prize at the 2009 Providence, RI Championship?", "output": "SELECT Winner's Prize FROM table WHERE Location = providence, ri AND Year = 2009", "options": []}
+{"task": "wikisql", "input": "What is the average attendance at week earlier than 6 on October 14, 2001?", "output": "SELECT AVG Attendance FROM table WHERE Week < 6 AND Date = october 14, 2001", "options": []}
+{"task": "wikisql", "input": "What is the format of catalog number 886973273913 (gowow012) in the United Kingdom?", "output": "SELECT Format FROM table WHERE Country = united kingdom AND Catalogue # = 886973273913 (gowow012)", "options": []}

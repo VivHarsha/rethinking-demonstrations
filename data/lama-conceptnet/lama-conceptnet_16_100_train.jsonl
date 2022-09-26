@@ -1,0 +1,16 @@
+{"task": "lama-conceptnet", "input": "Civilization is [MASK].", "output": "unnatural", "options": []}
+{"task": "lama-conceptnet", "input": "A gun is for [MASK].", "output": "shooting", "options": []}
+{"task": "lama-conceptnet", "input": "Something you might do while jogging is [MASK].", "output": "whistling", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is pupil grouping.", "output": "Class", "options": []}
+{"task": "lama-conceptnet", "input": "Walking is a type of pedestrian [MASK].", "output": "locomotion", "options": []}
+{"task": "lama-conceptnet", "input": "The fourth [MASK] in the solar system is Mars.", "output": "planet", "options": []}
+{"task": "lama-conceptnet", "input": "[MASK] is not book.", "output": "Story", "options": []}
+{"task": "lama-conceptnet", "input": "You are likely to find an anemone in the [MASK].", "output": "oceanb", "options": []}
+{"task": "lama-conceptnet", "input": "A tibia is part of the [MASK].", "output": "leg", "options": []}
+{"task": "lama-conceptnet", "input": "To kill a person is to commit a [MASK].", "output": "crime", "options": []}
+{"task": "lama-conceptnet", "input": "Sometimes [MASK] a meal causes your pets to come into the kitchen and beg for a taste.", "output": "cooking", "options": []}
+{"task": "lama-conceptnet", "input": "Nudist Beaches are [MASK] destinations where people do not have to worry about the illogical social requirement to wear clothes in public.", "output": "popular", "options": []}
+{"task": "lama-conceptnet", "input": "Crowd is a type of [MASK] mob.", "output": "people", "options": []}
+{"task": "lama-conceptnet", "input": "Picture description: an envelope on which the contents that it will contain as well as the pen and [MASK] used to write on them rest.", "output": "ink", "options": []}
+{"task": "lama-conceptnet", "input": "You would splurge because it is a [MASK].", "output": "picnic", "options": []}
+{"task": "lama-conceptnet", "input": "Soccer games in the UK often attract [MASK] people.", "output": "violent", "options": []}

@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "Harriet alternated folk songs with pop songs.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Paula swatted flies.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "He ought to leave his luggage here.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The horse wouldn't budge.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "A is similar to B.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The boy who Mary loves hates her.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "They may grow as high as six feet.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Agamemnon stopped Jason casting the spell", "output": "acceptable", "options": ["acceptable", "unacceptable"]}

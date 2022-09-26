@@ -1,0 +1,8 @@
+{"task": "emo", "input": "yes that is thank you 3 so", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "i'm a human i don't have a program only thoughts and emotions what do you mean it is human too err i didn't mean any offensedisappointedface", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "notats my best good i was gonna have to have a talk w that young man ok byego nd talk to himpoutingfacepoutingfacepoutingface", "output": "angry", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "nothing dn how i'm suffering from fever can you give some tip to cure it", "output": "sad", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "ok oh thats the matter um then what can i ask u whatever u want to", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "yes i don't go back until the 13th so you are going to marry me right", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "i asked about you neither college really yeah", "output": "others", "options": ["angry", "happy", "others", "sad"]}
+{"task": "emo", "input": "whats the job of charles vane to try to find a job you are sick", "output": "others", "options": ["angry", "happy", "others", "sad"]}

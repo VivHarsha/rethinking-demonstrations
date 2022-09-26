@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_atheism", "input": "@user When r u going to stand up against the stupidity of faith; belief w/o evidence? #FuckReligion #FuckJesus #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "saw @user at the Essential Festival in Brighton too #khole #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "When it comes to scientific discoveries, the #religious call them bullshit until their texts already knew it. #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Whoever is not kind to the younger ones, or does not respect the elders is not from my nation\" -Prophet Muhammad (PBUH #islam #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Celebrity atheism is beginning to irk me #initforthemoney #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Personally, I know many Christians who are #agnostic - John Simms #spirituality #stlouis #truth #reality #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "Shout It From The Mountain Tops. Scream Out His Name In Praise.  You Don't Have To Be A Christian Or Go To Church To Worship #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_atheism", "input": "It's #PrayerTime! Call in 7AM Friday 605-475-3220 access code: 685783 #PrayForCharleston #prayforUSA #atlprayer #theLifeLine #SemST", "output": "against", "options": ["against", "favor", "none"]}

@@ -1,0 +1,8 @@
+{"task": "proto_qa", "input": "name something you'd hate to be in when it breaks down.", "output": "car", "options": []}
+{"task": "proto_qa", "input": "name something people might not want because it is too much responsibility.", "output": "children", "options": []}
+{"task": "proto_qa", "input": "name something that expands in the microwave.", "output": "popcorn bag", "options": []}
+{"task": "proto_qa", "input": "which extra piece of clothing might wear to a game of strip poker to delay taking off your essentials?", "output": "socks/stockings", "options": []}
+{"task": "proto_qa", "input": "name an animal that might pester you on a camping trip.", "output": "bear", "options": []}
+{"task": "proto_qa", "input": "at the beach, name something that might protect you from sun.", "output": "umbrella", "options": []}
+{"task": "proto_qa", "input": "give me another expression for prison.", "output": "jail", "options": []}
+{"task": "proto_qa", "input": "we surveyed 100 women...name a sport you'd only watch if the players were naked.", "output": "football", "options": []}

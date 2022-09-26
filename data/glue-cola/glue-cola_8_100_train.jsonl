@@ -1,0 +1,8 @@
+{"task": "glue-cola", "input": "The five `` soundscape '' pieces gave a festive air to Park Square.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I know several people she kissed.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The man a ball kicked.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "I washed yourself.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The tree gradually dropped its fruit to the ground.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Dorothy needs that dress a costume.", "output": "unacceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "The baby is heavy.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}
+{"task": "glue-cola", "input": "Brian was wiping the wall behind the stove.", "output": "acceptable", "options": ["acceptable", "unacceptable"]}

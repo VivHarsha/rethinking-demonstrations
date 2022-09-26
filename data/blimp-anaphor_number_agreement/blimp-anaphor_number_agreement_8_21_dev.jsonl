@@ -1,0 +1,8 @@
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: A story disagreed with itself. [SEP] sentence 2: A story disagreed with themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Customers would discuss themselves. [SEP] sentence 2: Customers would discuss itself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Angela concealed themselves. [SEP] sentence 2: Angela concealed herself.", "output": "sentence 2", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Many customers wouldn't bother themselves. [SEP] sentence 2: Many customers wouldn't bother himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Most universities upset themselves. [SEP] sentence 2: Most universities upset himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Most stories disagreed with themselves. [SEP] sentence 2: Most stories disagreed with himself.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Margaret healed herself. [SEP] sentence 2: Margaret healed themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}
+{"task": "blimp-anaphor_number_agreement", "input": "sentence 1: Mark had talked about himself. [SEP] sentence 2: Mark had talked about themselves.", "output": "sentence 1", "options": ["sentence 1", "sentence 2"]}

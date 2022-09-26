@@ -1,0 +1,8 @@
+{"task": "tweet_eval-stance_feminist", "input": "Now Harry is arguing with Dead Girl's father about whose job it is to kill the RapeMurdering villain. #Horns #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user @user how about \"Maura & Tucker in the morning\" #equality #seniority #SemST", "output": "favor", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Old, insecure females forcing hatred of men on a younger generation of women #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user True, but it's in quotes, and I had to take the opportunity to promote #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "@user @user @user that is true I can't compete with you #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "RT @user My dream in life is to fuck a Canadian slut in her eye-socket.  #YesAllWomen #ThisFuckingGuy #SemST", "output": "none", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "Because heckling #YesAllWomen & screaming \"LOOK AT ME!\" all day is an excellent way to show us you are a serious individual  #SemST", "output": "against", "options": ["against", "favor", "none"]}
+{"task": "tweet_eval-stance_feminist", "input": "I don't buy a dress that I can't completely zip up and fasten on my own. #SemST", "output": "none", "options": ["against", "favor", "none"]}
