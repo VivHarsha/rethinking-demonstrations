@@ -256,7 +256,6 @@ class MetaICLModel(object):
                 loss = self.run_model(input_ids, attention_mask, token_type_ids, labels=labels)
             losses += loss.cpu().detach().numpy().tolist()
         return losses
-
     def do_predict(self, data, batch_size=1, losses=None, verbose=False):
         if losses is None:
             losses = self.do_inference(data, batch_size, verbose=verbose)

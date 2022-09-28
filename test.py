@@ -81,7 +81,7 @@ def main(logger, args):
 
     # change seed here to range(101,201)
 
-    for seed in seeds:
+    for seed in range(101,201):
 
         ### data ...
         train_data = load_data(args.task, "train", args.k, seed=seed, config_split=config_split,
@@ -221,7 +221,7 @@ def run(logger, task, metaicl_data, metaicl_model, train_data, dev_data, seed,
         bias_losses = np.array(bias_losses)
         assert losses.shape == bias_losses.shape
         losses -= bias_losses
-
+    # Pass seed
     predictions = metaicl_model.do_predict(metaicl_data, losses=losses)
     groundtruths = [dp["output"] for dp in dev_data]
     perf = metaicl_data.evaluate(predictions, groundtruths, is_classification)
