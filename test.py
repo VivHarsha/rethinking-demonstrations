@@ -206,9 +206,19 @@ def run(logger, task, metaicl_data, metaicl_model, train_data, dev_data, seed,
             pkl.dump(losses, f)
 
     assert len(losses)==len(metaicl_data)
-    for i in range(102,106):
-
-        load_loss = pkl.load(f)
+    print("losses shape",losses.shape)
+    for se in range(102,106):
+        path_load = os.path.join(args.out_dir,
+                                  "{}-{}-{}{}{}{}{}.pkl".format(
+                                      task,
+                                      args.split_name,
+                                      metaicl_data.method,
+                                      "-k={}".format(args.k) if args.use_demonstrations else "",
+                                      "-s={}".format(se) if args.use_demonstrations or args.use_random_english_words else "",
+                                      "" if add_newlines else "-no-newlines",
+                                      "-randomEnglish" if args.use_random_english_words else ""))
+        with open(path_load, "rb") as f:
+            load_loss = pkl.load(f)
         losses = torch.add(losses,load_loss)
 
     print("losses shape",losses.shape)
