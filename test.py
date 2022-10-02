@@ -81,7 +81,7 @@ def main(logger, args):
 
     # change seed here to range(101,201)
 
-    for seed in range(101,201):
+    for seed in range(101,102):
 
         ### data ...
         train_data = load_data(args.task, "train", args.k, seed=seed, config_split=config_split,
@@ -206,7 +206,12 @@ def run(logger, task, metaicl_data, metaicl_model, train_data, dev_data, seed,
             pkl.dump(losses, f)
 
     assert len(losses)==len(metaicl_data)
+    for i in range(102,106):
 
+        load_loss = pkl.load(f)
+        losses = torch.add(losses,load_loss)
+
+    print("losses shape",losses.shape)
     if args.is_null:
         return None
 
