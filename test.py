@@ -81,7 +81,7 @@ def main(logger, args):
 
     # change seed here to range(101,201)
 
-    for seed in range(100,101):
+    for seed in range(101,102):
 
         ### data ...
         train_data = load_data(args.task, "train", args.k, seed=seed, config_split=config_split,
@@ -208,7 +208,7 @@ def run(logger, task, metaicl_data, metaicl_model, train_data, dev_data, seed,
     assert len(losses)==len(metaicl_data)
     losses = np.array(losses)
     print("losses shape",(losses.shape))
-    for se in range(102,106):
+    for se in range(102,201):
         path_load = os.path.join(args.out_dir,
                                   "{}-{}-{}{}{}{}{}.pkl".format(
                                       task,
