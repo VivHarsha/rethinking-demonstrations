@@ -81,7 +81,8 @@ def main(logger, args):
 
     # change seed here to range(101,201)
 
-    for seed in range(100,101):
+    # for seed in range(100,101):
+    for seed in seeds:
 
         ### data ...
         train_data = load_data(args.task, "train", args.k, seed=seed, config_split=config_split,
@@ -206,25 +207,25 @@ def run(logger, task, metaicl_data, metaicl_model, train_data, dev_data, seed,
             pkl.dump(losses, f)
 
     assert len(losses)==len(metaicl_data)
-    losses = np.array(losses)
-    print("losses shape",(losses.shape))
-    seeds = args.seed.split(",")
-    for se in seeds:
-        path_load = os.path.join(args.out_dir,
-                                  "{}-{}-{}{}{}{}{}.pkl".format(
-                                      task,
-                                      args.split,
-                                      metaicl_data.method,
-                                      "-k={}".format(args.k) if args.use_demonstrations else "",
-                                      "-s={}".format(se) if args.use_demonstrations or args.use_random_english_words else "",
-                                      "" if add_newlines else "-no-newlines",
-                                      "-randomEnglish" if args.use_random_english_words else ""))
-        with open(path_load, "rb") as f:
-            load_loss = pkl.load(f)
-            load_loss = np.array(load_loss)
-        losses = np.add(losses,load_loss)
+    # losses = np.array(losses)
+    # print("losses shape",(losses.shape))
+    # seeds = args.seed.split(",")
+    # for se in seeds:
+    #     path_load = os.path.join(args.out_dir,
+    #                               "{}-{}-{}{}{}{}{}.pkl".format(
+    #                                   task,
+    #                                   args.split,
+    #                                   metaicl_data.method,
+    #                                   "-k={}".format(args.k) if args.use_demonstrations else "",
+    #                                   "-s={}".format(se) if args.use_demonstrations or args.use_random_english_words else "",
+    #                                   "" if add_newlines else "-no-newlines",
+    #                                   "-randomEnglish" if args.use_random_english_words else ""))
+    #     with open(path_load, "rb") as f:
+    #         load_loss = pkl.load(f)
+    #         load_loss = np.array(load_loss)
+    #     losses = np.add(losses,load_loss)
 
-    print("losses shape",len(losses))
+    # print("losses shape",len(losses))
     if args.is_null:
         return None
 
@@ -239,7 +240,6 @@ def run(logger, task, metaicl_data, metaicl_model, train_data, dev_data, seed,
         bias_losses = np.array(bias_losses)
         assert losses.shape == bias_losses.shape
         losses -= bias_losses
-    # Pass seed
     predictions = metaicl_model.do_predict(metaicl_data, losses=losses)
     groundtruths = [dp["output"] for dp in dev_data]
     perf = metaicl_data.evaluate(predictions, groundtruths, is_classification)
@@ -292,5 +292,3 @@ if __name__=='__main__':
     logger.info(args)
 
     main(logger, args)
-# add some changes
-#How to commit files
